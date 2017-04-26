@@ -24,19 +24,13 @@
 
 ###### Überschrift
 
-
-
 # Paragraphs
 
 -- Paragraphen werden durch eine oder mehrer leere Zeilen von einander getrennt:
 
 Paragraph1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
 
-
-
 Pargarph22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222 mit zwei Zeilen abstand
-
-
 
 # Emphasis
 
@@ -52,8 +46,6 @@ _dieser Text wird kursiv_
 
 ~~dieser Text wird durchgestrichen~~
 
-
-
 # Listen
 
 -- ungeordnete Liste: `* Element 1 und nächste Zeile Tab * untergeordnetes Element 2`
@@ -66,18 +58,17 @@ _dieser Text wird kursiv_
 1. Element
 2. Element
 
-
-
 # Links
 
--- Link mit Titel: 
+-- Link mit Titel: ` Das ist ein Link mit Titel [beispiel](/www.google.de "Titel").`
 
-This is \[an example\]\(http://google.com" "Titel"\) inline link mit title.
+Das ist ein Link mit Titel \[test\]\(/www.google.de "tes"\) \[/beispiel\]\(/www.google.de "Titel"\).
 
-This is \[an example\]\(http://google.com" "Titel"\)[/www.google.de](/www.google.de "testtitel") inline link mit title.
+This is \[an example\]\([http://google.com](http://google.com)" "Titel"\) inline link mit title.
+
+This is \[an example\]\([http://google.com](http://google.com)" "Titel"\)[/www.google.de](/www.google.de "testtitel") inline link mit title.
 
 ```
-
 [
 This link
 ](

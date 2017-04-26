@@ -1,58 +1,44 @@
-##Kapitel 2 - der Kern
+#Kapitel 2 - der Kern
 
 ###Ziel des Wirtschaftens
-Bei der Beschreibung der Ziele und Ausrichtungen eines Wirtschaftsunternehmens fallen häufig Begriffe wie „Geld“, „Gewinn“ oder auch „Profit“. Tatsächlich wird konträr hierzu in diversen Verfassungen wörtlich „Die gesamte wirtschaftliche Tätigkeit dient dem Gemeinwohl“ verlangt. - S.32Durch die Gemeinwohl-Ökonomie soll das verfassungsmäßige Ziel in der Wirtschaft Einzug erhalten. Das zur Zeit höchste Ziel des finanziellen Wohlstandes soll dem des maximalen Beitrags zum Gemeinwohl weichen.
+Bei der Beschreibung der Ziele und Ausrichtungen eines Wirtschaftsunternehmens fallen häufig Begriffe wie „Geld“, „Gewinn“ oder auch „Profit“. Tatsächlich wird konträr hierzu in diversen Verfassungen wörtlich „Die gesamte wirtschaftliche Tätigkeit dient dem Gemeinwohl“ (Deuticke 2014, S. 32) verlangt.
 
-###Umstellen der SystemweichenUm dies zu erreichen muss ein Austausch des falschen Leitsterns „Eigennutzenmaximierung“ durch den Leitstern „Gemeinwohl“ erfolgen.  
-Dies würde dazu führen, dass das Ziel aller Unternehmen die Maximierung des eigenen Allgemeinwohl-Beitrags darstellt.
-
-
-###Wirtschaftlichen Erfolg neu definieren
-Zusätzlich muss die Erfolgsmessung auch auf diesen neuen Leitstern angepasst werden. Eine Messung des Erfolgs eines Unternehmens alleine durch das messen monetärer Faktoren des Unternehmens ist nicht ausreichend. 
-„Geld ist (…) nicht das Ziel des Wirtschaftens, sondern nur das Mittel.“ – S. 33
+Durch die Gemeinwohl-Ökonomie soll das verfassungsmäßige Ziel in der Wirtschaft Einzug erhalten. Das zur Zeit höchste Ziel des finanziellen Wohlstandes soll dem des maximalen Beitrags zum Gemeinwohl weichen. Um dies zu erreichen muss ein Austausch des falschen Leitsterns „Eigennutzenmaximierung“ durch den Leitstern „Gemeinwohl“ erfolgen. Dies würde dazu führen, dass das Ziel aller Unternehmen die Maximierung des eigenen Allgemeinwohl-Beitrags darstellt. Zusätzlich muss die Erfolgsmessung auch auf diesen neuen Leitstern angepasst werden. Eine Messung des Erfolgs eines Unternehmens alleine durch das messen monetärer Faktoren des Unternehmens ist nicht ausreichend - „Geld ist […] nicht das Ziel des Wirtschaftens, sondern nur das Mittel.“ (Deuticke 2014, S. 33) 
 
 Da das zu erreichende Ziel in keinem Zusammenhang zur Mehrung von Kapital steht, besteht für ein Unternehmen auch kein Zwang sich auf diese zu fokussieren. Der Erfolg eines Unternehmens muss direkt am Ziel - dem Erbingen von Nutzen für das Allgemeinwohl - gemessen werden.
 
-Geld ist eine Möglichkeit Tauschwerte darzustellen. Der Mensch benötigt allerdings Nutzwerte wie Nahrung, Kleidung, Wohnung, Beziehungen, intakte Ökosysteme. - S. 34
-Dies sieht man am Beispiel des Brutto-Inlands-Prdouktes  
-"Sagt zum Beispiel ein gestiegenes BIP etwas Verlässliches darüber aus, ob:
-* ein Land sich im Krieg befindet oder im Frieden?* es sich um eine Demokratie handelt oder eine Diktatur?* der Ressourcenverbrauch wächst oder schrumpft?* die Verteilung gerecht ist?* Frauen gleichberechtigt sind oder diskriminiert werden?* das Vertrauen in der Gesellschaft wächst oder die Angst?"
-
+<!--Geld ist eine Möglichkeit Tauschwerte darzustellen. Der Mensch benötigt allerdings Nutzwerte wie Nahrung, Kleidung, Wohnung, Beziehungen, intakte Ökosysteme. - S. 34-->
+Dies sieht man am Beispiel des Brutto-Inlands-Prdouktes - dieses gibt wenig Aufschluss über die politische Lage eines Landes oder die gerechte Verteilung der Güter innerhalb eines Landes. Das BIP muss einem aussagekräftigeren Mittel weichen.  
 
 ###Das Ziel messen, nicht die Mittel
-Die Suche nach einer Alternative zum BIP wurde bereits 1970 begonnen. 
-Hierzu gibt es Versuche verschiedener Institutionen und Länder wie dem "Better Live Index" des OECD, oder den "W3-Indikatoren" - "Wachstum, Wohlstand, Lebensqualität" des deutschen Bundestages.
+Die Suche nach einem alternativen Wohlstandsindikator wurde bereits 1970 begonnen. Hierzu gibt es Versuche verschiedener Institutionen und Länder wie dem "Better Live Index" des OECD, oder den "W3-Indikatoren" - "Wachstum, Wohlstand, Lebensqualität" des deutschen Bundestages.
 
-Der Zwergstaat Buthan hat mit dem "Bruttoinlandsglück" einen weniger Mathematischen Ansatz gewählt. Hier werden jährlich alle 6000 Haushalte zu ihrer Gefühlslage befragt.
-
-Viele Ökonomen sind der Meinung, dass das Messen von "Glück" nicht möglich ist. Ein Messen des Glücks durch das Einbeziehen vieler Faktoren kommt dem tatsächlichen Glückswert allerdings wesentlich näher als die Darstellung über den alleinstehenden Faktor "Brutto-Inlands-Prdoukt".
+Der Zwergstaat Buthan hat mit dem "Bruttoinlandsglück" einen weniger auf mathematischen Modellen basierenden Ansatz gewählt. Hier werden jährlich alle 6000 Haushalte zu ihrer Gefühlslage befragt. Viele Ökonomen sind der Meinung, dass das Messen von "Glück" nicht möglich ist. Ein Messen des Glücks durch das Einbeziehen vieler Faktoren kommt dem tatsächlichen Glückswert allerdings wesentlich näher als die Darstellung über den alleinstehenden Faktor "Brutto-Inlands-Prdoukt".
 
 
 ###Gemeinwohl messen
-Wenn Gemeinwohl das Große Ziel aller Unternehmen darstellt, muss dieses auch entsprechend gemessen werden können. Hierzu wird die Gemeinwohl-Bilanz eingeführt. Die Finanzen eines Unternehmens erhalten einen geringeren Stellenwert.
-Dennoch gilt weiterhin - ein Unternehmen soll keinen finanziellen Verluste machen, da hieran auch direkt die Möglichkeit der Erbringung des Produktes "Gemeinwohl" geknüpft ist. Vermieden werden sollen "Gewinne um der Gewinne willen". - S. 37
+Wenn Gemeinwohl das große Ziel aller Unternehmen darstellt, muss dieses auch entsprechend gemessen werden können. Hierzu wird die Gemeinwohl-Bilanz eingeführt. Die Finanzen eines Unternehmens erhalten einen geringeren Stellenwert. Dennoch gilt weiterhin - ein Unternehmen soll keinen finanziellen Verluste machen, da hieran auch direkt die Möglichkeit der Erbringung des Produktes "Gemeinwohl" geknüpft ist. Vermieden werden sollen "Gewinne um der Gewinne willen" (Deutrick 2014, S. 37). Die Gemeinwohl-Bilanz gibt Aussage darüber, wie die fünf häufigsten Verfassungswerte demokratischer Staaten in Unternehmen umgesetzt werden: "Menschenwürde, Soldiarität, Gerechtigkeit, ökologische Nachhaltigkeit und Demokratie". Hierbei wird genauer die Erfüllung dieser Werte im Umgang mit den "Berührungsgruppen" (Intern & Extern) eines Unternehmens gemessen. Hierzu zählen Mitarbeiter und Zulieferer genau so wie zukünftige Generationen und die Umwelt.
 
-Die Gemeinwohl-Bilanz misst die fünf häufigsten Verfassungswerte demokratischer Staaten: "Menschenwürde, Soldiarität, Gerechtigkeit, ökologische Nachhaltigkeit und Demokratie".
-
-Hierbei wird genauer die Erfüllung dieser Werte im Umgang mit den "Berührungsgruppen" (Intern & Extern) eines Unternehmens gemessen. Hierzu zählen Mitarbeiter und Zulieferer genau so wie zukünftige Generationen und die Umwelt.
-
-#######TODO Siebzehn Gemeinwohlfaktoren
+<!--#TODO Siebzehn Gemeinwohlfaktoren (Wer definiert? Wie wird das dargestellt?)-->
 
 ###Gemeinwohl definieren
 Der Begriff Gemeinwohl kann nur durch einen demokratischen Entscheidungsprozess definiert werden. Eine Definition die durch die Regierung (Beispiel Diktatur) vorgegeben wird, kann zu einem Missbrauch des Begriffes selbst führen. In Diktaturen werden häufig Begriffe wie "Allgemeinwohl" oder auch "Frieden" zur Rechtfertigung der Politik eingesetzt.  
-#######TODO aktuelle Lage "Gemeinwohl-Bank"
+
+<!--TODO aktuelle Lage "Gemeinwohl-Bank"-->
 
 ###Anforderungen an eine Universalbilanz
 Es gibt bereits für verschiedene andere Bereiche Normen und Richtlinien, deren Einhaltung keine Verpflichtung darstellt (Beispiel "Biolandbau", "Fairer Handel", "EMAS", "ISO", ...).
 
 "Der Effekt ist der: Sobald sie in Widerstreit mit der Hauptbilanz – der Finanzbilanz – geraten, sind sie plötzlich nichts mehr wert, denn das würde den Lebensnerv des Unternehmens angreifen und in der heutigen Systemdynamik schädigen: Wer zugunsten einer unverbindlichen Nebenbilanz den Finanzgewinn schmälert, katapultiert sich selbst aus dem Rennen." - S. 41
-#######TODO
+
+<!--TODO-->
 
 ###Markttransparenz herstellen
 Die Gemeinwohlbilanz eines Unternehmens könnten an dessen Produkten markiert werden - ein farblicher Strich neben einem QR-Code. Der Strich als direkte Markierung der Bilanz. Über den QR-Code kann der Käufer sich genauer über die Bilanz erkundigen.
 
 ###Gemeinwohlstreben belohnen
-#######TODO
+<!--TODO-->
+
 * Belohnen derjenigen Unternehmen die nach einem hohen Gemeinwohl streben, sanktionieren derjenigen, die das nicht tun:
 * Bessere Zinssätze
 * Steuernachlässe
@@ -158,4 +144,7 @@ Die Gemeinwohlbilanz eines Unternehmens könnten an dessen Produkten markiert we
 #######TODO
 * Wiedereinführung des Generationenvertrags
 
-
+
+
+
+

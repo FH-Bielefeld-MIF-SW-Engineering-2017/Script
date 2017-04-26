@@ -13,3 +13,8 @@ die z.B. Google und Facebook ausschließt und so Raum für eigene Entwicklungen 
 Im "2013 Global Manufacturing Competitiveness Index Report" ist China dennoch weit abgeschlagen
 hinter den USA, Deutschland und Japan. Zu lange hat man sich als "Werkbank der Welt" verdingt
 und auf Technologietransfer verlassen.
+
+Durch eine stärker werdende Währung übersteigen Chinas Lohnkosten mittlerweile
+die anderer asiatischer Länder. Darüber hinaus gibt es in den USA den Trend,
+Produktion wieder zurück ins eigene Land zu holen. Den drohenden wirtschaftlichen
+Folgen soll nun geeignete Politik entgegen wirken.

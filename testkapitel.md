@@ -1,4 +1,0 @@
-# Buchname {#imganchor}
-
-Buchzusammenfassung
-

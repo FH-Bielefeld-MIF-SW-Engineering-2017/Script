@@ -15,7 +15,7 @@ Design Thinking: Multidisziplinär arbeitende Teams entwickeln Produkte die sich
 
 ## 5.7 IT Standards:
 Informationstechnologien sind Produktionsmittel und somit ist ihre Qualität und Verfügbarkeit für ein Unternehmen wichtig. Hierzu müssen Standards definiert und eingehalten werden. Sowohl das BSI als auch die ITIL definieren für ihren Bereich „best practises“. 
-###Verschiedene Standards:  
+### Verschiedene Standards:  
 Corporate Security Policy: Jeder Mitarbeiter muss alle Regeln verantwortungsvoll einhalten (z.B. Passwörter und Virenschutz) 
 IT-Architektur: Standardisiert die IT Architektur und führt damit auch zu einer strategischen Ausrichtung der IT
 IT-Prozesse: Definiert für ein Unternehmen Soll Abläufe 

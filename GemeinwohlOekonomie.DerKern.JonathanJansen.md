@@ -1,9 +1,15 @@
 #Kapitel 2 - der Kern
 
 ###Ziel des Wirtschaftens
-Bei der Beschreibung der Ziele und Ausrichtungen eines Wirtschaftsunternehmens fallen häufig Begriffe wie „Geld“, „Gewinn“ oder auch „Profit“. Tatsächlich wird konträr hierzu in diversen Verfassungen wörtlich „Die gesamte wirtschaftliche Tätigkeit dient dem Gemeinwohl“ (Deuticke 2014, S. 32) verlangt.
+Bei der Beschreibung der Ziele und Ausrichtungen eines Wirtschaftsunternehmens fallen häufig Begriffe wie „Geld“, „Gewinn“ oder auch „Profit“. Tatsächlich wird konträr hierzu in diversen Verfassungen wörtlich 
 
-Durch die Gemeinwohl-Ökonomie soll das verfassungsmäßige Ziel in der Wirtschaft Einzug erhalten. Das zur Zeit höchste Ziel des finanziellen Wohlstandes soll dem des maximalen Beitrags zum Gemeinwohl weichen. Um dies zu erreichen muss ein Austausch des falschen Leitsterns „Eigennutzenmaximierung“ durch den Leitstern „Gemeinwohl“ erfolgen. Dies würde dazu führen, dass das Ziel aller Unternehmen die Maximierung des eigenen Allgemeinwohl-Beitrags darstellt. Zusätzlich muss die Erfolgsmessung auch auf diesen neuen Leitstern angepasst werden. Eine Messung des Erfolgs eines Unternehmens alleine durch das messen monetärer Faktoren des Unternehmens ist nicht ausreichend - „Geld ist […] nicht das Ziel des Wirtschaftens, sondern nur das Mittel.“ (Deuticke 2014, S. 33) 
+> „Die gesamte wirtschaftliche Tätigkeit dient dem Gemeinwohl“ (Deuticke 2014, S. 32) 
+
+verlangt.
+
+Durch die Gemeinwohl-Ökonomie soll das verfassungsmäßige Ziel in der Wirtschaft Einzug erhalten. Das zur Zeit höchste Ziel des finanziellen Wohlstandes soll dem des maximalen Beitrags zum Gemeinwohl weichen. Um dies zu erreichen muss ein Austausch des falschen Leitsterns „Eigennutzenmaximierung“ durch den Leitstern „Gemeinwohl“ erfolgen. Dies würde dazu führen, dass das Ziel aller Unternehmen die Maximierung des eigenen Allgemeinwohl-Beitrags darstellt. Zusätzlich muss die Erfolgsmessung auch auf diesen neuen Leitstern angepasst werden. Eine Messung des Erfolgs eines Unternehmens alleine durch das messen monetärer Faktoren des Unternehmens ist nicht ausreichend - 
+
+> „Geld ist […] nicht das Ziel des Wirtschaftens, sondern nur das Mittel.“ (Deuticke 2014, S. 33) 
 
 Da das zu erreichende Ziel in keinem Zusammenhang zur Mehrung von Kapital steht, besteht für ein Unternehmen auch kein Zwang sich auf diese zu fokussieren. Der Erfolg eines Unternehmens muss direkt am Ziel - dem Erbingen von Nutzen für das Allgemeinwohl - gemessen werden.
 
@@ -17,7 +23,10 @@ Der Zwergstaat Buthan hat mit dem "Bruttoinlandsglück" einen weniger auf mathem
 
 
 ###Gemeinwohl messen
-Wenn Gemeinwohl das große Ziel aller Unternehmen darstellt, muss dieses auch entsprechend gemessen werden können. Hierzu wird die Gemeinwohl-Bilanz eingeführt. Die Finanzen eines Unternehmens erhalten einen geringeren Stellenwert. Dennoch gilt weiterhin - ein Unternehmen soll keinen finanziellen Verluste machen, da hieran auch direkt die Möglichkeit der Erbringung des Produktes "Gemeinwohl" geknüpft ist. Vermieden werden sollen "Gewinne um der Gewinne willen" (Deutrick 2014, S. 37). Die Gemeinwohl-Bilanz gibt Aussage darüber, wie die fünf häufigsten Verfassungswerte demokratischer Staaten in Unternehmen umgesetzt werden: "Menschenwürde, Soldiarität, Gerechtigkeit, ökologische Nachhaltigkeit und Demokratie". Hierbei wird genauer die Erfüllung dieser Werte im Umgang mit den "Berührungsgruppen" (Intern & Extern) eines Unternehmens gemessen. Hierzu zählen Mitarbeiter und Zulieferer genau so wie zukünftige Generationen und die Umwelt.
+Wenn Gemeinwohl das große Ziel aller Unternehmen darstellt, muss dieses auch entsprechend gemessen werden können. Hierzu wird die Gemeinwohl-Bilanz eingeführt. Die Finanzen eines Unternehmens erhalten einen geringeren Stellenwert. Dennoch gilt weiterhin - ein Unternehmen soll keine finanziellen Verluste machen, da hieran auch direkt die Möglichkeit der Erbringung des Produktes "Gemeinwohl" geknüpft ist. Vermieden werden sollen 
+> "Gewinne um der Gewinne willen" (Deutrick 2014, S. 37)
+
+Die Gemeinwohl-Bilanz gibt Aussage darüber, wie die fünf häufigsten Verfassungswerte demokratischer Staaten in Unternehmen umgesetzt werden: "Menschenwürde, Solidarität, Gerechtigkeit, ökologische Nachhaltigkeit und Demokratie". Hierbei wird genauer die Erfüllung dieser Werte im Umgang mit den "Berührungsgruppen" (Intern & Extern) eines Unternehmens gemessen. Hierzu zählen Mitarbeiter und Zulieferer genau so wie zukünftige Generationen und die Umwelt.
 
 <!--#TODO Siebzehn Gemeinwohlfaktoren (Wer definiert? Wie wird das dargestellt?)-->
 
@@ -27,6 +36,9 @@ Der Begriff Gemeinwohl kann nur durch einen demokratischen Entscheidungsprozess 
 <!--TODO aktuelle Lage "Gemeinwohl-Bank"-->
 
 ###Anforderungen an eine Universalbilanz
+
+<!--TODO genauer ausformulieren, ist bislang zu Kontextlos-->
+
 Es gibt bereits für verschiedene andere Bereiche Normen und Richtlinien, deren Einhaltung keine Verpflichtung darstellt (Beispiel "Biolandbau", "Fairer Handel", "EMAS", "ISO", ...).
 
 "Der Effekt ist der: Sobald sie in Widerstreit mit der Hauptbilanz – der Finanzbilanz – geraten, sind sie plötzlich nichts mehr wert, denn das würde den Lebensnerv des Unternehmens angreifen und in der heutigen Systemdynamik schädigen: Wer zugunsten einer unverbindlichen Nebenbilanz den Finanzgewinn schmälert, katapultiert sich selbst aus dem Rennen." - S. 41

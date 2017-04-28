@@ -1,6 +1,6 @@
 # PDF Anleitung
 
-## Linux: 
+## Linux:
 
 #### Installation:
 
@@ -8,13 +8,13 @@
 
 `sudo ln -s /usr/bin/nodejs /usr/bin/node` \(Symlink wird nicht bei allen Distributionen benötigt\)
 
-**Gitbook Package** Installation: 
+**Gitbook Package** Installation:
 
 `(sudo) npm install gitbook-cli -g`
 
 `(sudo) npm install gitbook-pdf -g`
 
-**Phantomjs** könnte evtl. Fehler bei der Installation ausgeben deswegen ggb. nachinstallieren \([https://gist.github.com/julionc/7476620](https://gist.github.com/julionc/7476620)\)
+**Phantomjs** könnte evtl. Fehler bei der Installation ausgeben deswegen ggf. nachinstallieren \([https://gist.github.com/julionc/7476620](https://gist.github.com/julionc/7476620)\)
 
 der **Ebook-Converter von Calibre** wird dafür verwendet \([https://wiki.ubuntuusers.de/Calibre/](https://wiki.ubuntuusers.de/Calibre/)\)
 

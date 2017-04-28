@@ -1,4 +1,4 @@
-### Beispiele, Verwandte und Vorbilder
+### 7. Beispiele, Verwandte und Vorbilder
 
 Dass die Gemeinwohl-Ökonomie keine Utopie ist, belegen viele Unternehmen, die das Prinzip der Kooperation verfolgen. Vielen Unternehmen ist gemeinsam, dass Kapital nur ein Mittel ist, um höhere und vielfältigere Ziele zu verfolgen. Die folgenden Beispiele zeigen, dass Unternehmen viele Aspekte der Gemeinwohl-Ökonomie bereits leben.
 

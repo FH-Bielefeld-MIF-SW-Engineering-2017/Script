@@ -11,7 +11,7 @@
   * [4 Change](co-econonmy_wertschoepfung_im_digitalen_zeitalter.4_change.fabian_lornez.md)
   * [5 Conclusion](co-econonmy_wertschoepfung_im_digitalen_zeitalter.5_conclusion.fabian_lornez.md)
 * [Die Digitalisierung der Welt](die_digitalisierung_der_welt.nils_tolga_yannick.md)
-* [Erfolgsfaktoren für eine digitale Zukunft](erfolgsfaktoren_fuer_eine_digitale_zukunft.malte_jonas_niklas.md)
+* [Erfolgsfaktoren für eine digitale Zukunft](ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel5.MalteBergNiklasHartingJonasWiese.md)
 * [Soft Skills](soft_skills.md)
   * [1 Career](soft_skills.1_career.gamze_justin.md)
   * [2 Marketing yourself](soft_skills.2_marketing_yourself.marvin.md)

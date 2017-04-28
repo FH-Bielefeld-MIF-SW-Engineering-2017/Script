@@ -3,12 +3,14 @@
 ### 5.1 Organisationsstruktur
 Eine IT-Organisation besteht aus dem Governance-Bereich, in dem Verwaltungs- und verschiedenste Managementtätigkeiten (z.B. Standardisierungs- und Qualitätsmanagement) ausgeführt werden, der Anwendungsentwicklung und –betreuung, welche sich sowohl mit der Entwicklung als auch mit dem Support und Projektmanagement befasst, sowie dem IT-Betrieb, welcher verschiedene administrative Dienste leistet. 
 Ein weiterer entscheidender Punkt in der Organisationsstruktur ist die Entscheidungsfreiheit und Verteilung von Verantwortlichkeiten. Werden den Arbeitern die Aufgaben vorgesetzt ohne dass diese Verbesserungen oder ähnliches äußern können, führt dies zu einer Demotivation. Die Kreativität wird somit unterdrückt und der Arbeiter sieht sich selbst nicht als Verantwortlichen für die Aufgabe. Das löst ebenfalls eine stärkere Fehleranfälligkeit aus, da der Arbeiter nicht mehr an Verbesserungsmöglichkeiten denkt. Ein freies Arbeitsumfeld für den Arbeiter weckt die Begierde Erfolg zu haben und verbessert die Leistungen. Jedoch sollten auch nicht zu früh zu viele Freiheiten gegeben werden. Gerade in dem anfänglichen Reifungsprozess sollte eine ausreichende Kontrolle vorhanden sein. Diese sollte sich jedoch mit der Zeit immer mehr verringern und den Teams die Entscheidungsfreiheit lassen.  
+
 ### 5.2 IT-Mitarbeiter
 Die Funktion eines IT-Mitarbeiters wird über die Stellenbeschreibung festgelegt. Hierbei wird nicht nur Wert auf Fachwissen gelegt. Viel entscheidender sind Soft Skills, wie der Umgang im Team und mit Kunden, sowie das Herstellen von fachübergreifenden Verknüpfungen.
 Ebenfalls werden IT-Mitarbeiter häufig in den Kontakt mit neuen Technologien kommen. Daher benötigen diese fundamentale Kenntnisse von Technologien und die Fähigkeit sich in neue Sachverhalte einzuarbeiten. Da Technologien stetig weiterentwickelt werden, ist es ebenfalls erforderlich, dass IT-Mitarbeiter permanent lernen und sich weiterentwickeln.
 Um diese Fähigkeiten in einem IT-Mitarbeiter zu erkennen gibt es Assessment Center. Hierbei werden beispielsweise Stresssituationen getestet.  Assessments werden nicht nur bei der Bewerbung genutzt, um die Qualifikation von Bewerbern zu testen. Es kann auch Verwendet werden um Mitarbeitern intern die richtige Rolle zuzuordnen. 
 Um eine individuelle Bewertung aufzustellen, wird der Mitarbeiter nach bestimmten Kriterien analysiert.
 Angefangen wird mit einem Anforderungskatalog, wo niedergeschrieben wird, welche Kompetenzen und Anforderungen überhaupt gesucht werden. Hierbei können beispielsweise bestimmte Führungsqualifikationen niedergeschrieben werden. Nach dem Assessment werden die Kompetenzen im Kompetenzmodell individuell bewertet. Danach kann das Ergebnis in einem Potential- und Leistungsdiagramm eingestuft und verglichen werden. Hieraus können nun neue Entschlüsse gezogen werden, wie beispielsweise Fortbildungsmaßnahmen.
+
 ### 5.3 IT-Buisness-Alignment
 Die korporative Zusammenarbeit zwischen dem Geschaftsbereich und der IT-Organisation, welche sich gegenseitig gleichberechtigt behandeln prägt den Begriff IT-Buisness-Alignment. Arbeiten beide Parteien zusammen, wird die Kreativität beider Seiten genutzt, eine höhere Effizienz erziehlt, Fehler vermieden und eine gesunde Arbeitsatmosphäre geschaffen.
 
@@ -46,6 +48,7 @@ Design Thinking: Multidisziplinär arbeitende Teams entwickeln Produkte die sich
 
 ### 5.7 IT Standards:
 Informationstechnologien sind Produktionsmittel und somit ist ihre Qualität und Verfügbarkeit für ein Unternehmen wichtig. Hierzu müssen Standards definiert und eingehalten werden. Sowohl das BSI als auch die ITIL definieren für ihren Bereich „best practises“. 
+
 #### Verschiedene Standards:  
 Corporate Security Policy: Jeder Mitarbeiter muss alle Regeln verantwortungsvoll einhalten (z.B. Passwörter und Virenschutz) 
 IT-Architektur: Standardisiert die IT Architektur und führt damit auch zu einer strategischen Ausrichtung der IT
@@ -55,7 +58,6 @@ Ausfalltoleranz: Wie lange kann das Unternehmen ohne IT auskommen?
 Sicherheitsrisiken: Finanzielles Risiko bei IT Ausfall bekannt?
 Notfallablauf: Wer wird informiert?
 Vorkehrungen: Virenschutz, Firewall, Sicherheits-Patches aktuell?
-
 
 ### 5.8 IT Budget
 Das IT Budget bildet eine Entscheidungsgrundlange für Unternehmen. Die Angaben des „IT Demand Managers“ fließen in die IT Budgetplanung ein. Sie wird vom IT Controller in Zusammenarbeit mit den IT Führungskräften erstellt. Auftretende Änderungen sind aufgrund des Vorjahresberichts gut festzustellen. Das Budget ermöglicht zudem Aussagen zur Realisierbarkeit von IT Projekten zu treffen. So darf der geschätzte Projekt Aufwand nicht die verfügbaren Mittel überschreiten.
@@ -93,10 +95,13 @@ Außerdem wird für jedes unternehmenskritische System eine Gefährdungsanalyse 
 ### 5.15 IT-Asset- und Lizenzmanagement
 Um nicht gegen die vertraglich festgelegten Nutzungsbedingungen zu verstoßen, werden immer aktuelle Informationen über die eingesetzten Produkte benötigt. Andernfalls drohen Strafen. 
 Ein IT-Asset ist jedes IT-System und Software-Lizenz die dem Unternehmen gehört. Die Informationen über diese kommen aus verschiedenen Quellen (Buchhaltung System bis Active Directory) und können in einem IT-Asset-Managementsystem verwaltet werden. Der Einsatz eines solchen bringt verschiedene Vorteile mit sich:  Lizenzverträge können optimiert werden, Lizenzrechtsverletzungen sind vermeidbar, Vermeidung von nicht genutzten IT Assets.
+
 ### 5.16 BI-Management (Business Intelligence)
 BI-Management beschreibt die systematische Erfassung, Auswertung und Darstellung von geschäftlichen Daten. Diese Daten dienen den Führungskräften bessere Entscheidungen zu treffen. Um ein solches zentrales Berichtssystem aufzubauen wird ein Business-Intelligence-Manager benötigt. Er arbeitet mit dem Controlling und der IT Organisation zusammen und Standardisiert unter anderem Kennzahlen und Berichte.
+
 ### 5.17 Master Data Management
 Um die Stammdaten eines Unternehmens (Produkte, Lieferanten, Kunden, Mitarbeiter) zu verwalten arbeitet der Stammdatenmanager übergreifend über eine Unternehmensgruppe. 
+
 ### 5.18 KPIs
 Kennzahlen oder auch „Key Performance Indicators“ (KPIs) machen es möglich komplexe Sachverhalte besser zu verfolgen zu können. Außerdem dienen sie dazu, den Erfüllungsgrad wichtiger Ziele zu messen. Daher sind sie unverzichtbar um wichtige Entscheidungen zu treffen. Mit Hilfe dieser Zahlen ist es einfacher Erfolg oder Misserfolg einer Entscheidung festzustellen. So können die gemessenen Zahlen vor der Entscheidung mit denen, die nach der Entscheidung erstellt worden verglichen werden. 
 

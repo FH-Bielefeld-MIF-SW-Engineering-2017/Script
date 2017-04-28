@@ -90,10 +90,10 @@ Die Möglichkeit des Konkurses besteht weiterhin - allerdings ist ihre Eintritts
 <!-- TODO: Verweise setzen -->
 
 ###Kooperative Marktsteuerung
-Kommt es doch so weit, dass ein Unternehmen oder ein ganzer Markt dem Konkurs unterliegt, gelten wieder die Ziele des Gemeinwohls. Unternehmen eines dem Konkurs unterliegenden Marktes können einen "Krisen- oder Kooperationsausschuss" einberufen, durch den gemeinsam das weiter Vorgehen und die sinnvollste Reaktion auf die zu überwindenden Problem erarbeitet wird. Es könnte ein koordiniertes Verkürzen der Arbeitszeiten in allen betroffenen Unternehmen erfolgen, ein Arbeitsplatzabbau mit entsprechenden Umschulungen der zu entlassenen Mitarbeiter, die Umspezialisierung weniger Unternehmen auf neue themengebeite um den betroffenen Markt wieder öffnen oder als letzte Möglichkeit das Schließen von Betrieben mit einer Umschulung der Mitarbeiter auf Märkte mit Arbeitskräfte-Mangel.
+Kommt es doch so weit, dass ein Unternehmen oder ein ganzer Markt dem Konkurs unterliegt, gelten wieder die Ziele des Gemeinwohls. Unternehmen eines dem Konkurs unterliegenden Marktes können einen "Krisen- oder Kooperationsausschuss" einberufen, durch den gemeinsam das weiter Vorgehen und die sinnvollste Reaktion auf die zu überwindenden Problem erarbeitet wird. Es könnte ein koordiniertes Verkürzen der Arbeitszeiten in allen betroffenen Unternehmen erfolgen, ein Arbeitsplatzabbau mit entsprechenden Umschulungen der zu entlassenen Mitarbeiter, die Umspezialisierung weniger Unternehmen auf neue Themengebeite um den betroffenen Markt wieder öffnen oder, als letzte Möglichkeit, das Schließen von Betrieben mit einer Umschulung der Mitarbeiter auf Märkte mit Arbeitskräfte-Mangel.
 
 ###Gemeinwohl und Globalisierung
-Ein häufiger Kritikpunkt an der Gemeinwohl-Ökonomie ist die Vermutung, dass die gesamte Welt "mitmachen" müsste, damit das Konzept funktioniert. Tatsächlich ist es so, dass im Konkurrenzkampf zweier Unternehmen der Unethischere / Skrupellosere gewinnt - also im Globalen Kontext: Ein Land mit einer Gemeinwohl-Ökonomie hat geringe Chancen gegen Länder mit der Freihandels-Ökonomie.
+Ein häufiger Kritikpunkt an der Gemeinwohl-Ökonomie ist die Vermutung, dass die gesamte Welt "mitmachen" müsste, damit das Konzept funktioniert. Tatsächlich ist es so, dass im Konkurrenzkampf zweier Unternehmen der Unethischere / Skrupellosere gewinnt - also im globalen Kontext: Ein Land mit einer Gemeinwohl-Ökonomie hat geringe Chancen gegen Länder mit der Freihandels-Ökonomie.
 
 Hierzu werden zwei Lösungen vorgeschlagen: 
 

@@ -2,7 +2,7 @@
 
 Im Jahr 2010 wurde die erste Fassung der Gemeinwohl-Ökonomie mit 15 sogenannten "Attac-UnternehmerInnen" entwickelt. Ein erster Versuch der Umsetzung wurde gestartet. Hieran waren und sind verschiedene Personen- und Wirkungsgruppen Beteiligt. 
 
-> Auf der Website scheinen außerdem ideelle UnterstützerInnen in fünf Kategorien auf. Bis Ende 2014 waren es rund 1750 Unternehmen, 6000 Privatpersonen, 65 PolitikerInnen (zahlloser Parteien) sowie sieben Gemeinden/Regionen. (Deuticke 2014, S. 167)
+> Auf der Website scheinen außerdem ideelle UnterstützerInnen in fünf Kategorien auf. Bis Ende 2014 waren es rund 1750 Unternehmen, 6000 Privatpersonen, 65 PolitikerInnen (zahlloser Parteien) sowie sieben Gemeinden/Regionen. (Felber 2014, S. 167)
 
 Im Folgenden werden die beteiligten Personen-Gruppen und -Kreise kurz erläutert:
 
@@ -24,7 +24,7 @@ Im Folgenden werden die beteiligten Personen-Gruppen und -Kreise kurz erläutert
 
 **EnergieFelder**
 
-> Energiefelder sind lokale oder regionale Gruppen, welche die GWÖ in den Gemeinden, Städten, Bezirken, Landkreisen und Großregionen verwirklichen. (Deuticke 2014, S. 177)
+> Energiefelder sind lokale oder regionale Gruppen, welche die GWÖ in den Gemeinden, Städten, Bezirken, Landkreisen und Großregionen verwirklichen. (Felber 2014, S. 177)
 
 Energiefelder unterstützen die einzelen PionierInnen-Gruppen. Sie fördern das Verständnis und die Akzeptanz durch öffentliche Veranstaltungen und unterstützen die Weiterentwicklung der Gemeinwohl-Ökonomie. Mehrere Energiefelder vernetzen sich zu einem Größeren.
 

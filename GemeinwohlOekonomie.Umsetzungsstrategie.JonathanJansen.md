@@ -4,7 +4,7 @@ Im Jahr 2010 wurde die erste Fassung der Gemeinwohl-Ökonomie mit 15 sogenannten
 
 > Auf der Website scheinen außerdem ideelle UnterstützerInnen in fünf Kategorien auf. Bis Ende 2014 waren es rund 1750 Unternehmen, 6000 Privatpersonen, 65 PolitikerInnen (zahlloser Parteien) sowie sieben Gemeinden/Regionen. (Deuticke 2014, S. 167)
 
-Im Folgenden werden die einzelnen Personen-Gruppen und -Kreise kurz erläutert:
+Im Folgenden werden die beteiligten Personen-Gruppen und -Kreise kurz erläutert:
 
 **Pionierinnen-Gruppen**
 
@@ -15,7 +15,7 @@ Im Folgenden werden die einzelnen Personen-Gruppen und -Kreise kurz erläutert:
 **AkteurInnen-Kreise**
 
 1. *RedakteurInnen* arbeiten an den Gemeinwohl-Kriterien durch einbeziehen des Feedbacks durch weitere PionierInnen.
-2. *BeraterInnen* unterstützen die Pionier-Unternehmen bei der umsetzung der Gemeinwohl-Ökonomie (Hilfe beim erstellen der Gemeinwohl-Bilanz, Verbessern der Prozesse, usw.).
+2. *BeraterInnen* unterstützen die Pionier-Unternehmen bei der Umsetzung der Gemeinwohl-Ökonomie (Hilfe beim erstellen der Gemeinwohl-Bilanz, Verbessern der Prozesse, usw.).
 3. *AuditorInnen* überprüfen die eingereichten Gemeinwohl-Bilanzen der Pionier-Unternehmen. Außerdem führen sie regelmäßige Kontrollen in den auditierten Unternehmen durch.
 4. *ReferentInnen* halten Vorträge zur Gemeinwohl-Ökonomie in Unternehmen, Gemeinden, Lehrinstitutionen und politischen Institutionen
 5. *BotschafterInnen* sind Personen mit einem großen Wirkungskreis (zum Beispiel Helmut Lind, CEO der Sparda-Bank München) die den Bekanntheitsgrad und die Akzeptanz der Gemeinwohl-Ökonomie steigern.

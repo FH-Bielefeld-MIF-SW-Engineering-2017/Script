@@ -9,7 +9,9 @@ Schlanke Organisationen verwenden Echtzeit-Prinzipien für ihre Services. Dabei 
 <p align="center">
  <img src="./images/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel4.MalteBerg.png" alt="Fuehrungsinstrumente" style="width: 400px;"/>
 </p>
+
 Anhand der Abbildung können Verfahren zu kontinuierlichen Entwicklung, besseren Wertschöpfung und erhöhter Kundenzufriedenheit eingesehen werden.
+
 ### 4.4 Wie erfolgen Problemlösungen in schlanken Organisationen?
 Zum problemlösen wurde ein Problemlösungsprozess entwickelt, welche bei dessen Durchführung helfen soll, Probleme zu diagnostizieren und zu umgehen. Dazu wird erst geplant, was überhaupt das Problem ist und in wie fern es der optimalen Lösung abweicht. Ebenfalls wird überprüft, was eine machbare und geeignete Gegenmaßnahme sein könnte. Im nächsten Schritt wird diese Gegenmaßnahme ausgeführt und die darauf folgenden Ergebnisse überprüft. War die Gegenmaßnahme erfolgreich wird die Korrektur standardisiert. War es nicht erfolgreich muss der komplette Prozess neu durchlaufen werden.
 ### 4.5 Wie lassen sich schlanke Managementmethoden in Entwicklungsprojekten nutzen?

@@ -30,9 +30,11 @@ Die Promodoro-Technik wurde in dem späten 80'ern von Franscesco Ciritto entwick
 Prinzipiell ist die Technik relativ einfach: 
 1. Zuerst erstellt man einen Arbeitsplan für den ganzen Tag. 
 2. Danach widmet man sich der zuerst geplanten Aufgabe. Dabei arbeitet man 25 Minuten durch und fokussiert sich nur auf die eine Aufgabe ohne sich unterbrechen zu lassen. Dies ist ein sogenanntes Promodoro.  
+  
   * Sofern man früher die Aufgabe beenden kann, wird ein sogenanntes "Overlearning" angewandt. Das kann beispielsweise zusätzliche Optimierungen bei einem Programm oder ein nochmaliges Überfliegen der schon gelesenen Materialien beim Lernen sein.
 3. Nach dem Promodoro nimmt man sich 5 Minuten Zeit um Pause zu machen. Danach widmet man sich der Aufgabe wieder, sofern sie noch nicht erledigt ist, oder man beginnt mit der nächstwichtigen Aufgabe.
-4. Alle 4 Promodori macht man eine längere Pause (ca. 15 Minuten). 
+4. Alle 4 Promodori macht man eine längere Pause (ca. 15 Minuten).
+
 ### Effektives Anwenden
 Viele Leute versuchen diese Technik anzuwenden, ohne ihren richtiges Potential zu erkennen, weswegen sie meistens diese nach kurzer Zeit verwerfen. Eines der Potentiale liegt darin, dass man mit dieser Technik die zu machende Arbeit messen und abschätzen kann. Das Messen der getane Arbeit in Promodori ermöglicht einen besseren Überblick, wieviel man am Tag gearbeitet und erreicht hat. Zudem wird auch das persönliche Maximum an Arbeit besser ersichtlich.  
 Viele Leute, die diese Technik in dieser Art angewendet haben, waren danach viel motivierter. John Z. Sonmez, der Verfasser des zusammengefassten Buches, schafft zwischen 50-55 Promodori pro Woche. Diese Zahl ist dennoch kein Richtwert und kann von Person zu Person variieren. Zudem ist er der Meinung, dass eine 40-Stundenwoche nicht automatisch 80 Promodori bedeuten muss.
@@ -43,6 +45,7 @@ John Z. Sonmez benutzt zusätzlich ein Quotensystem zu der Promodoro-Technik, um
 3. Bestimme, wie oft diese Aufgabe während dieses Zeitraums gemacht werden soll (Quote).
 4. Umsetzen.
 5. Quote anpassen, sofern die Quote zu tief bzw. hoch angelegt wurde.
+
 John z. Sonmez produziert nun durch Anwendung dieses Quotensystems wesentlich mehr als zuvor und berichtet positiv von der Anwendung des Quotensystems.
 ## Eigenverantwortung
 Die Entwicklung von Eigenverantwortung ist wichtig für die Produktivität. Dabei ist Selbstbeherrschung und Selbstdisziplin der Schlüssel zur Selbstmotivation. So kann man damit anfangen, sein eigenes Leben Struktur zu verleihen, indem man sein Leben inkl. der dazugehörigen Aktivitäten plant. Dabei ist es nicht verwerflich andere Personen um Hilfe zu bitten (Ernährungs- und Sportplan von Ernährungsberatern und Fitnesstrainern als Beispiel).  Auch Aktionen in der Öffentlichkeit können der Eigenverantwortung Nachdruck verleihen.  Beispielsweise fallen dort fehlende Aktionen schneller auf, was zu einem Pflichtgefühl gegenüber der Öffentlichkeit mündet und somit einen Motivationsdruck zufolge haben kann.
@@ -69,6 +72,7 @@ Gewohnheiten werden durch 3 Dinge definiert:
 1. Auslöser
 2. Routine
 3. Belohnung
+
 Zum Beispiel kann man den E-Mailcheck nehmen:  Der Auslöser wäre die E-Mailbenachrichtigung in Form eines Pop-Ups, die Routine wäre das Abchecken der E-Mail und die Belohnung wäre die Gewissheit über den Inhalt dieser E-Mail. 
 ### Abgewöhnen von schlechten Gewohnheiten
 Man kann entweder versuchen, die schlechten Gewohnheiten zu vermeiden, oder diese sogar durch andere zu ersetzen. Bei letzteren muss man sich im Klaren sein, was diese Gewohnheit auslöst, und wie man diesen Auslöser für eine andere Gewohnheit verwenden kann. 

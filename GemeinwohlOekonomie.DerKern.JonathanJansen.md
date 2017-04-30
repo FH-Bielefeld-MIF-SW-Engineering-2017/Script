@@ -1,4 +1,4 @@
-#Kapitel 2 - der Kern
+##Kapitel 2 - der Kern
 
 ###Ziel des Wirtschaftens
 Bei der Beschreibung der Ziele und Ausrichtungen eines Wirtschaftsunternehmens fallen häufig Begriffe wie „Geld“, „Gewinn“ oder auch „Profit“. Tatsächlich wird konträr hierzu in diversen Verfassungen wörtlich 
@@ -34,7 +34,7 @@ Der Begriff Gemeinwohl kann nur durch einen demokratischen Entscheidungsprozess 
 
 > "Theoretisch könnte ein Diktator oder ein totalitäres Regime behaupten, sie wüssten am besten, was für alle gut sei, und ihre Politik mit einem so verstandenen »Gemeinwohl« begründen." (Felber 2014, S. 39)
 
-###Anforderungen an eine Universalbilanz
+###Universalbilanz, Markttransparenz und Gemeinwohl-Audit
 
 Standards und Normen sind Richtlinien, zu denen kein Hersteller verpflichtet ist - dennoch halten sich viele Unternehmen an diese. Standards gibt es zu den verschiedensten Bereichen - auch in Bereichen die das Gemeinwohl betreffen (z.B. "Biolandbau, "Fairer Handel", usw.). Bei der Einführung von Gemeinwohl-Bilanzen auf ebensoeiner Freiwilligenbasis wie es bei Normen und Standards der Fall ist ergibt sich folgendes Problem:
 
@@ -45,10 +45,7 @@ Eine Gemeinwohl-Bilanz kann nicht auf Freiwilligenbasis umgesetzt werden. Sie mu
 
 Verbindlichkeit, Ganzheitlichkeit, Messbarkeit, Vergleichbarkeit, Verständlichkeit, Öffentlichkeit, externe Prüfung, Rechtsfolgen (vgl. Felber 2014, S. 44)
 
-###Markttransparenz herstellen
 Jedes Unternehmen muss eine Gemeinwohl-Bilanz aufstellen. Innerhalb dieser Bilanz kann ein Unternehmen eine Punktestufe erreichen. Das Ergebnis dieser Bilanz könnte dann an den Produkten des Unternehmens farblich neben einem QR-Code markiert werden. Über den QR-Code kann der Käufer sich genauer über die Bilanz erkundigen - so hätten auch die Konsumenten direkte Einsicht in die Gemeinwohl-Bilanz des Unternehmens.
-
-### Gemeinwohl-Audit
 
 Die Gemeinwohlbilanz soll in erster Version durch das Unternehmen selbt erstellt werden. Hierbei werden optimalerweise alle Mitarbeiter und Begleitunternehmen, Zulieferer und sonstige Schnittstellengruppen befragt. Anschließend erfolgt eine Prüfung durch externe AuditorInnen. Die Kritik, dass dies zu einem schiefen Bild führen wird, Unternehmen sich besser darstellen oder AuditorInnen bestechen werden, lässt sich genau so auf die aktuelle Situation anwenden. Unternehmen erstellen ihre Finanz-Bilanzen selbst. Diese werden durch externe Audits geprüft. Außerdem erfolgt eine stichprobenartige Kontrolle durch den Staat - diese wird es für die Gemeinwohl-Bilanz ebenfalls geben. Bestechungen bzw. Täuschungen und deren Versuche fließen in die Gemeinwohl-Bilanz mit ein. 
 
@@ -69,7 +66,7 @@ Parteispenden durch Unternehmen werden komplett verboten.
 ###Ende des Wachstumszwangs
 In den Erfolg eines Unternehmens spielen viele Faktoren ein wie Produktqualität, Innovationskraft, Effizienz, Größe, Flexibilität - wirklich entscheidend ist zur Zeit aber nur der Finanzgewinn. Das führt dazu, dass Unternehmen teilweise dazu gezwungen sind skrupellos, unethisch zu handeln. Es existiert ein Wachstumsdruck: keinen Finanzgewinn zu erzeugen bedeutet nicht erfolgreich zu sein. Wenn der Finanzgewinn nicht der einzig auschlaggebende Faktor wäre, könnten Unternehmen gelassen ihre "optimale Größe" ermitteln, würden keinem Wachstumsdruck mehr unterliegen. 
 
-Wachstumsdruck ist ein Faktor, der dazu führt, dass Unternehmen weniger für das Allgemeinwohl handeln. Die Quantität steigt auf Kosten der Qualität. Ein Mensch wächst physisch auch nur bis zu einem gewissen Alter, anschließend wachsen nur noch die inneren Werte - Charakter, der Umgang mit Menschen und Problemen, die fachbezogenen Fähigkeiten und emotionalen Kompetenzen. 
+Wachstumsdruck ist ein Faktor, der dazu führt, dass Unternehmen weniger für das Allgemeinwohl handeln. Die Quantität steigt auf Kosten der Qualität. Ein Mensch wächst physisch auch nur bis zu einem gewissen Alter, anschließend wachsen nur noch die inneren Werte - Charakter, der Umgang mit Menschen und Problemen, die fachbezogenen Fähigkeiten und emotionalen Kompetenzen. (vgl. Felber 2014, S. 61)
 
 Das Ende das Wachstumsdrucks für Unternehmen würde zu besseren Arbeitsbedingungen, einer besseren Unternehmensausrichtung und besseren Produkten führen.
 
@@ -85,22 +82,18 @@ Das Zusammenarbeiten im Sinne einer friedlichen Koexistenz wird gefördert. Im k
 > "Heute sind Kartelle kein Selbstzweck, sondern ein Mittel, um den Gewinn zu steigern. Wenn Gewinne begrenzt und als Mittel für die Mehrung des Gemeinwohls eingesetzt werden, dann verliert auch Kartellbildung als Mittel dazu ihren Sinn." (Felber 2014, S. 63)
 
 ###Konkurs
-Die Möglichkeit des Konkurses besteht weiterhin - allerdings ist ihre Eintrittswahrscheinlichkeit aus verschiedenen Gründen weniger wahrscheinlich. Die Gemeinwohlwirtschaft führt automatisch dazu, dass üblicherweise nur noch sinnvolle Unternehmen gegründet werden. Profit alleine ist kein Grund zur Unternehmensgründung. Des Weiteren gibt es statt einer feindlichen Konkurrenz eine friedliche Koexistenz der Unternehmen. Zu guter Letzt sind die Mitarbeiter eines "demokratisch geführten" Unternehmens eher motiviert und ziehen an einem Strang, sodass ein Konkurs nicht eintritt oder effektiv verhindert werden kann. - S 64.
-
-<!-- TODO: Verweise setzen -->
+Die Möglichkeit des Konkurses besteht weiterhin - allerdings ist ihre Eintrittswahrscheinlichkeit aus verschiedenen Gründen weniger wahrscheinlich. Die Gemeinwohlwirtschaft führt automatisch dazu, dass üblicherweise nur noch sinnvolle Unternehmen gegründet werden. Profit alleine ist kein Grund zur Unternehmensgründung. Des Weiteren gibt es statt einer feindlichen Konkurrenz eine friedliche Koexistenz der Unternehmen. Zu guter Letzt sind die Mitarbeiter eines "demokratisch geführten" Unternehmens eher motiviert und ziehen an einem Strang, sodass ein Konkurs nicht eintritt oder effektiv verhindert werden kann. (Vgl. Felber 2014, S. 64)
 
 ###Kooperative Marktsteuerung
-Kommt es doch so weit, dass ein Unternehmen oder ein ganzer Markt dem Konkurs unterliegt, gelten wieder die Ziele des Gemeinwohls. Unternehmen eines dem Konkurs unterliegenden Marktes können einen "Krisen- oder Kooperationsausschuss" einberufen, durch den gemeinsam das weiter Vorgehen und die sinnvollste Reaktion auf die zu überwindenden Problem erarbeitet wird. Es könnte ein koordiniertes Verkürzen der Arbeitszeiten in allen betroffenen Unternehmen erfolgen, ein Arbeitsplatzabbau mit entsprechenden Umschulungen der zu entlassenen Mitarbeiter, die Umspezialisierung weniger Unternehmen auf neue Themengebiete um den betroffenen Markt wieder zu öffnen oder, als letzte Möglichkeit, das Schließen von Betrieben mit einer Umschulung der Mitarbeiter auf Märkte mit Arbeitskräfte-Mangel.
+Kommt es doch so weit, dass ein Unternehmen oder ein ganzer Markt dem Konkurs unterliegt, gelten wieder die Ziele des Gemeinwohls. Unternehmen eines dem Konkurs unterliegenden Marktes können einen "Krisen- oder Kooperationsausschuss" einberufen, durch den gemeinsam das weiter Vorgehen und die sinnvollste Reaktion auf die zu überwindenden Problem erarbeitet wird. Es könnte ein koordiniertes Verkürzen der Arbeitszeiten in allen betroffenen Unternehmen erfolgen, ein Arbeitsplatzabbau mit entsprechenden Umschulungen der zu entlassenen Mitarbeiter, die Umspezialisierung weniger Unternehmen auf neue Themengebiete um den betroffenen Markt wieder zu öffnen oder, als letzte Möglichkeit, das Schließen von Betrieben mit einer Umschulung der Mitarbeiter auf Märkte mit Arbeitskräfte-Mangel. (Vgl. Felber 2014, S. 65)
 
 ###Gemeinwohl und Globalisierung
 Ein häufiger Kritikpunkt an der Gemeinwohl-Ökonomie ist, dass deren Einführung laut Kritikern das Zusammenspiel der gesamten Welt bedarf. Tatsächlich ist es so, dass im Konkurrenzkampf zweier Unternehmen der Unethischere / Skrupellosere gewinnt - also im globalen Kontext: Ein Land mit einer Gemeinwohl-Ökonomie hat geringe Chancen gegen Länder mit der Freihandels-Ökonomie. Genau das ist auch der Fehler im System. Das unethische und skrupellose Verhalten wird belohnt und damit weiter ausgebaut. Das direkte Einführen der Gemeinwohl-Ökonomie weltweit ist allerdings auch unrealistisch.
 
-Zur Lösung werden zwei Vorschläge geliefert:
+Zur Lösung werden zwei Vorschläge geliefert (Vgl. Felber 2014, S. 67):
 
-1. Der globale ordnungspolitische Ansatz: Es werden gemeinsame Rahmenbedinungen bestimmt (Arbeitsschutz, Sozialschutz, Umweltschutz, etc. ). Die UNO wird hier als Ort der Regulierung vorgeschlagen. Die Rahmenbedingungen werden zur Umsetzung der Gemeinwohl-Ökonomie in einer ersten Länder-Zone (z.B. der EU) eingehalten. Für alle Länder die mit einem Land der Gemeinwohl-Zone handeln wollen, werden bei nicht Erfüllung einer der Standards (Arbeitsschutz, Sozialschutz, etc.) erhöhte Zollgebüren verlangt. Hier entsteht eine Staffelung: jede nicht eingehaltene Rahmenbedingung erhöht die Zollgebühren weiter. - S. 67
-2. Der anreizpolitische Ansatz der Gemeinwohl-Ökonomie: Die Erstellung und Offenlegung einer Gemeinwohlbilanz für Unternehmen wird verpflichtet. Eine bessere Bilanz führt zu einem "freieren" Marktzugang, eine schlechtere zu einem schlechten Marktzugang (Erhöhen des "Ethischen Schutzzolls"). - S 67
-
-<!-- TODO noch drüber gehen -->
+1. Der globale ordnungspolitische Ansatz: Es werden gemeinsame Rahmenbedinungen bestimmt (Arbeitsschutz, Sozialschutz, Umweltschutz, etc. ). Die UNO wird hier als Ort der Regulierung vorgeschlagen. Die Rahmenbedingungen werden zur Umsetzung der Gemeinwohl-Ökonomie in einer ersten Länder-Zone (z.B. der EU) eingehalten. Für alle Länder die mit einem Land der Gemeinwohl-Zone handeln wollen, werden bei nicht Erfüllung einer der Standards (Arbeitsschutz, Sozialschutz, etc.) erhöhte Zollgebüren verlangt. Hier entsteht eine Staffelung: jede nicht eingehaltene Rahmenbedingung erhöht die Zollgebühren weiter.
+2. Der anreizpolitische Ansatz der Gemeinwohl-Ökonomie: Die Erstellung und Offenlegung einer Gemeinwohlbilanz für Unternehmen wird verpflichtet. Eine bessere Bilanz führt zu einem "freieren" Marktzugang, eine schlechtere zu einem schlechten Marktzugang (Erhöhen des "Ethischen Schutzzolls"). 
 
 ###Soziale Sicherheit, Freijahre, Solidaritätseinkommen und Rente
 

@@ -1,4 +1,4 @@
-# Umsetzungsstrategie
+## Umsetzungsstrategie
 
 Im Jahr 2010 wurde die erste Fassung der Gemeinwohl-Ökonomie mit 15 sogenannten "Attac-UnternehmerInnen" entwickelt. Ein erster Versuch der Umsetzung wurde gestartet. Hieran waren und sind verschiedene Personen- und Wirkungsgruppen Beteiligt. 
 
@@ -28,19 +28,19 @@ Im Folgenden werden die beteiligten Personen-Gruppen und -Kreise kurz erläutert
 
 Energiefelder unterstützen die einzelen PionierInnen-Gruppen. Sie fördern das Verständnis und die Akzeptanz durch öffentliche Veranstaltungen und unterstützen die Weiterentwicklung der Gemeinwohl-Ökonomie. Mehrere Energiefelder vernetzen sich zu einem Größeren.
 
-## Positive Rückkopplungen
+### Positive Rückkopplungen
 
-Positive Rückkopplungen sind reaktionen auf Verhalten einzelner "Systemmitglieder" um die Gemeinwohl-Ökonomie zu stärken. Sie sind wie in einem Regelkreis die Rückwirkung auf das Systemverhalten und dienen der richtigen Aussteuerung der Eingangsgrößen.
+Positive Rückkopplungen sind Reaktionen auf Verhalten einzelner "Systemmitglieder" um die Gemeinwohl-Ökonomie zu stärken. Sie sind wie in einem Regelkreis die Rückwirkung auf das Systemverhalten und dienen der richtigen Aussteuerung der Eingangsgrößen.
 
-Es werden einige Beispiele genannt:
+Es werden einige Beispiele genannt (vgl. Felber 2014, S. 178/179):
 
-+ Günstige Kredite für Unternehmen mit hoher Gemeinwohl-Bilanz
-+ Das Nutzen von Gemeinwohl-Banken erhöht die Gemeinwohl-Bilanz
-+ Das Kooperieren mit anderen Unternehmen erhöht die Gemeinwohl-Bilanz
++ günstige Kredite für Unternehmen mit hoher Gemeinwohl-Bilanz
++ das Nutzen von Gemeinwohl-Banken erhöht die Gemeinwohl-Bilanz
++ das Kooperieren mit anderen Unternehmen erhöht die Gemeinwohl-Bilanz
 + usw.
 
-Die positive Rückkopplung führt zum Verstärken des gemeinwohl-ökonomischen Verhaltens und zur Schwächung des entgegengesetzten.
+Die positive Rückkopplung führt zum Verstärken des gemeinwohl-ökonomischen Verhaltens und zur Schwächung des Entgegengesetzten.
 
-## Strategische Vernetzung
+### Strategische Vernetzung
 
 Die strategische Vernetzung beschreibt die Notwendigkeit der Vernetzung ähnlicher oder verwandter Ansätze untereinander, sodass jeder einzelne dieser Ansätze von der erhöhten Verbreitung profitieren kann. Die Einzel-Akzeptanz vieler dieser Ansätze kann zu einer vergrößerten Akzeptanz und damit zu einem Paradigmenwechsel innerhalb der Gesellschaft führen. Außerdem sollen die vernetzten Ansätze sich gegenseitig helfen, infragestellen und damit verbessern.

@@ -40,7 +40,7 @@ Einen anderen Steuerungsansatz untersucht das Projekt “Skin Track”: Die eige
 ### Visualisierung
 Es gibt zwei Visualisierungsarten: “Virtual Reality” (VR) und “Augmented Reality” (AR). Der Unterschied der beiden Visualisierungsarten liegt dabei an der Einbindung der Umgebung: Während bei der Augmented Reality die Umgebung mit zusätzlichen Informationen ergänzt wird bzw. reale mit virtuellen Elementen kombiniert werden, ist der Nutzer bei der Virtual Reality von der realen Umgebung komplett abgeschottet und vollständig in einer virtuellen Umgebung.
 
-Schon Anfang der 1990er Jahre war Virtual Reality ein großes Thema. Heute helfen aber verbesserte Sensoren und eine höhere Rechenleistung dabei, Virtual Reality besser umzusetzen als vor 20 Jahren. Verschiedenen empfindliche Sensoren ermöglichen es aktuellen VR-Headsets, Kopfbewegungen genauestens zu erkennen und die Position des Benutzers zu bestimmen. Im Gegensatz zu Wearables haben VR-Applikationen andere Anforderungen an das Benutzerinterface: Die Benutzung sollte hauptsächlich mit den Händen erfolgen und so sehr intuitiv sein.
+Schon Anfang der 1990er Jahre war Virtual Reality ein großes Thema. Heute helfen aber verbesserte Sensoren und eine höhere Rechenleistung dabei, Virtual Reality besser umzusetzen als vor 20 Jahren. Verschiedene empfindliche Sensoren ermöglichen es aktuellen VR-Headsets, Kopfbewegungen genauestens zu erkennen und die Position des Benutzers zu bestimmen. Im Gegensatz zu Wearables haben VR-Applikationen andere Anforderungen an das Benutzerinterface: Die Benutzung sollte hauptsächlich mit den Händen erfolgen und so sehr intuitiv sein.
 
 Bei der Augmented Reality wird die reale Umgebung durch virtuelle Elemente ergänzt. Die wird zum Beispiel bei den so genannten “Smart Mirrors” gemacht, die Informationen wie Nachrichten und das aktuelle Wetter direkt im Spiegel einblenden.
 
@@ -52,9 +52,9 @@ Eine dritte Art von AR-Anwendungen sind Augmented Reality Browser, die als App a
 ### Smarte Gebäude
 In Smart Homes sind alle Geräte miteinander vernetzt und können automatisiert Umgebungsparameter wie etwa Temperatur und Licht steuern. So weiß das System beispielsweise, wann der Eigentümer nach Hause kommt und kann entsprechend die Temperatur in den Räumen anpassen, bevor der Eigentümer nach Hause kommt.
 
-Neben den Smart Homes gibt es noch die sogenannten “Smart Rooms”, welche von Einzelhändler eingesetzt werden, um die Bereich im Laden zu erkennen, die von vielen Kunden aufgesucht werden. Dies wird unter anderem mithilfe von Wärmebildkameras realisiert.
-Des Weiteren gibt es Bluetooth Beacons, welche sich über Bluetooth-Low-Energy (BLE) mit auf den Smartphones der Kunden installierten Laden-App verbindet und zum Beispiel Nachrichten über aktuelle Angebote sendet.
+Neben den Smart Homes gibt es noch die sogenannten “Smart Rooms”, welche von Einzelhändler eingesetzt werden, um die Bereiche im Laden zu erkennen, die von vielen Kunden aufgesucht werden. Dies wird unter anderem mithilfe von Wärmebildkameras realisiert.
+Des Weiteren gibt es Bluetooth Beacons, welche sich über Bluetooth-Low-Energy (BLE) mit auf den Smartphones der Kunden installierten Laden-App verbinden und zum Beispiel Nachrichten über aktuelle Angebote senden.
 
-Die Smart Factory ist eine Fabrik, in der alle Maschinen miteinander vernetzt sind und automatisiert alle notwendigen Arbeitsabläufe planen und ausführen.
+Die Smart Factory ist eine Fabrik, in der alle Maschinen miteinander vernetzt sind und automatisiert alle notwendigen Arbeitsabläufe geplant und ausgeführt werden.
 
 In intelligenten Städten (“Smart Cities”) sollen Verkehr, Ver- und Entsorgung und Logistik automatisiert gesteuert werden. Ziel ist es, das Leben bequemer zu machen. Werden alle Vorgänge in einer Stadt automatisiert, gehören zum Beispiel Staus der Vergangenheit an.

@@ -1,10 +1,5 @@
 # Connectedness
-
-## Einleitung
-In der heutigen Zeit ist es dank der Digitalisierung für viele kleine Unternehmen einfacher, sich auf dem Markt gegen große Wettbewerber durchzusetzen.  
-Hauptgrund dafür sind Agilität, Flexibilität und Kreativität, die von großen Unternehmen, hervorgerufen durch ihre starren Strukturen, häufig nicht so gelebt werden können, wie es bei kleinen Firmen der Fall ist.  
-Um den Anschluss nicht zu verlieren, ist es also notwendig, diesen Strukturellen Wandel durchzuführen und die Vorteile dieser neuen "netzbasierten Wertschöpfung" zu nutzen.
-## Kapitel 1 Connectedness  
+ 
 Die wichtigste Ursache für diesen Wandel ist dabei das Internet.  
 Es durchdringt unser gesamtes Leben und vernetzt Personen, Dinge und Orte. Ein Leben ohne Internet und diese Vernetzung ist heutzutage kaum mehr vorstellbar.  
 

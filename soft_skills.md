@@ -1,0 +1,4 @@
+# Soft Skills
+
+TODO: Buchzusammenfassung
+

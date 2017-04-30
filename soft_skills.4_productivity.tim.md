@@ -29,8 +29,8 @@ Es ist sinnvoll, von Zeit zu Zeit Urlaub von der Produktivitätsplanung und jewe
 Die Promodoro-Technik wurde in dem späten 80'ern von Franscesco Ciritto entwickelt und soll System in die Produktivität bringen.
 Prinzipiell ist die Technik relativ einfach: 
 1. Zuerst erstellt man einen Arbeitsplan für den ganzen Tag. 
-2. Danach widmet man sich der zuerst geplanten Aufgabe. Dabei arbeitet man 25 Minuten durch und fokussiert sich nur auf die eine Aufgabe ohne sich unterbrechen zu lassen. Dies ist ein sogenanntes Promodoro.
-#### Sofern man früher die Aufgabe beenden kann, wird ein sogenanntes "Overlearning" angewandt. Das kann beispielsweise zusätzliche Optimierungen bei einem Programm oder ein nochmaliges Überfliegen der schon gelesenen Materialien beim Lernen sein.
+2. Danach widmet man sich der zuerst geplanten Aufgabe. Dabei arbeitet man 25 Minuten durch und fokussiert sich nur auf die eine Aufgabe ohne sich unterbrechen zu lassen. Dies ist ein sogenanntes Promodoro.  
+  * Sofern man früher die Aufgabe beenden kann, wird ein sogenanntes "Overlearning" angewandt. Das kann beispielsweise zusätzliche Optimierungen bei einem Programm oder ein nochmaliges Überfliegen der schon gelesenen Materialien beim Lernen sein.
 3. Nach dem Promodoro nimmt man sich 5 Minuten Zeit um Pause zu machen. Danach widmet man sich der Aufgabe wieder, sofern sie noch nicht erledigt ist, oder man beginnt mit der nächstwichtigen Aufgabe.
 4. Alle 4 Promodori macht man eine längere Pause (ca. 15 Minuten). 
 ### Effektives Anwenden

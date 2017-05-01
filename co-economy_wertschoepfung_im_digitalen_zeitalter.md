@@ -2,12 +2,17 @@
 
 ## Zusammenfassung des Buches:
 
-**Co-Economy: Wertschöpfung im digitalen Zeitalter**  
-Claudia Pelzer  
-Nora Burgard  
-Springer Gabler \(2014\)
+**Titel**: Co-Economy: Wertschöpfung im digitalen Zeitalter  
+**Verfasser**: Claudia Pelzer, Nora Burgard  
+**Verlag**: Springer Gabler  
+**Jahr**: 2014  
+**ISBN**: 978-3-658-00954-0, 978-3-658-00955-7 \(eBook\)
+
+
 
 Zusammenfassung von: Fabian Lorenz, Lutz Winkelmann
+
+
 
 ## Einleitung
 

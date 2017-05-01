@@ -1,4 +1,4 @@
-## Kapitel 5 -- Bringen Sie Ihre Technik auf Vordermann
+# Kapitel 5 -- Bringen Sie Ihre Technik auf Vordermann
 
 Dieses Kapitel zeigt anhand einiger Beispiele die “Must Haves” der Industrie 4.0 und gibt damit Empfehlungen ab wie der Wandel zu einem Digitalisierten Unternehmen aussehen kann. Das Ziel ist das Zusammenwachsen von produktionsfernen und produktionsnahen Unternehmensbereichen und der Produktionstechnik durch die IT.
 

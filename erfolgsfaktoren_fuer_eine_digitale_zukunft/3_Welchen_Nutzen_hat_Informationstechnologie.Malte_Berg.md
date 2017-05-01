@@ -1,4 +1,4 @@
-# Kapitel 3 - Welchen Nutzen hat Informationstechnologie
+# 3 Welchen Nutzen hat Informationstechnologie
 Die Informationstechnologie ermöglicht einerseits die Entstehung neuer Marktsegmente, andererseits aber auch die Optimierung bestehender.
 ## 3.1 Wirtschaftlichkeit
 Bei der Optimierung von Geschäftsprozessen wird erst überprüft, ob eine Optimierung überhaupt wirtschaftlich ist. Hierfür werden verschiedenste Analysen bezüglich der Kosten und des Nutzens durchgeführt. Es wird dabei zwischen zwei Fällen unterschieden, bei welchen eine Wirtschaftlichkeit vorliegt. Einerseits ein identisches Ergebnis zum vorherigen Verfahren bei verringertem Aufwand, andererseits ein verbessertes Ergebnis (beispielsweise die Qualität des Produktes) bei nahezu gleichem Aufwand. Bei der Analyse ist es noch wichtig zu betrachten, dass die zu tätigende Investition in Zukunft abgedeckt wird und höhere Einnahmen erzielt werden.

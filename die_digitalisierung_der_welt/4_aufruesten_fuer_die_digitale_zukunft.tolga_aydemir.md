@@ -1,4 +1,4 @@
-## Kapitel 4 -- Aufrüsten für die digitale Zukunft
+# Kapitel 4 -- Aufrüsten für die digitale Zukunft
 
 Die Digitalisierung der Welt, und hierbei insbesondere eines Unternehmens, sollte nicht nur gleichgesetzt werden mit der Nutzung von Technologien an offensichtlichen Stellen, wie zum Beispiel in Produktionsanlagen. Viele Möglichkeiten der Digitalisierung für Unternehmen liegen dabei auch in produktionsfernen Bereichen wie dem Vertrieb, der Preissetzung, der Planung, dem Controlling und auch dem Einkauf. Aus diesem Grund muss die Digitalisierung des Ganzen Unternehmens vorangetrieben werden und während dieses Prozesses müssen möglichst viele Angestellte und Entscheider dem Prozess gegenüber positiv gestimmt sein.
 

@@ -1,4 +1,4 @@
-# Thesen zur Digitalisierung
+# 4 Thesen zur Digitalisierung
 Es werden elf Thesen vorgeschlagen, wie ein Unternehmen auf die Umwälzungen durch die Digitalisierung reagieren kann:
 
 ### Lob der Langsamkeit

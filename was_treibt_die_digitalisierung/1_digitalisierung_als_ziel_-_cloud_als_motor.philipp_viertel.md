@@ -1,4 +1,4 @@
-# Digitalisierung als Ziel - Cloud als Motor
+# 1 Digitalisierung als Ziel - Cloud als Motor
 
 Das Rückgrat der Digitalisierung bildet die Cloud. Das "Internet of Things" wächst kontinuierlich, eine große Menge von Daten sammelt sich an, welche jederzeit von überall abrufbar sein müssen. Sie kann in Echtzeit Daten sammeln und auswerten für eine schier unbegrenzte Anzahl von Anwendern. Allerdings gibt es dafür einige Anforderungen:
 

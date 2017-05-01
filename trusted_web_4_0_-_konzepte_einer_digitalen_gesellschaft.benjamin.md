@@ -4,7 +4,7 @@
 
 **Titel**: Trusted Web 4.0 - Konzepte einer digitalen Gesellschaft - Konzepte der Dezentralisierung und Anonymisierung  
 
-**Verfasser**: Olaf Berberich
+**Verfasser**: Olaf Berberich  
 **Verlag**: Springer-Verlag
 
 **Jahr**: 2016

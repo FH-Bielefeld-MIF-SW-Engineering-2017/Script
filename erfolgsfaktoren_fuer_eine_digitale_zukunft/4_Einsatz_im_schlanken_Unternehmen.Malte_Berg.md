@@ -1,4 +1,4 @@
-# Kapitel 4 - Einsatz von Informationstechnologie in schlanken Unternehmen
+# 4 Einsatz von Informationstechnologie in schlanken Unternehmen
 ## 4.1 Woran können wir ein schlankes Unternehmen erkennen?
 In schlanken Unternehmen wird die kontinuierliche Verbesserung von Geschäftsprozessen und Kundenzufriedenheit angestrebt um einen möglichst hohen Gewinn bei einer möglichst geringen Verschwendung zu erzielen.
 ## 4.2 Wie setzen schlanke Unternehmen Informationstechnologie ein?

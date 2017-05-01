@@ -30,4 +30,14 @@ Bei der Dezentralisierung des Finanzwesens ist die Projektfinanzierung sehr wich
 In der Zukunft sind für die meisten Unternehmen Datensicherheit durch Dezentralisierung und die digitale Transformation wichtige Punkte. Das Ziel muss es sein eine dezentralisierte und anonymisierte IT zu etablieren. Dadurch sind Angriffe von außen für Angreifer unwichtig, da der Aufwand sehr groß ist. Der Zeit nutzt man für die Sicherheit Überwachungssysteme. Der Schaden für Cyberkriminalität ist sehr hoch und kann Unternehmen in die Insolvenz führen. Für die Unternehmen gibt es 3 verschieden Wege. Der erste Weg ist für die Unternehmen die mit digitaler Transformation nichts zu tun haben wollen. Sie verschlafen die Entwicklung und merken durch Cyberangriffe von Seiten der Konkurrenz, dass sie den Trend verschlafen haben. Irgendwann durch massiven Stellenabbau und Verlusten geht das Unternehmen dann in die Insolvenz. Den anderen Weg gehen Unternehmen, die mit der digitalen Transformation wachsen.  Sie kaufen zusätzliches Know-how am Markt ein. Auch hier kommen irgendwann Cyberangriffe und dann steht das Unternehmen genauso dar wie beim ersten Weg. Den letzten Weg gehen Unternehmen, den Weg der Dezentralisierung und der Anonymisierung. Das Unternehmen wächst hier langsamer als beim zweiten Weg, man ist aber gegen Cyberangriffe von außen sicher. 
 
 Für ein sicheres Internet müssen die Politik und die Wirtschaft handeln. Die IT-Sicherheitsbranche ist noch eng mit den Geheimdiensten vernetzt. Um ein sicheres Internet zu schaffen, müssen diese voneinander abgekapselt werden. Derzeit gibt es immer noch zentrale Portale, die massiv überwacht werden, damit sie vor Angriffen sicher sind. Derzeit setzt sich die GISAD für ein sicheres Internet ein. Für die Einführung einer PDS braucht es noch Zeit, technisch ist es aber möglich. Wichtig ist, dass die personenbezogenen Daten beim Nutzer bleiben. Der Nutzer muss anonymisiert im Netz unterwegs sein und muss sich mit seinem PDS als einzige Identifikations- und Authentifikationsmethode anmelden. Der Kopierschutz muss kopieren im Internet verhindern und der Zugriff auf Dateien muss erst gestattet sein. Smartphones Apps dürfen keinen Zugriff mehr auf personenbezogenen Daten bekommen. Die Hardwarefunktionen müssen vom Kern getrennt werden, damit Angreifer diese nicht mehr nutzen können. Es müssen dezentralisierte symmetrische Schlüssel erzeugt und gespeichert werden. Davon werden drei gleiche Schlüssel generiert und an verschiedene Punkte gespeichert. Dezentralisierung kann auch in der Cloud benutzt werden, aber personenbezogenen Daten und Schlüssel haben in der Cloud nichts verloren. Diese Daten müssen bei dem Nutzer selber bleiben.
+=======
+## Zusammenfassung des Buches:
+
+**Titel**: Trusted Web 4.0 - Konzepte einer digitalen Gesellschaft - Konzepte der Dezentralisierung und Anonymisierung  
+**Verfasser**:  
+**Verlag**:  
+**Jahr**:  
+**ISBN**:
+
+Zusammenfassung von: Benjamin Schmidt
 

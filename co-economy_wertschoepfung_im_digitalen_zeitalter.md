@@ -2,21 +2,13 @@
 
 ## Zusammenfassung des Buches:
 
-**Titel**: Co-Economy: Wertschöpfung im digitalen Zeitalter  
+**Titel**: Co-Economy: Wertschöpfung im digitalen Zeitalter - Netzwerke und agile Organisationsstrukturen erfolgreich nutzen  
 **Verfasser**: Claudia Pelzer, Nora Burgard  
 **Verlag**: Springer Gabler  
 **Jahr**: 2014  
 **ISBN**: 978-3-658-00954-0, 978-3-658-00955-7 \(eBook\)
 
-
-
-
-
 Zusammenfassung von: Fabian Lorenz, Lutz Winkelmann
-
-
-
-
 
 ## Einleitung
 

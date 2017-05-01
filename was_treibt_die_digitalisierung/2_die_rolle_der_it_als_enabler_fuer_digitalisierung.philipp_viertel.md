@@ -1,4 +1,4 @@
-# Die Rolle der IT als Enabler für Digitalisierung
+# 2 Die Rolle der IT als Enabler für Digitalisierung
 
 Die Ursprünge der heutigen digitalen Revolution liegen in den 1990ern. Das Internet machte es möglich Prozesse wie Logistk und Kundenpflege durch die IT zu unterstützen. Dies mündete in Entwicklungen wie z.B. E-Business. Heutzutage werden aber grundlegend neue Modelle, Prozesse und Dienstleistungen auf Basis der Digitalisierung entwickelt. Dies führt zur Gründung vieler neuer Unternehmen und der notwendigen Anpasssung bestehender Unternehmen um konkurrenzfähig zu bleiben. Diese Veränderungen betreffen nicht nur B2C Märkte sondern auch B2B Märkte. Diese Transformation geht aus von fünf wesentlichen technologischen Entwicklungen: Den mobilen Geräten wie Smartphones und Tablets die eine Interaktion an fast jedem Ort zu jeder Zeit ermöglichen. Die sozialen Medien wie z.B. Twitter wo Unternehmen noch direkter mit ihren Kunden zusammentreffen. Analytics und Big Data, welche hocheffizient in Echtzeit Daten verarbeiten um Entscheidungen zu treffen. Cloud-Computing und letztlich das "Internet of Things", in dem alles was vernetzt werden kann, auch vernetzt wird.
 

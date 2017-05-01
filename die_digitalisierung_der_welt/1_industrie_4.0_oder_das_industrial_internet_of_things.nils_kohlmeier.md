@@ -1,5 +1,5 @@
-## Kapitel 1 - Industrie 4.0 oder das “Industrial Internet of Things”
-### Industrie 4.0
+# Kapitel 1 - Industrie 4.0 oder das “Industrial Internet of Things”
+## Industrie 4.0
 Der Begriff “Industrie 4.0” bezeichnet die vierte industrielle Revolution. Bei der ersten industriellen Revolution, die Ende des 18. Jahrhunderts begann, wurden erstmals mechanische Produktionsanlagen eingesetzt, die Wasser- und Dampfkraft verwendeten. Dieser Abschnitt wird “Industrie 1.0” genannt. Die darauffolgende industrielle Revolution (“Industrie 2.0”) begann Anfang des 20. Jahrhunderts und führte die arbeitsteilige Massenproduktion ein. Maschinen wurden hierbei erstmals mit elektrischer Energie betrieben. Nachdem in den 1970er Jahren Elektronik und IT soweit waren, um in der Industrie eingesetzt zu verwenden, konnte die Produktion von Gütern (teil-)automatisiert werden. Dies wird als “Industrie 3.0” bezeichnet.
 
 Heute soll die Industrie 3.0 zur Industrie 4.0 umgebaut werden, um
@@ -21,7 +21,7 @@ Die Aufgabe der Analytik ist, die gesammelten Daten zu analysieren und entsprech
 
 Auch das Thema Sicherheit ist wegen der Digitalisierung ein wichtiger Punkt bei der Industrie 4.0. Wenn immer mehr Geräte digitalisiert und vernetzt werden, müssen diese Geräte und Netze vor Angriffen geschützt werden.
 
-### Smarte Eingabegeräte
+## Smarte Eingabegeräte
 Wearables, also kleine tragbare elektronische Geräte, sind derzeit sehr beliebt und können gut in Unternehmen eingesetzt werden. Mögliche Anwendungsszenario für Wearables in Unternehmen sind zum Beispiel der Einsatz von “smarten” Handschuhen, die Monteure bei der Montage anweisen und Datenbrillen, die dem Träger wichtige Informationen einblendet.
 
 Heutige Wearables enthalten immer mehr Sensoren, um möglichst viele Daten erfassen zu können. Auch das direkte Integrieren von Wearables in Kleidung ist derzeit sehr beliebt.
@@ -37,7 +37,7 @@ Neben den Sprachassistenten gibt es zudem noch die “Eye Tracker”, die Augenb
 
 Einen anderen Steuerungsansatz untersucht das Projekt “Skin Track”: Die eigene Haut soll als Touchscreen dienen. Die Technik “Thermal Touch” erkennt über Wärmebildkameras Flächen, die von einem Benutzer durch Anfassen erwärmt wurden. So können beliebige Gegenstände, die sich erwärmen lassen, zu Eingabegeräten werden.
 
-### Visualisierung
+## Visualisierung
 Es gibt zwei Visualisierungsarten: “Virtual Reality” (VR) und “Augmented Reality” (AR). Der Unterschied der beiden Visualisierungsarten liegt dabei an der Einbindung der Umgebung: Während bei der Augmented Reality die Umgebung mit zusätzlichen Informationen ergänzt wird bzw. reale mit virtuellen Elementen kombiniert werden, ist der Nutzer bei der Virtual Reality von der realen Umgebung komplett abgeschottet und vollständig in einer virtuellen Umgebung.
 
 Schon Anfang der 1990er Jahre war Virtual Reality ein großes Thema. Heute helfen aber verbesserte Sensoren und eine höhere Rechenleistung dabei, Virtual Reality besser umzusetzen als vor 20 Jahren. Verschiedene empfindliche Sensoren ermöglichen es aktuellen VR-Headsets, Kopfbewegungen genauestens zu erkennen und die Position des Benutzers zu bestimmen. Im Gegensatz zu Wearables haben VR-Applikationen andere Anforderungen an das Benutzerinterface: Die Benutzung sollte hauptsächlich mit den Händen erfolgen und so sehr intuitiv sein.
@@ -49,7 +49,7 @@ Die “HoloLens” von Microsoft dagegen unterstützt 3D-Projektionen, welche du
 
 Eine dritte Art von AR-Anwendungen sind Augmented Reality Browser, die als App auf einem Smartphone oder Tablet laufen und bestimmte Muster oder Bilder erkennen und dann entsprechende Informationen anzeigen. AR-Browser gibt es auch als “Location Based Services”, welche anhand des aktuellen Standortes des Benutzers Informationen anzeigen.
 
-### Smarte Gebäude
+## Smarte Gebäude
 In Smart Homes sind alle Geräte miteinander vernetzt und können automatisiert Umgebungsparameter wie etwa Temperatur und Licht steuern. So weiß das System beispielsweise, wann der Eigentümer nach Hause kommt und kann entsprechend die Temperatur in den Räumen anpassen, bevor der Eigentümer nach Hause kommt.
 
 Neben den Smart Homes gibt es noch die sogenannten “Smart Rooms”, welche von Einzelhändler eingesetzt werden, um die Bereiche im Laden zu erkennen, die von vielen Kunden aufgesucht werden. Dies wird unter anderem mithilfe von Wärmebildkameras realisiert.

@@ -3,10 +3,10 @@
 ## Zusammenfassung des Buches:
 
 **Titel**: Soft Skills - The software developer's life manual  
-**Verfasser**:  
-**Verlag**:  
-**Jahr**:  
-**ISBN**:
+**Verfasser**:  John Z. Sonmez
+**Verlag**:  Manning
+**Jahr**:  2014
+**ISBN**: 978-1617292392
 
 Zusammenfassung von: Gamze, Justin, Marvin, Daniel, Tim
 

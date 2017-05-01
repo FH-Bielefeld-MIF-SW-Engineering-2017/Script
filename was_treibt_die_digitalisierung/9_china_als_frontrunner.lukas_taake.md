@@ -1,4 +1,4 @@
-# China als Frontrunner bei der Digitalisierung
+# 9 China als Frontrunner bei der Digitalisierung
 
 Als digitale Frontrunner werden Unternehmen oder Gegenden bezeichnet,
 die überdurchschnittlich innovativ sind. Ein Beispiel dafür ist das Silicon Valley.

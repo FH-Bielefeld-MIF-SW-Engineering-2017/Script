@@ -1,4 +1,4 @@
-# Harmonisierung und Standardisierung durch die Cloud
+# 10 Harmonisierung und Standardisierung durch die Cloud
 
 Jedes Unternehmen hat "IT-Inseln", die "aus der Flut der Daten (ragen)" (S. 129).
 Sie sind aufwendig zu administrieren und führen zu unnötig viel Aufwand für CEOs und IT-Mitarbeiter.

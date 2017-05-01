@@ -1,4 +1,4 @@
-# Kapitel 2 - Was verstehen wir unter Informationstechnologie?
+# 2 Was verstehen wir unter Informationstechnologie?
 Informationstechnologische Systeme haben eine enorme gesellschaftliche und technische Veränderung ausgelöst. Diese bilden durch das Sammeln und Verarbeiten von Informationen eine Erleichterung vieler Prozesse, was es stark in der Gesellschaft und Wirtschaft expandieren ließ.
 ## 2.1 Der Ursprung
 Erste Entwicklungen begannen mit dem Telefon, welches viele für unzureichend hielten und niemals erwartet hätten, dass es einmal weltweit für vernetzte Kommunikation sorgen wird. Ebenso erging es den ersten Computern. Die großen Rechnerräume, welche benötigt wurden um die ersten Computer in Betrieb zu nehmen, gaben vielen das Gefühl, dass es nur einen äußerst kleinen Markt für solche Geräte gäbe.

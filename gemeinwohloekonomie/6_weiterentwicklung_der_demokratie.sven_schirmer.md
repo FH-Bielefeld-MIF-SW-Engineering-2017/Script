@@ -48,4 +48,3 @@ Ein Medienkonvent stellt die Unabhängigkeit der Medien sicher.
 ### Demokratiekonvent
 
 Der Demokratiekonvent ist für die Ausarbeitung einer neuen Strategie zur Erfüllung einer wirklich demokratischen Gesellschaft verantwortlich.
-

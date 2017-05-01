@@ -1,4 +1,4 @@
-# Kapitel 7 - CIO
+# 7 CIO
 
 ## 7.1 Wie wird man CIO?
 Um CIO zu werden hat man zwei Möglichkeiten, zum einen kann man diesen Posten über die klassische Laufbahn in einer IT-Organisation erreichen oder als Quereinsteiger mit einer General-Management-Laufbahn. Doch unabhängig welchen Weg man wählt, es gelten dieselben Anforderungen. Diese sind Engagement, ein hohes Maß an Eigeninitiative, überdurchschnittliche Leistungsbereitschaft, Lernbereitschaft und Offenheit zeigen.

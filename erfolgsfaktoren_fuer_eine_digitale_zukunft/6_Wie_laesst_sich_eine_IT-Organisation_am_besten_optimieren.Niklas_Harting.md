@@ -1,4 +1,4 @@
-# Kapitel 6 - Wie lässt sich eine IT-Organisation am besten optimieren?
+# 6 Wie lässt sich eine IT-Organisation am besten optimieren?
 
 ## 6.1 Due Diligence
 Als Due Diligence wird die Prüfung einer Organisation nach den Kategorien Stärken, Schwächen, Chancen und Risiken bezeichnet.

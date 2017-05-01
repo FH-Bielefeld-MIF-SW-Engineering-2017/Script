@@ -7,7 +7,7 @@
 * [Co-Economy: Wertschöpfung im digitalen Zeitalter](co-economy_wertschoepfung_im_digitalen_zeitalter.md)
   * [1 Connectedness](co-economy_wertschoepfung_im_digitalen_zeitalter/1_connectedness.fabian_lornez.md)
   * [2 Collaboration](co-economy_wertschoepfung_im_digitalen_zeitalter/2_collaboration.fabian_lornez.md)
-  * [3 Cases](co-economy_wertschoepfung_im_digitalen_zeitalter/3_cases.lutz.md)
+  * [3 Cases](co-economy_wertschoepfung_im_digitalen_zeitalter/3_cases.lutz_winkelmann.md)
   * [4 Change](co-economy_wertschoepfung_im_digitalen_zeitalter/4_change.fabian_lornez.md)
   * [5 Conclusion](co-economy_wertschoepfung_im_digitalen_zeitalter/5_conclusion.fabian_lornez.md)
 * [Die Digitalisierung der Welt](die_digitalisierung_der_welt.nils_tolga_yannick.md)

@@ -1,4 +1,3 @@
-
 # 5 Was benötigt eine erfolgreiche IT-Organisation?
 
 ## 5.1 Organisationsstruktur
@@ -101,5 +100,4 @@ BI-Management beschreibt die systematische Erfassung, Auswertung und Darstellung
 ## 5.17 Master Data Management
 Um die Stammdaten eines Unternehmens (Produkte, Lieferanten, Kunden, Mitarbeiter) zu verwalten arbeitet der Stammdatenmanager übergreifend über eine Unternehmensgruppe. 
 ## 5.18 KPIs
-Kennzahlen oder auch „Key Performance Indicators“ (KPIs) machen es möglich komplexe Sachverhalte besser zu verfolgen zu können. Außerdem dienen sie dazu, den Erfüllungsgrad wichtiger Ziele zu messen. Daher sind sie unverzichtbar um wichtige Entscheidungen zu treffen. Mit Hilfe dieser Zahlen ist es einfacher Erfolg oder Misserfolg einer Entscheidung festzustellen. So können die gemessenen Zahlen vor der Entscheidung mit denen, die nach der Entscheidung erstellt worden verglichen werden. 
-
+Kennzahlen oder auch „Key Performance Indicators“ (KPIs) machen es möglich komplexe Sachverhalte besser zu verfolgen zu können. Außerdem dienen sie dazu, den Erfüllungsgrad wichtiger Ziele zu messen. Daher sind sie unverzichtbar um wichtige Entscheidungen zu treffen. Mit Hilfe dieser Zahlen ist es einfacher Erfolg oder Misserfolg einer Entscheidung festzustellen. So können die gemessenen Zahlen vor der Entscheidung mit denen, die nach der Entscheidung erstellt worden verglichen werden.

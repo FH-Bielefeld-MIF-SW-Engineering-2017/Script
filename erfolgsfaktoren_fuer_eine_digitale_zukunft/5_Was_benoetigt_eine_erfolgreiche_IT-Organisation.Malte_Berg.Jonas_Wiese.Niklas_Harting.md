@@ -1,4 +1,4 @@
-# Kapitel 5 - Was benötigt eine erfolgreiche IT-Organisation?
+# 5 Was benötigt eine erfolgreiche IT-Organisation?
 
 ## 5.1 Organisationsstruktur
 Eine IT-Organisation besteht aus dem Governance-Bereich, in dem Verwaltungs- und verschiedenste Managementtätigkeiten (z.B. Standardisierungs- und Qualitätsmanagement) ausgeführt werden, der Anwendungsentwicklung und –betreuung, welche sich sowohl mit der Entwicklung als auch mit dem Support und Projektmanagement befasst, sowie dem IT-Betrieb, welcher verschiedene administrative Dienste leistet.

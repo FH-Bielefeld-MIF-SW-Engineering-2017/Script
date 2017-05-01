@@ -1,10 +1,10 @@
-## Kapitel 3 -- Denken Sie in Produkten - erst danach in (IT-)Prozessen
+# Denken Sie in Produkten - erst danach in (IT-)Prozessen
 
 Im Bereich der Digitalisierung stehen Führungskräfte vor neuen Herausforderungen: Es müssen neue Ausrichtungen von Unternehmensstrategien vorgenommen und neue Orientierungen vorgegeben werden. Es müssen Entscheidungen darüber getroffen werden, was zu tun ist. Dies ist ein komplexer Prozess, welcher von vielen Faktoren abhängt. Neue Geschäftsmodelle sind notwendig, um auch im internationalen Bereich marktfähig zu sein. 
 
 Zu verstehen ist, dass Technologien nicht im Vordergrund stehen: Es ist eher so, dass am Anfang Konzepte stehen, welche Dienstleistungen auf eine bessere Art und Weise erbringen. Dadurch werden Produkte und Dienstleistungen adaptiv und decken einen großen Kundennutzen ab. Es entstehen sogenannte **hybride Leistungsbündel**. Ein gutes Beispiel ist das Internet der Dinge: Produkte werden zu Services bzw. zu hybriden Leistungsbündeln.
 
-### Digitalisierung von Produkten und Dienstleistungen
+## Digitalisierung von Produkten und Dienstleistungen
 
 Eine zentrale Fragestellung ist, wie sich traditionelle Produkte und Dienstleistungen Digitalisieren lassen. Im nachfolgenden werden zwei Muster für Geschäftsmodelle im Zeitalter der Digitalisierung vorgestellt:
 
@@ -17,7 +17,7 @@ Eine zentrale Fragestellung ist, wie sich traditionelle Produkte und Dienstleist
     * **Remote Usage and Condition Monitoring:** Daten über Zustände und Umgebung übertragen
 * **Sensor as a Service:** Sensordaten werden gesammelt, aufbereitet und zur Verfügung gestellt. Im Fokus stehen also die Daten selbst. Ein Beispiel ist die Firma Streetline: Sensoren werden auf Parkplätzen installiert um die Belegungen zu überwachen. Die ermittelten Daten werden anschließend verkauft.
 
-### Aspekte der Digitalisierung
+## Aspekte der Digitalisierung
 
 Nachfolgend werden einige wichtige Aspekte der Digitalisierung beleuchtet, welche in der heutigen Zeit entscheidende Rollen einnehmen:
 
@@ -31,7 +31,7 @@ Nachfolgend werden einige wichtige Aspekte der Digitalisierung beleuchtet, welch
 
 * **Social Listening:** Laut einer Studie von Adobe hat sich der Beruf eines Marketingprofis stark gewandelt: Aufdringliches Marketing bzw. Push-Marketing existiert nichtmehr. Heutzutage geht es vorallem um aktives Zuhören bzw. Social Listening. Es geht darum zu wissen, worüber die Kunden reden, wo es Probleme gibt und wie das Unternehmen diese lösen können. Unternehmen müssen folgendes tun: Großartige Kundenerlebnisse schaffen, auf viele Kanälen Kontakt zu Kunden herstellen, Kunden das Gefühl geben verstanden zu werden sowie Kundenverhalten und -bedürfnisse vorhersehen.
 
-### Digitalisierung ist die Zukunft
+## Digitalisierung ist die Zukunft
 
 Die Akzeptanz digitaler Produkte ist hoch: Aus der Historie von Industrie 4.0 ist ein deutlicher Trend hin zu Produkten zu erkennen, welche auf Kundenwunsch hin gebaut wurden. Laut dem Fraunhofer IAO wollen Kunden von produzierende Firmen vermehrt Losgrößen mit einer großen Variantenvielfalt und kurzer Lieferzeit. Eine **effiziente Produktionsplanung, produktionsnahe IT- sowie geeignete ERP-Systeme, ein klares Lean Management und optimale Montageprozesse sind erforderlich**. Ein Beispiel hierfür ist das Konzept Storefactory von Adidas: Der Konzern will Produkte nach Kundenwunsch direkt in kleinen Fabriken in unmittelbarer Nähe von Geschäften fertigen.
  

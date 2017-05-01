@@ -29,8 +29,8 @@
 * [Trusted Web 4.0 - Konzepte einer digitalen Gesellschaft](trusted_web_4_0_-_konzepte_einer_digitalen_gesellschaft.benjamin.md)
 * [Gemeinwohlökonomie](gemeinwohloekonomie.sven_jonathan_oliver.md)
 * [Was Treibt die Digitalisierung](was_treibt_die_digitalisierung.md)
-  * [9 China als Frontrunner bei der Digitalisierung](was_treibt_die_digitalisierung.9_china_als_frontrunner.lukas.md)
-  * [10 Harmonisierung und Standardisierung durch die Cloud](was_treibt_die_digitalisierung.10_harmonisierung.lukas.md)
-  * [11 100 Prozent Sicherheit - ein erstrebenswertes Ziel?](was_treibt_die_digitalisierung.11_100_prozent_sicherheit.lukas.md)
-  * [12 Fazit und Ausblick](was_treibt_die_digitalisierung.12_fazit_und_ausblick.lukas.md)
+  * [9 China als Frontrunner bei der Digitalisierung](was_treibt_die_digitalisierung/9_china_als_frontrunner.lukas_taake.md)
+  * [10 Harmonisierung und Standardisierung durch die Cloud](was_treibt_die_digitalisierung/10_harmonisierung.lukas_taake.md)
+  * [11 100 Prozent Sicherheit - ein erstrebenswertes Ziel?](was_treibt_die_digitalisierung/11_100_prozent_sicherheit.lukas_taake.md)
+  * [12 Fazit und Ausblick](was_treibt_die_digitalisierung/12_fazit_und_ausblick.lukas_taake.md)
 

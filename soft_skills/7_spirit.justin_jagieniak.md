@@ -1,5 +1,4 @@
 # 7 Spirit #
-*Zusammenfassung von Justin Jagieniak.*
 Im Kapitel Spirit des Buchs Soft Skills von John Z. Sonmez erschienen am 29. Dezember 2014 geht es um den Geist des Menschen und wie er mit seinem Körper verbunden ist. Er teilt das Kapitel in verschiedene Unterkapitel ein. Die Unterkapitel befassen sich mit Fähigkeiten, die man im Leben braucht. So beschäftigt er sich mit dem Verstand, der mentalen Einstellung, positiven Denken, Liebe und Ausdauer.
 ## 65 How the mind influences the body ##
 Der Autor erklärt, dass wir nicht einfache Maschinen sind, sondern Menschen. Der Geist gibt uns die Möglichkeit Erfolg zu haben oder uns scheitern zu lassen. (S. 396)

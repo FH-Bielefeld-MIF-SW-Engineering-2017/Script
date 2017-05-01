@@ -8,11 +8,11 @@
 **Jahr**: 2014  
 **ISBN**: 978-3-658-00954-0, 978-3-658-00955-7 \(eBook\)
 
-
+ 
 
 Zusammenfassung von: Fabian Lorenz, Lutz Winkelmann
 
-
+ 
 
 ## Einleitung
 

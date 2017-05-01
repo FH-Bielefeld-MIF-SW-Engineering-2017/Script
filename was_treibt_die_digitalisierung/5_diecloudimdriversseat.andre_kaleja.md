@@ -1,29 +1,29 @@
 
-**Die Cloud und die Autoindustrie**
+# Die Cloud und die Autoindustrie
 
 Die Cloud Nutzung und das Verlangen nach mehr Mobilität wirken sich immer mehr auf andere Branchen, insbesondere der Autoindustrie, aus. Die Auto Branche, Deutschlands Schlüsselbranche, sieht sich durch die Digitalisierung, mobiles Internet und eine umfassendere Vernetzung aller technischen Geräte, in jedem Glied der Wertschöpfungskette vor einer Zerreißprobe. Ständig drängen neue Geschäftsmodelle aus der IT Branche. Neue sogenannte „mobile Devices“ verursachen einen Wandel in der Auto Branche, da sie neu produziert, konstruiert und gewartet werden müssen. Elon Musk trifft einen treffenden Vergleich zu den neuen Anforderungen an die Autos und zwar „iPhones auf Rädern“. Nur noch Autos zu verkaufen, funktioniert also in Zukunft nicht mehr.
 Dadurch lastet auf der Autoindustrie ein enormer Druck, durch die sogenannten „Big Boys“ des Internets. Sollten die Autohersteller sich nicht schneller mit dem IT Wettbewerb mit bewegen, werden sie überholt, so hat Google bereits sein eigenes autonom fahrendes Auto vorgestellt und trifft damit genau die Kundengruppe, durch die die Autoindustrie am meisten Einnahmen erzielt. 
 Es stellt sich die Frage wer in Zukunft die IT Strategien für die Autoindustrie entwickeln wird, die Autoindustrie selbst 
 oder die Internet „Big Boys“?
 
-**Industrie 4.0**
+## Industrie 4.0
 
 Das Zusammenspiel zwischen Mensch und Roboter wird immer wichtiger. Die Digitalisierung und Vernetzung führen zu einem Innovationssprung in der Robotertechnik. Die Übernahme von Jobs durch Roboter hat nicht nur was mit der Gesundheit der Mitarbeiter zu tun. In den nächsten Jahren gehen die geburtsstarken Jahrgänge in den Ruhestand und die Autoindustrie wird große Probleme haben, diese Stellen durch qualifiziertes Personal zu ersetzen. Laut Horst Neumann, Personalvorstand von Volkswagen, werden zwischen den Jahren 2015 und 2030 außergewöhnlich viele Beschäftigte das Unternehmen verlassen. Deshalb versucht man viele Stellen durch Roboter zu ersetzen, ohne dass dadurch die Arbeitslosigkeit steigt. Ein weiterer Vorteil liegt darin, dass die Arbeitskosten durch die Automatisierung gesenkt werden können. 
 Neue moderne Produktionsprozesse bergen auch Risiken. Kaum eine Branche ist so stark von Industriespionage betroffen. Frühzeitig zu erkennen, welche neuen Technologien geplant werden, ist viel Geld wert. Daher gehen die Entwickler sehr skeptisch mit ihren Daten, gegenüber Zulieferern und der Produktion, um. So beschäftigt Daimler bereits eine Arbeitsgruppe aus geübten Hackern, die schnell Sicherheitslücken finden sollen. Roboter sind besonders anfällig, daher befürchten Sicherheitsexperten, dass Hacker mit einem Produktionsstop drohen können und somit Millionenschäden verursachen. 
 
-**Das Auto fährt in der Cloud**
+## Das Auto fährt in der Cloud 
 
 In Zukunft müssen auch Autos vor Hackern geschützt werden, da sie bald bzw. teilweise jetzt schon permanent im Internet sind. Bereits 80 Prozent der Neuwagen sind vernetzt. Die junge Zielgruppe verlangt immer mehr nach Möglichkeiten, die Lieblingsapps auch im Auto nutzen zu können. Wolfgang Ziebart, ehemaliger Technik Vorstand von Jaguar, beschreibt treffend das Dilemma der Autoindustrie: „Drei Jahre entwickeln wir ein neues Auto, fünf Jahren produzieren wir es und zehn Jahre fährt es dann auf der Straße“. Keine noch so intelligente Infotainment- Entwicklung kann über eine so lange Zeitspanne aktuell bleiben. Die Autoindustrie hat erkannt, dass die Vernetzung des Automobils nach neuen Geschäftsmodellen verlangt. Von zentraler Bedeutung ist also die Update Fähigkeit der IT-Systeme. Da die Autobauer ihre eigenen Geschäftsmodelle etablieren, um das Heft des Handelns nicht ganz zu verlieren, kommt es immer wieder zu Machtkämpfen zwischen den Unternehmen. So kam es z.B. zu einem monatelangen Machtkampf zwischen Nokia und einem Konsortium deutscher Hersteller aus Audi, BMW und Daimler. Entgegen der aktuellen Navigationssysteme im Auto, die nur einen kleinen Teil an verfügbaren Daten anzeigen müssen, braucht das vernetzte, hochautomatisierte und autonome Fahren, Cloud-Plattformen, die die Verarbeitung und Aggregation verschiedenster Sensordaten, Informationen, etc. hochverfügbar halten soll. Es ist also keine Überraschung, dass „Big Data“ die Branche in Atem hält. Ein System, das einem Fahrer den nächsten freien Parkplatz anzeigt, wirkt dem großem Verkehr entgegen und erspart dem Fahrer viel Stress und Aufwand. Diese Informationen könnte man gegen eine Gebühr nur seinen Kunden zur Verfügung stellen. Solche Geschäftsmodelle elektrisieren derzeit die Branche. 
 Die Technik wird bald so weit sein, dass vollständige pilotierte Fahren zu ermöglichen, doch einen konkreten Starttermin möchte in der Branche niemand geben. Solche pilotierte Autos brauchen eine zuverlässige und schnelle Internetverbindung, um für Sicherheit und eine geringe Fehlerquote sorgen zu können. 
 
-**Skepsis gegenüber neuen Technologien?**
+## Skepsis gegenüber neuen Technologien?
 
 Deutschland hat Angst vor den Risiken der neuen Technologien. Ungeklärter Datenschutz setzt vielen neuen Geschäftsmodellen Grenzen. Bereits heute werden von der Werkstatt Fehler- und Datenspeicher ausgelesen und online übermittelt. Wem gehören diese Daten? Selbst Juristen sind sich noch nicht einig. Ein sorgfältiger und sicherer Umgang der Daten ist ein zentraler Faktor. Zu diesen Daten zählen auch Informationen wie Gefahrenstellen, Staus und Unfälle, aber auch Daten wie „automatisch die Zimmertemperatur erhöhen“, sobald sich der Fahrer seinem heim nähert.
 
-**Autohäuser sind vom Wandel auch betroffen**
+## Autohäuser sind vom Wandel auch betroffen
 
 Auch die Autohäuser müssen verstärkt digitalisieren, um mit dem vorhandenen digitalen Marketing und Vertriebsstrategien klarzukommen. Verlangt wird so etwas wie eine mobile Plattform, die rund um die Uhr erreichbare Cloud-Dienste anbietet, die den gesamten Lebenszyklus der Kundenbeziehungen abdecken. Einfach eine Vernetzung des Kunden mit dem Autohersteller, dem Autohaus, dem Fahrzeug und der Werkstatt. Nicht nur im digitalen Vertriebsprozess, sondern auch autonom fahrende Autos produzieren schnell riesige Datenmengen. Diese Mengen können schlecht im Auto verarbeitet und gespeichert werden. Damit die Bandbreiten und Kapazitäten für die vernetzte Mobilität ausreichen, sind immer schnellere und stabilere Mobilfunknetze nötig. 
 
-**Fazit**
+## Fazit
 
 Beim Thema Industrie 4.0 sind die deutschen Autobauer und Zulieferer gut dabei. Bei der Vernetzung des Autos und der App-Versorgung hat die IT Industrie die Nase vorn. Es ist nicht sicher wer in Zukunft die Mobilitätsangebote stellt. Der Vorsprung der Technik wird nicht mehr in PS, sondern in Gigabyte und Megabit pro Sekunde, gemessen. Das Internet und die Cloud verändern wie auch das Auto unsere Mobilität. 

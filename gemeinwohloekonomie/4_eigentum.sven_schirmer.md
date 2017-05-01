@@ -59,10 +59,3 @@ Eine extreme Ungleichverteilung an Immobilien wird hiermit umgangen.
 ### Freiheit und Gleichheit
 
 Das Eigentumsrecht wird auf ein für ein gutes Lebens nötiges Eigentum begrenzt, da sonst die Freiheiten anderer Menschen gefährdet werden.
-
-
-
-
-
-
-

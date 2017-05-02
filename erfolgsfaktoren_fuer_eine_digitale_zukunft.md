@@ -2,7 +2,7 @@
 
 ## Zusammenfassung des Buches:
 
-**Titel**: Erfolgsfaktoren für eine digitale Zukunft  
+**Titel**: Erfolgsfaktoren für eine digitale Zukunft - IT-Management in Zeiten der Digitalsierung und Industrie 4.0  
 **Verfasser**: Egmont Foth  
 **Verlag**: Springer Vieweg  
 **Jahr**: 2017  

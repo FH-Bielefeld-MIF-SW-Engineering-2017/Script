@@ -1,4 +1,4 @@
-# Lernen
+# 3 Lernen
 Als Softwareentwickler arbeitet man in der Regel mit einer großen Anzahl an Technologien zusammen. Technologien, die heute aktuell sind, sind es morgen eventuell nicht mehr. Um auf dem neusten Stand zu bleiben, muss man sich daher ständig in neue Technologien einlesen.
 
 Einer der wichtigsten Soft Skills ist daher, sich selbst etwas beizubringen. Doch wie lernen wir etwas am effektivsten? Es ist ein Mythos, dass wir alle auf verschiedenen Arten lernen. Wir lernen alle am besten, indem wir etwas ausprobieren oder es jemandem erklären und wir tendieren dazu einfacher zu lernen, wenn es uns interessiert. Man kann noch so viele Bücher übers Fahrradfahren lesen und noch so viele Videos schauen, wenn man es das erste Mal ausprobiert, wird es nicht sofort funktionieren. Trotzdem greifen viele Softwareentwickler zu einem Buch, um sich in eine neue Programmiersprache einzulesen. Anstatt dessen sollte man jedoch möglichst früh versuchen, etwas praktisch zu tun. Wir sind von Natur aus kreativ und neugierig. Nutzen wir diese Aspekte aus, können wir sowohl unsere Motivation, als auch unsere Lerngeschwindigkeit erhöhen.
@@ -8,7 +8,7 @@ Um eine neue Technologie zu erlernen, sind im Kern drei Punkte wichtig:
 * Was kann ich grob damit tun?
 * Was sind die Grundlagen? Dass heißt welche 20% muss ich lernen, um 80% meiner täglichen Aufgaben zu erledigen?
 
-## Die 10 Schritte
+## 3.1 Die 10 Schritte
 Dieses Kapitel soll anhand von zehn Schritten zeigen, wie wir diese Fragen beantworten können und es schaffen, möglichst schnell und effektiv etwas neues zu erlernen.
 
 ### Schritt 1: Sich einen Überblick verschaffen.
@@ -40,15 +40,15 @@ Sobald wir versuchen das Gelernte jemand anderem zu erklären, werden wir merken
 
 Diese Schritte stellen sicherlich keine „magische Formel“ dar. Wenn man merkt, dass es so formal nicht funktioniert, sollte man die Schritte anpassen oder weglassen. Die Schritte an sich sind auch nicht wichtig, wichtig ist es, das Konzept dahinter zu verstehen. Nur dann kann man ein eigenes System entwickeln, um sich selbst effizient etwas beizubringen.
 
-## Mentor
+## 3.2 Mentor
 Ein Mentor oder auch Trainer kann hilfreich sein, um neue Themen zu erlernen. Doch wie erkennt man einen geeigneten Mentor? Gute Mentoren sind meistens diejenigen, die die meisten Fehler durchlaufen haben. Allerdings muss der Mentor selbst das Thema nicht unbedingt beherrschen. Tiger Woods wird von jemandem trainiert, der selbst nicht so gut spielt wie er, aber ihm fallen Aspekte auf, die Tiger Woods nicht auffallen. Man sollte sich jemanden suchen, der bereits anderen geholfen hat, das zu erreichen, was man auch selbst erreichen möchte. Einen guten Mentor erkennt man auch oft daran, wie viele Personen er beeinflusst. Letztendlich muss man natürlich auch persönlich mit der Person zurechtkommen. Doch wo findet man so eine Person? Es gibt Portale, dort kann man für verschiedene Themen Mentoren bzw. Trainer mieten, doch man sollte sich eher im eigenen Umfeld umschauen. Eventuell kann ein Freund, ein Familienmitglied, ein Freund eines Freundes, ein Arbeitskollege oder eventuell auf der eigene Chef als Mentor fungieren. Doch selbst wenn man einen Mentor findet, heißt das noch lange nicht, dass er einem auch hilft. Erfolgreiche Personen sind oft beschäftigt und haben daher wenig Zeit. Eine Möglichkeit ist daher, immer etwas im Austausch anzubieten. Das kann beispielsweise schon ein Mittagessen sein, welches man für den Arbeitskollegen übernimmt. Außerdem ist es wichtig, nicht beim ersten „Nein“ aufzugeben. Man darf an dieser Stelle nicht zu nett sein und sollte wiederholt nachhaken.
 
 Andersrum betrachtet kann und sollte man auch selbst die Rolle eines Mentors einnehmen. Im Prinzip kann das jeder tun. Jeder weiß bereits etwas, was andere versuchen zu lernen. Als Mentor muss man, wie bereits erwähnt, nicht perfekt sein. Oft hilft es dem Lernenden schon, einen anderen Blickwinkel einzunehmen oder eine zweite Meinung zu geben. Vorteil der Mentor-Rolle ist, dass man dabei i.d.R. am meisten lernt. Dazu kommt, dass die Leute, denen man hilft sich oft an einen erinnern und einem später dafür an anderer Stelle helfen. Ein großes Problem ist jedoch, dass man irgendwann nicht mehr allen helfen kann, da auch Zeit für die eigenen Aufgaben bleiben muss. Dann ist es wichtig denen zu Helfen, die wirklich Lust haben etwas zu lernen und die entsprechende Motivation mitbringen.
 
-## Lehren
+## 3.3 Lehren
 Lehren ist der beste Weg, etwas zu lernen und wahrscheinlich der einzige Weg, etwas im Detail zu verstehen. Doch wir fühlen uns meist sehr unwohl, wenn wir daran denken zu lehren. Oft liegt das nicht daran, dass wir nicht lehren bzw. erklären können, sondern daran, dass wir nicht selbstbewusst genug sind. Wir möchten i.d.R. nur die Themen lehren, in denen wir selbst Experten sind. Doch um ein Experte in einem Thema zu werden, müssen wir zuerst lehren - ein Teufelskreis. Der Trick ist, viele von uns lehren, ohne es selbst zu bemerken. Lehren bedeutet nicht nur vor Gruppe von Leuten zu stehen und Themen zu erklären. Es geht vor allem darum, das Wissen zu Teilen. Wir haben alle schon einem Arbeitskollegen oder einem Kommilitonen etwas erklärt. Auch das ist Lehren. Weiter kann es hilfreich sein, einen eigenen Blog zu starten, Präsentationen im Unternehmen durchzuführen oder Videos bzw. Screencasts zu erstellen. Um Lehrer zu sein, braucht man keine Zertifikate und keinen Abschluss und man muss auch kein Experte sein. Wir alle sind bereits Lehrer.
 
-## Wissenslücken
+## 3.4 Wissenslücken
 Wir alle haben Wissenslücken und Schwächen, doch meistens fallen uns diese Lücken garnicht auf. Eine Möglichkeit Wissenslücken zu identifizieren, ist zu überlegen, wo man am meisten Zeit investiert. Meistens gibt es tägliche, wiederkehrende Aufgaben, die durch Wissenslücken verlangsamt werden. Ein Beispiel sind die Shortcuts der IDE. Wenn diese Shortcuts, die häufig benötigt werden, nicht bekannt sind, benötigt man für einfache Aufgaben wesentlich mehr Zeit. Eine weitere Möglichkeit um Wissenslücken aufzudecken, besteht darin, aktiv auf Verständnisprobleme zu achten und diese aufzulisten. Zusätzlich sollte man notieren, wie oft welches Verständnisproblem auftritt. Nicht jede Wissenslücke, die auftritt, muss unbedingt geschlossen werden. Aber anhand der Liste lassen sich Lücken finden, die besonders oft auftreten.
 
 In einem zweiten Schritt geht es darum, die Wissenslücken zu schließen. Der schwerste Teil, nämlich das Identifizieren der Wissenslücken, ist bereits getan. Wichtig ist herauszufinden, was man konkret lernen muss. Es ist wenig hilfreich zu wissen, dass man beispielsweise schlecht in Physik ist. Doch wenn man weiß, dass man nich versteht, wie z.B. Federn funktionieren, lässt sich diese Lücke einfach schließen. Außerdem sollte man während eines Gespräches zeitnah nachfragen, wenn man etwas nicht versteht. 
@@ -61,4 +61,5 @@ Jon Z. Sonmez
 Manning Publications Co. 2015  
 ISBN 9781617292392  
 Seite 157 bis 205
+
 

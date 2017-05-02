@@ -1,14 +1,12 @@
 # 2 Marketing yourself
 
-Zusammenfassung des zweiten Kapitels "Selbstmarketing" aus John Z. Sommez' Buch "Soft-Skills - The software developer's life manual"
-
 ## Marketing-Grundlagen für Programmier-Spezialisten
 
 Der Unterschied zwischen einem erfolgreichen Musiker und einem Superstar ist ihre Vermarktung, denn Marketing ist ein Talent-Multiplikator.
 
 ### Was ist Selbstmarketing?
 
-Selbstmarketing bedeutet, sich mit Menschen zu verbinden, die etwas haben wollen, was du bei dir hast oder in dir trägst. Es bedeutet, für andere einen (Mehr-)Wert zu generieren. Dabei kontorlliert die Person, die sich selbst vermarktet, was sie anderen vermittelt, welche Nachricht sie sendet und welches Bild sie vermitteln möchte.
+Selbstmarketing bedeutet, sich mit Menschen zu verbinden, die etwas haben wollen, was du bei dir hast oder in dir trägst. Es bedeutet, für andere einen \(Mehr-\)Wert zu generieren. Dabei kontorlliert die Person, die sich selbst vermarktet, was sie anderen vermittelt, welche Nachricht sie sendet und welches Bild sie vermitteln möchte.
 
 ### Warum Selbstmarketing wichtig ist
 
@@ -17,14 +15,13 @@ Selbstmarketing garantiert keinen Erfolg, aber es ist ein sehr wichtiges Element
 ### Wie du dich selbst vermarkten kannst
 
 * Alles beginnt damit, eine Markenpersönlichkeit von dir zu kreieren; etwas, was dich widerspiegelt. Treffe bewusste Entscheidungen darüber, wer du sein möchtest und wie du dieses Bild in der Welt darstellen möchtest. Außerdem solltest du eine familiäre Atmosphäre erzeugen, wenn dir jemand entgegentritt oder wenn es sich um ein Produkt handelt, welches du schon viele Male kreiert hast. Benutze viele Kanäle für das Selbstmarketing. Ein Blog kann die Basis für deinen Internet-Auftritt bilden, weil du dort den Informationsfluss vollständig steuern kannst und weil du so nicht von anderen Menschen und ihren Plattformen und Regeln abhängig bist.
-Dazu gibt es eine Strategie von dem Unternehmer Pat Flynn, die "Be everywhere" genannt wird. Sie besagt, dass du überall dort sein musst, wo du dich selber vermarkten möchtest; dies hat das Ziel, dass du überall dort auch eine gute Chance hast, von deiner gewünschten Zuhörerschaft gehört zu werden. Mögliche Kanäle sind Blog-Posts, Podcasts, Videos, Artikel in Fachzeitschriften, Bücher, Code-Camps und Konferenzen. Dabei solltest du nicht vergessen, dass all dies von deiner Fähigkeit abhängt, (Mehr-)Werte für andere zu generieren.
-
+  Dazu gibt es eine Strategie von dem Unternehmer Pat Flynn, die "Be everywhere" genannt wird. Sie besagt, dass du überall dort sein musst, wo du dich selber vermarkten möchtest; dies hat das Ziel, dass du überall dort auch eine gute Chance hast, von deiner gewünschten Zuhörerschaft gehört zu werden. Mögliche Kanäle sind Blog-Posts, Podcasts, Videos, Artikel in Fachzeitschriften, Bücher, Code-Camps und Konferenzen. Dabei solltest du nicht vergessen, dass all dies von deiner Fähigkeit abhängt, \(Mehr-\)Werte für andere zu generieren.
 
 ## Erschaffe eine Marke, die auf dich aufmerksam macht
 
 ### Was ist eine Marke
 
-Das Logo eines Unternehmens ist eine visuelle Erinnerung an seine Marke, aber es ist nicht die Marke selbst. Wenn du dieses Logo siehst, hast du Erwartungen an die Dienstleistung oder das Produkt. Eine Marke ist ein Versprechen, einen bestimmten (Mehr-)Wert zu erzeugen, in der Art, in der du es selber erwartest.
+Das Logo eines Unternehmens ist eine visuelle Erinnerung an seine Marke, aber es ist nicht die Marke selbst. Wenn du dieses Logo siehst, hast du Erwartungen an die Dienstleistung oder das Produkt. Eine Marke ist ein Versprechen, einen bestimmten \(Mehr-\)Wert zu erzeugen, in der Art, in der du es selber erwartest.
 
 ### Was eine Marke ausmacht
 
@@ -32,8 +29,8 @@ Du brauchst vier Dinge für eine erfolgreiche Marke: eine Nachricht, Visuelles, 
 
 ### Kreiere deine eigene Marke
 
-Entscheide zunächst, was du repräsentieren möchtest und definiere deine Nachricht dafür. Verkleinere deine Zuhörerschaft und wähle eine Nische aus (Spezialisierung). Der beste Weg für die Entscheidung, welche Nische du wählen sollst, erfolgt von einer rein strategischen Perspektive: Welchen Vorteil hast du von einer bestimmten, spezifischen Nische, die du nutzen kannst? Zögere nicht, deine Nische später zu verändern, wenn dies nötig ist.
-Schritte, eine Marke zu kreieren, sind: Definiere deine Nachricht, wähle deine Nische, erschaffe dein Motto, kreiere einen Elevator-Pitch und designe die visuellen Komponenten deiner Marke. Starte mit deinem Motto (Slogan), welches deine Marke in einem einzigen oder in zwei Sätzen darstellt. Ein Elevator-Pitch ist eine kurze Beschreibung dessen, was du machst und des einzigartigen Wertes, welchen du erschaffst (dies kann in der Zeit erklärt werden, die man benötigt, um mit einem Fahrtstuhl zu fahren). Dieser Elevator-Pitch stellt sicher, dass du und deine Marke konsistent seid und dass ihr immer die gleiche Nachricht vermittelt. Visuelle Komponenten sollten dabei helfen, diese Nachricht zu übermitteln und als visuelle Erinnerung dessen dienen, was deine Marke darstellen soll.
+Entscheide zunächst, was du repräsentieren möchtest und definiere deine Nachricht dafür. Verkleinere deine Zuhörerschaft und wähle eine Nische aus \(Spezialisierung\). Der beste Weg für die Entscheidung, welche Nische du wählen sollst, erfolgt von einer rein strategischen Perspektive: Welchen Vorteil hast du von einer bestimmten, spezifischen Nische, die du nutzen kannst? Zögere nicht, deine Nische später zu verändern, wenn dies nötig ist.  
+Schritte, eine Marke zu kreieren, sind: Definiere deine Nachricht, wähle deine Nische, erschaffe dein Motto, kreiere einen Elevator-Pitch und designe die visuellen Komponenten deiner Marke. Starte mit deinem Motto \(Slogan\), welches deine Marke in einem einzigen oder in zwei Sätzen darstellt. Ein Elevator-Pitch ist eine kurze Beschreibung dessen, was du machst und des einzigartigen Wertes, welchen du erschaffst \(dies kann in der Zeit erklärt werden, die man benötigt, um mit einem Fahrtstuhl zu fahren\). Dieser Elevator-Pitch stellt sicher, dass du und deine Marke konsistent seid und dass ihr immer die gleiche Nachricht vermittelt. Visuelle Komponenten sollten dabei helfen, diese Nachricht zu übermitteln und als visuelle Erinnerung dessen dienen, was deine Marke darstellen soll.
 
 ## Einen sehr erfolgreichen Blog kreieren
 
@@ -43,11 +40,11 @@ Ein Blog kann eine Menge an Informationen über einen Entwickler enthalten; z. B
 
 ### Kreiere einen Blog
 
-Anfangs kannst du eine kostenlose Software für deine Blog nutzen (z. B. WordPress). Später, oder wenn du einen Shop oder Ähnliches benötigst, ist es ratsam einen kostenpflichtigen Service zu nutzen, da so Vieles einfacher ist. Registriere deine eigene Domain, um SEO-Kriterien zu erfüllen.
+Anfangs kannst du eine kostenlose Software für deine Blog nutzen \(z. B. WordPress\). Später, oder wenn du einen Shop oder Ähnliches benötigst, ist es ratsam einen kostenpflichtigen Service zu nutzen, da so Vieles einfacher ist. Registriere deine eigene Domain, um SEO-Kriterien zu erfüllen.
 
 ### Schlüssel zum Erfolg
 
-Der wichtigste Aspekt auf dem Weg zum Erfolg als Blogger ist Konsistenz. Dies ist sehr wichtig, da dich so viele Menschen über Suchmaschinen finden können. Je höhere Qualität dein Inhalt hat, desto wahrscheinlicher ist es, dass Menschen zu deinem Blog zurückkehren oder dort etwas schreiben oder ihn in den sozialen Medien teilen, sodass dein Blog mit anderen Websites verlinkt wird (wichtiger Aspekt um in Suchmaschinen gefunden zu werden).
+Der wichtigste Aspekt auf dem Weg zum Erfolg als Blogger ist Konsistenz. Dies ist sehr wichtig, da dich so viele Menschen über Suchmaschinen finden können. Je höhere Qualität dein Inhalt hat, desto wahrscheinlicher ist es, dass Menschen zu deinem Blog zurückkehren oder dort etwas schreiben oder ihn in den sozialen Medien teilen, sodass dein Blog mit anderen Websites verlinkt wird \(wichtiger Aspekt um in Suchmaschinen gefunden zu werden\).
 
 ### Erhalte mehr Traffic
 
@@ -55,7 +52,7 @@ Starte damit, die Blogs anderer Leute zu kommentieren, die ähnliche Themen beha
 
 ### Ich kann dir keinen Erfolg garantieren
 
-## Dein oberstes Ziel: Generiere einen (Mehr-)Wert für andere
+## Dein oberstes Ziel: Generiere einen \(Mehr-\)Wert für andere
 
 * "If you help enough people get what they want, you will get what you want" - Zig Ziglar
 
@@ -69,7 +66,7 @@ Kostenlose Inhalte werden häufiger geteilt als solche, für die man bezahlen mu
 
 ### Der schnelle Weg zum Erfolg
 
-Wie kann dein Inhalt einen (Mehr-)Wert für andere generieren? Dein größter Erfolg ist es, wenn du die Probleme anderer Menschen lösen und ihnen auf diese Weise helfen kannst.
+Wie kann dein Inhalt einen \(Mehr-\)Wert für andere generieren? Dein größter Erfolg ist es, wenn du die Probleme anderer Menschen lösen und ihnen auf diese Weise helfen kannst.
 
 ### Biete mehr von dir an
 
@@ -79,7 +76,7 @@ Die produktivsten Menschen sind die hilfreichsten.
 
 ### Vergrößere dein Netzwerk
 
-Folge anderen Leuten oder frage ander deinem Netzwerk beizutreten. Viele Entwickler warten geradezu auf Leute, die ihnen folgen oder mit ihnen interagieren. Platziere deine Links zu deinen Social Media-Profilen in deine Online-Biographien, ans Ende deiner Blog-Beiträge oder auch in deine Email-Signaturen. 
+Folge anderen Leuten oder frage ander deinem Netzwerk beizutreten. Viele Entwickler warten geradezu auf Leute, die ihnen folgen oder mit ihnen interagieren. Platziere deine Links zu deinen Social Media-Profilen in deine Online-Biographien, ans Ende deiner Blog-Beiträge oder auch in deine Email-Signaturen.
 
 ### Nutze soziale Medien effektiv
 
@@ -144,6 +141,7 @@ When you first do something that makes you feel uncomfortable, you can's imagine
 
 Things will get easier over time. And when things go wrong while presenting you should just don't care. And after it's over, chances are no one will even remember it. If you want to succeed, you have to learn how to swallow your pride and get out there and not be afraid to make a fool of yourself
 
-### Mache kleine Schritte (oder springe ins kalte Wasser).
+### Mache kleine Schritte \(oder springe ins kalte Wasser\).
 
 Just diving in is the most effective way. But if you're nervous about doing speaking, writing, or something else, try to think of the smallest thing you can do that doesn't make you quite as nervous. Start with commenting and contribute to conversations but be prepared for criticism. Once you feel a bit braver, write your own blog posts like "how-tos". From there expand further by writing a guest post for someone else's blog or you can be interviewed on a podcast. And you might even join a club like Toastmasters to help you get used to speaking in public.
+

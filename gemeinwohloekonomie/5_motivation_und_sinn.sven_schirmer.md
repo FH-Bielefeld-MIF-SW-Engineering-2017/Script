@@ -1,6 +1,6 @@
-# 5. Motivation und Sinn
+# 5 Motivation und Sinn
 
-### Motivation
+## Motivation
 
 Bedenken hinsichtlich fehlender Motivation der einzelnen Marktteilnehmer in der Wirtschaft sollen mit den folgenden Punkten beseitigt werden:
 
@@ -9,22 +9,23 @@ Bedenken hinsichtlich fehlender Motivation der einzelnen Marktteilnehmer in der 
 3. Höhere Einkommen als 20000 US-Dollar machen nicht mehr glücklicher.
 4. Forschungen zeigen, dass Menschen durch das Streben nach Autonomie, Identität, Kompetenz, Beitrag, Gemeinschaft und Beziehung stärker motiviert werden als durch das Einkommen.
 
-* Autonomie. Menschen, die frei in ihren Gefühlen, Bedürfnissen und Gedanken sind.
-* Identität. Es ist nicht wichtig besser zu sein als andere, sondern anders.
-* Kompetenz. Kompetenzen lassen sich genauso in kooperativen Strukturen entwickeln, wie auch in Konkurrenzstrukturen.
-* Beitrag. Jeder Mensch will und kann seinen Beitrag leisten.
-* Gemeinschaft. Jeder Mensch sehnt sich nach einer Gemeinschaft und erfährt dort Geborgenheit, Sicherheit, Wertschätzung und Anerkennung.
-* Beziehung. Menschen sind am glücklichsten in Momenten von Verbundenheit mit sich selbst, mit anderen Mensch, mit der Natur oder mit dem großen Ganzen.
+5. Autonomie. Menschen, die frei in ihren Gefühlen, Bedürfnissen und Gedanken sind.
 
-Diese Punkte könnten in der Wirtschaft als Ziel bestimmt werden. 
+6. Identität. Es ist nicht wichtig besser zu sein als andere, sondern anders.
+7. Kompetenz. Kompetenzen lassen sich genauso in kooperativen Strukturen entwickeln, wie auch in Konkurrenzstrukturen.
+8. Beitrag. Jeder Mensch will und kann seinen Beitrag leisten.
+9. Gemeinschaft. Jeder Mensch sehnt sich nach einer Gemeinschaft und erfährt dort Geborgenheit, Sicherheit, Wertschätzung und Anerkennung.
+10. Beziehung. Menschen sind am glücklichsten in Momenten von Verbundenheit mit sich selbst, mit anderen Mensch, mit der Natur oder mit dem großen Ganzen.
+
+Diese Punkte könnten in der Wirtschaft als Ziel bestimmt werden.
 
 Das Kapital und die Stimmrechte haben in der Gemeinwohl – Ökonomie eine Mehrzahl an Menschen inne, sodass eine höhere Risikobereitschaft der Unternehmen gewährleistet ist.
 
-### Sinn
+## Sinn
 
 In der Gemeinwohl-Ökonomie ist der Sinn des Arbeitens eine Bedürfnisbefriedigung, Stärkung des Gemeinwohls und  sinnvolle Arbeit und nicht primär das Einkommen. Intrinsische Motivation ist zudem viel stärker als extrinsische. Die meisten Kinder werden zur Leistungserbringung durch extrinsische Motivation erzogen. Dieses Erlernte setzen sie später auch im Berufsleben um und  substituieren die elterliche Liebe durch Geld. Menschen sollen mehr auf ein gutes Zusammenleben achten und die Gefühle und Bedürfnisse anderer wahren.
 
-### Erziehung und Bildung
+## Erziehung und Bildung
 
 Durch das Umdenken der Bevölkerung auf das Gemeinwohl, sind die folgenden Unterrichtsfächer viel relevanter für den Schulbetrieb, als die derzeit Üblichen.
 
@@ -35,3 +36,6 @@ Durch das Umdenken der Bevölkerung auf das Gemeinwohl, sind die folgenden Unter
 5. Naturerfahrenskunde. Hier werden nicht nur biologische Sachverhalte gelehrt, sondern auch eine gute Beziehung zur Natur. Durch diese Beziehung wird die Lebensqualität gesteigert.
 6. Kunsthandwerk. Die Kinder sollen selber kleine Kunsthandwerksarbeiten erledigen, da dieses glücklich macht und außerdem die Befassung mit Materialien und Werkzeugen zu einem ganzheitlichen Leben dazu gehört. 
 7. Körpersensibilisierung. Dem Kindern wird gelehrt auf den eigenen Körper zu hören und ihn zu achten.
+
+
+

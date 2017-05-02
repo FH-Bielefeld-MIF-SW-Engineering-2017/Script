@@ -1,4 +1,4 @@
-# Soft skills - Marketing yourself
+# 2 Marketing yourself
 
 Zusammenfassung des zweiten Kapitels "Selbstmarketing" aus John Z. Sommez' Buch "Soft-Skills - The software developer's life manual"
 
@@ -146,7 +146,4 @@ Things will get easier over time. And when things go wrong while presenting you 
 
 ### Mache kleine Schritte (oder springe ins kalte Wasser).
 
-Just diving in is the most effective way. But if you're nervous about doing speaking, writing, or something else, try to think of the smallest thing you can do that doesn't make you quite as nervous. Start with commenting and contribute to conversations but be prepared for criticism. Once you feel a bit braver, write your own blog posts like "how-tos". From there expand further by writing a guest post for someone else's blog or you can be interviewed on a podcast. And you might even join a club like Toastmasters to help you get used to speaking in public
-
-
-
+Just diving in is the most effective way. But if you're nervous about doing speaking, writing, or something else, try to think of the smallest thing you can do that doesn't make you quite as nervous. Start with commenting and contribute to conversations but be prepared for criticism. Once you feel a bit braver, write your own blog posts like "how-tos". From there expand further by writing a guest post for someone else's blog or you can be interviewed on a podcast. And you might even join a club like Toastmasters to help you get used to speaking in public.

@@ -1,4 +1,4 @@
-## Transformation
+## 4.2 Transformation
 
 Im Bereich der Digitalisierung stehen Führungskräfte vor neuen Herausforderungen: Es müssen neue Ausrichtungen von Unternehmensstrategien vorgenommen und neue Orientierungen vorgegeben werden. Es sind Entscheidungen darüber zu treffen, was zu tun ist. Dies ist ein komplexer Prozess, welcher von vielen Faktoren abhängt. Neue Geschäftsmodelle sind notwendig, um auch im internationalen Bereich marktfähig zu sein. Technologien stehen hierbei nicht im Vordergrund. Vielmehr rücken Konzepte in den Fokus, um Dienstleistungen auf eine bessere Art und Weise erbringen. Dadurch werden Produkte und Dienstleistungen adaptiv und decken einen großen Kundennutzen ab. Es entstehen sogenannte hybride Leistungsbündel. Ein anschauliches Beispiel ist das Internet der Dinge: Produkte werden zu Services bzw. zu hybriden Leistungsbündeln.
 

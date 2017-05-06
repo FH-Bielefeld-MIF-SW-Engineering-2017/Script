@@ -131,3 +131,48 @@ Um die Stammdaten eines Unternehmens (Produkte, Lieferanten, Kunden, Mitarbeiter
 #### KPIs
 Kennzahlen oder auch „Key Performance Indicators“ (KPIs) machen es möglich komplexe Sachverhalte besser zu verfolgen zu können. Außerdem dienen sie dazu, den Erfüllungsgrad wichtiger Ziele zu messen. Daher sind sie unverzichtbar um wichtige Entscheidungen zu treffen. Mit Hilfe dieser Zahlen ist es einfacher Erfolg oder Misserfolg einer Entscheidung festzustellen. So können die gemessenen Zahlen vor der Entscheidung mit denen, die nach der Entscheidung erstellt worden verglichen werden.
 
+### Wie lässt sich eine IT-Organisation am besten optimieren?
+#### Due Diligence
+Als Due Diligence wird die Prüfung einer Organisation nach den Kategorien Stärken, Schwächen, Chancen und Risiken bezeichnet.
+Gründe für eine solche Prüfung könnten u.a. die Entwicklung einer IT-Strategie seien oder die Übernahme einer neuen Organisation.
+#### Business Plan
+Der Business Plan beschreibt den Ablauf, die Steuerung, die Vermarktung und die Finanzierung des Geschäfts.
+
+Bestandteile eines Business Plans sind:
+* Management Summary
+* Unternehmen
+* Portfolio
+* Markt und Wettbewerb
+* Marketing und Vertrieb
+* Management und Organisation
+* Drei-Jahres-Planung
+* Chancen und Risiken Finanzbedarf
+* Anlagen
+#### Business Case
+Ein Business Case dient dazu, die Wirtschaftlichkeit zu ermitteln und beinhaltet alle einmaligen sowie laufenden Kosten, den finanziellen Nutzen, sowie en daraus resultierenden Nettonutzen. Außerdem den ermittelten Return on Investment (ROI) und den Amortisationszeitraum.
+#### Programm- und Projektmanagement
+Zum **Programmmanagement** gehört die übergreifende Leitung und Steuerung inhaltlich zusammengehöriger Projekte, welche ein gemeinsames Ziel haben und dessen Termine und Inhalte meist voneinander abhängen.
+
+Das **Projektmanagement** umfasst das Initiieren, Planen, Steuern, Kontrollieren und Abschließen von Projekten, mit dem Ziel eines effizienten Ressourceneinsatzes.
+#### Change Management
+Änderungen an unternehmenskritischen Komponenten der IT-Landschaft, welche den bestehenden Betrieb von Business-Services gefährden können, werden mit Hilfe eines Change Managements durchgeführt.
+In einem Change Management werden Änderungsanforderungen (Change Requests) nach ihren Risiken und ihrer Notwendigkeit analysiert. Dies wird gemacht, um vorbeugende Maßnahmen für die Risiken sowie Fall-Back-Maßnahmen festzulegen und außerdem kann an dieser analysiere über die Umsetzung entschieden werden.
+
+### CIO
+#### Wie wird man CIO?
+Um CIO zu werden hat man zwei Möglichkeiten, zum einen kann man diesen Posten über die klassische Laufbahn in einer IT-Organisation erreichen oder als Quereinsteiger mit einer General-Management-Laufbahn. Doch unabhängig welchen Weg man wählt, es gelten dieselben Anforderungen. Diese sind Engagement, ein hohes Maß an Eigeninitiative, überdurchschnittliche Leistungsbereitschaft, Lernbereitschaft und Offenheit zeigen.
+#### Aufgaben
+Die Aufgaben eines CIOs sind vielfältig, zu seinen Hauptaufgaben gehören, einen stabilen Betrieb der IT-Landschaft zu gewährleisten und Services sowie Innovationen in der vereinbarten Zeit, zum vereinbarten Preis und in der vereinbarten Qualität zu liefern.
+#### Führungsinstrumente
+<p align="center">
+<img src="../images/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel7.NiklasHarting.png" alt="Fuehrungsinstrumente" style="width: 400px;"/>
+</p>
+#### Erfolgsfaktoren
+Um als CIO Erfolg zu haben sind einige Faktoren sehr wichtig. Zum einen sollte der CIO eine sehr gute Kommunikationsfähigkeit haben, komplexe Sachverhalte verständlich erläutern, erfolgreich verhandeln und gut präsentieren können.   
+Doch der CIO alleine garantiert keinen Erfolg für die IT-Organisation, denn dazu gehört ebenso ein leistungsstarkes Team, welches selbstständig und eigenverantwortlich Arbeit und den wichtigen Situation vom CIO unterstützt und gefördert wird.
+#### Networking mit anderen CIOs
+Das Netzwerken mit anderen Geschäftspartner, Kollegen oder Bekannten ist wichtig, denn durch diese Beziehungen ist es möglich, auf das Wissen und die Erfahrungen von anderen zurückzugreifen.
+Bekannte Networking Plattformen sind z.B. LinkedIn.com oder Xing.de welches im deutschsprachigen Raum das bekannteste ist.
+#### Work-Life-Balance
+In Zeiten des mobilen Arbeitens und der dauerhaften Erreichbarkeit, ist die Balance zwischen Berufs- und Privatleben besonders wichtig um sowohl im Job sowie auch Privat Erfolg zu haben.  
+Um eine gute Balance zu erreichen sollte man in seiner Freizeit mal das Diensthandy ausschalten und sich die Zeit mit Sport vertreiben oder zusammen mit Freunden oder der Familie verbringen.

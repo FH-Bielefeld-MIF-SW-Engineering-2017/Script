@@ -1,4 +1,4 @@
-## Anforderungen
+## 4.3. Anforderungen
 
 Die Digitalisierung bietet diverse Anreize für Unternehmen. Die Aussicht auf effizientere Prozesse sowie einen höheren Grad an Vernetzung sind hier nur zwei Beispiele. Um den Vorgang der digitalen Transformation jedoch optimal voranzutreiben bzw. eine nachhaltige Verankerung im Unternehmen zu gewährleisten, sind verschiedenartige Anforderungen zu erfüllen. Nur wenn die Weichen innerhalb der verschiedenen Bereiche richtig gestellt sind, kann mit einem positiven Ergebnis gerechnet werden. Die Erfolgsfaktoren werden im Weiteren skizziert.
 

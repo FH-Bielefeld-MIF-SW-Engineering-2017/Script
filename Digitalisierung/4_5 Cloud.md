@@ -2,7 +2,9 @@
 
 ### Cloud als Motor der Digitalisierung
 
-_**\[entnommen von "Was treibt die Digitalisierung?" Kapitel 1\]**_
+_**\[entnommen aus "Was treibt die Digitalisierung?" Kapitel 1\]**_
+
+---
 
 Das Rückgrat der Digitalisierung bildet die Cloud. Das "Internet of Things" wächst kontinuierlich, eine große Menge von Daten sammelt sich an, welche jederzeit von überall abrufbar sein müssen. Sie kann in Echtzeit Daten sammeln und auswerten für eine schier unbegrenzte Anzahl von Anwendern. Allerdings gibt es dafür einige Anforderungen:
 
@@ -45,7 +47,9 @@ Auch in der Logistik wo es um Warenströme geht, lassen sich Clouds einsetzen um
 
 ### Cloud in der Praxis
 
-_**\[entnommen von "Was treibt die Digitalisierung?" Kapitel 6, 10, 11 & 12\]**_
+_**\[entnommen aus "Was treibt die Digitalisierung?" Kapitel 6, 10, 11\]**_
+
+---
 
 Die Cloud setzt Trends, ermöglicht neue Geschäftsmodelle und ist der Motor der Digitalisierung, doch wie sieht sie in der Praxis aus? Ein wichtiger Bestandteil sind branchenübergreifende und bracheninterne Beziehungen, die richtige Vertriebsstrategie auf neuen digitalen Wegen ein weiterer. Und zu Letzt muss die Basis stimmen, also die Technologie im Rechenzentrum in Form von virtuellen IT-Ressourcen. Faktoren wie Verfügbarkeit und Skalierbarkeit spielen eine wesentliche Rolle.  
 Über kurz oder lang unterliegen alle Unternehmen und Geschäftsmodelle der digitalen Transformation. Das ist „die“ Chance der IT-Industrie, denn die Cloud als technologischer Grundstein, bekommt dabei eine Schlüsselrolle. Die Cloud ebnet den Weg für digitalisierte Geschäftsprozesse, Produkte und durchdigitalisierte Unternehmensstrategien.
@@ -164,6 +168,10 @@ Fazit: "Die Cloud ist wie die Erfindung des Buchdruckes. Plötzlich haben alle M
         Deutschlehrer, sondern der Buchhändler des Vertrauens." \(S. 146\)
 
 ### Fazit
+
+_**\[entnommen aus"Was treibt die Digitalisierung?" Kapitel 6 & 12\]**_
+
+---
 
 Es gibt nicht nur „die eine“ Cloud. Die Cloud ist abhängig vom Unternehmen und von den Anforderungen der Unternehmens-IT. Wichtig ist, dass ein Unternehmen ihren richtigen Weg definieren und Cloud-Services mit der notwendigen Flexibilität auswählen und diese immer wieder anzupassen. Die Effizienz der Cloud ist nicht nur von ein paar Server-Racks im Rechenzentrum abhängig. Es braucht Erfahrung, Technologien und Qualität. Idealerweise ist die Cloud in Deutschland beheimatet, damit auch das Thema Datenschutz genügend berücksichtigt wird. Dieses Gesamtpaket wird auch benötigt, damit die Cloud tatsächlich für jedes Unternehmen Zukunftsfähigkeit bringt.
 

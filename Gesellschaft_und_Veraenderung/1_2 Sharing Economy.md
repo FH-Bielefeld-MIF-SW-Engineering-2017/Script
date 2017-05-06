@@ -1,1 +1,0 @@
-#Sharing EconomySharing Economy Introduction

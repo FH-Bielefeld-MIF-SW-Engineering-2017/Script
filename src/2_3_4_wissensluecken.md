@@ -1,0 +1,6 @@
+### 2.3.4 Wissenslücken
+
+Wir alle haben Wissenslücken und Schwächen, doch meistens fallen uns diese Lücken garnicht auf. Eine Möglichkeit Wissenslücken zu identifizieren, ist zu überlegen, wo man am meisten Zeit investiert. Meistens gibt es tägliche, wiederkehrende Aufgaben, die durch Wissenslücken verlangsamt werden. Ein Beispiel sind die Shortcuts der IDE. Wenn diese Shortcuts, die häufig benötigt werden, nicht bekannt sind, benötigt man für einfache Aufgaben wesentlich mehr Zeit. Eine weitere Möglichkeit um Wissenslücken aufzudecken, besteht darin, aktiv auf Verständnisprobleme zu achten und diese aufzulisten. Zusätzlich sollte man notieren, wie oft welches Verständnisproblem auftritt. Nicht jede Wissenslücke, die auftritt, muss unbedingt geschlossen werden. Aber anhand der Liste lassen sich Lücken finden, die besonders oft auftreten.
+
+In einem zweiten Schritt geht es darum, die Wissenslücken zu schließen. Der schwerste Teil, nämlich das Identifizieren der Wissenslücken, ist bereits getan. Wichtig ist herauszufinden, was man konkret lernen muss. Es ist wenig hilfreich zu wissen, dass man beispielsweise schlecht in Physik ist. Doch wenn man weiß, dass man nich versteht, wie z.B. Federn funktionieren, lässt sich diese Lücke einfach schließen. Außerdem sollte man während eines Gespräches zeitnah nachfragen, wenn man etwas nicht versteht.
+

@@ -1,4 +1,4 @@
-## 1.1.5 Weiterentwicklung der Demokratie
+### 1.1.5 Weiterentwicklung der Demokratie
 
 Die gewählten Repräsentanten der Demokratie entfernen sich weiter von den Bürgerinteressen, deren Stimme sie erhalten haben. Diese Distanz wird mit folgend erklärt.
 

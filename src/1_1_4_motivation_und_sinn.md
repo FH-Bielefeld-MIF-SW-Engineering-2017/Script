@@ -1,4 +1,4 @@
-## 1.1.4 Motivation und Sinn
+### 1.1.4 Motivation und Sinn
 
 *Motivation*
 

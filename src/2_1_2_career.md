@@ -1,5 +1,3 @@
-# 1 Career Teil 2
-
 ## Working remotely survival strategies
 
 In diesem Unterkapitel diskutiert der Autor über Strategien für den Fall, dass man von zuhause aus arbeitet. Er spricht davon, dass heutzutage eine Menge unabhängiger Software-Entwickler per Remote-Desktop oder über ein virtuelles Büro von zuhause aus arbeiten. Er geht dabei auf die Vor- und Nachteile der Heimarbeit ein. Als Nachteil sieht er zum Beispiel die Isolation, Einsamkeit und mangelnde Selbstmotivation. Er erwähnt, dass er anfangs die Vorteile dabei sah, aus seinem Bett morgens direkt an den Arbeitsplatz zu kommen. Sagt aber auch, dass er die entstandenen Herausforderungen unterschätzt hat.  

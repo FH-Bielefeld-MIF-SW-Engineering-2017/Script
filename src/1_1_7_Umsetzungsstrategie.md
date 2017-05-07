@@ -1,4 +1,4 @@
-## 1.1.7 Umsetzungsstrategie
+### 1.1.7 Umsetzungsstrategie
 
 Im Jahr 2010 wurde die erste Fassung der Gemeinwohl-Ökonomie mit 15 sogenannten "Attac-UnternehmerInnen" entwickelt. Ein erster Versuch der Umsetzung wurde gestartet. Hieran waren und sind verschiedene Personen- und Wirkungsgruppen Beteiligt.
 

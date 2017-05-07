@@ -1,4 +1,4 @@
-# 4 Produktivität \(Productivity\)
+## 2.4 Produktivität \(Productivity\)
 
 Wenn man Produktivität definieren will, kann man es mit einfachen Worten verdeutlichen: " Mach' deine Arbeit." bzw. "Tu' es."  
 Trotz der Trivialität dieses Imperativsatzes fällt es vielen Menschen dennoch schwer dies auch auszuführen. Dies ist zumeist Folge von Ablenkung wie z.B. Social Media Sites oder E-Mails und Mangel an Eigendisziplin.   

@@ -1,6 +1,4 @@
-# 2 Marketing yourself
-
-## Marketing-Grundlagen für Programmier-Spezialisten
+## 2.2 Marketing yourself
 
 Der Unterschied zwischen einem erfolgreichen Musiker und einem Superstar ist ihre Vermarktung, denn Marketing ist ein Talent-Multiplikator.
 

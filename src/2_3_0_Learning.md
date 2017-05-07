@@ -1,4 +1,4 @@
-# 3 Lernen
+## 2.3 Lernen
 
 Als Softwareentwickler arbeitet man in der Regel mit einer großen Anzahl an Technologien zusammen. Technologien, die heute aktuell sind, sind es morgen eventuell nicht mehr. Um auf dem neusten Stand zu bleiben, muss man sich daher ständig in neue Technologien einlesen.
 

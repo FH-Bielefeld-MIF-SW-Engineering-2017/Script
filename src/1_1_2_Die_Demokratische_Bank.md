@@ -1,4 +1,4 @@
-## 1.1.2 Die Demokratische Bank
+### 1.1.2 Die Demokratische Bank
 
 Durch die Liberalisierung und Globalisierung der Finanzmärkte entstehen zunehmend Global-Player-Banken, die nicht der Gesellschaft und dem Gemeinwohl dienen, sondern das primäre Ziel von Profit verfolgen. Die Gemeinwohl-Ökonomie benötigt daher ein anderes Finanzsystem. Die Hauptaufgabe der Banken war die Umwandlung von Spargeldern in zugängliche Kredite für regionale Unternehmen und Privathaushalte. Dieser Aufgabe kommen Sie jedoch teilweise oder unzureichend nach.  
 Der liberalisierte Markt fördert die globale wettbewerbsfähige Größe von Banken. Dies ist jedoch das explizite Ziel des EU-Finanzbinnenmarktes und des Weltmarktes für Finanzdienstleistungen durch die WTO. Die Banken werden dadurch ökonomisch und politisch systemrelevant. Durch die steigende Macht können sie sich zusätzlich gegen Zerteilung, Regulierungen und Besteuerung wehren.  

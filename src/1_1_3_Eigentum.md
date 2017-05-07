@@ -1,4 +1,4 @@
-## 1.1.3 Eigentum
+### 1.1.3 Eigentum
 
 Derzeit ist das Eigentum ungleich verteilt, sodass einzelne Personen und Unternehmen Medien und Politik kontrollieren können. Das Privateigentum gefährdet die Demokratie und die Freiheit und Gleichheit der Menschen. Die Gemeinwohl-Ökonomie möchte diese Problematiken umgehen, sodass eine ethische und trotzdem liberale Marktwirtschaft entsteht.
 

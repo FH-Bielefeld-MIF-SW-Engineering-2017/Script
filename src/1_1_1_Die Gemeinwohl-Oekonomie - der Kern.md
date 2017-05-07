@@ -1,4 +1,4 @@
-## 1.1.1 Die Gemeinwohl-Ökonomie - der Kern
+### 1.1.1 Die Gemeinwohl-Ökonomie - der Kern
 
 *Ziel des Wirtschaftens*
 

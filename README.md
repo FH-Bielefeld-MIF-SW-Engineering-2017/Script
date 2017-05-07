@@ -2,6 +2,7 @@
 
 Dies ist das gemeinsam erstellte Modul Script zu den Themen, die im Sommersemester 2017 an der FH-Bielefeld im Modul behandelt wurden.
 
+## Für den ersten Schrtitt der Zusammenfassungen
 Anleitung:
 
 * die Texte werden mit Mardown erstellt
@@ -39,4 +40,15 @@ Anleitung:
   * nach PDF exportieren
 
 
+## Für den Schritt 2 - Merge
 
+* Die Kapitel liegen im Unterordner src/
+* Benannt nach dem schema KAP_SEC_SUBSEC_titel.md 
+  * z.b. 1_0_0_start.md -> # 1 Start 
+  * z.b. 1_2_3_mitte.md -> ### 1.2.3 Mitte
+  * ... 
+* Jedes Dokument beginnt mit einer Headline und der jeweiligen Kapitelnummer (ggf. noch zu Automatisieren)
+* das Skript bin/build_summary.sh generiert ein Inhaltsverzeichnis 
+
+
+* Wie das ganze zum GitBook wird ist noch zu klären

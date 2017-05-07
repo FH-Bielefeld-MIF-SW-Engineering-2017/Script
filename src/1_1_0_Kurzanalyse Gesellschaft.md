@@ -1,4 +1,4 @@
-# 1.1 Kurzanalyse
+## 1.1 Kurzanalyse
 
 Werte bilden die Grundorientierung unseres Lebens. Sie bilden einen Leitstern in unserem Leben und prägen unsere zwischenmenschlichen Beziehungen. Zu diesen Werten gehören z.B.   
 Vertrauensbildung, Ehrlichkeit, Wertschätzung, Respekt, Kooperation, gegenseitige Hilfe und Teilen. Auch die Wirtschaft besitzt Werte, die jedoch bei genauerer Betrachtung konträr   

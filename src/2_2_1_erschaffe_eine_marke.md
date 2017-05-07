@@ -1,0 +1,12 @@
+### 2.2.3 Erschaffe eine Marke, die auf dich aufmerksam macht
+
+Das Logo eines Unternehmens ist eine visuelle Erinnerung an seine Marke, aber es ist nicht die Marke selbst. Wenn du dieses Logo siehst, hast du Erwartungen an die Dienstleistung oder das Produkt. Eine Marke ist ein Versprechen, einen bestimmten \(Mehr-\)Wert zu erzeugen, in der Art, in der du es selber erwartest.
+
+### Was eine Marke ausmacht
+
+Du brauchst vier Dinge für eine erfolgreiche Marke: eine Nachricht, Visuelles, Konsistenz und eine wiederholte Marken-Darstellung: Eine Nachricht ist das, was du versuchst zu vermitteln und Gefühle, die du mit deiner Marke versuchst, hervorzurufen. Visuelles repräsentiert deine Marke: Ein Logo ist eine einfache Repräsentation, ein Set an Farben und ein Style, der die Marke repräsentiert, machen auf sie aufmerksam. Sei konsistent, sodass ein Kunde keine wechselnden Erfahrungen mit deiner Marke hat. Eine wiederholte Marken-Darstellung ist essentiell, weil ein Kunde sich dadurch an dich und deine Marke erinnert, wenn er das Visuelle deiner Marke einige Male gesehen hat. So kann er diese Erfahrungen mit deiner Dienstleistung oder mit deinem Produkt verknüpfen.
+
+### Kreiere deine eigene Marke
+
+Entscheide zunächst, was du repräsentieren möchtest und definiere deine Nachricht dafür. Verkleinere deine Zuhörerschaft und wähle eine Nische aus \(Spezialisierung\). Der beste Weg für die Entscheidung, welche Nische du wählen sollst, erfolgt von einer rein strategischen Perspektive: Welchen Vorteil hast du von einer bestimmten, spezifischen Nische, die du nutzen kannst? Zögere nicht, deine Nische später zu verändern, wenn dies nötig ist.  
+Schritte, eine Marke zu kreieren, sind: Definiere deine Nachricht, wähle deine Nische, erschaffe dein Motto, kreiere einen Elevator-Pitch und designe die visuellen Komponenten deiner Marke. Starte mit deinem Motto \(Slogan\), welches deine Marke in einem einzigen oder in zwei Sätzen darstellt. Ein Elevator-Pitch ist eine kurze Beschreibung dessen, was du machst und des einzigartigen Wertes, welchen du erschaffst \(dies kann in der Zeit erklärt werden, die man benötigt, um mit einem Fahrtstuhl zu fahren\). Dieser Elevator-Pitch stellt sicher, dass du und deine Marke konsistent seid und dass ihr immer die gleiche Nachricht vermittelt. Visuelle Komponenten sollten dabei helfen, diese Nachricht zu übermitteln und als visuelle Erinnerung dessen dienen, was deine Marke darstellen soll.

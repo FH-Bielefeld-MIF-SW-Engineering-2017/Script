@@ -1,7 +1,7 @@
 # Summary
-* [Gesellschaft und Veränderung](src/1_0_0-Gesellschaft_und_Veraenderung.md)
-  * [1.1 Kurzanalyse](src/1_1_0_Kurzanalyse Gesellschaft.md)
-    * [1.1.1 Die Gemeinwohl-Ökonomie - der Kern](src/1_1_1_Die Gemeinwohl-Oekonomie - der Kern.md)
+* [1 Gesellschaft und Veränderung](src/1_0_0-Gesellschaft_und_Veraenderung.md)
+  * [1.1 Kurzanalyse](src/1_1_0_Kurzanalyse.md)
+    * [1.1.1 Die Gemeinwohl-Ökonomie - der Kern](src/1_1_1_Gemeinwohl-Oekonomie.md)
     * [1.1.2 Die Demokratische Bank](src/1_1_2_Die_Demokratische_Bank.md)
     * [1.1.3 Eigentum](src/1_1_3_Eigentum.md)
     * [1.1.4 Motivation und Sinn](src/1_1_4_motivation_und_sinn.md)
@@ -10,7 +10,7 @@
     * [1.1.7 Umsetzungsstrategie](src/1_1_7_Umsetzungsstrategie.md)
   * [1.2 Sharing Economy](src/1_2_0_Sharing_Economy.md)
     * [1.2.1 Crowdsourcing als neue Organisationsform](src/1_2_1_Crowdsourcing_als_neue_Organisationsform.md)
-    * [1.2.2 Beispiel: Vernetzte Arbeits- und Lebensräume](src/1_2_2 Vernetzte_Arbeits_und_Lebensräume.md)
+    * [1.2.2 Beispiel: Vernetzte Arbeits- und Lebensräume](src/1_2_2_arbeit_leben_vernetzt.md)
     * [1.2.3 Vernetztes Wissen](src/1_2_3_Vernetztes_Wissen.md)
     * [1.2.4 Beispiel: vernetzte Dienstleistungen](src/1_2_4_Vernetzte_Dienstleistungen.md)
 * [2 SoftSkills](src/2_0_0_softskills.md)
@@ -21,10 +21,6 @@
     * [2.1.13 Möchtest Du ein Startup gründen?](src/2_1_13_startup.md)
     * [2.1.1 Beginnen mit einem Bang: Mache nicht, was alle anderen machen](src/2_1_1_bang.md)
     * [2.1.2 Denk über die Zukunft nach](src/2_1_2_Zukunft.md)
-  * [Working remotely survival strategies](src/2_1_2_career.md)
-  * [Fake it till you make it](src/2_1_2_career.md)
-  * [Resumes are boring - Let's fix that](src/2_1_2_career.md)
-  * [Don't get religious about technology](src/2_1_2_career.md)
     * [2.1.3 People Skills](src/2_1_3_people_skills.md)
     * [2.1.4 Vorstellungsgespräche](src/2_1_4_Vorstellungsgespraeche.md)
     * [2.1.5 Welche Beschäftigungsmöglichkeiten gibt es?](src/2_1_5_Beschaeftigungsmoelgichkeiten.md)

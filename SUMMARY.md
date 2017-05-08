@@ -48,5 +48,5 @@
 * [Zusammenfassung](zusammenfassung.md)
   * Beispielkapitel 1
   * Beispielkaptil 2
-* MS Cloud Design Patterns
+* [MS Cloud Design Patterns](ms-cloud-design-patterns.md)
 

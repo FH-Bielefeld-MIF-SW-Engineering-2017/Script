@@ -1,0 +1,4 @@
+# Compute Resource Consolidation Pattern
+
+
+

@@ -55,6 +55,7 @@
   * [10 Harmonisierung und Standardisierung durch die Cloud](was_treibt_die_digitalisierung/10_harmonisierung.lukas_taake.md)
   * [11 100 Prozent Sicherheit - ein erstrebenswertes Ziel?](was_treibt_die_digitalisierung/11_100_prozent_sicherheit.lukas_taake.md)
   * [12 Fazit und Ausblick](was_treibt_die_digitalisierung/12_fazit_und_ausblick.lukas_taake.md)
-
-
+* [Vorbereitung](vorbereitung.md)
+  * [kap1](vorbereitung/kap1.md)
+  * [kap2](vorbereitung/kap2.md)
 

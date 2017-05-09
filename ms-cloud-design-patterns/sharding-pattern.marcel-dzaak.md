@@ -45,9 +45,3 @@ Nachteile: Keine optimale Balance zwischen den Shards. Rebalancing ist schwer.
 ### The Hash strategy
 Aus mehreren Attributen werden Hashes gebildet, welche abgefragt werden können. Durch diese Strategie soll ein Balance der Zugriffe unter den Shards erreicht werden. Dies ist vor allem sinnvoll in Umgebungen, mit sehr vielen Zugriffen.
 Vorteile: Hashermittlung kann Overhead erzeugen. Rebalancing ist schwer.
-
-
-
-
-
-

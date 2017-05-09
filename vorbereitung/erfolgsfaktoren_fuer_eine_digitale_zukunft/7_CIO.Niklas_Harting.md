@@ -8,7 +8,7 @@ Die Aufgaben eines CIOs sind vielfältig, zu seinen Hauptaufgaben gehören, eine
 
 ## 7.3 Führungsinstrumente
 <p align="center">
-  <img src="../images/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel7.NiklasHarting.png" alt="Fuehrungsinstrumente" style="width: 400px;"/>
+  <img src="../assets/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel7.NiklasHarting.png" alt="Fuehrungsinstrumente" style="width: 400px;"/>
 </p>
 
 ## 7.4 Erfolgsfaktoren

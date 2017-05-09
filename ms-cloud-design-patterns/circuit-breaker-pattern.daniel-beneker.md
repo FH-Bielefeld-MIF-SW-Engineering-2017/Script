@@ -11,7 +11,9 @@ Es gibt zwei Arten von Fehlern: Kurzlebige Fehler, die sich oft nach kurzer Zeit
 Die Idee ist, das Programm davon abzuhalten Operationen, die sehr wahrscheinlich fehlschlagen, \(erneut\) auszuführen. In Abgrenzung dazu führt das „Retry Pattern“ Operationen erneut aus, wenn man davon ausgeht, dass sie funktionieren.  
 Das Circuit Breaker Pattern ist ein Proxy für Operationen die fehlschlagen können. Der Proxy misst die Anzahl vorheriger Fehler und entscheidet auf der Grundlage, ob weitere Operationen zugelassen werden oder nicht.
 
-Implementieren lässt sich dieses verhalten als State Machine. Die folgende Abbildung stellt die State Machine mit den drei Zuständen Closed, Open und Half-Open dar.![](/images/circuit-breaker-pattern.daniel-beneker.png)
+Implementieren lässt sich dieses verhalten als State Machine. Die folgende Abbildung stellt die State Machine mit den drei Zuständen Closed, Open und Half-Open dar.
+
+![](/assets/circuit-breaker-pattern.daniel-beneker.png)
 
 ### Status: Closed
 

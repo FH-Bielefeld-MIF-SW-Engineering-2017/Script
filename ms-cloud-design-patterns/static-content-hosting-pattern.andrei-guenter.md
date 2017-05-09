@@ -1,0 +1,4 @@
+# Static Content Hosting Pattern
+
+
+

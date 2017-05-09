@@ -1,0 +1,4 @@
+# Competing Consumers Pattern
+
+
+

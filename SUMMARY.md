@@ -49,6 +49,7 @@
   * Beispielkapitel 1
   * Beispielkaptil 2
 * [MS Cloud Design Patterns](ms-cloud-design-patterns.md)
+  * [Einleitung](ms-cloud-design-patterns/einleitung.andrei-guenther.md)
   * [Cashe-Aside Pattern](ms-cloud-design-patterns/cashe-aside-pattern.nils-kohlmeier.md)
   * [Circuit Breaker Pattern](ms-cloud-design-patterns/circuit-breaker-pattern.daniel-beneker.md)
   * [Competing Consumers Pattern](ms-cloud-design-patterns/competing-consumers-pattern.jonas-wiese.md)

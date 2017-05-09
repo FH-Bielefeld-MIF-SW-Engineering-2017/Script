@@ -64,4 +64,5 @@
   * [Static Content Hosting Pattern](ms-cloud-design-patterns/static-content-hosting-pattern.andrei-guenter.md)
   * [Throttling Pattern](ms-cloud-design-patterns/throttling-pattern.oliver-nagel.md)
   * [Asynchronous Messaging Primer](ms-cloud-design-patterns/asynchronous-messaging-primer.jonathan-jansen.md)
+  * [Valet Key Pattern](ms-cloud-design-patterns/valet-key-pattern.marvin-schirrmacher.md)
 

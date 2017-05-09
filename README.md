@@ -28,7 +28,7 @@ Anleitung:
 
 * es wird nur noch mit Github gearbeitet und nicht mehr auf dem GitBook direkt
 
-* jeder arbeitet auf einem eigenen Branch \(nicht master branch\)
+* jeder arbeitet auf einem eigenen Branch \(z. B. "florenz" und nicht master branch\)
 * dieser wird per pull request an github geschickt und vom Admin gemerget bzw. mit Kommentar abgelehnt, falls etwas nicht passt
 * auf gitbook kann man sich die aktuelle Version ansehen \(sobald der merge durchgeführt wurde\)
 
@@ -37,6 +37,3 @@ Anleitung:
   * im Chrome-Browser rechte Maustaste
   * Drucken
   * nach PDF exportieren
-
-
-

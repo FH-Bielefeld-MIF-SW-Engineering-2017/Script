@@ -37,11 +37,3 @@ In diesem Status wird ein Teil der Anfragen zugelassen. Mit diesem Status wird v
 * Overhead: Ein Circuit Breaker kann Ziel sehr vieler Anfragen werden und sollte daher nur einen kleinen Overhead erzeugen.
 * Ressourcen differenzieren: Angenommen in einem Data-Store-Service ist eine Datei nicht mehr erreichbar, dann könnte es sein, dass der Circuit Breaker in den Status „Open“ wechselt und alle Anfragen blockiert, obwohl alle anderen Dateien des Data-Stores problemlos erreichbar sind.
 * Fehlgeschlagene Anfragen erneut ausführen: Statt in einem Fehlerfall direkt eine Exception zu werfen, können auch alle Anfragen gesammelt werden und ausgeführt werden, sobald der Service wieder erreichbar ist.
-
----
-**Quelle:**  
-Cloud Design Patterns  
-A. Homer, J Sharp, L. Brader, M. Narumoto, T. Swanson  
-Microsoft 2015  
-ISBN 979-1-62114-036-8 
-Seite 14 bis 22 

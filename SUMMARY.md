@@ -49,4 +49,15 @@
   * Beispielkapitel 1
   * Beispielkaptil 2
 * [MS Cloud Design Patterns](ms-cloud-design-patterns.md)
+  * [Cashe-Aside Pattern](ms-cloud-design-patterns/cashe-aside-pattern.nils-kohlmeier.md)
+  * [Circuit Breaker Pattern](ms-cloud-design-patterns/circuit-breaker-pattern.daniel-beneker.md)
+  * [Competing Consumers Pattern](ms-cloud-design-patterns/competing-consumers-pattern.jonas-wiese.md)
+  * [Compute Resource Consolidation Pattern](ms-cloud-design-patterns/compute-resource-consolidation-pattern.malte-berg.md)
+  * [Command and Query Responsibility Segregation \(CQRS\) Pattern](ms-cloud-design-patterns/command-and-query-responsibility-segregation-cqrs-pattern.tolga-aydemir.md)
+  * [Federated Identity Pattern](ms-cloud-design-patterns/federated-identity-pattern.niklas-harting.md)
+  * [Leader Election Pattern](ms-cloud-design-patterns/leader-election-pattern.fabian-lorenz.md)
+  * [Queue-Based Load Leveling Pattern](ms-cloud-design-patterns/queue-based-load-leveling-pattern.tim-jastrzembski.md)
+  * [Static Content Hosting Pattern](ms-cloud-design-patterns/static-content-hosting-pattern.andrei-guenter.md)
+  * [Throttling Pattern](ms-cloud-design-patterns/throttling-pattern.oliver-nagel.md)
+  * [Asynchronous Messaging Primer](ms-cloud-design-patterns/asynchronous-messaging-primer.jonathan-jansen.md)
 

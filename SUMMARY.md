@@ -57,6 +57,7 @@
   * [Command and Query Responsibility Segregation \(CQRS\) Pattern](ms-cloud-design-patterns/command-and-query-responsibility-segregation-cqrs-pattern.tolga-aydemir.md)
   * [Federated Identity Pattern](ms-cloud-design-patterns/federated-identity-pattern.niklas-harting.md)
   * [Gatekeeper Pattern](ms-cloud-design-patterns/gatekeeper-pattern.timo-rolfsmeier.md)
+  * [External Configuration Store Pattern yannick kloss](ms-cloud-design-patterns/external-configuration-store-pattern.yannick-kloss.md)
   * [Health Endpoint Monitoring Pattern](ms-cloud-design-patterns/health-endpoint-monitoring-pattern.alexander-schwietert.md)
   * [Leader Election Pattern](ms-cloud-design-patterns/leader-election-pattern.fabian-lorenz.md)
   * [Index Table Pattern](ms-cloud-design-patterns/index-table-pattern.lukas-taake.md)
@@ -67,5 +68,4 @@
   * [Throttling Pattern](ms-cloud-design-patterns/throttling-pattern.oliver-nagel.md)
   * [Valet Key Pattern](ms-cloud-design-patterns/valet-key-pattern.marvin-schirrmacher.md)
   * [Asynchronous Messaging Primer](ms-cloud-design-patterns/asynchronous-messaging-primer.jonathan-jansen.md)
-  * [External Configuration Store Pattern yannick kloss](ms-cloud-design-patterns/external-configuration-store-pattern.yannick-kloss.md)
 

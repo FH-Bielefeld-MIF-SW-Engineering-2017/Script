@@ -8,5 +8,5 @@
 **Jahr**: 2014  
 **ISBN**: 978-1-62114-036-8
 
-Zusammenfassung von: Nils Kohlmeier, Daniel Beneker, Jonas Wiese, Malte Berg, Tolga Aydemir, Niklas Harting, Timo Rolfsmeier, Lukas Taake, Fabian Lorenz, Philipp Viertel, Tim Jastrzembski, Andrei Günther, Oliver Nagel, Marvin Schirrmacher, Jonathan Jansen
+Zusammenfassung von: Nils Kohlmeier, Daniel Beneker, Jonas Wiese, Malte Berg, Tolga Aydemir, Niklas Harting, Timo Rolfsmeier, Lukas Taake, Fabian Lorenz, Philipp Viertel, Tim Jastrzembski, Marcel Dzaak, Andrei Günther, Oliver Nagel, Marvin Schirrmacher, Jonathan Jansen
 

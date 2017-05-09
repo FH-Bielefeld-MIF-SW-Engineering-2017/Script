@@ -63,11 +63,11 @@
   * [Index Table Pattern](ms-cloud-design-patterns/index-table-pattern.lukas-taake.md)
   * [Materialized View Pattern](ms-cloud-design-patterns/materialized-view-pattern.philipp-viertel.md)
   * [Priority Queue Pattern lutz winkelmann](ms-cloud-design-patterns/priority-queue-pattern.lutz-winkelmann.md)
+  * [Even Sourcing Pattern](ms-cloud-design-patterns/even-sourcing-pattern.sven-schirmer.md)
   * [Queue-Based Load Leveling Pattern](ms-cloud-design-patterns/queue-based-load-leveling-pattern.tim-jastrzembski.md)
   * [Sharding Pattern](ms-cloud-design-patterns/sharding-pattern.marcel-dzaak.md)
   * [Static Content Hosting Pattern](ms-cloud-design-patterns/static-content-hosting-pattern.andrei-guenter.md)
   * [Throttling Pattern](ms-cloud-design-patterns/throttling-pattern.oliver-nagel.md)
   * [Valet Key Pattern](ms-cloud-design-patterns/valet-key-pattern.marvin-schirrmacher.md)
   * [Asynchronous Messaging Primer](ms-cloud-design-patterns/asynchronous-messaging-primer.jonathan-jansen.md)
-  * [Even Sourcing Pattern](ms-cloud-design-patterns/even-sourcing-pattern.sven-schirmer.md)
 

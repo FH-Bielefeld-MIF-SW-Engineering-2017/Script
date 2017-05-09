@@ -4,17 +4,15 @@ Mit diesem Pattern lässt sich auf Fehler, die unterschiedlich lange dauern,  an
 
 ## Kontext und Problem
 
-Es gibt zwei Arten von Fehlern: Kurzlebige Fehler, die sich oft nach kurzer Zeit auflösen, wie beispielsweise ein kurzeitig langsames Netzwerk und größere Fehler, die aus unerwarteten Ereignissen resultieren. Im letzteren Fall ist es sinnlos den ausgefallenen Service weiter anzusprechen. In diesem Fall sollte das Programm den Fehler schnell akzeptieren und entsprechend damit umgehen. 
+Es gibt zwei Arten von Fehlern: Kurzlebige Fehler, die sich oft nach kurzer Zeit auflösen, wie beispielsweise ein kurzeitig langsames Netzwerk und größere Fehler, die aus unerwarteten Ereignissen resultieren. Im letzteren Fall ist es sinnlos den ausgefallenen Service weiter anzusprechen. In diesem Fall sollte das Programm den Fehler schnell akzeptieren und entsprechend damit umgehen.
 
 ## Lösung
 
-Die Idee ist, das Programm davon abzuhalten Operationen, die sehr wahrscheinlich fehlschlagen, (erneut) auszuführen. In Abgrenzung dazu führt das „Retry Pattern“ Operationen erneut aus, wenn man davon ausgeht, dass sie funktionieren.
+Die Idee ist, das Programm davon abzuhalten Operationen, die sehr wahrscheinlich fehlschlagen, \(erneut\) auszuführen. In Abgrenzung dazu führt das „Retry Pattern“ Operationen erneut aus, wenn man davon ausgeht, dass sie funktionieren.  
 Das Circuit Breaker Pattern ist ein Proxy für Operationen die fehlschlagen können. Der Proxy misst die Anzahl vorheriger Fehler und entscheidet auf der Grundlage, ob weitere Operationen zugelassen werden oder nicht.
 
-Implementieren lässt sich dieses verhalten als State Machine. Die folgende Abbildung stellt die State Machine mit den drei Zuständen Closed, Open und Half-Open dar.
+Implementieren lässt sich dieses verhalten als State Machine. Die folgende Abbildung stellt die State Machine mit den drei Zuständen Closed, Open und Half-Open dar.![](/images/circuit-breaker-pattern.daniel-beneker.png)
 
-![State Machine](https://github.com/FH-Bielefeld-MIF-SW-Engineering-2017/Script/blob/master/images/circuit-breaker-pattern.daniel-beneker.png „State Machine")
- 
 ### Status: Closed
 
 Dies ist der initiale Zustand. Alle Anfragen durchlaufen den Proxy und werden zugelassen. Kommt es bei einer Anfrage zu einem Fehler, wird er mit Hilfe eines Zählers registriert. Erreicht dieser Zähler einen Schwellwert, wird in den Status „Open“ gewechselt. Der Zähler sollte periodisch zurück gesetzt werden, damit gelegentliche Fehler nicht dazu führen, dass immer in den „Open“ Status gewechselt wird.
@@ -37,3 +35,6 @@ In diesem Status wird ein Teil der Anfragen zugelassen. Mit diesem Status wird v
 * Overhead: Ein Circuit Breaker kann Ziel sehr vieler Anfragen werden und sollte daher nur einen kleinen Overhead erzeugen.
 * Ressourcen differenzieren: Angenommen in einem Data-Store-Service ist eine Datei nicht mehr erreichbar, dann könnte es sein, dass der Circuit Breaker in den Status „Open“ wechselt und alle Anfragen blockiert, obwohl alle anderen Dateien des Data-Stores problemlos erreichbar sind.
 * Fehlgeschlagene Anfragen erneut ausführen: Statt in einem Fehlerfall direkt eine Exception zu werfen, können auch alle Anfragen gesammelt werden und ausgeführt werden, sobald der Service wieder erreichbar ist.
+
+
+

@@ -60,8 +60,8 @@
   * [Leader Election Pattern](ms-cloud-design-patterns/leader-election-pattern.fabian-lorenz.md)
   * [Materialized View Pattern](ms-cloud-design-patterns/materialized-view-pattern.philipp-viertel.md)
   * [Queue-Based Load Leveling Pattern](ms-cloud-design-patterns/queue-based-load-leveling-pattern.tim-jastrzembski.md)
+  * [Index Table Pattern](ms-cloud-design-patterns/index-table-pattern.lukas-taake.md)
   * [Static Content Hosting Pattern](ms-cloud-design-patterns/static-content-hosting-pattern.andrei-guenter.md)
   * [Throttling Pattern](ms-cloud-design-patterns/throttling-pattern.oliver-nagel.md)
   * [Asynchronous Messaging Primer](ms-cloud-design-patterns/asynchronous-messaging-primer.jonathan-jansen.md)
-  * [Index Table Pattern](ms-cloud-design-patterns/index-table-pattern.lukas-taake.md)
 

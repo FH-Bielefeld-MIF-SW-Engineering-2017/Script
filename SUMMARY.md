@@ -70,4 +70,5 @@
   * [Throttling Pattern](ms-cloud-design-patterns/throttling-pattern.oliver-nagel.md)
   * [Valet Key Pattern](ms-cloud-design-patterns/valet-key-pattern.marvin-schirrmacher.md)
   * [Asynchronous Messaging Primer](ms-cloud-design-patterns/asynchronous-messaging-primer.jonathan-jansen.md)
+  * [Pipes and Filters Pattern](ms-cloud-design-patterns/pipes-and-filters-pattern.benjamin-schmidt.md)
 

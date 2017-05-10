@@ -18,7 +18,9 @@ Zur Lösung der vorangegangenen Problematik dient das sogenannte Gatekeeper Patt
 
 In der Praxis kann der Gatekeeper als eine zusätzliche Serverinstanz verstanden werden, welche eine Vermittlerfunktion zwischen den Clients und dem Cloud-Server einnimmt \(siehe Abb. 2\). Anfragen seitens der Benutzer werden initial an den Gatekeeper geleitet und von diesem verarbeitet. Anschließend stellt der Gatekeeper eine Anfrage an den Cloud-Server, der ihm im Bestfall ein passendes Ergebnis liefert. Dieses übermittelt der Gatekeeper letztlich an den Benutzer und schließt somit die Anfrage ab.
 
-![](/assets/Gatekeeper-Pattern_Timo Rolfsmeier.png)\(Abbildung 2: Anwendung des Gatekeeper Pattern\)
+![](/assets/Gatekeeper-Pattern_Timo Rolfsmeier.png)
+
+\(Abbildung 2: Anwendung des Gatekeeper Pattern\)
 
 Die Aufgabe des Gatekeepers besteht zum einen darin, die direkte Kommunikation von Client und Server zu unterbinden. Der Benutzer soll demnach keine Kenntnis vom Cloud-Server besitzen, sondern lediglich von der zwischengelagerten Schnittstelle. Des Weiteren trägt der Gatekeeper für eine geeignete Verarbeitung der Benutzeranfragen Sorge. Idealerweise werden nur solche Anfragen an den Cloud-Server weitergeleitet, die von rechtmäßigen Benutzern stammen bzw. keine Gefahr für die Sicherheit des Systems sowie die Integrität der Daten darstellen. Ggf. kann auch eine Überarbeitung der Anfragen dabei helfen, dass keine Sicherheitsrisiken eingegangen werden. Es ist hervorzuheben, dass der Gatekeeper ausschließlich Anfragen behandelt und übermittelt. Er hat beispielsweise keinen direkten Zugriff auf die Daten bzw. Dienste des Servers. Hierin liegt zugleich die Kernidee des Patterns. Sollte der Intermediär von Angreifern befallen werden, resultiert keine Gefahr für die Benutzer bzw. den Cloud-Betreiber. Der Eindringling besitzt mithilfe des übernommenen Gatekeepers keine Kontrolle über den Cloud-Server und hat demnach auch keinen Zugriff auf vertrauliche Ressourcen.
 

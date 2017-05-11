@@ -46,8 +46,8 @@
     * [7 Beispiele, Verwandte und Vorbilder](vorbereitung/gemeinwohloekonomie/7_beispiel_verwandte_vorbilder.oliver_nagel.md)
     * [8 Umsetzungsstrategie](vorbereitung/gemeinwohloekonomie/8_Umsetzungsstrategie.Jonathan_Jansen.md)
 * [Zusammenfassung](zusammenfassung.md)
-  * Beispielkapitel 1
-  * Beispielkaptil 2
+  * [Beispielkapitel 1](zusammenfassung/beispielkapitel-1.md)
+  * [Beispielkaptil 2](zusammenfassung/beispielkaptil-2.md)
 * [MS Cloud Design Patterns](ms-cloud-design-patterns.md)
   * [Einleitung](ms-cloud-design-patterns/einleitung.andrei-guenther.md)
   * [Cashe-Aside Pattern](ms-cloud-design-patterns/cashe-aside-pattern.nils-kohlmeier.md)
@@ -71,4 +71,5 @@
   * [Throttling Pattern](ms-cloud-design-patterns/throttling-pattern.oliver-nagel.md)
   * [Valet Key Pattern](ms-cloud-design-patterns/valet-key-pattern.marvin-schirrmacher.md)
   * [Asynchronous Messaging Primer](ms-cloud-design-patterns/asynchronous-messaging-primer.jonathan-jansen.md)
+  * [Schedular Agent Supervisor Pattern christian holzberger](ms-cloud-design-patterns/schedular-agent-supervisor-pattern.christian-holzberger.md)
 

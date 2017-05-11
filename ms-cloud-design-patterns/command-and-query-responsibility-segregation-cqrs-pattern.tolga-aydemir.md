@@ -36,7 +36,6 @@ Außerdem kann die Lese-Datenbank und die Schreib-Datenbank dahingehend optimier
   - Wenn bei den Schreiboperationen viel Business-Logik auf die Daten angewandt wird und diese Daten immerzu validiert werden, um die Konsistenz der Daten zu gewährleisten. Das Lese-Modell gibt nur eine einfache DTO wieder und besitzt keinernei Business-Logik in diesem Fall.
   - Wenn die Leseoperationen deutlich öfter stattfinden als Schreiboperationen und das Ziel der schnellere Zugriff auf die Daten ist.
   - Wenn bei dem Entwicklungsprozess Entwickler-Teams mit unterschiedlichen Erfahrungswerten arbeiten. So kann das erfahrenere Team die komplexen Schreib-Modelle implementieren und das weniger erfahrenere Team implementiert die Lese-Modelle und kümmert sich um das User Interface.
-  - 
 
 
 ## Wann sollte CQRS nicht verwendet werden

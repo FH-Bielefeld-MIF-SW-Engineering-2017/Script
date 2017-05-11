@@ -19,6 +19,3 @@ Je nach Typ des Speichers kann es von Vorteil sein, wenn die Softwarekomponente,
 * Wenn das Standard Konfigurationssystem nicht alle geforderten Konfigurationseinstellungen unterstützt
 * Wenn ein ergänzender Speicher für einige Konfigurationen benötigt wird
 * Wenn ein vereinfachter Mechanismus für die Administration von mehreren Anwendungen benötigt wird
-
-
-

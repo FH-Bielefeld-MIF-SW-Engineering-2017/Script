@@ -28,7 +28,7 @@ Diese Datenmodelle können die selbe physische Datenbank ansprechen, jedoch mach
 Die Lese-Datenbank kann dann ein `read-only`-Duplikat der Schreib-Datenbank sein. Dadurch kann die Skalierung der Infrastruktur deutlich vereinfacht werden, da (meistens) deutlich mehr Leseoperationen in einer Applikation stattfinden, als Schreiboperationen. Das heißt, es können mehrere Lese-Datenbanken aufgesetzt werden, um so die Arbeitsgeschwindigkeit der Applikation zu erhöhen.
 Außerdem kann die Lese-Datenbank und die Schreib-Datenbank dahingehend optimiert werden, dass diese verschiedene Normalisierungsgrade haben. Die Schreib-Datenbank kann zum Beispiel nach der dritten Normalform optimiert werden. Die Lese-Datenbank kann wiederum eine denormalisierte Datenbank verwenden, um möglichst schnelle Abfragen zu ermöglichen.
 
-![][/assets/cqrs.png]
+![](/assets/cqrs.png)\(Abbildung 1: Eine mögliche Implementierung des CQRS-Pattern. Quelle: https://msdn.microsoft.com/en-us/library/jj591573.aspx\)
 
 
 ## Wann sollte CQRS verwendet werden

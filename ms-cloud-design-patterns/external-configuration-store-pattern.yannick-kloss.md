@@ -1,0 +1,4 @@
+# External Configuraton Store Pattern
+
+
+

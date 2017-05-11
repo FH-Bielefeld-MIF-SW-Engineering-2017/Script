@@ -8,5 +8,5 @@
 **Jahr**: 2014  
 **ISBN**: 978-3-552-06291-7
 
-Zusammenfassung von: Nils Kohlmeier, Tolga Aydemir, Yannick Kloss
+Zusammenfassung von: Oliver Nagel, Jonathan Jansen und Sven Schirmer
 

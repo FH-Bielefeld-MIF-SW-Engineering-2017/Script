@@ -63,6 +63,7 @@
   * [Leader Election Pattern](ms-cloud-design-patterns/leader-election-pattern.fabian-lorenz.md)
   * [Index Table Pattern](ms-cloud-design-patterns/index-table-pattern.lukas-taake.md)
   * [Materialized View Pattern](ms-cloud-design-patterns/materialized-view-pattern.philipp-viertel.md)
+  * [Pipes and Filters Pattern](ms-cloud-design-patterns/pipes-and-filters-pattern.benjamin-schmidt.md)
   * [Priority Queue Pattern](ms-cloud-design-patterns/priority-queue-pattern.lutz-winkelmann.md)
   * [Queue-Based Load Leveling Pattern](ms-cloud-design-patterns/queue-based-load-leveling-pattern.tim-jastrzembski.md)
   * [Sharding Pattern](ms-cloud-design-patterns/sharding-pattern.marcel-dzaak.md)

@@ -12,7 +12,7 @@ Abbildung 1 veranschaulicht die Funktionsweise des Federated Identity Pattern, w
 <p align="center">
   <img src="../assets/federated-identity-pattern.niklas-harting.png" alt="Authentifizierung" style="width: 350px;"/>
    <br>
-   \(Abbildung 1: Übersicht über eine Authentifizierung\)
+   (Abbildung 1: Übersicht über eine Authentifizierung)
 </p>
 
 ## Berücksichtigungen

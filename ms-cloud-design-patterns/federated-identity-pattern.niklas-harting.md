@@ -19,9 +19,9 @@ Abbildung 1 veranschaulicht die Funktionsweise des Federated Identity Pattern, w
 Wenn man dieses Pattern verwendet, sollte man verschiedene Aspekte beachten:
 * Wenn die Anwendung auf mehrere Rechenzentren verteilt werden soll, muss der Identitätsmanagement Mechanismus in den Rechenzentren ebenfalls bereitstehen, um die Zuverlässigkeit und Verfügbarkeit der Anwendung zu gewährleisten.
 * Wenn man einen Identity Provider bereitstellt muss beachtet werden, dass in der Regel keine Informationen über den authentifizierten Benutzer außer einer E-Mail-Adresse und einem Namen zur Verfügung stehen.
-* Wenn mehr als ein Identity Provider für die Anwendung bereitsteht, muss erkannt werden, zu welchem Identity Provider der Anwender weitergeleitet werden muss.
+* Wenn mehr als ein Identity Provider für die Anwendung bereitsteht muss erkannt werden, zu welchem Identity Provider der Anwender weitergeleitet werden muss.
 
 ## Anwendungsfälle
-Dieses Pattern wird sehr häufig in SaaS (Software as a Service) Anwendung verwendet, um den Nutzern neben der Standard Anmeldung eine Anmeldung über ihre Accounts für die Sozialen Netzwerke bereitzustellen.  
+Dieses Pattern wird sehr häufig in SaaS (Software as a Service) Anwendung verwendet, um den Nutzern neben der Standard Anmeldung, eine Anmeldung über ihre Accounts für die Sozialen Netzwerke bereitzustellen.  
 Weitere Anwendungsfälle sind Enterprise Anwendungen, Business-to-Business Anwendungen, Anwendungen welche mit dritt Anbieter Software interagieren sowie Unternehmen, die ihre IT-Systeme zusammengefasst haben.
 

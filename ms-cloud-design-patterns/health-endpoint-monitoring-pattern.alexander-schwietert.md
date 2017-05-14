@@ -18,18 +18,18 @@ Auch hängt die Performance und Verfügbarkeit letzten Endes von der Hardware un
 
 #### Das Pattern
 
-Das Pattern besteht aus 2 wesentlichen Vorgängen bzw. Element. Zum einen aus dem Kontroll-Tool das die Kontrollanfrage an einen frei konfigurierbaren Endpunkt einer Cloud Applikation stellt und zum anderen die Cloud Applikation die auf Anfrage ihre jeweiligen Checks durchführt. Diese können Kontrollen von weiteren genutzten Services inkludieren, sowie Kontrollen der Datenbankanbindungen und des Cloudspeichers. Ein entsprechender Response Code wird an das Kontroll-Tool zurückgesendet, der die Ergebnisse der Kontrollen ausdrückt \(siehe Abbildung 1\).
+Das Pattern besteht aus 2 wesentlichen Vorgängen bzw. Elementen. Zum einen aus dem Kontroll-Tool, das die Kontrollanfrage an einen frei konfigurierbaren Endpunkt einer Cloud Applikation stellt. Zum anderen die Cloud Applikation, die auf Anfrage ihre jeweiligen Checks durchführt. Diese können Kontrollen von weiteren genutzten Services inkludieren, sowie Kontrollen der Datenbankanbindungen und des Cloudspeichers. Ein entsprechender Response Code wird an das Kontroll-Tool zurückgesendet \(siehe Abbildung 1\).
 
 ![](/assets/health_monitoring_1.jpg)\(Abbildung 1: Übersicht des Patterns\)
 
-Das Kontroll-Tool analysiert anschließend des gesendet Response Code gegen seit Set von frei konfigurierbaren Regeln, die festlegen wie welche Ergebnisse zu bewerten sind.
+Das Kontroll-Tool analysiert anschließend den gesendeten Response Code gegen ein Set von frei konfigurierbaren Regeln, die festlegen wie welche Ergebnisse zu bewerten sind.
 
 Zusätzlich können weitere Checks durchgeführt werden.
 
-* Detaillierte Analyse über den Inhalt der Antwort abseits des Codes, der weitere Information über potenziell teilweise fehlgeschlagene Tests geben könnte, selbst wenn der Response Code 200\(OK\) war
+* Detaillierte Analyse des Inhalts der Antwort abseits des Codes, der z.B. weitere Information über teilweise fehlgeschlagene Tests geben könnte, selbst wenn der gegebene Response Code 200\(OK\) war
 * Das Messen der Antwortzeit zur Überprüfung der Performance der Applikation und der Netzwerkgeschwindigkeit
 * Auslaufende SSL Zertifikate abfragen
-* Messen eines DNS Lookups auf die URL der Applikation, sowie Kontrolle der zurückgegebene URL des DNS Lookups auf ihre Korrektheit 
+* Messen eines DNS Lookups auf die URL der Applikation, sowie Kontrolle der zurückgegebenen URL des DNS Lookups auf ihre Korrektheit 
 
 Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von der verschiedenen Standorten abfragen zu lassen um evtl. Unterschiede ausfindig zu machen. Die Tests sollten auch gegen Service-Instanzen von Kunden laufen, wenn also ein Kunde seinen Cloudspeicher auf mehre Standorte verteilt hat müssen alle Standorte kontrolliert werden.
 

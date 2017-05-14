@@ -29,4 +29,3 @@ Dieses Pattern ist hilfreich für:
 <li>Applikationen bei denen sich die Konfigurationen oft ändern und die Änderung nicht den Neustart der Applikation benötigen sollte.
 </ul>
 Nicht hilfreich wäre es für Laufzeitkomponenten, die so aufgebaut sind, dass sie die Konfiguration nur in ihrer Startzeit laden und der Aufwand diese Komponenten anzupassen im Vergleich zum Neustarten und einer kurzen Downtime nicht gerechtfertigt ist.
-

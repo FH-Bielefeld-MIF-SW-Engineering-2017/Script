@@ -2,10 +2,14 @@
 Das **Queue-Based Load Leveling Pattern** besteht darin, dass man Services um eine asynchrone Queue erweitert, welche die Anfragen der Tasks entgegennimmt und dem Service weiterreicht. Das soll verhindern, dass bei zu vielen Anfragen der Tasks an den Service dieser überlastet und seine Funktionalität verzögert oder gar nicht erfüllen kann.  Das Pattern erhöht somit die Verfügbarkeit und Verlässlichkeit der Services.
 ## Kontext und Problem
 Viele Programme in der Cloud basieren darauf, dass sie Tasks ausführen, welche Services aufrufen. Wenn aber zu viele Tasks auf denselben Service zur gleichen Zeit zugreifen wollen, kann dies zur einer Überlastung des Service führen, was sich in Verzögerungen oder nicht Erreichbarkeit äußern kann (siehe Bild).
+
 ![Bild: Queue-Based_Load_Leveling_Pattern.HeavyLoadAndItsConsequence.jpg](/assets/Queue-Based_Load_Leveling_Pattern.HeavyLoadAndItsConsequence.jpg "Hoher Arbeitsfluss führt dazu, dass einige Tasks ihre Anfrage nicht senden können. (Quelle: Cloud Design Patterns)")
+
 ## Lösung
-Der Einsatz einer asynchronen Queue kann zwar die Verzögerung der Anfrage der Tasks nicht vollständig verhindern, sorgt aber dafür, dass die Anfragen nicht unbeantwortet bleiben. 
+Der Einsatz einer asynchronen Queue kann zwar die Verzögerung der Anfrage der Tasks nicht vollständig verhindern, sorgt aber dafür, dass die Anfragen nicht unbeantwortet bleiben.
+
 ![Bild: Queue-Based_Load_Leveling_Pattern.AsynchronousQueue.jpg]( /assets/Queue-Based_Load_Leveling_Pattern.AsynchronousQueue.jpg "Prinzip der asynchronen Queue  (Quelle: Cloud Design Patterns)")
+
 Die Anfragen der Tasks werden in die Queue gesteckt und geordnet nach Zeitpunkt des Eintreffens abgearbeitet. 
 Das bietet folgende Vorteile:
 * Die Verfügbarkeit der Services wird maximiert, da Verzögerungen weniger Auswirkungen auf die Funktionalität haben. Selbst wenn der Service temporär nicht erreichbar ist, können die Anfragen nachgearbeitet werden.

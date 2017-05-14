@@ -34,3 +34,23 @@ Ein Index Table kann auch verwendet werden, um den Zugriff auf Daten in
 Shards zu optimieren. Dabei wird der für das Sharding gehashte
 Primär Schlüssel als Referenz auf den geshardeten Fact Table verwendet.
 Der Index Table bleibt dabei zusammenhängend.
+
+Probleme und Nachteile dieses Patterns sind zum einen der zusätzliche Aufwand,
+die Daten über mehrere Tabelle hinweg konsistent zu halten, bzw. die Notwendigkeit
+zweier Abfragen, um einen Datensatz auszulesen; je nach verwendeter Strategie.
+Darüber hinaus muss auch bei Datenäderungen Konsistenz gewährleistet sein.
+
+Sinnvoll ist die Anwendung des Patterns, wenn häufig Daten anhand von Nichtsclüssel-Attributen
+abgefragt werden. Dabei bestehen allerdings die folgenden Ausnahmen:
+- __Häufig ändernde Daten__, durch die der Mehraufwand zum Pflegen der Index Tabellen
+  die Performance-Gewinne überschreitet.
+- __Kleine Wertemenge__ als neuer Schlüssel, wie z.B. Geschlechterinformationen (m/w)
+- __Unbalancierte Daten__, bei denen z.B. in 90% der selbe Wert enthalten ist.
+  Eine Ausnahme dieser Ausnahme ist es, wenn häufig die verbleibenden 10% abgefragt werden.
+
+---
+
+_Verwandte Entwursmuster sind:_
+- Data Consistency Primer
+- Sharding Pattern
+- Materialized View Pattern

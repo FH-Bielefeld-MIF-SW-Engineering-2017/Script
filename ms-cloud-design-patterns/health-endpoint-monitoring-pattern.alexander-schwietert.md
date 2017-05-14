@@ -10,7 +10,7 @@ Es ist üblich bzw. in vielen Fällen eine feste Voraussetzung, dass Webapplikat
 
 Auch hängt die Performance und Verfügbarkeit letzten Endes von der Hardware und der Netzwerkstärke des Clouddienstleisters ab. Es ist also zwingend notwendig in regulären Abstände die Verfügbarkeit der eigenen Services in der Cloud zu überprüfen.
 
-#### Lösung
+#### Das Pattern
 
 Das Pattern besteht aus 2 wesentlichen Vorgängen bzw. Element. Zum einen aus dem Kontroll-Tool das die Kontrollanfrage an einen frei konfigurierbaren Endpunkt einer Cloud Applikation stellt und zum anderen die Cloud Applikation die auf Anfrage ihre jeweiligen Checks durchführt. Diese können Kontrollen von weiteren genutzten Services inkludieren, sowie Kontrollen der Datenbankanbindungen und des Cloudspeichers. Ein entsprechender Response Code wird an das Kontroll-Tool zurück gesendet, der die Ergebnisse der Kontrollen ausdrückt \(siehe Abbildung 1\).
 
@@ -27,7 +27,7 @@ Zusätzlich können weitere Checks durchgeführt werden.
 
 Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von der verschiedenen Standorten abfragen zu lassen um evtl. Unterschiede ausfindig zu machen. Die Tests sollten auch gegen Service-Instanzen von Kunden laufen, wenn also ein Kunde seinen Cloudspeicher auf mehre Standorte verteilt hat müssen alle Standorte kontrolliert werden.
 
-Ausführung: Was mach beachten sollte
+#### Ausführung: Was mach beachten sollte
 
 * Wie genau sollten die Response Codes aussehen? Der minimalste Ansatz, ein simpler Code 200 \(OK\), könnte potenziell nicht genug Informationen vermitteln.
 * 

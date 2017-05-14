@@ -57,5 +57,5 @@ Der **Azure Management Service** bietet dabei die Möglichkeit bis zu 10 Regeln 
 
 Welche Konditionen überwacht werden können hängt von der Applikation und der Hostumgebung ab, nutzen jedoch in jedem Fall vom Nutzer definierte Endpunkte um die Kontrollen abzufragen.
 
-Für virtuelle Maschinen oder Webapplikationen kann ein sogenannter **Traffic Manager **zusätzlich HTML Request stellen, die z.B. die Verfügbarkeit von Webseiten checkt.
+Für virtuelle Maschinen oder Webapplikationen kann ein sogenannter **Traffic Manager **zusätzlich HTML Request stellen, die z.B. die Verfügbarkeit von Webseiten checken.
 

@@ -1,0 +1,65 @@
+### 2.4.4 Weitere Hinweise
+
+**Eigenverantwortung**
+
+Die Entwicklung von Eigenverantwortung ist wichtig für die Produktivität. Dabei ist Selbstbeherrschung und Selbstdisziplin der Schlüssel zur Selbstmotivation. So kann man damit anfangen, sein eigenes Leben Struktur zu verleihen, indem man sein Leben inkl. der dazugehörigen Aktivitäten plant. Dabei ist es nicht verwerflich andere Personen um Hilfe zu bitten \(Ernährungs- und Sportplan von Ernährungsberatern und Fitnesstrainern als Beispiel\).  Auch Aktionen in der Öffentlichkeit können der Eigenverantwortung Nachdruck verleihen.  Beispielsweise fallen dort fehlende Aktionen schneller auf, was zu einem Pflichtgefühl gegenüber der Öffentlichkeit mündet und somit einen Motivationsdruck zufolge haben kann.
+
+**Multitasking**
+
+Es gibt Aufgaben, die man miteinander kombinieren kann. In den meisten Fällen ist es jedoch kein wirkliches Multitasking, sondern Task-Switching, was prinzipiell das hin- und herwechseln zwischen den Aufgaben bedeutet.  
+Task-Switching wiederum ist für die Produktivität von Nachteil, da man immer wieder den Fokus wechseln muss \(siehe Fokus\). Richtiges Multitasking ist, wenn man zwei oder mehr Sachen zur gleichen Zeit macht. Ein Mann der joggt während er Musik hört, betreibt beispielsweise wirkliches Multitasking.   
+Dabei profitiert er durch die Musik, indem er zum Takt der Musik läuft und somit länger laufen kann. Ähnlich verhält es sich bei anderen Multitaskings auch: Zwei oder mehr Sachen gleichzeitig machen kann unter anderem die Produktivität steigern. Jedoch kann man nicht beliebige Aufgaben zum Multitasking verknüpfen. Bewährt hat sich das Kombinieren von Aufgaben, die wenig Verstand benötigen, mit Aufgaben, die mentalen Fokus benötigen.
+
+**Stapeln von Aufgaben**
+
+Aufgaben, die zwar nicht gleichzeitig erledigt werden können, können jedoch zusammengefasst und stapelweise abgearbeitet werden. Das verhindert, dass man zwischendurch den Fokus verliert, und steigert entsprechend die Produktivität. Beispielsweise kann man einmal am Tag alle Emails abchecken und antworten, anstatt dass man simultan bei jeder eintreffenden Mail seine eigentliche Aufgabe vernachlässigt.
+
+**Burnout und dessen Lösung**
+
+Burnout ist eines der größten Probleme bzgl. Produktivität. Mit der Zeit Gewöhnt man sich an seiner Arbeit, sodass es nichts Besonderes mehr ist oder gar verabscheut wird. Entsprechend schwindet die Motivation und Interesse. Dann kommt irgendwann der Punkt, an dem man sowohl physisch als auch psychisch erschöpft ist. Man stößt umgangssprachlich an die Mauer. Das ist meist der Punkt an dem die Produktivität gering bis gar nicht mehr auftritt und die meisten aufgeben.   
+Die Lösung zu diesem Problem ist durchhalten, bis man die Mauer überwunden hat. Denn nachdem man diese überwunden hat, steigt sowohl die Motivation als auch das Interesse wieder. Die Lösung liegt quasi darin, das Burnout zu ignorieren. Unter anderem muss man auch realisieren, was auf der anderen Seite der Wand wartet.  
+Sehr hilfreich kann auch eine Struktur im Leben sein. Das Selbstauferlegen von Regeln kann für den nötigen Antrieb im Leben sorgen.
+
+**Zeitverschwender**
+
+Zeitverschwendung ist ein Teil des Menschen. Man diese nicht komplett unterdrücken. Man kann aber einige der größten Zeitverschwender unterbinden.  Dabei kann das Verfolgen jeglicher Zeitnutzung in Form von Protokoll hilfreich zur Identifikation dieser sein. Tools wie „RescueTime“ wirken dabei unterstützend.   
+Beispielsweise ist eines der größten Zeitverschwender TV schauen. Im Durchschnitt verbringt der Mensch ca. 40 Stunden mit Fernsehen.  Wenn man bedenkt, dass man 8 Stunden zum Schlafen, 8 Stunden zum Arbeiten und 2 Stunden zum Essen braucht und die restliche Zeit für die ganze Woche betrachtet,  bleiben dem Menschen nur 2 freie Stunden für eine ganze Woche nach Abzug dieser Zeit. Man sollte demnach in Erwägung ziehen, das Fernsehen aufzugeben oder auf ein Minimum zu reduzieren, damit mehr Zeit für sinnvollere Tätigkeiten bleibt \(z.B. Trainieren\).   
+Aber auch Zeitverschwender wie Social Media, Nachrichten, Kaffeepausen, Videospiele oder auch unnötige Meetings kann man optimieren, indem man diese reduziert oder zu einem Zeitpunkt zusammenfasst.
+
+**Wichtigkeit von Routinen**
+
+Personen, die vielleicht nur eine Aufgabe machen, weil es sein muss, werden meist nicht so schnell diese erledigen als Personen, die es sich zur Routine gesetzt haben, diese zu erledigen. Routinen können dementsprechend die Produktivität immens erhöhen.   
+Daher ist es sinnvoll, Routinen zu entwickeln, die bei der Aufgabenbewältigung unterstützend wirken. Um den Überblick nicht zu verlieren, ist es auch von Vorteil, diese in Tagesform zu planen.
+
+**Gewohnheiten**
+
+Genau wie Routinen können Gewohnheiten fördernd für das Ziel sein. Jedoch gibt es gute und schlechte Gewohnheiten. Entsprechend können schlechte Gewohnheiten hinderlich für das Ziel sein \(permanenter E-Mailcheck\).   
+Gewohnheiten werden durch 3 Dinge definiert:   
+1. Auslöser  
+2. Routine  
+3. Belohnung
+
+Zum Beispiel kann man den E-Mailcheck nehmen:  Der Auslöser wäre die E-Mailbenachrichtigung in Form eines Pop-Ups, die Routine wäre das Abchecken der E-Mail und die Belohnung wäre die Gewissheit über den Inhalt dieser E-Mail.
+
+**Abgewöhnen von schlechten Gewohnheiten**
+
+Man kann entweder versuchen, die schlechten Gewohnheiten zu vermeiden, oder diese sogar durch andere zu ersetzen. Bei letzteren muss man sich im Klaren sein, was diese Gewohnheit auslöst, und wie man diesen Auslöser für eine andere Gewohnheit verwenden kann.
+
+**Entwicklung von neuen Gewohnheiten**
+
+Die Entwicklung  von neuen Gewohnheiten kann die Produktivität immens fördern, da diese eine unterstützende Rolle für Schlüsselroutinen für die zu bearbeitende Aufgabe haben kann. Denn das Planen von Routinen bedeutet nicht unbedingt, dass diese erfolgreich umgesetzt werden.
+
+**Aufgaben granulieren**
+
+Große Projekte können sehr einschüchternd wirken, da viele Leute nicht abschätzen können, wie groß der Arbeitsaufwand und wie viel Zeit das Projekt in Anspruch nehmen kann.   
+Das Herunterbrechen in mehrere kleine Aufgaben kann dabei helfen, Zeit- und Arbeitsaufwand besser zu berechnen.
+
+**Wert harter Arbeit: Wieso vermeiden wir sie?**
+
+Der Mensch hat die Tendenz, harte Arbeit, die ihm wichtig erscheint, zu vermeiden oder bei dessen Umsetzung zu zögern. Selbst bei der Umsetzung fühlt er sich meist nicht wohl dabei oder die Arbeit ist ihm zumeist zu langweilig.  
+Dennoch muss man lernen, sich hinzusetzen  und die Arbeit zu machen, die man nicht gern macht. Die Entscheidung liegt dabei  nur bei ihm, ob etwas gemacht wird oder nicht. Es hängt dementsprechend von der eigenen Willenskraft ab.
+
+**Jedes Tun ist besser als nix zu tun**
+
+Nichtstun ist der schlimmste Produktivitätskiller. Die meisten Gelegenheiten und Möglichkeiten werden dadurch verschwendet, indem man nichts tut. Angst vor einer falschen Entscheidung spielt dabei eine sehr große Rolle.
+

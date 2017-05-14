@@ -18,7 +18,7 @@ Der vorige Filter kann seine Ergebnisse an den nächsten Filter in der Pipeline 
 
 Wenn man das „Pipes and Filters Patterns“  benutzen will, dann sollte man darauf achten, dass die Anwendung nicht Komplexer dadurch wird, immer noch zuverlässig läuft, das keine Idempotenz entsteht, keine wiederholten Nachrichten verschickt werden und der Zustand und Kontext der Filter erhalten bleibt. Eine Komplexität kann dadurch entstehen, wenn man die Aufgaben an verschiedene Server verteilt. Die Zuverlässigkeit muss sicherstellen, dass keine Daten zwischen den einzelnen Filters verschwinden. Filters sollten Idempotenz sein, da sonst Ergebnisse von verschiedenen oder gleichen Filtern mehrfach auftreten könnten. Diese Daten würden dann mehrfach verarbeitet werden, dass führt zu Leistungseinbrüchen der Serveranwendung. Die Pipeline muss überprüfen, ob doppelte Nachrichten an die Filters geschickt werden und gegebenenfalls diese entfernen. Jeder Filter muss seinen Zustand speichern und seinen eigenen Kontext besitzen, da sie getrennt voneinander arbeiten. 
 
-## Anwendungsbeispiel
+## Anwendungsbeispiele
 
 Zum Beispiel geeignet für folgende Aufgaben:
 

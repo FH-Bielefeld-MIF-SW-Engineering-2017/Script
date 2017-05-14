@@ -1,0 +1,3 @@
+### 2.1.2 Denk über die Zukunft nach
+
+Als Unternehmen muss man Ziele festlegen. Das ist einfacher gesagt als getan. Man muss sich zuerst ein großes Ziel setzen. Dieses Ziel muss nicht konkret sein, es reicht z.B., wenn man festlegt, wo man sich in 5 oder 10 Jahren sieht. Danach setzt man sich kleinere Ziele \(monatlich, wöchentlich, täglich\), die dabei helfen, das große Ziel zu erreichen. Man muss die Ziele regelmäßig verfolgen und auf den neuesten Stand bringen, wenn es nötig ist.

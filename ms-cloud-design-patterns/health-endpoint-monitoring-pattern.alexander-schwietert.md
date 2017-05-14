@@ -12,7 +12,7 @@ Ziel des Patterns ist es funktionale Checks innerhalb einer Applikation auszufü
 
 #### Problematik
 
-Es ist üblich bzw. in vielen Fällen eine feste Voraussetzung, dass Webapplikationen oder Services auf ihre korrekte Ausführung überprüft werden. Bei einem Service in der Cloud kommen jedoch neue Abhängigkeiten und potenzielle Problemquellen dazu. Der eigene Service hängt von weiteren Services des Plattformanbieters ab, über dessen Hostingumgebung man jedoch keine volle Kontrolle hat.
+Es ist üblich bzw. in vielen Fällen eine feste Voraussetzung, dass Webapplikationen oder Services auf ihre korrekte Ausführung überprüft werden. Bei einem Service in der Cloud kommen jedoch neue Abhängigkeiten und potenzielle Problemquellen dazu. Der eigene Service hängt potenziell von weiteren Services des Plattformanbieters oder anderen ab und über die Hostingumgebung hat man keine volle Kontrolle.
 
 Auch hängt die Performance und Verfügbarkeit letzten Endes von der Hardware und der Netzwerkverbindung des Clouddienstleisters ab. Es ist also zwingend notwendig in regulären Abständen die Verfügbarkeit der eigenen Services in der Cloud zu überprüfen.
 

@@ -47,7 +47,7 @@ Beim **request/response messaging** erwartet der Absender eine Rückmeldung des 
 
 **Idempotency:** (Idempotenz) beschreibt, dass die mehrfache Durchführung einer Operation mit den gleichen Daten immer zum gleichen Ergebnis führt. Im Bezug auf den Nachrichtenaustausch ist gemeint, dass auch wenn eine Nachricht fehlerhafterweise mehr als einmal empfangen und bearbeitet wird, die mehrfache Ausführung keine Auswirkungen auf das System hat. (Vgl. S. 171)
 
-### Verwandte Entwurfsmuster und Empfehlungen
+### Verwandte Entwurfsmuster und Empfehlungen (Auswahl)
 
 **Autoscaling Guidance:** Sobald die Anzahl der Nachrichten innerhalb der Queue eine bestimmte Schwelle unter- oder überschreitet, kann es sinnvoll sein einen Teil der Empfänger ab- bzw. hinzuzuschalten. (Vgl. S. 172)
 

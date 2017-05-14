@@ -14,7 +14,9 @@ Auch hängt die Performance und Verfügbarkeit letzten Endes von der Hardware un
 
 Das Pattern besteht aus 2 wesentlichen Vorgängen bzw. Element. Zum einen aus dem Kontroll-Tool das die Kontrollanfrage an einen frei konfigurierbaren Endpunkt einer Cloud Applikation stellt und zum anderen die Cloud Applikation die auf Anfrage ihre jeweiligen Checks durchführt. Diese können Kontrollen von weiteren genutzten Services inkludieren, sowie Kontrollen der Datenbankanbindungen und des Cloudspeichers. Ein entsprechender Response Code wird an das Kontroll-Tool zurück gesendet, der die Ergebnisse der Kontrollen ausdrückt \(siehe Abbilung 1\).
 
-![](/assets/health_monitoring_1.jpg)
+![](/assets/health_monitoring_1.jpg)\(Abbildung 1: Übersicht des Patterns\)
+
+
 
 
 

@@ -43,7 +43,7 @@ Nicht zu verwenden unter folgenden Bedingungen:
 
 Im folgenden Beispiel wird mittels anspruchsvollen Datenabfragen eine "materialized View" erstellt. Über verschiedene Entitäten wird eine View erstellt, die die gesamten Verkaufszahlen elektronischer Produkte enthält, zusammen mit der Anzahl der Kunden. Nutzer können mit Hilfe dieser View einfach bestimmte Resultate abfragen oder in andere Datenabfragen miteinbeziehen.
 
-![](assets/materialized-view-summary-diagram.png)\(Abbildung 1: Beispielhafte Anwendung um eine Zusammenfassung der Verkäufe darzustellen. Quelle: https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
+![](/assets/materialized-view-summary-diagram.png)\(Abbildung 1: Beispielhafte Anwendung um eine Zusammenfassung der Verkäufe darzustellen. Quelle: https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
 
 ## Ähnliche Patterns und Richtlinien
 

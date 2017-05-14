@@ -8,7 +8,7 @@ Für die Entwicklung einer Anwendung kann man einzelne Verarbeitungsschritte zu 
 
 ## Lösung
 
-Eine Lösung für diese Probleme wäre, wenn man die Verarbeitungsschritte zu einem Prozess zusammenfasst. Dieser Prozess verarbeitet die einzelnen Schritte linear. Die Verarbeitungsschritte erledigen immer eine Aufgabe. Jeder Verarbeitungsschritt empfängt Daten und sendet Daten an den nächsten Verarbeitungsschritt weiter. Die einzelnen Verarbeitungsschritte sind Komponenten. Diese Komponenten können einfach ausgetauscht werden, wenn sich der Prozess verändert. Außerdem wird duplizierter Code vermieden, da der Code in einer Komponente gekapselt ist. Ändert man den Code in der Komponente, so würgt sich diese Änderung auf alle Prozesse aus, wo diese Komponente verwendet wird. Das Prinzip führt zu einer besseren Wiederverwendung des Codes. 
+Eine Lösung für diese Probleme wäre, wenn man die Verarbeitungsschritte zu einem Prozess zusammenfasst. Dieser Prozess verarbeitet die einzelnen Schritte linear. Die Verarbeitungsschritte erledigen immer eine Aufgabe. Jeder Verarbeitungsschritt empfängt Daten und sendet Daten an den nächsten Verarbeitungsschritt weiter. Die einzelnen Verarbeitungsschritte sind Komponenten. Diese Komponenten können einfach ausgetauscht werden, wenn sich der Prozess verändert. Außerdem wird duplizierter Code vermieden, da der Code in einer Komponente gekapselt ist. Ändert man den Code in der Komponente, so würgt sich diese Änderung auf alle Prozesse aus, wo diese Komponente verwendet wird. Das Prinzip führt zu einer besseren Wiederverwendung des Codes (siehe Abbildung 1). 
 
 Die Verarbeitungsgeschwindigkeit des Prozesses hängt von den einzelnen Komponenten ab. Wenn einige Komponenten zu langsam sind, dann kann das zu einer Verlangsamung des ganzen Prozesses führen. Aus diesem Grund sollte man parallele Prozesse verwenden, um die langsamen Komponenten zu verteilen. Diese Verteilung erhöht die Verarbeitungsgeschwindigkeit der Anwendung. Gerade bei Serveranwendungen führt, dass zu einer besseren Performance für das gesamte System.  Die Komponenten (oder Filters) sind untereinander unabhängig und können beliebig skaliert werden. Sie eignen sich gut für Cloud-Server, da die Komponenten auf verschiedene Maschinen verteilt werden können. Rechenintensivere Komponenten können auf leistungsfähigeren Maschinen verteilt werden als weniger rechenintensivere Komponenten, dass spart kosten und führt zu einer besseren Performance für die Serveranwendung. Man kann von überall auf der Welt auf die Komponenten und Prozesse (oder auch Pipeline) zugreifen, da sich diese in der Cloud befindet.
 
@@ -17,7 +17,7 @@ Der vorige Filter kann seine Ergebnisse an den nächsten Filter in der Pipeline 
 
 ![Abbildung 1: Grafische Darstellung des Patterns](/assets/pipes-and-filters-solution.png)
 
-Abbildung 1: Grafische Darstellung des Patterns
+Abbildung 1: Grafische Darstellung des Patterns.
 
 ## Benutzung
 

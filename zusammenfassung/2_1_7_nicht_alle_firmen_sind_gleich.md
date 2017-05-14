@@ -1,4 +1,4 @@
-### 2.1.6 Nicht alle Firmen sind gleich
+### 2.1.7 Nicht alle Firmen sind gleich
 
 Als Softwareentwickler kann man bei verschiedenen Firmen arbeiten: Kleine Firmen oder Startups; Mittlere Firmen; Große Firmen.
 
@@ -15,6 +15,4 @@ Für Softwareentwickler ist es außerdem wichtig, ob man einer Firma arbeitet, d
 In diesem Unterkapitel diskutiert der Autor über Strategien für den Fall, dass man von zuhause aus arbeitet. Er spricht davon, dass heutzutage eine Menge unabhängiger Software-Entwickler per Remote-Desktop oder über ein virtuelles Büro von zuhause aus arbeiten. Er geht dabei auf die Vor- und Nachteile der Heimarbeit ein. Als Nachteil sieht er zum Beispiel die Isolation, Einsamkeit und mangelnde Selbstmotivation. Er erwähnt, dass er anfangs die Vorteile dabei sah, aus seinem Bett morgens direkt an den Arbeitsplatz zu kommen. Sagt aber auch, dass er die entstandenen Herausforderungen unterschätzt hat.  
 Die erste Herausforderung für ihn ist das Zeitmanagement. Er behauptet, dass es bei der Arbeit zuhause eine Menge Arten von Ablenkung gibt, die einen daran hindern die Arbeit zu erledigen. Auch neigt man angeblich dazu, seine Arbeit später am Abend zu erledigen, wenn man sich die Zeit abseits vom Alltagsstress nehmen kann. Seiner Meinung nach endet das aber in einem Desaster. Er behauptet, wenn man von zuhause aus arbeiten will, muss man ein vernünftiges Konzept für das Zeitmanagement erstellen.  
 Eine weitere Herausforderung ist die Selbstmotivation. Er empfiehlt Leuten die Probleme mit Disziplin und Selbstkontrolle zu haben, nicht von zuhause aus zu arbeiten. Er meint, dass wenn man im Büro arbeitet, der Chef beobachten kann, wie man seine Arbeit erledigt. Wenn man allerdings von zuhause aus arbeitet, kann dies der Chef nicht. Das heißt, dass man für seine Disziplin und Motivation selbst verantwortlich ist. Er hält eine Planung und Routine der Zeiten bei der Heimarbeit für sehr wichtig, vorallem für die Phasen bei denen man nicht motiviert ist. Auch sollte man Versuchungen und Ablenkungsmöglichkeiten von seinem Arbeitsplatz entfernen. Wenn man sich absolut unmotiviert fühlt, schlägt er vor eine Zeituhr auf 15 Minuten zu stellen und sich in diesen 15 Minuten zu seiner Arbeit zwingt. Meist ist es der Fall, dass man nach jenen 15 Minuten mehr motiviert ist seine Arbeit fortzusetzen. Ein weiteres Hilfsmittel ist das Nutzen der Kommunikation mit Mitarbeitern per Google Hangouts oder Skype, um nicht sozial von der Arbeit abgehängt zu werden.
-
-
 

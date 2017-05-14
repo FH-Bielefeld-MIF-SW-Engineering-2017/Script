@@ -16,9 +16,16 @@ Das Pattern besteht aus 2 wesentlichen Vorgängen bzw. Element. Zum einen aus de
 
 ![](/assets/health_monitoring_1.jpg)\(Abbildung 1: Übersicht des Patterns\)
 
+Das Kontroll-Tool analysiert anschließend des gesendet Response Code gegen seit Set von frei konfigurierbaren Regeln, die festlegen wie welche Ergebnisse zu bewerten sind.
 
+Zusätzlich können weitere Checks durchgeführt werden.
 
+* Detaillierte Analyse über den Inhalt der Antwort abseits des Codes, der weitere Information über potenziell teilweise fehlgeschlagene Tests geben könnnte, selbst wenn der Resonse Code 200\(OK\) war
+* Das Messen der Antwortzeit zur Überprüfung der Performance der Applikation und der Netzwerkgeschwindigkeit
+* Auslaufende SSL Zertifikate abfragen
+* Messen eines DNS Lookups auf die URL der Applikation, sowie Kontrolle der zurückgegebene URL des DNS Lookups auf ihre Korrektheit 
 
+Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von der verschiedenen Standorten abfragen zu lassen um evtl. Unterschiede ausfindig zu machen. Die Tests sollten auch gegen Service-Instanzen von Kunden laufen, wenn also ein Kunde seinen Cloudspeicher auf mehre Standorte verteilt hat müssen alle Standorte kontrolliert werden.
 
 
 

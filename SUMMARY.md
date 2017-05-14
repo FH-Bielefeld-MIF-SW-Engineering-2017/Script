@@ -72,4 +72,5 @@
   * [Throttling Pattern](ms-cloud-design-patterns/throttling-pattern.oliver-nagel.md)
   * [Valet Key Pattern](ms-cloud-design-patterns/valet-key-pattern.marvin-schirrmacher.md)
   * [Asynchronous Messaging Primer](ms-cloud-design-patterns/asynchronous-messaging-primer.jonathan-jansen.md)
+  * [Runtime Reconfiguration Pattern justin jagnieniak](ms-cloud-design-patterns/runtime-reconfiguration-pattern.justin-jagnieniak.md)
 

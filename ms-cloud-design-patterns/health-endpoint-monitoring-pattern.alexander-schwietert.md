@@ -39,9 +39,9 @@ Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von verschieden
 
 * **Mehrere Endpunkte** für unterschiedliche Services innerhalb der Applikation konfigurieren, so sollte jeder Check \(Datenbank, Storage..\) einzeln angesprochen werden können oder über einen weiteren Endpunkt übergreifend. Für den jeweiligen Endpunkt können unterschiedliche Regeln \(z.B. erwartete Antwortzeiten\) definiert werden.
 
-* Den gleichen Endpunkt benutzen, der auch für den generellen Zugriff genutzt wird um über spezifische Pfade auch direkt** Funktionale Tests** auszuführen \(z.B. einen User anlegen mit /applikation-url/create & /applikation-url/healthcheck/id\)
+* Man kann den gleichen Endpunkt benutzen, der auch für den generellen Zugriff genutzt wird um über die jeweiligenPfade auch direkt** funktionale Tests** auszuführen \(z.B. einen User anlegen mit /applikation-url/create & /applikation-url/healthcheck/id für den regulären Check\)
 
-* Sollten zu viele **Ressourcen der Cloud Applikation **für die Checks verwendet werden, könnte dies die Usererfahrung beeinflussen. In der Regel können Logs über Fehler und Performance Counter bereits genug aussagen und machen ausgiebige Performance Checks daher unnötig.
+* Sollten zu viele **Ressourcen der Cloud Applikation **für die Checks verwendet werden, könnte dies die Usererfahrung beeinflussen. In der Regel können Logs über Fehler und Performanzzähler bereits genug aussagen und machen ausgiebige Performance Checks daher unnötig.
 
 * **Sicherheit **der Endpunkte: Zugriff nur mit Authentifikation / 'versteckte' Endpunkte über unübliche Ports & verschiedene IP Adressen / Endpunkte so konfigurieren das sie bestimmte Informationen über die gewünschten Tests benötigen, andernfalls werden Anfragen abgewiesen
 

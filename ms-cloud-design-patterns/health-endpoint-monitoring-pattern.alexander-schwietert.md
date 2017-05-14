@@ -36,5 +36,8 @@ Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von der verschi
 
 * Sollten zuviele Ressourcen der Cloud Applikation für die Checks verwendet werden, könnte dies die Usererfahrung beeinflussen. In der Regel können Logs über Fehler und Performance Counter bereits genug aussagen und machen ausgiebige Performance Checks daher unnötig.
 
+* Sicherheit der Endpunkte: Zugriff nur mit Authentifikation / 'versteckte' Endpunkte über unübliche Ports & verschiedene IP Adressen / Endpunkte so konfigurieren das sie bestimmte Informationen über die gewünschten Tests benötigen, andernfalls werden Anfragen abgewiesen
+
+* 
 
 

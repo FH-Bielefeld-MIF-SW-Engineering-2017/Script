@@ -38,6 +38,11 @@ Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von der verschi
 
 * Sicherheit der Endpunkte: Zugriff nur mit Authentifikation / 'versteckte' Endpunkte über unübliche Ports & verschiedene IP Adressen / Endpunkte so konfigurieren das sie bestimmte Informationen über die gewünschten Tests benötigen, andernfalls werden Anfragen abgewiesen
 
-* 
+  * Zugriff auf gesicherte Endpunkte: Nicht alle Tools Unterstützen in ihre eingebauten health-verification Features auch Authentifizierung. Drittpartyanbieter wie Pingdom, Panopta, NewRelic oder Statuscake helfen hier.
+
+* Auch die Kontrolltools müssen getestet werden, z.B. indem eine Cloud Applikationen ein festen OK Response auf einem Endpoint sendet, den das Kontrolltool auslesen sollte.
+
+
+
 
 

@@ -1,4 +1,4 @@
-# Asynchronous Messaging Primer
+# Asynchronous Messaging Prime
 
 Der Nachrichtenaustausch ist einer der Schlüsselfunktionen von verteilten Systemen. Dieser ermöglicht es Applikationen und Diensten miteinander zu Kommunizieren und zu kooperieren und hilft dabei skalierbare und belastbare Systeme zu entwerfen. (vgl. S. 166)
 

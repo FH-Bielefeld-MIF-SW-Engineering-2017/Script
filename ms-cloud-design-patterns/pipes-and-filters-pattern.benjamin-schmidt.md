@@ -14,7 +14,8 @@ Die Verarbeitungsgeschwindigkeit des Prozesses hängt von den einzelnen Komponen
 
 Der vorige Filter kann seine Ergebnisse an den nächsten Filter in der Pipeline weitergeben, bevor der vorige Filter zu Ende ist. Es können so mehrere Filter parallel arbeiten. Sollte ein Filter oder eine Maschine von der Cloud ausfallen, dann kann die Pipeline diesen Fall kompensieren. Die Pipeline leitet die Verarbeitungsschritte an einem anderen Filter weiter. Dieser Filter erledigt dann diese Aufgaben und gibt das Ergebnis an der Pipeline zurück. Das System ist dadurch sehr gut gegen Systemausfälle geschützt, da bei ausfällen einer oder mehrere Filters nicht diese ganze Pipeline mit ausfällt. Wenn man verteilte Transaktionen entwickeln will, dann kann man das „Pipes and Filters Patterns“ mit dem „Compensating Transaction Pattern“ kombinieren. Die verteilte Transaktion wird in mehrere Aufgaben geteilt und jede Aufgabe bekommt einen Filter. Der Filter benutzt das „Compensating Transaction Pattern“. 
 
-![](/assets/pipes-and-filters-solution.png)\(Abbildung 1: Grafische Darstellung des Patterns\)
+
+![](/assets/pipes-and-filters-solution.png "Abbildung 1: Grafische Darstellung des Patterns")
 
 ## Benutzung
 

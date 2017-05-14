@@ -4,6 +4,14 @@
 
 Ziel des Patterns ist es funktionale Checks innerhalb einer Anwendung auszuführen, deren Resultate von externen Applikationen über entsprechende Zugangspunkte in bestimmten Intervalen abgerufen werden können. Das Pattern hilft somit die korrekte Ausführung verschiedener Applikationen und Services zu gewährleisten.
 
+#### Einsatzgebiet
+
+* Webseiten und Webapplikationen auf Verfügbarkeit und korrekte Funktionsweise überwachen
+* Middle-tier oder geteilte Services überwachen um Fehlerquellen zu isolieren, die andere Applikationen beeinflussen könnten
+* Zum Erweitern von bereits vorhandenen Überwachungselementen wie dem Logging und protokollierte Performanzkennzahlen
+
+
+
 #### Problematik
 
 Es ist üblich bzw. in vielen Fällen eine feste Voraussetzung, dass Webapplikationen oder Services auf ihre korrekte Ausführung überprüft werden. Bei einem Service in der Cloud kommen jedoch neue Abhängigkeiten und potenzielle Problemquellen dazu. Der eigene Service hängt von anderen Services des Plattformanbieters ab, über dessen Service und Hostingumgebung man keine volle Kontrolle hat.

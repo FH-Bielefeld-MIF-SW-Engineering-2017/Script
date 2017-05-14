@@ -4,7 +4,7 @@ Das Runtime Reconfiguration Pattern soll eine Rekonfiguration einer Applikation 
 Dieses Pattern ist erstmal abhängig von den Featuren des Hosts der Applikation. Diese könnten aus dem Hochladen einer Konfigurationsdatei oder dem Zugriff über ein Administrationsportal oder einer API bestehen.
 Der Applikationscode kann dabei die Änderung an der Konfiguration untersuchen und sie auf die dazu gehörigen Komponenten der Applikation anwenden. Die Komponenten müssen dabei die Änderung erkennen und sie übernehmen.
 Wenn die Komponenten das nicht während der Laufzeit können, ist ein Neustart der Applikation dafür notwendig. Dies kann dadurch geschehen, dass der Host eine Änderung erkennt und der Applikation mitteilt sich neu zu starten oder es muss ein Code implementiert werden, der Änderungen an der Einstellung erkennt und gegebenfalls die Applikation zum Neustarten zwingt.
-<img src="assets/runtime-reconfiguration-pattern.png" />
+<img src="../assets/runtime-reconfiguration-pattern.png" />
 Abbildung 1 - Schema eines Runtime Reconfiguration Patterns
 
 Viele Umgebungen arbeiten mit Events als Antwort auf eine Konfigurationsänderung. Die Umgebungen, die es nicht tun, erfordern ein zyklisches Absuchen nach Änderungen der Konfiguration und eine  Anwedung dessen falls notwendig. Es kann dabei auch nötig sein, das Datum und die Zeit einer Konfigurationsdatei zu vergleichen, um eine eventuelle neue Version festzustellen.

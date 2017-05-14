@@ -35,8 +35,9 @@ Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von verschieden
 
 #### Implementierung: Was man beachten sollte
 
-* Wie genau sollten die **Antwort der Cloud Applikation** aussehen? Der minimalste Ansatz, ein simpler HTML Response Code, könnte potenziell nicht genug Informationen übermitteln. Dies wird jedoch bei den meisten Implementationen genutzt.
-* **Mehrere Endpunkte** für unterschiedliche Services innerhalb der Applikation konfigurieren, so sollte jeder Check \(Datenbank, Storage..\) einzeln angesprochen werden können oder über einen weiteren Endpunkt übergreifend
+* Wie genau sollten die **Antwort der Cloud Applikation** aussehen? Der minimalste Ansatz, ein simpler HTML Response Code, könnte potenziell nicht genug Informationen übermitteln.
+
+* **Mehrere Endpunkte** für unterschiedliche Services innerhalb der Applikation konfigurieren, so sollte jeder Check \(Datenbank, Storage..\) einzeln angesprochen werden können oder über einen weiteren Endpunkt übergreifend. Für den jeweiligen Endpunkt können unterschiedliche Regeln \(z.B. erwartete Antwortzeiten\) definiert werden.
 
 * Den gleichen Endpunkt benutzen, der auch für den generellen Zugriff genutzt wird um über spezifische Pfade auch direkt** Funktionale Tests** auszuführen \(z.B. einen User anlegen mit /applikation-url/create & /applikation-url/healthcheck/id\)
 

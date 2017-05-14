@@ -1,0 +1,4 @@
+# Health Endpoint Monitoring Pattern
+
+
+

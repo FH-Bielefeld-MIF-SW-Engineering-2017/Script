@@ -33,7 +33,7 @@ Folgendes muss bei der Implementierung dieses Pattern beachtet werden:
 * Sicherheit: Nur bestimmte Daten bestimmten Nutzern zur Verfügung stellen
 * Als Brücke bei der Nutzung unterschiedlicher Datenspeichermethoden (z.B. eine Cloud zum Schreiben und eine relationale Datenbank für schnelle Datenabfragen)
 
-Nicht zu verwenden unter folgenden Bedingungen:
+## Wann wird dieses Pattern nicht verwendet?
 
 * Die Daten sind einfach abzufragen
 * Die Quelldaten ändern sich sehr oft

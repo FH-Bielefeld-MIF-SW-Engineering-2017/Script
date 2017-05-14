@@ -51,15 +51,11 @@ Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von verschieden
 
 #### Microsoft Azure
 
-Applikationen die auf einer Microsoft Azure Plattform gehostet werden, können bereits eingebaute Services der Plattform nutzen.
+Applikationen die auf einer Microsoft Azure Umgebung gehostet werden, können bereits eingebaute Services der Plattform nutzen.
 
 Der **Azure Management Service** bietet dabei die Möglichkeit bis zu 10 Regeln festzulegen, die durch einen Grenzwert definiert werden. Dieser kann sich z.B. auf die CPU Auslastung oder die Fehler pro Sekunde bei Anfragen beziehen und bei Überschreitung der festgelegten Werte wird Alarm gegeben.
 
 Welche Konditionen überwacht werden können hängt von der Applikation und der Hostumgebung ab, nutzen jedoch in jedem Fall vom Nutzer definierte Endpunkte um die Kontrollen abzufragen.
 
 Für virtuelle Maschinen oder Webapplikationen kann ein sogenannter **Traffic Manager **zusätzlich HTML Request stellen, die z.B. die Verfügbarkeit von Webseiten checkt.
-
-
-
-
 

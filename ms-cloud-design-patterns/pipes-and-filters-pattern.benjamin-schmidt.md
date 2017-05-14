@@ -16,6 +16,7 @@ Der vorige Filter kann seine Ergebnisse an den nächsten Filter in der Pipeline 
 
 
 ![Abbildung 1: Grafische Darstellung des Patterns](/assets/pipes-and-filters-solution.png)
+
 Abbildung 1: Grafische Darstellung des Patterns
 
 ## Benutzung

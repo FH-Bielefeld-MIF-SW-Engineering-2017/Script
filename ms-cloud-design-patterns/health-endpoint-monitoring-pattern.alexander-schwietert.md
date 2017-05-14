@@ -38,7 +38,7 @@ Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von der verschi
 * Wie genau sollten die **Antwort der Cloud Applikation** aussehen? Der minimalste Ansatz, ein simpler HTML Repsonse Code, könnte potenziell nicht genug Informationen vermitteln. Dies wird jedoch bei den meisten Implementationen genutzt.
 * **Mehrere Endpunkte** für unterschiedliche Services innerhalb der Applikation konfigurieren, so sollte jeder Check \(Datenbank, Storage..\) einzeln angesprochen werden können oder über einen weiteren Endpunkt übergreifend
 
-* Den gleichen Endpunkt benutzen, der auch für den generellen Zugriff genutzt wird um über spezifische Pfade auch direkt** Funktionale Tests** auszuführen \(z.B. einen User anlegen\)
+* Den gleichen Endpunkt benutzen, der auch für den generellen Zugriff genutzt wird um über spezifische Pfade auch direkt** Funktionale Tests** auszuführen \(z.B. einen User anlegen mit /applikation-url/create & /applikation-url/healthcheck/id\)
 
 * Sollten zuviele **Ressourcen der Cloud Applikation **für die Checks verwendet werden, könnte dies die Usererfahrung beeinflussen. In der Regel können Logs über Fehler und Performance Counter bereits genug aussagen und machen ausgiebige Performance Checks daher unnötig.
 

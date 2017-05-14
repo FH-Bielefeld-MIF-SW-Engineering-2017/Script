@@ -66,6 +66,8 @@
   * [Pipes and Filters Pattern](ms-cloud-design-patterns/pipes-and-filters-pattern.benjamin-schmidt.md)
   * [Priority Queue Pattern](ms-cloud-design-patterns/priority-queue-pattern.lutz-winkelmann.md)
   * [Queue-Based Load Leveling Pattern](ms-cloud-design-patterns/queue-based-load-leveling-pattern.tim-jastrzembski.md)
+  * [Retry Pattern](ms-cloud-design-patterns/retry-pattern.gamze-soeylev-oektem.md)
+  * [Runtime Reconfiguration Pattern](ms-cloud-design-patterns/runtime-reconfiguration-pattern.justin-jagnieniak.md)
   * [Schedular Agent Supervisor Pattern christian holzberger](ms-cloud-design-patterns/schedular-agent-supervisor-pattern.christian-holzberger.md)
   * [Sharding Pattern](ms-cloud-design-patterns/sharding-pattern.marcel-dzaak.md)
   * [Static Content Hosting Pattern](ms-cloud-design-patterns/static-content-hosting-pattern.andrei-guenter.md)

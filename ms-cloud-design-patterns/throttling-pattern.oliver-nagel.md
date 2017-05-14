@@ -21,6 +21,3 @@ Im Folgenden soll der Ablauf der zwei Strategien Throttling und Autcoscaling in 
 - Einhaltung von Service-Level-Vereinbarungen.
 - Verhindern, dass eine Teilnehmer-Applikation große Mengen an Ressourcen für sich selbst beansprucht.
 - Abfangen von Spitzen des Ressourcenverbrauchs.
-
-
-

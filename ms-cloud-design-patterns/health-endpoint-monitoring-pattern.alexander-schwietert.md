@@ -20,3 +20,5 @@ Das Pattern besteht aus 2 wesentlichen Vorgängen bzw. Element. Zum einen aus de
 
 
 
+
+

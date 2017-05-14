@@ -1,3 +1,4 @@
+# Autoscaling Guidance
 **Was ist Autoscaling?**
 
 Autoscaling ist ein dynamischer Prozess der Ressourcen so ver-/ bzw. einteilt, dass eine Applikation die Anforderungen an Performance und die SLAs (service level aggreements) erfüllt. Häufig ist er ein automatisierter Prozess, der kontinuierlich die Performance überprüft und entscheided, ob Ressourcen hinzu oder entfernt werden sollen. Autoscaling bestimmt sämtliche Ressourcen, nicht nur Rechenressourcen.

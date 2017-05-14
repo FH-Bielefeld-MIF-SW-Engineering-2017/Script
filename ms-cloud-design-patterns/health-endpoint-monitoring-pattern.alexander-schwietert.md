@@ -31,7 +31,7 @@ Zusätzlich können weitere Checks durchgeführt werden.
 * Auslaufende SSL Zertifikate abfragen
 * Messen eines DNS Lookups auf die URL der Applikation, sowie Kontrolle der zurückgegebenen URL des DNS Lookups auf ihre Korrektheit 
 
-Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von verschiedenen Standorten abfragen zu lassen um evtl. Unterschiede in der Verbindung ausfindig zu machen. Dies kann potenziell auch die Wahl beeinflussen wo eine Applikation deployt werden sollte. Die Tests sollten auch gegen die Service-Instanzen von Kunden laufen, um zu überprüfen ob die Applikation für alle Kunden korrekt funktioniert. Wenn also ein Kunde seinen Cloudspeicher auf mehre Standorte verteilt hat müssen alle Standorte kontrolliert werden.
+Es ist empfehlenswert die Tests von verschiedenen Kontroll-Tools von verschiedenen Standorten abfragen zu lassen um evtl. Unterschiede in der Verbindung ausfindig zu machen. Dies kann potenziell auch die Wahl beeinflussen wo eine Applikation deployt wird. Die Tests sollten auch gegen die Service-Instanzen von Kunden laufen, um zu überprüfen ob die Applikation für alle Kunden korrekt funktioniert. Wenn also ein Kunde seinen Cloudspeicher auf mehre Standorte verteilt hat müssen alle Standorte kontrolliert werden.
 
 #### Implementierung: Was man beachten sollte
 

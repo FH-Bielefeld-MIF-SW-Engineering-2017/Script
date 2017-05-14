@@ -19,6 +19,7 @@ Anleitung:
     * co-economy\_wertschoepfung\_im\_digitalen\_zeitalter/2\_colaboration.fabian\_lorenz.md
     * co-economy\_wertschoepfung\_im\_digitalen\_zeitalter/3\_cases.lutz\_winkelmann.md
     * ...
+  * assets/bildname.png (o. *.jpg ...) (Bildordner)
 
 * um das ganze einheitlich zu gestallten folgende Formatierung innerhalb der Kapitel:
 

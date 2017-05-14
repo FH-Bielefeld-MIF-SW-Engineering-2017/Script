@@ -39,7 +39,3 @@ Es ist nicht so gut geeignet für folgende Aufgaben:
 *	Wenn die Speicherung der Zustandsinformation Probleme mit der Datenbank verursachen würde
 
 Bei der Implementierung sollte eine Warteschlange für die Pipeline verwendet werden. Die Filter bekommen die Daten und verarbeiten die Daten danach. Wenn die Daten verarbeitet wurden, dann werden die Daten an dem nächsten Filter in der Warteschlange weitergeben. Bis das Ende der Warteschlange erreicht wurde. Der Anfang macht das erste Objekt der Filter Klasse in der Warteschlange.
-
-
-
-

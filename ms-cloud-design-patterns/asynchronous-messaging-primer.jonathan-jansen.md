@@ -1,10 +1,10 @@
 # Asynchronous Messaging Primer
 
-Der Nachrichtenaustausch ist einer der Schlüsselfunktionen von verteilten Systemen. Dieser ermöglicht es Applikationen und Diensten miteinender zu Kommunizieren und zu kooperieren und hilft dabei skalierbare und belastbare Systeme zu entwerfen. (vgl. S. 166)
+Der Nachrichtenaustausch ist einer der Schlüsselfunktionen von verteilten Systemen. Dieser ermöglicht es Applikationen und Diensten miteinander zu Kommunizieren und zu kooperieren und hilft dabei skalierbare und belastbare Systeme zu entwerfen. (vgl. S. 166)
 
 ## Queue-Grundlagen
 
-Innerhalb von Cloud-Technologien ist der Nachrichtenaustausch häufig in Form von Queues (Warteschlagen) implemetiert. Diese unterstützen meist folgende drei Operationen: Ein Absender kann eine Nachricht in die Queue legen, ein Empfänger kann diese Nachricht untersuchen oder sie aus der Queue entnehmen. (vgl. S. 166)
+Innerhalb von Cloud-Technologien ist der Nachrichtenaustausch häufig in Form von Queues (Warteschlagen) implementiert. Diese unterstützen meist folgende drei Operationen: Ein Absender kann eine Nachricht in die Queue legen, ein Empfänger kann diese Nachricht untersuchen oder sie aus der Queue entnehmen. (vgl. S. 166)
 
 ### Senden und Empfangen von Nachrichten mithilfe einer Queue
 
@@ -12,7 +12,7 @@ Eine Queue kann man sich tatsächlich wie eine Warteschlange vorstellen. Der Abs
 
 Die Infrastruktur der Queue muss dafür sorgetragen, dass eine einmal hineingelegte Nachricht nicht verloren geht. (vgl. S. 166)
 
-Queus sind Ideal für das Asynchrone arbeiten zweier oder mehrerer Dienste. Nach dem Ablegen einer Nachricht in einer Queue, kann sich der Absender anderen Aufgaben widmen. Zusätzlich werden Queues häufig in Verbindung mit mehreren Sendern und Empfängern eingesetzt.
+Queus sind ideal für das asynchrone Arbeiten zweier oder mehrerer Dienste. Nach dem Ablegen einer Nachricht in einer Queue, kann sich der Absender anderen Aufgaben widmen. Zusätzlich werden Queues häufig in Verbindung mit mehreren Sendern und Empfängern eingesetzt.
 
 ### Grundlegende Message-Queue-Patterns
 
@@ -35,9 +35,9 @@ Beim **request/response messaging** erwartet der Absender eine Rückmeldung des 
 
 **Load balancing: **Es kommen verschiedene Empfänger auf mehreren Servern zum Einsatz. Die Architektur ist durch das hinzufügen weiterer Server skalierbar . (Vgl. S. 169)
 
-**Load leveling: **Beim Erhalten vieler Nachrichten zur gleichen Zeit wird das System nicht direkt in die höchstleistung Getrieben. Der Queue mechanismus sorgt für ein langsames Steigen der Anfragen, sodass dem System die Möglichkeit geboten wird, sich den Gegebenheiten Anzupassen. (Vgl. S. 170)
+**Load leveling: **Beim Erhalten vieler Nachrichten zur gleichen Zeit wird das System nicht direkt in die Höchstleistung getrieben. Der Queue-Mechanismus sorgt für ein langsames Steigen der Anfragen, sodass dem System die Möglichkeit geboten wird, sich den Gegebenheiten Anzupassen. (Vgl. S. 170)
 
-**Cross-platform integration: **Das Zusammenspiel verschiedener Software-Systeme kann über eine Queue erleichtert werden. Eine Queue kann so implementiert werden, dass die Interaktion vollkommen System- und Sprachenunabhängig ist. Es bedarf ledeglich einer Definition von Schnittstellen und des Formats der Nachrichten. (Vgl. S. 170)
+**Cross-platform integration: **Das Zusammenspiel verschiedener Software-Systeme kann über eine Queue erleichtert werden. Eine Queue kann so implementiert werden, dass die Interaktion vollkommen System- und Sprachenunabhängig ist. Es bedarf lediglich einer Definition von Schnittstellen und des Formats der Nachrichten. (Vgl. S. 170)
 
 ### Überlegungen zur Implementierung von asynchronem Nachrichtenaustausch (Auswahl)
 

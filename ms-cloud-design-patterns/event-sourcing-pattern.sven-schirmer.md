@@ -9,7 +9,7 @@ Zunächst werden bei einem Update die alten Werte mit neuen Werten überschriebe
 Die Anwendung beschreibt die Änderungen der Daten als Events. Auch das Löschen der Daten ist ein Event. Diese Events werden asynchron an den Event Store verschickt und dort persistent abgelegt. Eine Löschung der Events im Event Store ist nicht vorgesehen, die Events sind immutable. Der Event Store published die Events an einen Topic, sodass alle Consumer die den Topic abonniert haben, die Events bekommen und verabeiten können. Typische Abbonnenten sind z.B. Controller für die Materialized View, die daraufhin die View aktualisieren. 
 Für die Vereinfachung der Präsentationsschicht wird meißt für jede Entität der derzeitige Datenstand als materialized View gespeichert. 
 
-Das Event Sourcing Pattern wird meißt zusammen mit dem [CQRS-Pattern]( Script/ms-cloud-design-patterns/command-and-query-responsibility-segregation-cqrs-pattern.tolga-aydemir.md)  eingesetzt. 
+Das Event Sourcing Pattern wird meißt zusammen mit dem [CQRS-Pattern](command-and-query-responsibility-segregation-cqrs-pattern.tolga-aydemir.md) eingesetzt.
 
 ### Vorteile
 Der Prozess, der die Events verarbeitet, kann von dem Prozess, welcher das Event erstellt hat, entkoppelt werden, sodass die Verarbeitung später erfolgen kann. Außerdem enstehen durch die Entkopplerung neue Skalierungsmöglichkeiten.

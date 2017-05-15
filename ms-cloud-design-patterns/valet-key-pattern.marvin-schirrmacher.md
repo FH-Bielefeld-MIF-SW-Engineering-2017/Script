@@ -14,7 +14,7 @@ Es bedarf der dedizierten Zugriffskontrolle auf den Datenspeicher. Letzterer kan
 
 Nach der Ausstellung eines Tokens benutzt der Client diesen, um auf eine dedizierte Ressource zuzugreifen; und zwar nur für einen beschränkten Zeitraum und mit restriktiven Zugriffsrechten \(vgl. Abbildung\). Zum einen kann so nur auf bestimmte Speicherbereiche zugegriffen werden \(Tabellen, Tabellenzeilen, Container, Container-Elemente\). Zum anderen verliert der Token nach einer bestimmten Zeit seine Gültigkeit und dem Client wird der Ressourcenzugriff wieder verwehrt. Zusätzlich kann die Applikation die Gültigkeit vorzeitig beenden, wenn z.B. der Client den erfolgreichen Abschluss eines Datentransfers gemeldet hat.
 
-![](/images/valet-key-pattern.png)
+![](/assets/valet-key-pattern.png)
 
 ## Probleme und Überlegungen
 

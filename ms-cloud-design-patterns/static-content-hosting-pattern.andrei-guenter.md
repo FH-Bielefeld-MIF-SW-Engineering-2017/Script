@@ -10,7 +10,7 @@ Web-Applikationen beinhalten im Normalfall einige Elemente mit statischem Inhalt
 
 In vielen cloudbasierten Systemen ist es möglich die zur Laufzeit erstellten statischen Instanzen zu minimieren, indem statische Instanzen auf einem Speicherdienst zum Abruf bereitgestellt werden. Die Kosten für Speicherdienste sind im Gegensatz zu den Kosten für Rechenzeit auf cloudbasierten Systemen wesentlich geringer. Das folgende Schaubild bietet einen Überblick in das Konzept des Static Content Hosting Pattern:
 
-![](https://github.com/FH-Bielefeld-MIF-SW-Engineering-2017/Script/tree/master/assets/StaticContentHostingPatternOverview.png)
+![](/assets/StaticContentHostingPatternOverview.png)
 
 ## Herausforderungen und Überlegungen
 
@@ -37,6 +37,3 @@ Das Pattern ist nicht geeignet, wenn:
 
 * Applikationen die statischen Inhalte manipulieren, bevor die Inhalte an Clients ausgeliefert werden. Beispielsweise wenn Applikationen einen Zeitstempel auf ein Dokument aufsetzen, direkt bevor es heruntergeladen wird.
 * nur sehr wenig statischer Inhalt zu verwalten ist.
-
-
-

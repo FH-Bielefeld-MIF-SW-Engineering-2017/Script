@@ -26,7 +26,7 @@ Anleitung:
   * Kapitelüberschrift in H1 \(z. B. \# 3 Cases\)
   * Unterkapitel in H2 \(z. B. \#\# 3.1 Die neue Sharing Economy\)
   * Abschnittsüberschriften in H3 \(z. B. \#\#\# Technologien und Innovationen\)
-  * Bilder einfügen \(z. B. \!\[Alternativer Bildtext\] \(\/assets\/bildname.png\) \(Abbildung 1: Bildbeschriftung\))
+  * Bilder einfügen \(z. B. \!\[Alternativer Bildtext\] \(/assets/bildname.png\) \(Abbildung 1: Bildbeschriftung\))
 
 * es wird nur noch mit Github gearbeitet und nicht mehr auf dem GitBook direkt
 

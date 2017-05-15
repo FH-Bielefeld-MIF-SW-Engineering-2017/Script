@@ -1,29 +1,33 @@
 # Scheduler Agent Supervisor Pattern
 
-Das Pattern dient dazu Aufgaben in der Cloud auszuführen und zu Koordinieren. 
-Cloud bedeutet dabei, dass mehrere Systeme am ausführen von Aufgaben beteiligt werden.
-Durch den Einsatz des Patterns soll vorallem im Fehlerfall, beim Absturz des Supervisors 
-oder beim Fehlschalgen einzelner Aktionen, ein definierter Zustand wiederhergestellt wird (Self-Healing). 
+Das Pattern dient dazu Aufgaben und Abfolgen von Aufgaben in der Cloud auszufÃ¼hren und zu Koordinieren.
 
-Eine Aufgabe wird definiert durch eine Remote URL, einen Timeout. ... tbd
+Cloud bedeutet dabei, dass mehrere Systeme am AusfÃ¼hren von Aufgaben beteiligt werden.
+Aufgaben sind dabei Prozesse die auf andern Systemen ausgefÃ¼hrt werden. Die Aufgaben werden 
+nicht direkt innerhalb der Komponenten des Patterns eingebettet sondern durch z.B. URLs in externen System aufgerufen.
 
-Das Pattern beinhaltet 3 Zuständigkeiten: 
+Durch den Einsatz des Patterns soll insbesondere im Fehlerfall, beim Absturz des Supervisors 
+oder beim Fehlschalgen einzelner Aktionen, ein definierter Zustand wiederhergestellt werden (Self-Healing). 
+
+Das Pattern beinhaltet 3 ZustÃ¤ndigkeiten (Actors):
 - Scheduler
 - Agent 
 - Supervisor 
 
-Durch den Scheduler wird die Reihenfolge der Ausführung der Aufgaben festgelegt. Weiterhin wird der derzeige Zustand der Aufgabe festgehalten, 
-welche Teilschritte ausgeführt wurden und in welchem Zustand sich die derzeitige Teilaufgabe befindet. Der Superviros speichert den Zustand der aktuellen Ausführung in 
+Durch den **Scheduler** wird die Reihenfolge der AusfÃ¼hrung der Aufgaben festgelegt. Weiterhin wird der derzeige Zustand der Aufgabe festgehalten, 
+welche Teilschritte ausgefÃ¼hrt wurden und in welchem Zustand sich die derzeitige Teilaufgabe befindet. Der Supervisor speichert den Zustand der aktuellen AusfÃ¼hrung in 
 einer Datenbank dem "State-Store".
-... was passiert beim Absturz
 
-Der Agent koordiniert den Aufruf der konkreten Aufgabe. Er Prüft den Zustand einer Aufgabe und kann den Scheduler anweisen bestimmte Aktionen erneut auszuführen. 
-Er entspricht im wesentlichen dem Proxy-Pattern mit der Erweiterung von Timeouts und kommunikation mit einem bekannten Scheduler. Der Agent ist möglich generisch zu halten 
-er sollte keine Kentniss des aktuellen Geschäftsvorgangs haben.
+Dieser State-Store bietet ein Protokoll Ã¼ber den Zustand der der aktuellen Aufgabe, er bietet aber auch die MÃ¶glkichkeit die AusfÃ¼rhrung bestimmter Aufgaben nach einem Absturz 
+oder Neustart fortzusetzen.
 
-Der Supervisor benutzt den Agent um den Status einer Teilaufgabe abzufragen und dem Scheduler zugänglich zu machen. 
+Der **Agent** koordiniert den Aufruf der konkreten Aufgabe. Er PrÃ¼ft den Zustand einer Aufgabe und kann den Scheduler anweisen bestimmte Aktionen erneut auszufÃ¼hren. 
+Er entspricht im wesentlichen dem Proxy-Pattern mit der Erweiterung von Timeouts und kommunikation mit einem bekannten Scheduler. Der Agent ist mÃ¶glich generisch zu halten 
+er sollte keine Kentniss des aktuellen GeschÃ¤ftsvorgangs haben.
 
-Im Kontext von Cloud-Anwendungen ist die Koordinierung der Aufgaben besonders wichtig, insbesondere ist es wichtig, dass Aufgaben nicht mehrfach Ausgeführt werden. Um dies Sicherzustellen muss zusätzlich 
-zum Scheduler Agent Supervisor Pattern auf das Leader Election Pattern zurückgegriffen werden. Pro Aufgabe muss ein Scheduler ausgemacht werden der für diese spezifische Aufgabe verantwortlich ist. 
+Der **Supervisor** benutzt den Agent um den Status einer Teilaufgabe abzufragen und dem Scheduler zugÃ¤nglich zu machen. 
 
+Im Kontext von Cloud-Anwendungen ist die Koordinierung der Aufgaben besonders wichtig, insbesondere ist es wichtig, dass Aufgaben nicht mehrfach AusgefÃ¼hrt werden. Um dies Sicherzustellen muss zusÃ¤tzlich 
+zum Scheduler Agent Supervisor Pattern auf das Leader Election Pattern zurÃ¼ckgegriffen werden. Pro Aufgabe muss ein Scheduler ausgemacht werden der fÃ¼r diese spezifische Aufgabe verantwortlich ist. 
 
+Um korrekte Ergebnisse der ausgefÃ¼hrten Aktionen zu erhalten sollten diese Indempotent sein. Sollte dies nicht mÃ¶glich sein muss ein Mechanismus fÃ¼r Transaktionen (Ein Rollback im Fehlerfall muss gewÃ¤hrleistet sein) innerhalb der Aufgaben oder der Aktoren integriert sein.

@@ -33,6 +33,7 @@ Anleitung:
 * jeder arbeitet auf einem eigenen Branch \(z. B. "florenz" und nicht master branch\)
 * dieser wird per pull request an github geschickt und vom Admin gemerget bzw. mit Kommentar abgelehnt, falls etwas nicht passt
 * auf gitbook kann man sich die aktuelle Version ansehen \(sobald der merge durchgeführt wurde\)
+https://www.gitbook.com/book/fh-bielefeld-mif-sw-engineerin/script/details
 
 * um die Seitenzahl herauszufinden, falls jemand einen Markdown Editor verwendet, der das Dokument nicht als PDF anzeigen:
 

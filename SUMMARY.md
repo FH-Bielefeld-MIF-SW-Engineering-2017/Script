@@ -148,4 +148,8 @@
   * [Valet Key Pattern](ms-cloud-design-patterns/valet-key-pattern.marvin-schirrmacher.md)
   * [Asynchronous Messaging Primer](ms-cloud-design-patterns/asynchronous-messaging-primer.jonathan-jansen.md)
   * [Autoscaling Guidance](ms-cloud-design-patterns/autoscaling-guidance.andre-kaleja.md)
+* [Soft Skills für Softwareentickler](soft-skills-fur-softwareentickler.md)
+  * [1 Projektarchitektur und Kommunikationsschnittstellen](soft-skills-fur-softwareentickler/1-projektarchitektur-und-kommunikationsschnittstellen.jonas-wiese.md)
+  * [2 Mit Fragetechniken zu besseren Informationen](soft-skills-fur-softwareentickler/2-mit-fragetechniken-zu-besseren-informationen.jonas-wiese.md)
+* [5 Konfliktmanagement](soft-skills-fur-softwareentickler/5-konfliktmanagement.fabian-lorenz.md)
 

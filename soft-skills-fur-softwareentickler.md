@@ -3,10 +3,10 @@
 ## Zusammenfassung des Buches:
 
 **Titel**: Soft Skills für Softwareentwickler  
-**Verfasser**:   
-**Verlag**:   
-**Jahr**:   
-**ISBN**: 
+**Verfasser**:  
+**Verlag**:  
+**Jahr**:  
+**ISBN**:
 
-Zusammenfassung von: 
+Zusammenfassung von: Jonas Wiese, Daniel Beneker, Fabian Lorenz
 

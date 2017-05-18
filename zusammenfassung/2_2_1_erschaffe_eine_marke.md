@@ -1,4 +1,4 @@
-### 2.2.3 Erschaffe eine Marke, die auf dich aufmerksam macht
+### 2.2.1 Erschaffe eine Marke, die auf dich aufmerksam macht
 
 Das Logo eines Unternehmens ist eine visuelle Erinnerung an seine Marke, aber es ist nicht die Marke selbst. Wenn du dieses Logo siehst, hast du Erwartungen an die Dienstleistung oder das Produkt. Eine Marke ist ein Versprechen, einen bestimmten \(Mehr-\)Wert zu erzeugen, in der Art, in der du es selber erwartest.
 
@@ -10,3 +10,4 @@ Du brauchst vier Dinge für eine erfolgreiche Marke: eine Nachricht, Visuelles, 
 
 Entscheide zunächst, was du repräsentieren möchtest und definiere deine Nachricht dafür. Verkleinere deine Zuhörerschaft und wähle eine Nische aus \(Spezialisierung\). Der beste Weg für die Entscheidung, welche Nische du wählen sollst, erfolgt von einer rein strategischen Perspektive: Welchen Vorteil hast du von einer bestimmten, spezifischen Nische, die du nutzen kannst? Zögere nicht, deine Nische später zu verändern, wenn dies nötig ist.  
 Schritte, eine Marke zu kreieren, sind: Definiere deine Nachricht, wähle deine Nische, erschaffe dein Motto, kreiere einen Elevator-Pitch und designe die visuellen Komponenten deiner Marke. Starte mit deinem Motto \(Slogan\), welches deine Marke in einem einzigen oder in zwei Sätzen darstellt. Ein Elevator-Pitch ist eine kurze Beschreibung dessen, was du machst und des einzigartigen Wertes, welchen du erschaffst \(dies kann in der Zeit erklärt werden, die man benötigt, um mit einem Fahrtstuhl zu fahren\). Dieser Elevator-Pitch stellt sicher, dass du und deine Marke konsistent seid und dass ihr immer die gleiche Nachricht vermittelt. Visuelle Komponenten sollten dabei helfen, diese Nachricht zu übermitteln und als visuelle Erinnerung dessen dienen, was deine Marke darstellen soll.
+

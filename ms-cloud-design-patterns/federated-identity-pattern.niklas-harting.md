@@ -10,7 +10,7 @@ Dies vereinfacht die Entwicklung sowie die Verwaltung der Nutzerdaten. Außerdem
 Des Weiteren wird durch die Verwendung eines IdP die Authentifizierung von der Autorisierung entkoppelt.  
 Abbildung 1 veranschaulicht die Funktionsweise des Federated Identity Pattern, wenn eine Anwendung auf einen Dienst zugreifen muss, der eine Authentifizierung mittels eines IdP erfordert.
 <p align="center">
-  <img src="../assets/federated-identity-pattern.niklas-harting.png" alt="Authentifizierung" style="width: 350px;"/>
+  <img src="/assets/federated-identity-pattern.niklas-harting.png" alt="Authentifizierung" style="width: 350px;"/>
    <br>
    (Abbildung 1: Übersicht über eine Authentifizierung)
 </p>

@@ -19,18 +19,21 @@ Anleitung:
     * co-economy\_wertschoepfung\_im\_digitalen\_zeitalter/2\_colaboration.fabian\_lorenz.md
     * co-economy\_wertschoepfung\_im\_digitalen\_zeitalter/3\_cases.lutz\_winkelmann.md
     * ...
+  * assets/bildname.png (o. *.jpg ...) (Bildordner)
 
 * um das ganze einheitlich zu gestallten folgende Formatierung innerhalb der Kapitel:
 
   * Kapitelüberschrift in H1 \(z. B. \# 3 Cases\)
   * Unterkapitel in H2 \(z. B. \#\# 3.1 Die neue Sharing Economy\)
   * Abschnittsüberschriften in H3 \(z. B. \#\#\# Technologien und Innovationen\)
+  * Bilder einfügen \(z. B. \!\[Alternativer Bildtext\] \(/assets/bildname.png\) \(Abbildung 1: Bildbeschriftung\))
 
 * es wird nur noch mit Github gearbeitet und nicht mehr auf dem GitBook direkt
 
 * jeder arbeitet auf einem eigenen Branch \(z. B. "florenz" und nicht master branch\)
 * dieser wird per pull request an github geschickt und vom Admin gemerget bzw. mit Kommentar abgelehnt, falls etwas nicht passt
 * auf gitbook kann man sich die aktuelle Version ansehen \(sobald der merge durchgeführt wurde\)
+https://www.gitbook.com/book/fh-bielefeld-mif-sw-engineerin/script/details
 
 * um die Seitenzahl herauszufinden, falls jemand einen Markdown Editor verwendet, der das Dokument nicht als PDF anzeigen:
 

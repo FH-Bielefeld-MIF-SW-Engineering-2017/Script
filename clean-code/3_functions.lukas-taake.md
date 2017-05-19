@@ -46,8 +46,31 @@ Viele Parameter führen neben mehr kognitivem Aufwand beim Lesen einer Funktion 
 zu einem deutlich erhöhten Testaufwand. Während eine Parameterlose Funktion sehr einfach zu testen ist,
 liegt der Aufwand bei drei oder mehr Parametern äußerst hoch, um alle Kombinationen zu prüfen.
 
-Beispiele für Funktionen mit einem Parameter , der "monadische Form", sind etwa das Stellen einer Frage
-`boolean fileExists("FileName")` oder das Umformen eines Parameters `InputStream fileOpen("FileName")`,
+Beispiele für Funktionen mit einem Parameter , "**monadische Form**" genannt, sind etwa das Stellen
+einer Frage `boolean fileExists("FileName")` oder das Umformen
+eines Parameters `InputStream fileOpen("FileName")`,
 hier wird der String-Parameter in einen InputStream umgewandelt.
-Auch die Behandlung von Events kann so gut umgesetzt werden.
+Auch die Behandlung von Events kann gut mit einem Parameter umgesetzt werden.
 
+Eine Art von Parametern, die unbedingt vermieden werden sollten, sind Flags.
+Sie zeigen an, dass eine Funktion eine Sache tut, wenn das Flag gesetzt ist und eine andere Sache,
+wenn es nicht gesetzt ist. Sie implizieren also eine Verletzung des Single-Responsibility-Principles.
+
+Funktionen mit zwei Parametern werden **dyadisch** genannt. Wenn möglich sollte natürlich versucht werden,
+sie in eine monadische Form zu überführen. Wenn das nicht gelingt, was häufig der Fall ist,
+stellt das noch kein Problem dar.
+Wenn Funktionen allerdings drei Parameter haben, sie werden dann **Triaden** genannt,
+sollte sehr genau geprüft werden, ob sie nicht wenigstens in eine dyadische Form gebracht werden können.
+
+Wenn es scheint, dass eine Funktion mehr als drei Parameter benötigt, sollten womöglich
+einige in eine eigene Klasse verpackt werden (z.B. X- und Y-Koordinaten als Punkt).
+Ein weiterer Spezialfall sind Parameter, die alle gleich behandelt werden und ggf.
+variabel in ihrer Anzahl sind. Solche Parameterlisten werden im allgemeinen als einzelner Parameter
+betrachtet. In Java macht das bereits die Deklaration sichtbar:
+`String format(String format, Object... args)`, für args können eine beliebige Anzahl
+Objekte übergeben werden, die dann als Array verarbeitet werden.
+
+Zur benennung von Funktionen und Parametern bietet es sich an, Verb-Nomen Paare zu bilden.
+Bei `write(name)` ist, was auch immer name ist, auf den ersten Blick klar, dass es geschrieben wird.
+Bei Verwendung mehrerer Parameter gibt es noch die Keyword-Form, bei der die
+Parameter in den Funktionsnamen integriert werdenn: `assertExpectedEqualsActual(expected, actual)`

@@ -1,3 +1,5 @@
+# 10 Veränderungsmanagement im Überblick
+
 ## 10.1 Warum fallen uns Veränderungen so schwer?
 
 Ein Veränderungsmanagement wird definiert als die kontinuierliche Begleitung von grundsätzlichen Veränderungen. Die notwendigen Maßnahmen im Laufe des Prozesses werden als Projekte durchgeführt. 

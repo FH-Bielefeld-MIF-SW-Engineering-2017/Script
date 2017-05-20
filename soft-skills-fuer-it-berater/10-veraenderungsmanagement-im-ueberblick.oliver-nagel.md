@@ -12,7 +12,7 @@ IT-Beratungen sind aufwendig und teuer. Sie lohnen sich aus Kundensicht nur, wen
 
 Obwohl Weiterentwicklungen unseren ganz normalen Alltag bestimmen, fehlt es oft an einem langfristig erfolgreichen Veränderungsmanagment. Die Folge ist, dass Mitarbeiter teilweise überfordert und frustiert sind, da ihre Erwartungen an die erhofften Verbesserungen nicht erfüllt werden. Die betroffenen Mitarbeiter erleben ein Wechselbad der Gefühle. Dieser Gefühlsverlauf von Mitarbeitern wurde in Form einer Kurve von der Boston Consulting Group veröffentlicht.
 
-![](../assets/gefuehlsverlauf.PNG)
+![](/assets/gefuehlsverlauf.PNG)
 
 
 
@@ -42,7 +42,7 @@ Ein gutes Veränderungsmanagement setzt Aktionen erfolgreich um. Bei einer Verä
 
 Um als Berater den Veränderungsprozess zu unterstützen, muss er die aktuelle Phase einer Veränderung bestimmen können und sein Verhalten so anpassen, dass es die Menschen bei der Veränderung bestmöglich unterstützt. Zusätzlich besitzt er die Aufgabe den Informationsfluss zwischen Führungskraft und Mitarbeitern sicherzustellen. Die nachfolgende Abbildung zeigt die Veränderungskurve und den notwendigen Memen.
 
-![](../assets/gefuehlsverlauf_meme.PNG)
+![](/assets/gefuehlsverlauf_meme.PNG)
 
 **Vom Begreifen zur Erschütterung** - Die Ordnung muss wie vor Beginn der Veränderung beibehalten werden. Die Führungskräfte müssen ihren Mitarbeitern aktiv zuhören und die Beweggründe für die Veränderung erläutern.
 
@@ -82,7 +82,7 @@ Die Teamdynamik ist bei Veränderungen ein mächtiger Aspekt. Sie kann Veränder
 
 Die nachfolgende Abbildung zeigt die Phasen, die jedes Team zyklisch durchläuft.
 
-![](../assets/teamzyklus.PNG)
+![](/assets/teamzyklus.PNG)
 
 
 
@@ -102,7 +102,7 @@ Bei einer systemischen Organisationsberatung wird das Zusammenspiel mehrerer Ele
 
 In einem System gibt es drei Ebenen, um die eigene Position innerhalb einer Gruppe zu bewerten. Diese Ebenen stehen in Wechselwirkung, da z.B. ein Problem auf einer Ebene Wirkung auf andere Ebenen haben kann.
 
-![](../assets/bindung_ordnung_ausgleich.PNG)
+![](/assets/bindung_ordnung_ausgleich.PNG)
 
 **Bindung**: Auf dieser Ebene geht es um die Frage, ob ich neben der formalen Zuordnung zu einer Gruppe oder eines Projektteams, mich auch tätsächlich als Mitglied fühle und von den Kollegen im Team akzeptiert werde.
 

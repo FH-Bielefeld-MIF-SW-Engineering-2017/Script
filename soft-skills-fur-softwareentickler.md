@@ -9,4 +9,3 @@
 **ISBN**: 978-3-86490-190-4, 978-3-86491-529-1 (eBook)  
 
 Zusammenfassung von: Jonas Wiese, Daniel Beneker, Fabian Lorenz
-

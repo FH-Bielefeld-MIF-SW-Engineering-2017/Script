@@ -184,4 +184,5 @@
   * [Cloud Computing Basics](zusammenfassung-cloud/cloud-computing-basics.md)
   * [Cloud Computing Web-basierte dynamische IT-Services](zusammenfassung-cloud/cloud-computing-web-basierte-dynamische-it-services.md)
   * [Requirements Engineering for Service and Cloud Computing](zusammenfassung-cloud/requirements-engineering-for-service-and-cloud-computing.md)
+* [Projekte](projekte.md)
 

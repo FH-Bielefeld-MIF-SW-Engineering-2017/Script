@@ -176,6 +176,7 @@
   * [11 Veränderungsmanagement konkret](soft-skills-fur-it-berater/11-veranderungsmanagement-konkret.jonathan-jansen.md)
   * [12 Werkzeuge des Veränderungsmanagers](soft-skills-fur-it-berater/12-werkzeuge-des-veranderungsmanagers.sven-schirmer.md)
   * [13 Veränderungen und das Troja-Prinzip](soft-skills-fur-it-berater/13-veranderungen-und-das-troja-prinzip.sven-schirmer.md)
+  * [8 Der Sinn in unserer Arbeit](soft-skills-fur-it-berater/8-der-sinn-in-unserer-arbeit.malte-berg.md)
 * [Zusammenfassung: Cloud](zusammenfassung-cloud.md)
   * [Cloud Computing als neue Herausforderung für Management und IT](zusammenfassung-cloud/cloud-computing-als-neue-herausforderung-fur-management-und-it.md)
   * [Cloud Computing Basics](zusammenfassung-cloud/cloud-computing-basics.md)

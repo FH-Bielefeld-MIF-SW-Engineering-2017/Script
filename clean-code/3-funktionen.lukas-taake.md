@@ -8,6 +8,7 @@ Die wichtigsten Merkmale, um gute Funktionen zu schreiben, werden in diesem Kapi
 *Anm. d. zusammenfassenden Autors: Das Buch enthält zahlreiche Codebeispiele zur Erläuterung.
 Diese werden aus Gründen der Übersicht nicht übernommen.*
 
+## Größe
 Gute Funktionen sollten **nicht besonders groß** sein. Als Richtwert wird eine Obergrenze von 20 Zeilen
 gegeben. Das hat zur Folge, dass sie zu kurz sind um viele verschachtelte Kontrollstrukturen zu enthalten.
 Große Blöcke innerhalb von Kontrollstrukturen sollten dann in separate Funktionen ausgelagert werden.
@@ -30,6 +31,7 @@ In Objektorientierten Spachen können sie durch Polymorphismus fast vermieden we
 Sie müssen lediglich z.B. in einer *Abstract Factory* zur Erzeugung der entsprechenden Klassen
 eingesetzt werden, können aber an sonsten aus dem Code ferngehalten werden.
 
+## Namen
 Funktionen sollten **beschreibende Namen** tragen. Auch eine kurze Funktion sollte eher einen längeren,
 aber guten, als einen kurzen, wenig aussagekräftigen Namen tragen. Außerdem sind beschreibende Namen
 besser, als beschreibende Kommentare. Dazu sollte eine Namenskonvention verwendet, die es erlaubt,
@@ -37,6 +39,7 @@ leicht Namen aus mehreren Worte zu bilden. Wichtig ist, dass die Namensgebung ko
 gleiche Sachverhalte immer gleich benennt. Darüber hinaus ist es nicht völlig untypisch,
 dass die Suche nach einem guten Namen in der Restrukturierung des Codes endet.
 
+## Parameter
 Die **Anzahl der Parameter** sollte so niedrig sein, wie möglich.
 Bevorzugt sind gar keine Parameter, ein oder zwei sind ebenfalls unproblematisch.
 Drei Parameter sollten vermieden werden, wenn möglich, und mehr sollten auf keinen Fall verwendet werden.
@@ -74,3 +77,51 @@ Zur benennung von Funktionen und Parametern bietet es sich an, Verb-Nomen Paare 
 Bei `write(name)` ist, was auch immer name ist, auf den ersten Blick klar, dass es geschrieben wird.
 Bei Verwendung mehrerer Parameter gibt es noch die Keyword-Form, bei der die
 Parameter in den Funktionsnamen integriert werdenn: `assertExpectedEqualsActual(expected, actual)`
+
+## Seiteneffekte
+**Seiteneffekte** sollten unbedingt vermieden werden. Solche Funktionen erfüllen
+einen Zweck und erledigen unbemerkt noch eine andere Sache (z.B. den Zustand eines
+Parameters verändern, oder den internen Objektzustand).
+Solche Funktionen lassen vesteckte, temorale Kopplungen entstehen. Das kann wiederum schwer
+auffindbare Fehler hervorrufen.
+**Ausgabeargumente** sollten als eine Art von Seiteneffekten ebenfalls vermieden werden.
+In objektorientierten Sprachen können sie elegant durch die Verwendung von
+Objekt-Variablen ersetzt werden.
+
+## Command-Query-Separation
+Funktionen sollen nur eine Sache machen, also entweder etwas machen, oder Informationen
+zu etwas zurück geben. **Command-Query-Separation (CQS)** beschreibt genau die Aufteilung
+in Funktionen, die ewtas zurückgeben oder ausführen. Dadurch kann es nicht passieren,
+dass Rückgabewerte einer ausführenden Funktion fehlinterpretiert werden.
+
+## Exceptions statt Fehlercodes
+Um das Auftreten von Fehlern zu signalisieren, sollten keine Fehlercodes verwendet werden.
+Exceptions haben den Vorteil, dass sie nicht sofort nach Ausführung der Funktion
+ausgewertet werden müssen, sondern dass mehrere Funktionsaufrufe in einem `try`-Block
+kombiniert werden können. Da `try`-Blöcke den Lesefluss stören und Fehlerbehandlung
+eine eigene Aktion ist, sollte sie entsprechend in eigene Funktionen ausgelagert werden.
+Diese Funktion sollte mit einem `try`-Block starten und mit `catch/finally` enden.
+
+Ein weiterer Punkt gegen die Verwendung von Fehlercodes ist, dass diese häufig
+zentral in einer Klasse oder einem Enum gespeichert werden. Diese wird dadurch
+zu einem Abhängigkeitsmagneten. Beim Hinzufügen neuer Codes müssten dann alle Klassen,
+die Fehlercodes benutzen, neu kompiliert und deployed werden.
+Im Gegensatz dazu können für neue Exceptions einfach neue Klassen erstellt werden,
+welche bestehenden Code in keiner Weise beeinflussen.
+
+## Don't Repeat yourself
+Duplikate sind möglicherweise die Wurzel allen Übels in der Softwareentwicklung.
+Viele Anätze und Regeln dienen im Kern dazu, verschiedene Arten von Duplikaten zu erkennen
+und zu vermeiden. Kurze, gut benannte und strukturierte Funktionen sind
+ebenfalls eine effektive Möglichkeit dazu.
+
+## Wie schreibt man solche Funktionen?
+Robert Martin schreibt, dass er zuerst meist lange, komplexe und willkürlich bennante
+Funktionen mit vielen Parametern und Duplikate schreibt.
+Dafür schreibt er ausführliche Unit-Tests und refactored anschließend so lange,
+bis viele kleine Funktionen entstehen, die den Beschreibungen dieses Kapitels gerecht werden.
+Er ist der Meinung, dass niemand solche Funktionen von vorne rein schreiben kann.
+
+*Anm. d. zusammenfassenden Autors: Eine guter Ansatz, um von Anfang an bessere Funktionen
+zu schreiben, ist die Anwendung von Test Driven Developement.
+Siehe "TDD By Example" von Kent Beck*

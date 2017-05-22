@@ -53,7 +53,27 @@ Das Projekt "Twitter Miner" wird entsprechend der Client-Server-Architektur entw
 
 ## <a name="datenmodell"></a>Daten Modell
 
-Schnittstellen ? -> 22.5
+
+Anfrage Client -> Server
+```json
+{  
+   "hashtag":"string"
+}
+```
+
+Server->Client
+```json
+{  
+   "tweets":[  
+      {  
+         "text":"string",
+         "bayes":true,
+         "svm":true,
+         "decisiontree":false
+      }
+   ]
+}
+```
 
 ## Projektplan
 

@@ -37,11 +37,11 @@ Das Projekt "Twitter Miner" wird entsprechend der Client-Server-Architektur entw
 
 ## Gui Mock Ups
 
-Yannick
+[Bild]
 
 ## Use Case Diagramm
 
-alle Nachdecken + Feritgstellung am 22.5
+![](/project_twitter_miner/img/Use_Case_Diagramm.png)
 
 ## User Stories
 

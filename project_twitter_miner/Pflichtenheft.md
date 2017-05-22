@@ -48,11 +48,15 @@ Das Projekt "Twitter Miner" wird entsprechend der Client-Server-Architektur entw
 
 ## Gui Mock Ups
 
+Ein Suchstring (suche nach Hashtag) wird über die Texbox eingegeben und mit der Betätigung des Buttons an den Server gesendet.
+Die Antwort wird in Form einer Auflistung der Tweets in verkürzter Weise angezeigt. Mit einem Klick auf ein einzelnes Listenelement werden die Details auf der rechten Seite angezeitgt. Zu diesen gehören die Ergebnisse der Klassifizierungs-Algorithmen. Das erste, farblich hervorgehobene, Listenelement stellt eine Zusammenfassung der Suchergebnisse dar. Mit einem Klick auf dieses Element wird eine zusammenfassende Übersicht, einschließlich Kuchendiagramm über die Anzahl der Positiven und Negativen Tweets, gegeben.
+
 ![](/project_twitter_miner/img/Mockup.png)
 
 
 ## <a name="datenmodell"></a>Daten Modell
 
+Um die Echtzeit-Anforderung zu erfüllen, soll mithilfe der Javascript Bibliothek _Socket.io_ eine Websocketverbindung zwischen Client und Server aufgebaut werden. Der Payload der Nachrichten wird nachfolgend aufgelistet.
 
 Anfrage Client -> Server
 ```json

@@ -48,7 +48,7 @@ Das Projekt "Twitter Miner" wird entsprechend der Client-Server-Architektur entw
 
 ## Gui Mock Ups
 
-[Bild]
+![](/project_twitter_miner/img/Mockup.png)
 
 
 ## <a name="datenmodell"></a>Daten Modell

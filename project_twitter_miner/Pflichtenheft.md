@@ -13,6 +13,8 @@ Das Projekt trägt den Namen "Twitter Miner" und befasst sich mit der Klassifika
 
 ## Use Case Diagramm
 
+Das nachfolgende Use-Case Diagramm verdeutlicht die Anwendungsfälle der Aktoren _Anwender_ und _Administrator_.
+
 ![](/project_twitter_miner/img/Use_Case_Diagramm.png)
 
 ## Funktionsumfang

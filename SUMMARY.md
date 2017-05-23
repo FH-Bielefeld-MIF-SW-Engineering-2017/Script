@@ -210,5 +210,12 @@
   * [25 Technology is not an implementation detail](sw-architecture-for-developers-vol-1/25-technology-is-not-an-implementation-detail.yannick-kloss.md)
   * [26 More layers = more complexity](sw-architecture-for-developers-vol-1/26-more-layers-more-complexity.yannick-kloss.md)
   * [27 Collaborative design can help and hinder](sw-architecture-for-developers-vol-1/27-collaborative-design-can-help-and-hinder.yannick-kloss.md)
+  * [28 Software architecture is a platform for conversation](sw-architecture-for-developers-vol-1/28-software-architecture-is-a-platform-for-conversation.yannick-kloss.md)
+  * [30 The conflict between agile and architecture - myth or reality?](sw-architecture-for-developers-vol-1/30-the-conflict-between-agile-and-architecture-myth-or-reality.yannick-kloss.md)
+  * [31 Quantifying risk](sw-architecture-for-developers-vol-1/31-quantifying-risk.yannick-kloss.md)
+  * [32 Risk-storming](sw-architecture-for-developers-vol-1/32-risk-storming.yannick-kloss.md)
+  * [33 Just enough up front design](sw-architecture-for-developers-vol-1/33-just-enough-up-front-design.yannick-kloss.md)
+  * [34 Agility](sw-architecture-for-developers-vol-1/34-agility.yannick-kloss.md)
+  * [35 Introducing software architecture](sw-architecture-for-developers-vol-1/35-introducing-software-architecture.yannick-kloss.md)
 * [Projekte](projekte.md)
 

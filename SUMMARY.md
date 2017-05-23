@@ -194,5 +194,13 @@
   * [8 Should software architects code?](sw-architecture-for-developers-vol-1/8-should-software-architects-code.gamze-soeylev-oektem.md)
   * [9 Software architects should be master builders](sw-architecture-for-developers-vol-1/9-software-architects-should-be-master-builders.gamze-soeylev-oektem.md)
   * [10 From developer to architect](sw-architecture-for-developers-vol-1/10-from-developer-to-architect.lutz-winkelmann.md)
+  * [11 Broadening the T](sw-architecture-for-developers-vol-1/11-broadening-the-t.lutz-winkelmann.md)
+  * [12 Soft skills](sw-architecture-for-developers-vol-1/12-soft-skills.lutz-winkelmann.md)
+  * [13 Software development is not a relay sport](sw-architecture-for-developers-vol-1/13-software-development-is-not-a-relay-sport.lutz-winkelmann.md)
+  * [14 Software architecture introduces control?](sw-architecture-for-developers-vol-1/14-software-architecture-introduces-control.lutz-winkelmann.md)
+  * [15 Mind the gap](sw-architecture-for-developers-vol-1/15-mind-the-gap.lutz-winkelmann.md)
+  * [16 Where are the software architects of tomorrow?](sw-architecture-for-developers-vol-1/16-where-are-the-software-architects-of-tomorrow.lutz-winkelmann.md)
+  * [17 Everybody is an architect, except when they’re not](sw-architecture-for-developers-vol-1/17-everybody-is-an-architect-except-when-theyre-not.lutz-winkelmann.md)
+  * [18 Software architecture as a consultant](sw-architecture-for-developers-vol-1/18-software-architecture-as-a-consultant.lutz-winkelmann.md)
 * [Projekte](projekte.md)
 

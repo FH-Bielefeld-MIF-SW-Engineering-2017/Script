@@ -202,5 +202,13 @@
   * [16 Where are the software architects of tomorrow?](sw-architecture-for-developers-vol-1/16-where-are-the-software-architects-of-tomorrow.lutz-winkelmann.md)
   * [17 Everybody is an architect, except when they’re not](sw-architecture-for-developers-vol-1/17-everybody-is-an-architect-except-when-theyre-not.lutz-winkelmann.md)
   * [18 Software architecture as a consultant](sw-architecture-for-developers-vol-1/18-software-architecture-as-a-consultant.lutz-winkelmann.md)
+  * [20 Architectural drivers](sw-architecture-for-developers-vol-1/20-architectural-drivers.lutz-winkelmann.md)
+  * [21 Quality Attributes \(non-functional requirements\)](sw-architecture-for-developers-vol-1/21-quality-attributes-non-functional-requirements.lutz-winkelmann.md)
+  * [22 Working with non-functional requirements](sw-architecture-for-developers-vol-1/22-working-with-non-functional-requirements.lutz-winkelmann.md)
+  * [23 Constraints](sw-architecture-for-developers-vol-1/23-constraints.lutz-winkelmann.md)
+  * [24 Principles](sw-architecture-for-developers-vol-1/24-principles.yannick-kloss.md)
+  * [25 Technology is not an implementation detail](sw-architecture-for-developers-vol-1/25-technology-is-not-an-implementation-detail.yannick-kloss.md)
+  * [26 More layers = more complexity](sw-architecture-for-developers-vol-1/26-more-layers-more-complexity.yannick-kloss.md)
+  * [27 Collaborative design can help and hinder](sw-architecture-for-developers-vol-1/27-collaborative-design-can-help-and-hinder.yannick-kloss.md)
 * [Projekte](projekte.md)
 

@@ -239,7 +239,7 @@
   * [AI](projekte/ai.md)
   * [Embedded Computing](projekte/embedded-computing.md)
   * [Fullstack Development](projekte/fullstack-development.md)
-    * [NoSQL](projekte/fullstack-development/nosql.fabian-lorenz.md)
+    * [7 NoSQL](projekte/fullstack-development/nosql.fabian-lorenz.md)
   * [Cloud-Security](projekte/cloud-security.md)
   * [Software-Architektur](projekte/software-architektur.md)
 

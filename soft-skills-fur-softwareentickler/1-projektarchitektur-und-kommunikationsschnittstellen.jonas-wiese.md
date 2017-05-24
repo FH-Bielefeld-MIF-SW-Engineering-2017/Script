@@ -26,6 +26,7 @@ Eine zweite Gruppierung kann nach Umfeldgruppen vorgenommen werde. Hierbei sind 
 * „Unterstützer und Verändere“ (geben inhaltlichen Rückhalt im Unternehmen)
 * „Unentschlossene und Meinungswechsler“ (kein direkter Macht Einfluss und wechseln mit äußeren Einflüssen ihre Meinung)
 * „Gegner und Veränderungsbarrieren“ (Personen mit offenem oder verstecktem Wiederstand).  
+
 Beide Gruppierungen sind voneinander unabhängig und haben jeweils eigene Vorteile. 
 Um die Stakeholder Analyse zu visualisieren wird die Stakeholder Map genutzt. Hierbei werden die gebildeten Gruppen mit 3 verschiedenen Pfeilen (befreundet, verfeindet oder loyal) mit einander verknüpft.
 ## 3 Projektmarketing

@@ -45,6 +45,7 @@ Das Kano-Modell (1984 vorgestellt) ist ein Qualitätsmodell aus Kundensicht. In 
 * Basisanforderungen: Muss das Produkt haben um bestehen zu können
 * Eindimensionale Anforderungen: Sie sind direkt mit der Kundenzufriedenheit verbunden. Je besser diese Anforderungen erfüllt sind, desto zufriedener sind die Kunden
 * Attraktive Anforderungen: Sie haben den größten Einfluss auf die Kundenzufriedenheit. Das Fehlen dieser Anforderungen kann nicht zur Unzufriedenheit führen.  
+
 Ein Beispiel für Attraktive Anforderungen können kleine Anpassungen sein, die dem Kunden aber positiv Auffallen (anpassen der Tabulatorreihenfolgen an den neuen Arbeitsfluss, oder bearbeiten der voreingestellten Belegungen von Eingabemasken). 
 Das Kano Modell hilft die Zusammenhänge zwischen Anforderungen und Kundenzufriedenheit besser zu erkennen. Wenn die Software also an einigen Stellen Begeisterung weckt, können andere Probleme leichter gelöst werden.
 ### 3.4 Events und Präsentationen 

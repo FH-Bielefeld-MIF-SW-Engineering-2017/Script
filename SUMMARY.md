@@ -231,6 +231,9 @@
   * [Tool Support](enterprise-architecture-at-work/tool-support.marvin-schirrmacher.md)
   * [Case Studies](enterprise-architecture-at-work/case-studies.marvin-schirrmacher.md)
   * [Beyond Enterprise Architecture](enterprise-architecture-at-work/beyond-enterprise-architecture.marvin-schirrmacher.md)
+
+### Projekte
+
 * [Projekte](projekte.md)
   * [VR](projekte/vr.md)
   * [AR](projekte/ar.md)
@@ -242,4 +245,6 @@
     * [7 NoSQL](projekte/fullstack-development/nosql.fabian-lorenz.md)
   * [Cloud-Security](projekte/cloud-security.md)
   * [Software-Architektur](projekte/software-architektur.md)
+
+
 

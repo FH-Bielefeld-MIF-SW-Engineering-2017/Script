@@ -4,6 +4,9 @@
 * [Hilfe](hilfe.md)
   * [Markdown Syntax](hilfe/markdown_syntax.md)
   * [PDF Anleitung](hilfe/pdf_anleitung.md)
+
+### Klausurthemen
+
 * [Vorbereitung](vorbereitung.md)
   * [Co-Economy: Wertschöpfung im digitalen Zeitalter](vorbereitung/co-economy_wertschoepfung_im_digitalen_zeitalter.md)
     * [1 Connectedness](vorbereitung/co-economy_wertschoepfung_im_digitalen_zeitalter/1_connectedness.fabian_lornez.md)

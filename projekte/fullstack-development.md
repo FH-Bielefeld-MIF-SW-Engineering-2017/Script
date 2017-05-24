@@ -7,17 +7,22 @@ Github-Repo:
 
 ## Inhalt:
 
-* Kapitel1
-* Kapitel2
-* Kapitel3
-* Kapitel4
-* Kapitel5
-* Kapitel6
-* NoSQL \(Fabian Lorenz\)
-  * Einführung
-  * ObjektbasierteDB
-  * DokumentbasierteDB
-* Kapitel8
+1. Kapitel1 \(Timo Rolfsmeier\)
+   * Einleitung
+   * State of the Art
+   * Kozept
+   * Umsetzung
+   * Fazit
+2. Kapitel2 \(Niklas Harting\)
+3. Kapitel3 \(Alexander Schwietert\)
+4. Kapitel4 \(Tolga Aydemir\)
+5. Kapitel5 \(Malte Berg\)
+6. Kapitel6 \(Lutz Winkelmann\)
+7. NoSQL \(Fabian Lorenz\)
+   * Einführung
+   * ObjektbasierteDB
+   * DokumentbasierteDB
+8. Kapitel8 \(Benjamin Schmidt\)
 
 
 

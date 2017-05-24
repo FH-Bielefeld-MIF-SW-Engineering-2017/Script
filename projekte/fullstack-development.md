@@ -5,8 +5,6 @@ Projektleiter:
 Projektteam: Timo Rolfsmeier, Niklas Harting, Alexander Schwietert, Tolga Aydemir, Malte Berg, Lutz Winkelmann, Fabian Lorenz, Benjamin Schmidt  
 Github-Repo:
 
-
-
 ## Inhalt:
 
 * Kapitel1
@@ -15,7 +13,7 @@ Github-Repo:
 * Kapitel4
 * Kapitel5
 * Kapitel6
-* NoSQL
+* NoSQL \(Fabian Lorenz\)
   * Einführung
   * ObjektbasierteDB
   * DokumentbasierteDB

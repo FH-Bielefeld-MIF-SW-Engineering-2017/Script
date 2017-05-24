@@ -232,4 +232,13 @@
   * [Case Studies](enterprise-architecture-at-work/case-studies.marvin-schirrmacher.md)
   * [Beyond Enterprise Architecture](enterprise-architecture-at-work/beyond-enterprise-architecture.marvin-schirrmacher.md)
 * [Projekte](projekte.md)
+  * [VR](projekte/vr.md)
+  * [AR](projekte/ar.md)
+  * [Modell getriebene Systementwicklung](projekte/modell-getriebene-systementwicklung.md)
+  * [Continous Software Engineering](projekte/continous-software-engineering.md)
+  * [AI](projekte/ai.md)
+  * [Embedded Computing](projekte/embedded-computing.md)
+  * [Fullstack Development](projekte/fullstack-development.md)
+  * [Cloud-Security](projekte/cloud-security.md)
+  * [Software-Architektur](projekte/software-architektur.md)
 

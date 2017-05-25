@@ -251,10 +251,6 @@
     * [Einführung](fullstack-development/nosql/einfuhrung.md)
     * [ObjektbassierteDB](fullstack-development/nosql/objektbassiertedb.md)
     * [DokumentbasierteDB](fullstack-development/nosql/dokumentbasiertedb.md)
-    * test
-  * test2
 * [Cloud-Security](cloud-security.md)
 * [Software-Architektur](software-architektur.md)
-
-
 

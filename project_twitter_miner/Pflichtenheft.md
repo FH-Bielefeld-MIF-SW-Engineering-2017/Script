@@ -82,8 +82,7 @@ Server->Client
 ```
 
 ## Projektplan
-
-Sven MS Projekt, Zusammen
+![](/project_twitter_miner/img/Projektplan.png)
 
 ## <a name="verantwortlichkeiten"></a>Verantwortlichkeiten
 

@@ -38,5 +38,16 @@ Dient dazu logische Strukturen zu erstellen um ein Unternehmen zu klassifizieren
 
 Vorteile des Frameworks sind die Betrachtung des gesamten Unternehmens, die Einfachheit des Frameworks und die Unabhängigkeit von Tools und Methodiken. Nachteile sind die große Anzahl an Zellen und die Relationen zwischen den Zellen sind nicht gut spezifiziert.
 
+### The Open Group Architecture Framework - TOGAF
+Die Hauptkomponenten sind ein Capability Framework (skills, roles), die "Architecture Development Method (ADM)" (Zyklus zur Entwicklung einer EA), das "Architecture Content Framework" (Top-Level EA) und das "Enterprise Continuum" (Sammlung verschiedener Modelle).
+Das im folgenden dargestellte ADM von TOGAF ist iterativ über den gesamten Prozess zu sehen.
+TOGAF image S.26
 
-
+## Description Languages
+In der Software Entwicklung ist UML die führende Modellierungssprache. Für die Modellierung von Organisationen und Prozessen gibt es eine Vielzahl an Beschreibungssprachen.
+IDEF: Der Schwerpunkt liegt in der funktionalen Modellierung, Prozessmodellierung, Datenmodellierung
+Vorteile: Unterstützt die Modellierung einer Vielzahl von architektonischen Views.
+Nachteile: Keine Kommunikationsmechanismen zwischen den einzelnen Modellen.
+Anwendungsbereich: Industrie
+BPMN:The Business Process Modelling Notation (BPMN) ist auf Prozessmodellierung beschränkt. Applikationen und Infrastruktur wird nicht abgedeckt.
+UML: Hauptanwendungsbereich ist das designen von Systemen. Ohne technische Details kann UML auch für Visualisierungen von "business engineers" und "organisation specialists" verwendet werden. Das Konzept von UML, das es immer ein Object gibt, welches variable verwendet werden kann macht dies möglich.

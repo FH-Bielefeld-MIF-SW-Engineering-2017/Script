@@ -5,9 +5,9 @@ aussagekräftig genug sind. Kommentare würden nicht benötigt werden, wenn Prog
 besser ausdrücken würden. Deswegen werden Kommentare eingesetzt, um zu erklären, warum ein bestimmter Ansatz gewählt wurde.
 
 Das Einsetzen von Kommentaren ist in der Regel schlecht, da es bedeutet, dass eine Absicht nicht durch den Quelltext ausgedrückt
-werden kann und der Code nicht aussagekräftig genug ist. Wenn man dabei ist, einen Kommentar zu schreiben, sollte man scih überlegen,
+werden kann und der Code nicht aussagekräftig genug ist. Wenn man dabei ist, einen Kommentar zu schreiben, sollte man sich überlegen,
 ob man den Quelltext nicht so umschreiben kann, dass er aussagekräftiger ist und somit kein Kommentar benötigt wird.
-Häufige Probleme mit Kommentaren sind zum Beispiel Kommentare, die irreführend sidn oder Falschinformationen liefern. Desweiteren
+Häufige Probleme mit Kommentaren sind zum Beispiel Kommentare, die irreführend sind oder Falschinformationen liefern. Desweiteren
 werden viele Kommentare nicht angepasst, wenn der Code umgebaut wird.
 
 ## Gute Kommentare
@@ -15,7 +15,7 @@ Es gibt einige Arten von Kommentaren, die gut sind und deren richtiger Einsatz m
 nur sparsam eingesetzt werden. So sind zum Beispiel
 rechtliche Kommentare erwünscht, die Copyright-Informationen angeben und beschreiben, unter welcher Lizenz der Quelltext
 steht. Diese Kommentare sind notwendig, sollte aber so kurz wie möglich gehalten werden. Es ist besser, auf ein
-externes Dokument zu verweisen, welches Informationen zu der Quelltext-Lizenz enthält, als den gesamten Lizenz-Text als Kommentar
+externes Dokument zu verweisen, welches Informationen zu der verwendeten Quelltext-Lizenz enthält, als den gesamten Lizenz-Text als Kommentar
 einzufügen.
 
 Weiterhin sind informative Kommentare erwünscht, die zum Beispiel angeben, welches Muster ein regulärer Ausdruck als gültig
@@ -23,15 +23,17 @@ erkennt. Neben dieser Art von Kommentaren zählen Kommentare, die beschreiben, w
 zu den guten Kommentaren. Sie erklären, warum ausgerechnet die Lösung, die implementiert wurde, gewählt wurde.
 
 Ein großes Problem sind nichtsaussagende Rückgabewerte, die meist Integerwerte sind. Ein gutes Beispiel sind die Rückgabewerte
-der compareTo()-Methode. Die beste Lösung für dieses Problem wäre eigentlich, dass der Code so geändert wird, dass die
-Rückgabewerte aussagekräftig sind. Dies lässt sich aber nicht immer durchführen, da man nicht jeden Quelltext ändern kann
-(die Standard-Bibliothek zum Beispiel). In diesem Fall ist es dann angebracht, Kommentare zu verwenden, die die Bedeutung des
+der compareTo()-Methode. Sie liefert je nach Ergebnis des Vergleichs -1, 0 oder 1 zurück. Die beste Lösung für dieses
+Problem wäre eigentlich, dass der Code so geändert wird, dass die Rückgabewerte aussagekräftig sind. Dies lässt
+sich aber nicht immer durchführen, da man nicht jeden Quelltext ändern kann
+(die Standard-Bibliothek zum Beispiel). In diesem Fall ist es dann angebracht, Kommentare beim Aufruf der Methoden zu verwenden, die die Bedeutung des
 Rückgabewertes beschreiben. Ein Risiko besteht darin, dass die Kommentare falsch sind, wenn der Code geändert wurde,
 die Kommentare aber nicht angepasst wurden.
 
-Desweiteren sind Kommentare erwünscht, die vor Gefahren warnen. Zum Beispiel, wenn eine bestimmte Methode nicht threadsafe ist.
+Des Weiteren sind Kommentare erwünscht, die vor Gefahren warnen. Zum Beispiel, wenn eine bestimmte Methode nicht threadsafe
+ist.
 
-TODO-Kommentare sind meist nützlich, um sich schnell Aufgaben für bestimmten Code-Teilen zu notieren. Auch, wenn Aufgaben
+TODO-Kommentare sind meist nützlich, um sich schnell Aufgaben für bestimmten Code-Teilen zu notieren. Auch wenn Aufgaben
 an andere abgegeben werden sollen, sind TODO-Kommentare nützlich. Zu beachten ist, dass sie wieder schnell aus dem Quelltext
 entfernt werden.
 
@@ -49,11 +51,11 @@ doch den Quelltext ansehen, um zu verstehen, was dort passiert. Eine weitere sch
 die wegen Coding-Richtlinen geschrieben werden und eigentlich nicht nötig wären. Sie blähen den Quelltext nur unnötig auf und
 hindern Betrachter daran, schnell durch den Quelltext durchzusteigen.
 
-Desweiteren sollten Kommentare mit Änderungshinweisen vermieden werden. Dies sind Kommentare, die auflisten, wann wer welche
+Ferner sollten Kommentare mit Änderungshinweisen vermieden werden. Dies sind Kommentare, die auflisten, wann wer welche
 Änderung an der Datei durchgeführt hat. Heute gibt es dafür Versionierungssysteme, die diese Aufgabe übernehmen. Genauso sind
 Kommentare überflüssig, die die Autoren von Codeblöcken angeben. Auch diese Aufgabe übernehmen Versionierungssysteme.
 Außerdem sollten auch überflüssige Kommentare vermieden werden. Kommentare für Getter- und Setter-Methoden werden zum
-Beispiel nicht benötigt. Sie sind redundant, da der Name der Methode schon aussagt, welchen Wert die Methoden zurückliefern
+Beispiel nicht benötigt. Sie sind redundant, da der Name der Methode schon aussagt, welche Art von Werten die Methoden zurückliefern
 oder entgegennehmen.
 
 Auch sollten Kommentare nicht verwendet werden, wenn sie durch die Benutzung von Variablen oder Funktionen überflüssig wären.
@@ -70,8 +72,8 @@ von Codeteilen in Methoden verkleinert werden.
 Quelltext, der auskommentiert ist, sollte entfernt werden. Codeleichen machen den Quelltext unübersichtlich. Versionierungssysteme
 helfen dabei, Code, der entfernt wurde, wiederzubeschaffen.
 
-Kommentare, die HTML-Formatierungen beinhalten sollte außerdem nicht verwendet werden. Auch sie blähen den Quelltext unnötig auf
-und machen die eigenltichen Kommentare im Quelltext schwer lesbar. Die Programme, die die Kommentare aus den Quelltexten
+Kommentare, die HTML-Formatierungen beinhalten, sollten außerdem nicht verwendet werden. Auch sie blähen den Quelltext unnötig auf
+und machen die eigentlichen Kommentare im Quelltext schwer lesbar. Die Programme, die die Kommentare aus den Quelltexten
 extrahieren, sollten die Formatierungen hinzufügen.
 
 Auch Kommentare, die Informationen zum gesamten System enthalten oder Teile beschreiben, die nichts mit dem direkt anliegenden

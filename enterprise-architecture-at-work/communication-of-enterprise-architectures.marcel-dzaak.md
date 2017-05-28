@@ -39,3 +39,40 @@ Dieses Wissen wird in einer Gemeinschaft weitergegeben. Hierfür gibt es drei Ka
 -Committed: Nach der Zustimmung wird sich auf ein gemeinsames zukünftiges Verhalten geeinigt.
 
 ## Conversation Strategies
+Kommunikation ist unerlässlich für das Entwerfen von Architektur. Basierend auf einem Ziel, einem initialen Wissensstand, sowie der Situation der Kommunikation muss hieraus eine "conversation strategy" abgeleitet werden, um möglichst effizient zu Arbeiten.
+Eine Gesprächsstrategie deckt im optimal Fall die folgenden Punkte ab:
+Execution plan: Eine Unterhaltung kann aus mehreren Subunterhaltungen bestehen, welche lediglich ein Subziel behandeln. Das Gesamtziel darf nie außer Acht gelassen werden.
+Description languages: Welche Sprach genutzt werden soll.
+Media: Welche Hilfsmittel werden eingesetzt.
+Cognitive mode: Die Art wie Informationen gesammelt werden sollen (analytisch oder experimentell)
+Social mode: Die Art, auf welcher mit anderen Gesprächsteilnehmern zusammengearbeitet wird. (Expert-driven, Participatory)
+
+## Knowledge Goals
+Wie bei der "commuication knowledge" gibt es auch bei den "knowledge goals" eine Kategorisierung:
+-Introduction of knowledge (Trainings)
+-Agreement to knowledge (Einigung der Stakeholder)
+-Commitment to knowledge (Stakeholder arbeiten nach den Zusagen)
+
+## Conversation Strategies
+Brown-paper session:
+Typisches Brainstorming mit PostIt's. Gedanken werden strukturiert und kategorisiert.
+
+Elicitation interview:
+Klassisches Interview. Der Interviewer versucht durch Fragen an Informationen zu gelangen.
+
+Workshop:
+Klassischer geführter Workshop. Mitarbeit durch Teilnehmer an einem Modell, sodass direkt Feedback eingearbeitet werden kann.
+
+Validation interview:
+Kleiner als ein "elication interview". Informationen sind bereits bekannt und in einem Modell vorhanden. Diese Informationen werden durch die Interviewpartner gespiegelt und geprüft.
+
+Committing review:
+Stakeholder entscheiden sich zwischen mehreren Vorschlägen und committen sich darauf.
+
+Presentation:
+Typische Präsentation (Front-Beschallung).
+
+Mailing:
+Massenkommunikation um ein Modell vorzustellen oder zu übergeben.
+
+Bild KnowledgeGoalsAndConversationTechniques

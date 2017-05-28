@@ -52,6 +52,7 @@ Innerhalb des Cloud-Computing existieren vier unterschiedliche Deployment-Modell
 + **Community Cloud:** In einer Community Cloud schließen sich verschiedene Organisationen zusammen, welche ein gemeinsames Ziel verfolgen. Beispielhaft hierfür sind verschiedene Krankenhäuser, die dieselben medizinischen Geräte verwenden oder ihre Erkenntnisse untereinander teilen wollen. Demnach ist die Community Cloud eine öffentliche Cloud für eine homogene Gruppe von Konsumenten. Bei einer ***federated community cloud*** greifen die Organisationen innerhalb der Gruppe gegenseitig auf ihre eigenen Ressourcen zu (siehe Abb. 2). Bei einer ***brokered community cloud*** erfolgt der Zugriff über einen Vermittler, welcher die Anfragen an einen zentralen Anbieter weiterleitet.
 
 ![](/assets/Federated_Broker.png)
+
 (Abbildung 1: Vergleich von Federated und Brokered Community Cloud)
 
 (Quelle: Srinivasan 2014)

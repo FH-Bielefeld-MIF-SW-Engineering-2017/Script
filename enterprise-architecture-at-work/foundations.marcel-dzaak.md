@@ -18,4 +18,10 @@ Definition View: expresses the architecture of the system of interest from the p
 Definition Viewpoint: a specification of the conventions for constructing, interpreting, using and analysing one type of architecture view
 
 ## Pictures, Models, and Semantics
-S.51
+Im Zusammenhang mit Architektur werden viele verschiedene Sichten erzeugt, die meistens visualisiert werden. Im Folgenden wird versucht den Inhalt unabhängig von der Visualisierung zu sehen. Der Hintergrund ist, dass Visualisierungen häufig Dinge enthalten, die das "model" erweitern und erklären sollen. Es gibt immer etwas in einer Architektur, was unabhängig von der Visualierung ist, die "Semantic". Die Semantic muss nicht in allen Views übereinstimmen, aber alle Semantiken haben immer etwas gemeinsam.
+
+### Symbolic and Semenatic Models
+Um die Idee zu erläutern, unterscheiden wir zwischen einem "symbolic model" und einem "semantic model".
+Definition symbolic model: expresses properties of architectures of systems by means of symbols that refer to reality.
+Definition semantic model: is an interpretation of a symbolic model, expressing the meaning of the symbols in that model.
+Bild Symbolic and Semantic models

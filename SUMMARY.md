@@ -179,7 +179,7 @@
   * [1 Beratung in der IT](soft-skills-fur-it-berater/1-beratung-in-der-it.tolga-aydemir.md)
   * [2 Kommunizieren und verstehen](soft-skills-fur-it-berater/2-kommunizieren-und-verstehen.tolga-aydemir.md)
   * [3 Workshops gezielt einsetzen](soft-skills-fur-it-berater/3-workshops-gezielt-einsetzen.tolga-aydemir.md)
-  * [4 Workshops leiten](soft-skills-fur-it-berater/4-workshops-leiten.tolga-aydemir.md)
+  * [4 Workshops leiten Teil 1](soft-skills-fur-it-berater/4-workshops-leiten-teil-1.tolga-aydemir.md)
   * [6 Methodische Beratung](soft-skills-fur-it-berater/6-methodische-beratung.niklas-harting.md)
   * [7 Methodische Beratung als Prozess](soft-skills-fur-it-berater/7-methodische-beratung-als-prozess.niklas-harting.md)
   * [8 Der Sinn in unserer Arbeit](soft-skills-fur-it-berater/8-der-sinn-in-unserer-arbeit.malte-berg.md)
@@ -189,6 +189,7 @@
   * [12 Werkzeuge des Veränderungsmanagers](soft-skills-fur-it-berater/12-werkzeuge-des-veranderungsmanagers.sven-schirmer.md)
   * [13 Veränderungen und das Troja-Prinzip](soft-skills-fur-it-berater/13-veranderungen-und-das-troja-prinzip.sven-schirmer.md)
   * [14 Fallbeispiel](soft-skills-fur-it-berater/14-fallbeispiel.jonathan-jansen.md)
+  * [4 Workshops leiten Teil 2 justin jagieniak](soft-skills-fur-it-berater/4-workshops-leiten-teil-2-justin-jagieniak.md)
 * [SW Architecture for Developers Vol. 1](sw-architecture-for-developers-vol-1.md)
   * [1 What is architecture?](sw-architecture-for-developers-vol-1/1-what-is-architecture.gamze-soeylev-oektem.md)
   * [2 Types of architecture](sw-architecture-for-developers-vol-1/2-types-of-architecture.gamze-soeylev-oektem.md)
@@ -253,6 +254,4 @@
     * [DokumentbasierteDB](fullstack-development/nosql/dokumentbasiertedb.md)
 * [Cloud-Security](cloud-security.md)
 * [Software-Architektur](software-architektur.md)
-
-
 

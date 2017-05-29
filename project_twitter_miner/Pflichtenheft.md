@@ -58,6 +58,18 @@ Die Antwort wird in Form einer Auflistung der Tweets in verkürzter Weise angeze
 
 ## <a name="datenmodell"></a>Daten Modell
 
+Die Twitter API gibt Tweets als JSON Objekte zurück. Diese JSON Objekte beinhalten unter anderem:
+
+- Autor
+- Text
+- Sprache
+- Verfassungsdatum
+- Hashtags
+
+Die genauen Dokumentation ist auf der [Twitter APi Website](https://dev.twitter.com/overview/api/tweets) zu lesen.   
+Einen Beispiel Tweet im JSON Format ist [hier](/json/example.json) ersichtlich.
+
+
 Um die Echtzeit-Anforderung zu erfüllen, soll mithilfe der Javascript Bibliothek _Socket.io_ eine Websocketverbindung zwischen Client und Server aufgebaut werden. Der Payload der Nachrichten wird nachfolgend aufgelistet.
 
 Anfrage Client -> Server

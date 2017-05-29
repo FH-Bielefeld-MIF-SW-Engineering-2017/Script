@@ -20,10 +20,11 @@ Projektleiter:
 Projektteam: Lukas Taake, Marcel Dzaak, Marvin Schirrmacher
 Github-Repo:
 
-Projektname: **AI**
-Projektleiter:
-Projektteam: Daniel Beneker, Sven Schirmer, Yannick Kloss
-Github-Repo:
+
+Projektname: **AI**  
+Projektleiter:  
+Projektteam: Daniel Beneker, Sven Schirmer, Yannick Kloss  
+Github-Repo: [Twitter Miner](https://github.com/YKloss/Twitter_Miner/blob/master/Pflichtenheft.md)
 
 Projektname: **Embedded Computing**
 Projektleiter: Gamze Söylev Öktem
@@ -44,4 +45,3 @@ Projektname: **Software-Architektur**
 Projektleiter: Christian Holzberger
 Projektteam: Christian Holzberger
 Github-Repo:
-

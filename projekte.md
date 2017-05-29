@@ -31,9 +31,9 @@ Projektteam: Nils Kohlmeier, Wladimir Streck, Gamze Söylev Öktem, Jonas Wiese,
 Github-Repo:
 
 Projektname: **Fullstack Development**  
-Projektleiter:  
+Projektleiter:
 Projektteam: Timo Rolfsmeier, Niklas Harting, Alexander Schwietert, Tolga Aydemir, Malte Berg, Lutz Winkelmann, Fabian Lorenz, Benjamin Schmidt  
-Github-Repo:
+GitLab-Group: [ShareBase](https://gitlab.com/ShareBase)
 
 Projektname: **Cloud Security**  
 Projektleiter: Philipp Viertel  

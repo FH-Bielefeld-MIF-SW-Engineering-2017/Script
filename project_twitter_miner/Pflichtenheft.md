@@ -22,9 +22,9 @@ Das nachfolgende Use-Case Diagramm verdeutlicht die Anwendungsfälle der Aktoren
 Nachfolgend wurden die von dem Use-Case Diagramm und den User-Stories abgeleiteten funktionalen und nicht-funktionalen Anforderungen aufgelistet.
 
 **Funktional:**
-* Die Anwendung muss als Webanwendung, bestehend aus Client und Server relisiert werden.
+* Die Anwendung muss als Webanwendung, bestehend aus Client und Server realisiert werden.
 * Der Client muss eine, im Browser geöffnete, Webseite sein.
-* Der Client muss Suchanfragen in Form eines Hachtags (z.B. "#landtagswahl") in einer Textbox annehmen.
+* Der Client muss Suchanfragen in Form eines Hashtags (z.B. "#landtagswahl") in einer Textbox annehmen.
 * Der Client muss Suchanfragen mit der Betätigung eines Buttons an den Server schicken.
 * Der Client sollte die Antworten auf Suchanfragen in einer informativen Art und Weise anzeigen.
 * Die Client muss bei wiederholten Suchanfragen die Antworten von alten Suchanfragen von der Anzeige löschen.
@@ -44,7 +44,7 @@ Nachfolgend wurden die von dem Use-Case Diagramm und den User-Stories abgeleitet
 
 ## Systemarchitektur
 
-Das Projekt "Twitter Miner" wird entsprechend der Client-Server-Architektur entworfen. Der Client ist eine Webanwendung die im Browser des Anwenders läuft. Der Client öffnet eine Websocketverbindung zum Server, der sich um alle Aufgaben wie die Beschaffung der Daten und die Klassifikation kümmert. Der Server ist mit Python implementiert und teilt sich auf in fünf Komponenten. Auf die Kommnunikation zwischen den Komponenten, sowie zwischen dem Client und dem Server wird im Detail im Kapitel [Daten Modell](#datenmodell) beschrieben. Der Client kommuniziert mit der Komponente "Frontend Server". Dieser nutzt wiederum die Komponente "Twitter Connector" um Tweets mit Hilfe der Twitter-API zu einem bestimmten Hashtag zu laden. Die geladenen Tweets werden anschließend an die drei Algorithmus-Komponentten weitergegeben. Jede Komponente implementiert dabei einen bestimmten Klassifikationsalgorithmus. Die Ergebnisse der Klassifikation werden am Ende von der Frontend-Server-Komponente gesammelt und in geeigneter Form an den Client zurückgeliefert. Die Verantwortlichkeiten für die einzelnen Komponenten sind in Kapitel [Verantwortlichkeiten](#verantwortlichkeiten) aufgelistet.
+Das Projekt "Twitter Miner" wird entsprechend der Client-Server-Architektur entworfen. Der Client ist eine Webanwendung die im Browser des Anwenders läuft. Der Client öffnet eine Websocketverbindung zum Server, der sich um alle Aufgaben wie die Beschaffung der Daten und die Klassifikation kümmert. Der Server ist mit Python implementiert und teilt sich auf in fünf Komponenten. Auf die Kommnunikation zwischen den Komponenten, sowie zwischen dem Client und dem Server wird im Detail im Kapitel [Daten Modell](#datenmodell) beschrieben. Der Client kommuniziert mit der Komponente "Frontend Server". Dieser nutzt wiederum die Komponente "Twitter Connector" um Tweets mit Hilfe der Twitter-API zu einem bestimmten Hashtag zu laden. Die geladenen Tweets werden anschließend an die drei Algorithmus-Komponenten weitergegeben. Jede Komponente implementiert dabei einen bestimmten Klassifikationsalgorithmus. Die Ergebnisse der Klassifikation werden am Ende von der Frontend-Server-Komponente gesammelt und in geeigneter Form an den Client zurückgeliefert. Die Verantwortlichkeiten für die einzelnen Komponenten sind in Kapitel [Verantwortlichkeiten](#verantwortlichkeiten) aufgelistet.
 
 ![](/project_twitter_miner/img/Systemarchitektur.png)
 
@@ -90,7 +90,7 @@ Die Komponenten der Systemarchitektur teilen sich wie folgt auf die Projektmitgl
 
 | Komponente   |      Name      |
 |:----------|:-------------|
-| Twiter-Connector |  Sven Schirmer |
+| Twitter-Connector |  Sven Schirmer |
 | Client |    Yannick Kloss   |
 | Frontend Server | Daniel Beneker |
 

@@ -95,6 +95,8 @@ Server->Client
 ```
 
 ## Projektplan
+Das Projekt "Twitter Miner" begann am 08.05.17. Die Meilensteine sind die Abgabe dieses Pflichtenhefts am 29.05.17, die Abgabe der eigenen Themen am  03.07.17 (in diesem Projekt die Ausarbeitung der Data Mining Algorithmen Bayes, Support-Vector-Machine und Entscheidungsbaum). Der Projektzeitraum endet mit der Abgabe und Präsentation der Software am 10.07.17.
+
 ![](/project_twitter_miner/img/Projektplan.png)
 
 ## <a name="verantwortlichkeiten"></a>Verantwortlichkeiten

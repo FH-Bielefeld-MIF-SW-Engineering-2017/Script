@@ -23,5 +23,6 @@ Im Zusammenhang mit Architektur werden viele verschiedene Sichten erzeugt, die m
 ### Symbolic and Semenatic Models
 Um die Idee zu erläutern, unterscheiden wir zwischen einem "symbolic model" und einem "semantic model".
 Definition symbolic model: expresses properties of architectures of systems by means of symbols that refer to reality.
-Definition semantic model: is an interpretation of a symbolic model, expressing the meaning of the symbols in that model.
-Bild Symbolic and Semantic models
+Definition semantic model: is an interpretation of a symbolic model, expressing the meaning of the symbols in that model (vgl. Buch:Enterprise Architecture at work).
+
+![](/assets/SymbolicAndSemanticModels.png)

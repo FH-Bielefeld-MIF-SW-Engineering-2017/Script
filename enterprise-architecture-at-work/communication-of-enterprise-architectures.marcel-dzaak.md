@@ -75,4 +75,6 @@ Typische Präsentation (Front-Beschallung).
 Mailing:
 Massenkommunikation um ein Modell vorzustellen oder zu übergeben.
 
-Bild KnowledgeGoalsAndConversationTechniques
+Eine Übersicht bietet das folgende Bild (vgl. Buch:Enterprise Architecture at work).
+
+![](/assets/KnowledgeGoalsAndConversationTechniques.png)

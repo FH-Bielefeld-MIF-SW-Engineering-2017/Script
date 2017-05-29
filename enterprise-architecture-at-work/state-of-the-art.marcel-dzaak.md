@@ -40,8 +40,9 @@ Vorteile des Frameworks sind die Betrachtung des gesamten Unternehmens, die Einf
 
 ### The Open Group Architecture Framework - TOGAF
 Die Hauptkomponenten sind ein Capability Framework (skills, roles), die "Architecture Development Method (ADM)" (Zyklus zur Entwicklung einer EA), das "Architecture Content Framework" (Top-Level EA) und das "Enterprise Continuum" (Sammlung verschiedener Modelle).
-Das im folgenden dargestellte ADM von TOGAF ist iterativ über den gesamten Prozess zu sehen.
-TOGAF image S.26
+Das im folgenden dargestellte ADM von TOGAF ist iterativ über den gesamten Prozess zu sehen (vgl. Buch:Enterprise Architecture at work).
+
+![](/assets/TOGAF.png)
 
 ## Description Languages
 In der Software Entwicklung ist UML die führende Modellierungssprache. Für die Modellierung von Organisationen und Prozessen gibt es eine Vielzahl an Beschreibungssprachen.

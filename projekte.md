@@ -23,7 +23,7 @@ Github-Repo:
 Projektname: **AI**  
 Projektleiter:  
 Projektteam: Daniel Beneker, Sven Schirmer, Yannick Kloss  
-Github-Repo:
+Github-Repo: [Twitter Miner](https://github.com/YKloss/Twitter_Miner/blob/master/Pflichtenheft.md)
 
 Projektname: **Embedded Computing**  
 Projektleiter:  

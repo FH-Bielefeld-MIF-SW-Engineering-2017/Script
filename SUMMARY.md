@@ -179,7 +179,9 @@
   * [1 Beratung in der IT](soft-skills-fur-it-berater/1-beratung-in-der-it.tolga-aydemir.md)
   * [2 Kommunizieren und verstehen](soft-skills-fur-it-berater/2-kommunizieren-und-verstehen.tolga-aydemir.md)
   * [3 Workshops gezielt einsetzen](soft-skills-fur-it-berater/3-workshops-gezielt-einsetzen.tolga-aydemir.md)
-  * [4 Workshops leiten](soft-skills-fur-it-berater/4-workshops-leiten.tolga-aydemir.md)
+  * [4 Workshops leiten Teil 1](soft-skills-fur-it-berater/4-workshops-leiten-teil-1.tolga-aydemir.md)
+  * [4 Workshops leiten Teil 2](soft-skills-fur-it-berater/4-workshops-leiten-teil-2.justin-jagieniak.md)
+  * [5 Grundtechniken für Workshops](soft-skills-fur-it-berater/5-grundtechniken-fur-workshops.justin-jagieniak.md)
   * [6 Methodische Beratung](soft-skills-fur-it-berater/6-methodische-beratung.niklas-harting.md)
   * [7 Methodische Beratung als Prozess](soft-skills-fur-it-berater/7-methodische-beratung-als-prozess.niklas-harting.md)
   * [8 Der Sinn in unserer Arbeit](soft-skills-fur-it-berater/8-der-sinn-in-unserer-arbeit.malte-berg.md)
@@ -253,6 +255,4 @@
     * [DokumentbasierteDB](fullstack-development/nosql/dokumentbasiertedb.md)
 * [Cloud-Security](cloud-security.md)
 * [Software-Architektur](software-architektur.md)
-
-
 

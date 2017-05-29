@@ -33,7 +33,7 @@ Github-Repo: [https://github.com/nkohlmeier/Spezielle-Gebiete-zum-Softwareengine
 Projektname: **Fullstack Development**
 Projektleiter:
 Projektteam: Timo Rolfsmeier, Niklas Harting, Alexander Schwietert, Tolga Aydemir, Malte Berg, Lutz Winkelmann, Fabian Lorenz, Benjamin Schmidt
-Github-Repo:
+GitLab-Group: [ShareBase](https://gitlab.com/ShareBase)
 
 Projektname: **Cloud Security**
 Projektleiter: Philipp Viertel

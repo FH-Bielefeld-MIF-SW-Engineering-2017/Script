@@ -68,7 +68,7 @@ Die Twitter API gibt Tweets als JSON Objekte zurück. Diese JSON Objekte beinhal
 - Hashtags
 
 Die genauen Dokumentation ist auf der [Twitter APi Website](https://dev.twitter.com/overview/api/tweets) zu lesen.   
-Einen Beispiel Tweet im JSON Format ist [hier](project_twitter_miner/json/example.json) ersichtlich.
+Einen Beispiel Tweet im JSON Format ist [hier](json/example.json) ersichtlich.
 
 ### Client Server
 Um die Echtzeit-Anforderung zu erfüllen, soll mithilfe der Javascript Bibliothek _Socket.io_ eine Websocketverbindung zwischen Client und Server aufgebaut werden. Der Payload der Nachrichten wird nachfolgend aufgelistet.

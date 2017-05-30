@@ -7,7 +7,8 @@ Ziel dieses Kapitels ist es, einen einheitlichen Cloud-Begriff zu vermitteln. Hi
 ![](/assets/Modell.png)
 (Abbildung 1: Erweitertes Cloud-Computing Definition Framework)
 
-(Quelle: in Anlehnung an Zalazar et al. 2017)
+(Quelle: in Anlehnung an *Cloud Dimensions for Requirements
+Specification* von Zalazar et al. 2017, S. 26)
 
 
 ## Rollen
@@ -55,7 +56,7 @@ Innerhalb des Cloud-Computing existieren vier unterschiedliche Deployment-Modell
 
 (Abbildung 1: Vergleich von Federated und Brokered Community Cloud)
 
-(Quelle: Srinivasan 2014)
+(Quelle: *Cloud Computing Basics* von Srinivasan 2014, S. 36)
 
 + **Hybrid Cloud:** Eine hybride Cloud ist der Zusammenschluss von mindestens zwei der vorangegangenen Deployment-Modelle. Beispielsweise kann ein Unternehmen sensible Daten in eine private Cloud auslagern, während rechenintensive und unsensible Dienste in einer öffentlichen Cloud ablaufen (siehe Abb. 3).
 
@@ -63,6 +64,6 @@ Innerhalb des Cloud-Computing existieren vier unterschiedliche Deployment-Modell
 
 (Abbildung 3: Beispiel für hybride Cloud)
 
-(Quelle: Münzl et al. 2015)
+(Quelle: *Cloud Computing als neue Herausforderung für Management und IT* von Münzl et al. 2015, S. 13)
 
 Das Cloud-Computing Definition Framework trägt zur Präzision und Vereinheitlichung des Cloud-Begriffs bei. Insbesondere die Kommunikation sowie Entwicklung im Cloud-Umfeld wird hierdurch erleichtert.

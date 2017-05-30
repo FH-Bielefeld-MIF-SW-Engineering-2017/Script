@@ -1,7 +1,7 @@
 # **Embedded Computing**
 
 Teilbereich\(e\): Smart Home, IoT  
-Projektleiter:  
+Projektleiter: Gamze Söylev Öktem  
 Projektteam: Nils Kohlmeier, Wladimir Streck, Gamze Söylev Öktem, Jonas Wiese, Justin Jagieniak  
-Github-Repo:
+Github-Repo: [https://github.com/nkohlmeier/Spezielle-Gebiete-zum-Softwareengineering.git](https://github.com/nkohlmeier/Spezielle-Gebiete-zum-Softwareengineering.git)
 

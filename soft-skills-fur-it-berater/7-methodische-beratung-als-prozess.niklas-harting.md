@@ -4,9 +4,9 @@
 Zu einer erfolgreichen Beratung gehören mehrere Stufen, die folgenden Grafik visualisiert diese verschiedenen Stufen.
 
 <p align="center">
-    <img src="/assets/7-methodische-beratung-als-prozess.niklas-harting.img1.png" alt="Beratung" style="width: 350px;"/>
+    <img src="/assets/7-methodische-beratung-als-prozess.niklas-harting.img1.png" alt="Beratung" style="width: 200px;"/>
     <br>
-    (6 Stufen der Beratung)
+    6 Stufen der Beratung
 </p>
 
 #### Kontakt und Einstieg
@@ -39,9 +39,9 @@ Die drei Organisationseinheiten sind so verbunden, dass das Marketing den Markt 
 zu finden. Der Vertrieb ermittelt dann aus den Interessent
 mögliche Kunden, für welche dann durch die Beratungsprojekte Leistungen erbracht werden. Die folgende Grafik visualisiert noch einmal das Zusammenspiel der drei Organisationen.
 <p align="center">
-    <img src="/assets/7-methodische-beratung-als-prozess.niklas-harting.img2.png" alt="crm" style="width: 350px;"/>
+    <img src="/assets/7-methodische-beratung-als-prozess.niklas-harting.img2.png" alt="crm" style="width: 200px;"/>
     <br>
-    (Zusammenspiel von Marketing, Vertrieb und Beratungsprojekt)
+    Zusammenspiel von Marketing, Vertrieb und Beratungsprojekt
 </p>
 
 #### Vorbereitung auf ein Akquisegespräch

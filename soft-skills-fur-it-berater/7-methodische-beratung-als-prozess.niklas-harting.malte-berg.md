@@ -32,7 +32,7 @@ In der letzten Phase wird die Beratung beendet. Es wird möglicherweise eine per
 ## 7.2 Marketing, Vertrieb und Projektgeschäft
 
 ### Produkthersteller oder Dienstleister?
-Die Firmenstrategie ist ein wichtiger Punkt in einem Unternehmen und ein wesentlicher Erfolgsfaktor. Deshalb sollten sich Unternehmen auf Strategie festlegen. Wenn man sich als Unternehmen als Produkthersteller sieht, ist die oberste Einheit das Produktmanagement und alle anderen Einheiten wie z.B. der Vertrieb ordnen sich unter. Sieht man sich als Unternehmen aber als Dienstleister, ist der Vertrieb die oberste Einheit und alle anderen ordnen sich unter.  
+Die Firmenstrategie ist ein wichtiger Punkt in einem Unternehmen und ein wesentlicher Erfolgsfaktor. Deshalb sollten sich Unternehmen auf ein Strategie festlegen. Wenn man sich als Unternehmen als Produkthersteller sieht, ist die oberste Einheit das Produktmanagement und alle anderen Einheiten wie z.B. der Vertrieb ordnen sich unter. Sieht man sich als Unternehmen aber als Dienstleister, ist der Vertrieb die oberste Einheit und alle anderen ordnen sich unter.  
 
 ### Wie spielen Marketing, Vertrieb und Projekt zusammen?
 Die drei Organisationseinheiten sind so verbunden, dass das Marketing den Markt adressiert um Interessenten zu finden. Der Vertrieb ermittelt dann aus den Interessenten mögliche Kunden, für welche dann durch die Beratungsprojekte Leistungen erbracht werden. Die folgende Grafik visualisiert noch einmal das Zusammenspiel der drei Organisationen.

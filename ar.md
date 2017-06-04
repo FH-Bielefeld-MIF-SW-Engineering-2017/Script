@@ -1,7 +1,1 @@
-# **AR**
-
-  
-Projektleiter: Andrei Günter  
-Projektteam: Andrei Günter  
-Github-Repo:
-
+# **AR**  Projektleiter: Andrei Günter  Projektteam: Andrei Günter  Github-Repo: https://github.com/aguenter/artranslator

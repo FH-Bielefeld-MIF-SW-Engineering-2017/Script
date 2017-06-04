@@ -42,5 +42,8 @@ Die drei Organisationseinheiten sind so verbunden, dass das Marketing den Markt 
     Zusammenspiel von Marketing, Vertrieb und Beratungsprojekt
 </p>
 
+### Bestandsakquise vs. Neuakquise
+Die sehr hohe Bedeutung einer gute Zusammenarbeit zwischen Marketing, Vertrieb und Beratung wird durch den Aufwand bei der Akquise von Neu- oder Bestandskunden noch wichtiger. Das Erzeuger neuer und qualifizierter Kontakte durch der Vertrieb und das Marketing ist deutlich teurer als die Akquise für Bestandskunden.
+
 ### Vorbereitung auf ein Akquisegespräch
 Zur Vorbereitung auf ein Akquisegespräch sollte man ein Ziel festlegen. Außerdem sollte man grob planen, wie das Gespräch ablaufen soll. Des Weiteren sollte man sich Gedanken darübermachen, wie man die eigene Position und die eigene Firma definiert und warum die eigenen Stärken gut zum Kunden passen und warum man besser ist als seine Mitbewerber.

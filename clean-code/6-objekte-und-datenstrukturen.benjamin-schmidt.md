@@ -9,6 +9,7 @@ Das Gesetz von Demeter besagt, dass ein Modul, welches ein Objekt verändert, ni
 *	Ein erstelltes Objekt von der Methode a
 *	Ein übergebenes Objekt an der Methode a als Argument
 *	Ein Objekt das in einer Instanzvariable von der Klasse b gespeichert ist
+
 Die Methoden sollten keine Methoden von fremden Objekten aufrufen, nur der befreundeten Objekte. Es sollten auch lange Aufrufketten vermieden werden also zum Beispiel getKreis().getRadius().getTyp(), da diese Aufrufketten keinen schönen Stil haben. Man sollte eine Aufrufkette in mehrere Einzelschritte aufteilen. 
 
 Es ist sehr schlecht, wenn Sie hybride Strukturen aus Objekten und Datenstrukturen erstellen, da dadurch unsauberer Code erstellt wird und der Benutzer einen Einblick in die Implementierung bekommt. Und man kann in den Code sehr schwer neue Funktionen hinzufügen. Sie sollten diese möglichst vermeiden.

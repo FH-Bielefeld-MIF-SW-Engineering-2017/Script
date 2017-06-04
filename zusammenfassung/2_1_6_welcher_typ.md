@@ -1,0 +1,5 @@
+### 2.1.6 Welche Art von Softwareentwickler bist du?
+
+Es ist wichtig, dass man sich als Softwareentwickler in einem Bereich spezialisiert. Zu sagen, „ich bin ein C\#-Entwickler“ ist nicht genug. Die Regel der Spezialisierung lautet: Je mehr man sich spezialisiert, desto weniger potentielle Arbeitsplätze hat man, aber desto wahrscheinlicher ist es, dass man in einem dieser potentiellen Arbeitsplätze eingestellt wird.
+
+Als Softwareentwickler kann man sich in vielen verschiedenen Bereichen spezialisieren, z.B. Programmiersprachen, Plattformen, Methodologien, oder spezifische Technologien. Bei so vielen Möglichkeiten ist es für manche Softwareentwickler schwer, eine Spezialisierung zu wählen. Man sollte beachten, einen Bereich zu wählen, den nur wenige andere Entwickler wählen, damit man bessere Berufschancen hat. Das wichtigste ist immer, eine Spezialisierung zu wählen. Man kann den Bereich nachher immer noch wechseln. Spezialisierung bedeutet außerdem nicht, dass man nur von einem Bereich Ahnung hat - es ist wichtig, von verschiedenen Dingen etwas zu verstehen.

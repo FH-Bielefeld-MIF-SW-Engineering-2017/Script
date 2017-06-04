@@ -1,4 +1,0 @@
-# Cashe-Aside Pattern
-
-
-

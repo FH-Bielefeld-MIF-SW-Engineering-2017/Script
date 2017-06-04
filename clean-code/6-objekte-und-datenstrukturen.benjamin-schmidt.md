@@ -5,10 +5,10 @@ Es ist für einen Entwickler sehr wichtig, dass die Implementierung von außen g
 Man muss beachten das Objekte und Datenstrukturen etwas Verschiedenes sind. Objekte verstecken die Daten und stellen Funktionen bereit, die auf diese Daten arbeiten. Datenstrukturen zeigen ihre Daten und sie stellen keine Funktionen bereit. Diese Kenntnis ist für die Programmierung sehr wichtig, da wir damit entscheiden können, ob wir prozedurale Programmierung oder objektorientierte Programmierung anwenden. Beide Programmierstile haben einige Vorteile für die Datenabstraktion. Die prozedurale Programmierung ist gut, wenn man zu der benutzten Datenstruktur neue Funktionen hinzufügen will. Die objektorientierte Programmierung ist gut, wenn man zu bestehenden Funktionen neue Klassen hinzufügen will. Man kann mit prozeduraler Programmierung Problemstellung in der objektorientierten Programmierung sehr gut lösen. Wiederum kann man mit objektorientierte Programmierung sehr gut Problemstellungen in der prozeduraler Programmierung sehr einfach lösen.
 
 Das Gesetz von Demeter besagt, dass ein Modul, welches ein Objekt verändert, nichts wissen muss wie das Objekt aufgebaut ist. Eine Methode a einer Klasse b sollte am besten nur folgende Methoden benutzen:
-•	Aus der Klasse b
-•	Ein erstelltes Objekt von der Methode a
-•	Ein übergebenes Objekt an der Methode a als Argument
-•	Ein Objekt das in einer Instanzvariable von der Klasse b gespeichert ist
+*	Aus der Klasse b
+*	Ein erstelltes Objekt von der Methode a
+*	Ein übergebenes Objekt an der Methode a als Argument
+*	Ein Objekt das in einer Instanzvariable von der Klasse b gespeichert ist
 Die Methoden sollten keine Methoden von fremden Objekten aufrufen, nur der befreundeten Objekte. Es sollten auch lange Aufrufketten vermieden werden also zum Beispiel getKreis().getRadius().getTyp(), da diese Aufrufketten keinen schönen Stil haben. Man sollte eine Aufrufkette in mehrere Einzelschritte aufteilen. 
 
 Es ist sehr schlecht, wenn Sie hybride Strukturen aus Objekten und Datenstrukturen erstellen, da dadurch unsauberer Code erstellt wird und der Benutzer einen Einblick in die Implementierung bekommt. Und man kann in den Code sehr schwer neue Funktionen hinzufügen. Sie sollten diese möglichst vermeiden.

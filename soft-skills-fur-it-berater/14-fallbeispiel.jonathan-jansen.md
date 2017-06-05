@@ -98,5 +98,7 @@ Die Umsetzung erfolgt durch zwei Berater. Jeweils einer pro Ebene:
 
 Durch die Berater werden ebenfalls die initialen Workshops und Seminare durchgeführt.  Eine Weitere Aufgabe ist es aus dem Scrum-Rollout-Team ein eigenes "agiles Competence Center" zu entwickeln. (Vgl. 239)
 
-Veränderungen sind immer mit Problemem behaftet. Eine Aufgabe der Berater ist das gespür für die Probleme zu entwickeln und diese Probleme entsprechend anzugehen. So wird als Beispiel genannt, dass eines der Scrum-Teams die Daily-Scrums für überflüssig hält.
+Veränderungen sind immer mit Problemem behaftet. Eine Aufgabe der Berater ist das gespür für die Probleme zu entwickeln und diese Probleme entsprechend anzugehen. So wird als Beispiel genannt, dass eines der Scrum-Teams die Daily-Scrums für überflüssig hält. Die Aufgabe des Beraters ist es, das eigentliche Problem mit dem das Team zu kämpfen hat zu finden und die Grundsäulen des Vorgehensmodells (eine Grundsäule von Scrum sind die Daily-Scrums) zu verteidigen. Um das Team in die richtige Richtung zu lenken und das Daily-Scrum als Instrument nicht zu verlieren kann eine Anpassung des Daily-Scrums vorgenommen werden, sodass dieses nicht mehr als überflüssig aufgefasst wird. (Vgl. S. 241, 242)
+
+
 

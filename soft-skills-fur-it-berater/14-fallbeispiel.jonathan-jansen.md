@@ -74,7 +74,8 @@ Im Fallbeispiel geht es um ein Unternehmen aus der Finanz-Branche, in dem Scrum 
 
 Das Beratungskonzept wird zweistufig aufgeführt. Es wird zwischen der Veränderungsebene und der operativen Ebene getrennt. In der Veränderungsebene werden die notwenigen Maßnahmen erarbeitet und getroffen, um das Unternehmen auf die Veränderungen auszurichten (Management-Ebene). In der operativen Ebene wird die inhaltliche Korrektheit der Durchführung sichergestellt.
 
-![Beratungskonzept](../assets/Beratungskonzept.png)
+![Beratungskonzept](../assets/Beratungskonzept.png) Abbildung 1: Beratungskonzept (S. 235)
+
 
 Die Gruppen bestehen aus folgenden Personen:
 

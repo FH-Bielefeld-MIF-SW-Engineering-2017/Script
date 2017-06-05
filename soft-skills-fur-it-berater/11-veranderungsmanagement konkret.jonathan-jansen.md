@@ -14,7 +14,7 @@ Häufig wird der Fehler gemacht das Hauptaugenmerk auf den Inhalt der Veränderu
 
 Bei jeder Veränderung trifft man auf Widerstand. Häufig wird Widerstand von Führungskräften fehlinterpretiert als ein tatsächliches "dagegenstellen" der entsprechenden Mitarbeiter. Häufiger ist jedoch anzutreffen, dass diese Mitarbeiter nur nicht wissen, wie sie sich bei den Veränderungen einbringen können. In der Akzeptanzmatrix werden vier Reaktionstypen gezeigt:
 
-![Reaktionstypen](../assets/Reaktionstypen.png)
+![Reaktionstypen](../assets/Reaktionstypen.png) Abbildung 1: Reaktionstypen (S. 187)
 
 **Befürworter** sind Personen die für jegliche Veränderungen offen sind. Diese Personengruppe hat erkannt, dass Veränderungen notwendig sind und können bei der Durchführung der Veränderungen als Multiplikatoren dienen. (Vgl. S 187)
 
@@ -30,7 +30,7 @@ Veränderungen sollten keineswegs so häufig wie möglich durchgeführt werden. 
 
 Ein System kann verschiedene Systemverhalten aufweisen:
 
-![Systemverhalten](../assets/Systemverhalten.png)
+![Systemverhalten](../assets/Systemverhalten.png) Abbildung 2: Systemverhalten (S. 190)
 
 **Stabiles Systemverhalten:** jegliche Änderungen (extern, intern) führen zum gleichen stabilen Systemzustand. 
 

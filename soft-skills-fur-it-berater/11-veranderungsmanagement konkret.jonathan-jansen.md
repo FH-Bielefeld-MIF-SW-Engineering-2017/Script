@@ -1,8 +1,6 @@
 # Veränderungsmanagement konkret
 
-Zwei Dinge sind mit Veränderungen immer einhergehend: Risiken die bei der Veränderung eingegangen werden müssen und Widerstand, der durch das Verändern hervorgerufen wird.
-
-Diese beiden Themen werden in diesem Kapitel behandelt. Des Weiteren wird der Aspekt des Zeitpunkts von Veränderungen betrachtet.
+Zwei Dinge sind mit Veränderungen immer einhergehend: Risiken die bei der Veränderung eingegangen werden müssen und Widerstand, der durch das Verändern hervorgerufen wird. Diese beiden Themen werden in diesem Kapitel behandelt.
 
 ## Jede Veränderung ist ein Projekt
 
@@ -12,17 +10,17 @@ Häufig wird der Fehler gemacht das Hauptaugenmerk auf den Inhalt der Veränderu
 
 ## Widerstand
 
-Bei jeder Veränderung trifft man auf Widerstand. Häufig wird Widerstand von Führungskräften fehlinterpretiert als ein tatsächliches "dagegenstellen" der entsprechenden Mitarbeiter. Häufiger ist jedoch anzutreffen, dass diese Mitarbeiter nur nicht wissen, wie sie sich bei den Veränderungen einbringen können. In der Akzeptanzmatrix werden vier Reaktionstypen gezeigt:
+Bei jeder Veränderung trifft man auf Widerstand. Oft wird Widerstand von Führungskräften fehlinterpretiert als ein tatsächliches "dagegenstellen" der entsprechenden Mitarbeiter. Häufiger ist jedoch anzutreffen, dass diese Mitarbeiter nur nicht wissen, wie sie sich bei den Veränderungen einbringen können. In der Akzeptanzmatrix werden vier Reaktionstypen gezeigt:
 
 ![Reaktionstypen](../assets/Reaktionstypen.png) Abbildung 1: Reaktionstypen (S. 187)
 
 **Befürworter** sind Personen die für jegliche Veränderungen offen sind. Diese Personengruppe hat erkannt, dass Veränderungen notwendig sind und können bei der Durchführung der Veränderungen als Multiplikatoren dienen. (Vgl. S 187)
 
-**Skeptiker** sind Personen, die (persönliche) Nachteile durch die Veränderungen befürchtet. Diesen müssen fehlende Informationen gereicht werden. Sind bestimmte Informationen nicht vorhanden, können diese gemeinsam mit den Skeptikern erarbeitet werden. Hierbei wird auch eine gemeinsame Vertrauensbasis geschaffen. Einwände der Skeptiker sollten genauer betrachtet werden. In ihnen liegt ein großes Potential die Veränderungen sinnvoll zu verbessern bzw. anzupassen. Durch die Berücksichtigung der Einwände, können aus Skeptikern sogar Befürworter werden.
+**Skeptiker** sind Personen, die (persönliche) Nachteile durch die Veränderungen befürchtet. Diesen müssen fehlende Informationen gereicht werden. Sind bestimmte Informationen nicht vorhanden, können diese gemeinsam mit den Skeptikern erarbeitet werden. Hierbei wird auch eine gemeinsame Vertrauensbasis geschaffen. Einwände der Skeptiker sollten genauer betrachtet werden. In ihnen liegt ein großes Potential die Veränderungen sinnvoll zu verbessern bzw. anzupassen. Durch die Berücksichtigung der Einwände, können aus Skeptikern sogar Befürworter werden. (Vgl. S. 188)
 
-**Bremser** sind Personen die nicht ausreichend Informationen über die geplanten Veränderungen haben und  ebenfalls Angst vor persönlichen Risiken haben. Diese Personengruppe muss mit weiteren Informationen versorgt werden - zu klären ist hier die Frage, welche Informationen genau fehlen. Durch das Beschaffen der Informationen oder das gemeinsame Erarbeiten dieser, können weitere Verfeinerungen an den Veränderungen vorgenommen werden und evtl. sogar aus Bremsern Befürworter gemacht werden.
+**Bremser** sind Personen die nicht ausreichend Informationen über die geplanten Veränderungen haben und  ebenfalls Angst vor persönlichen Risiken haben. Diese Personengruppe muss mit weiteren Informationen versorgt werden - zu klären ist hier die Frage, welche Informationen genau fehlen. Durch das Beschaffen der Informationen oder das gemeinsame Erarbeiten dieser, können weitere Verfeinerungen an den Veränderungen vorgenommen werden und evtl. sogar aus Bremsern Befürworter gemacht werden. (Vgl. S. 187)
 
-**Gegner** sind Personen die ausdauernd gegen die Veränderungen sind. Auch bei weiterem Investieren von Energie zur Überzeugung ist keine Einsicht vorhanden. Dennoch sind Einwände der Gegner eine wichtige Informationsquelle. einige der Einwände können durchaus berechtigt sein und verdienen eine genauere Betrachtung. Es muss abgewogen werden, ob ein Einwand ignoriert werden kann oder weiter betrachtet werden muss. Die Wahrscheinlichkeit, aus dieser Personengruppe Befürworter zu machen ist jedoch gering. Es sollten keine großartigen Energien in die Überzeugungsarbeit gesteckt werden.
+**Gegner** sind Personen die ausdauernd gegen die Veränderungen sind. Auch bei weiterem Investieren von Energie zur Überzeugung ist keine Einsicht vorhanden. Dennoch sind Einwände der Gegner eine wichtige Informationsquelle. einige der Einwände können durchaus berechtigt sein und verdienen eine genauere Betrachtung. Es muss abgewogen werden, ob ein Einwand ignoriert werden kann oder weiter betrachtet werden muss. Die Wahrscheinlichkeit, aus dieser Personengruppe Befürworter zu machen ist jedoch gering. Es sollten keine großartigen Energien in die Überzeugungsarbeit gesteckt werden. (Vgl. S. 188)
 
 # Stabilität und Veränderungen
 

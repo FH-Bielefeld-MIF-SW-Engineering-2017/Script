@@ -8,7 +8,7 @@ Im Fallbeispiel geht es um ein Unternehmen aus der Finanz-Branche, in dem Scrum 
 
 - **Was soll erreicht werden?** 
 
-  Die Frage nach dem Ziel wird häufig mit indirekten Zielen beantwortet. Bezogen auf das Fallbeispiel: "Wir möchten UML als Standart in der Entwicklung einführen" statt "Wir müssen unsere Kommunikation verbessern."
+  Die Frage nach dem Ziel wird häufig mit indirekten Zielen beantwortet. Bezogen auf das Fallbeispiel: "Wir möchten UML als Standard in der Entwicklung einführen" statt "Wir müssen unsere Kommunikation verbessern."
 
 - **Welcher Nutzen soll erbracht werden?** 
 
@@ -56,23 +56,23 @@ Im Fallbeispiel geht es um ein Unternehmen aus der Finanz-Branche, in dem Scrum 
 
 - **Welche Hindernisse sehen Sie?**
 
-  Die Hindernisse beziehen sich hierbei direkt auf die einzuführenden Veränderungen. Zum Beispiel, dass die abzustellenden Mitarbeiter eigentlich auch in anderen Projekten mitarbeiten müssen, oder das direkte Probleme in der Produktentwicklung vorrang gegenüber dem Veränderungsmanagement haben.
+  Die Hindernisse beziehen sich hierbei direkt auf die einzuführenden Veränderungen. Zum Beispiel, dass die abzustellenden Mitarbeiter eigentlich auch in anderen Projekten mitarbeiten müssen, oder das direkte Probleme in der Produktentwicklung Vorrang gegenüber dem Veränderungsmanagement haben.
 
 - **Welche Risiken befürchten Sie?**
 
-  Das Größte Risiko sieht die Geschäftsführung in dem Scheitern des Projektes als ganzes. Das würde hohe kosten und geringen bis gar keinen Nutzen bedeuten.
+  Das Größte Risiko sieht die Geschäftsführung in dem Scheitern des Projektes als Ganzes. Das würde hohe Kosten und geringen bis gar keinen Nutzen bedeuten.
 
 **Aktivitäten:**
 
-- **Welche groben Schritte wollen wir dazu gemeinsam gehen?** An dieser Stelle werden erste Vorschläge durch die Beratung erbracht. Im Beispiel wird das durchführen erster Scrum-Workshops für die beteiligten Personen genannt. Außerdem wird das Vorbereiten der Prdouktmanager auf die zukünftige Rolle "Product Owner" und das Vorbereiten der Projektleiter auf die zukünfitge Rolle "Scrum Master" genannt.
+- **Welche groben Schritte wollen wir dazu gemeinsam gehen?** An dieser Stelle werden erste Vorschläge durch die Beratung erbracht. Im Beispiel wird das durchführen erster Scrum-Workshops für die beteiligten Personen genannt. Außerdem wird das Vorbereiten der Produktmanager auf die zukünftige Rolle "Product Owner" und das Vorbereiten der Projektleiter auf die zukünftige Rolle "Scrum Master" genannt.
 
 - **Welche Abhängigkeiten gibt es?**
 
-  Im Beispiel wird nur eine Abhängigkeit genannt: Das durchführen aller Workshops vor der eigentlichen Einführung von Scrum. Eine gemeinsamme Wissensbasis ist für den Erfolg des Projektes unabdingbar.
+  Im Beispiel wird nur eine Abhängigkeit genannt: Das durchführen aller Workshops vor der eigentlichen Einführung von Scrum. Eine gemeinsame Wissensbasis ist für den Erfolg des Projektes unabdingbar.
 
 ## Grundlage des Beratungskonzepts
 
-Das Beratungskonzept wird zweistufig aufgeführt. Es wird zwischen der Veränderungsebene und der operativen Ebene getrennt. In der Veränderungsebene werden die notwenigen Maßnahmen erarbeitet und getroffen, um das Unternehmen auf die Veränderungen auszurichten (Management-Ebene). In der operativen Ebene wird die inhaltiche Korrektheit der Durchführung sichergestellt.
+Das Beratungskonzept wird zweistufig aufgeführt. Es wird zwischen der Veränderungsebene und der operativen Ebene getrennt. In der Veränderungsebene werden die notwenigen Maßnahmen erarbeitet und getroffen, um das Unternehmen auf die Veränderungen auszurichten (Management-Ebene). In der operativen Ebene wird die inhaltliche Korrektheit der Durchführung sichergestellt.
 
 ![Beratungskonzept](../assets/Beratungskonzept.png)
 
@@ -82,23 +82,23 @@ Die Gruppen bestehen aus folgenden Personen:
 
 **Projektmanagement-Governance-Team:** Stellvertreter aus den verschiedenen Bereichen des Unternehmens.
 
-**Scrum-Rollout-Team:** "Setzt den Veränderungsprozess als eigenständiges Projekt um." (S. 236). Das Initial-Scrum-Rollout-Team leistet hier vorarbeit (z.B. erstes Backlog füllen).
+**Scrum-Rollout-Team:** "Setzt den Veränderungsprozess als eigenständiges Projekt um." (S. 236). Das Initial-Scrum-Rollout-Team leistet hier Vorarbeit (z.B. erstes Backlog füllen).
 
 **Start-up-Team:** "Bereitet das konkrete Projekt vor und führt die ersten Schritte durch. Dabei entwickelt es die Vision für das Projektergebnis und füllt das Product Backlog." (S. 236)
 
 **Scrum-Teams:** Hier "erfolgt die Umsetzung des konkreten Entwicklungsprojekts, das aufgrund der Größe in unserem Beispiel als Scrum of Scrums und mit einem Product-Owner-Team realisiert wird."
 
-Bei der Durchführung des Veränderungsprojektes haben die Teams aus der Veränderungsebene den gleich Iterationszyklus, wie die Teams auf der operativen Ebene. Hierdurch können nach jedem Sprint die Ergebnisse aus den beiden Bereichen direkt aufeinander einwirken. In der operativen Ebene werden Produkte nach dem Vorgehensmodell Scrum entwickelt. Die Anpassung von Scrum an das Unternehmen und das definieren der notwendigen Prozesse findet in der Veränderungsebene statt. Nach jeder Iteration erhält die Veränderungsebene Feedback durch die operative Ebene. (Vgl. S. 237)
+Bei der Durchführung des Veränderungsprojektes haben die Teams aus der Veränderungsebene den gleichen Iterationszyklus, wie die Teams auf der operativen Ebene. Hierdurch können nach jedem Sprint die Ergebnisse aus den beiden Bereichen direkt aufeinander einwirken. In der operativen Ebene werden Produkte nach dem Vorgehensmodell Scrum entwickelt. Die Anpassung von Scrum an das Unternehmen und das definieren der notwendigen Prozesse findet in der Veränderungsebene statt. Nach jeder Iteration erhält die Veränderungsebene Feedback durch die operative Ebene. (Vgl. S. 237)
 
 ## Das konkrete Umsetzungskonzept & Probleme lösen
 
 Die Umsetzung erfolgt durch zwei Berater. Jeweils einer pro Ebene:
 
-> "Jeweils sowohl auf der Veränderungsals auch auf der operativen Ebene hat einer der beiden Berater primär das Coaching der ScrumMaster und des Teams zur Aufgabe und der andere das Coaching der Product Owner" (S. 239)
+> "Jeweils sowohl auf der Veränderungs- als auch auf der operativen Ebene hat einer der beiden Berater primär das Coaching der ScrumMaster und des Teams zur Aufgabe und der andere das Coaching der Product Owner" (S. 239)
 
 Durch die Berater werden ebenfalls die initialen Workshops und Seminare durchgeführt.  Eine Weitere Aufgabe ist es aus dem Scrum-Rollout-Team ein eigenes "agiles Competence Center" zu entwickeln. (Vgl. 239)
 
-Veränderungen sind immer mit Problemem behaftet. Eine Aufgabe der Berater ist das gespür für die Probleme zu entwickeln und diese Probleme entsprechend anzugehen. So wird als Beispiel genannt, dass eines der Scrum-Teams die Daily-Scrums für überflüssig hält. Die Aufgabe des Beraters ist es, das eigentliche Problem mit dem das Team zu kämpfen hat zu finden und die Grundsäulen des Vorgehensmodells (eine Grundsäule von Scrum sind die Daily-Scrums) zu verteidigen. Um das Team in die richtige Richtung zu lenken und das Daily-Scrum als Instrument nicht zu verlieren kann eine Anpassung des Daily-Scrums vorgenommen werden, sodass dieses nicht mehr als überflüssig aufgefasst wird. (Vgl. S. 241, 242)
+Veränderungen sind immer mit Problemen behaftet. Eine Aufgabe der Berater ist das Gespür für die Probleme zu entwickeln und diese Probleme entsprechend anzugehen. So wird als Beispiel genannt, dass eines der Scrum-Teams die Daily-Scrums für überflüssig hält. Die Aufgabe des Beraters ist es, das eigentliche Problem mit dem das Team zu kämpfen hat zu finden und die Grundsäulen des Vorgehensmodells (eine Grundsäule von Scrum sind die Daily-Scrums) zu verteidigen. Um das Team in die richtige Richtung zu lenken und das Daily-Scrum als Instrument nicht zu verlieren kann eine Anpassung des Daily-Scrums vorgenommen werden, sodass dieses nicht mehr als überflüssig aufgefasst wird. (Vgl. S. 241, 242)
 
 
 

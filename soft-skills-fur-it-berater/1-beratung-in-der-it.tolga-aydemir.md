@@ -35,3 +35,4 @@ Technologische Betrachtungen spielen dabei meist nur als Rahmenbedingung eine Ro
 
 Die methodische Beratung ist auch für kleine Beratungsunternehmen und Freelancer geeignet, die keine langfristige Bindung beim Kunden haben wollen oder können. Die Verantwortung
 bei der methodischen Beratung liegt beim Kunden und nicht beim Berater.
+

@@ -14,3 +14,4 @@ für das Ziel sein oder hinderlich. Diese Entscheidungen muss der Workshop-Leite
 Der Workshop-Leiter muss nicht unbedingt mehr Fachwissen als die Teilnehmer haben.
 
 Die Nachbereitung des Workshops kann die Ergebnisse besser verständlich machen und Erkenntnisse für den nächsten Workshop können gewonnen werden.
+

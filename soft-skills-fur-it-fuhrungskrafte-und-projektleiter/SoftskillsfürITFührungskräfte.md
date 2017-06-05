@@ -28,7 +28,7 @@ Ist eine Art Hilfe zur Selbsthilfe. Der Coach entwickelt im Rahmen des Coachings
 
 Jedes Individuum hat die in der folgenden Tabelle abgebildeten acht Präferenzen/Eigenschaften in sich. Allerdings scheint es laut C.G. Jung und Isabel Meyers unmöglich, diese gleichmäßig und angemessen zu entwickeln.
 
-![](8Präferenzen.png)
+![](assets/8Präferenzen.png)
 
 Abbildung 1: acht Präferenzen/Eigenschaften eines Individuums
 
@@ -106,7 +106,7 @@ Im Folgenden sollen einige Ideen zur Steigerung der Leistungsfähigkeit eines Te
 Jedes Team setzt sich aus vielen Persönlichkeiten zusammen, die jeweils über eigene relevante Soft Skills wie Kommunikations-, Kooperations- und Teamfähigkeit verfügen. Die jeweiligen persönlichen Vorerfahrungen mit anderen Teams machen die Vorgeschichte eines Teams aus. Im Rahmen einer konkreten Aufgabe oder eines Projekts treffen sie aufeinander. Dies kann man in einem Teambildungsworkshop durchspielen. Hier bringt jeder seine eigenen Bedürfnisse mit, die den anderen in der Regel teilweise nicht bekannt sind. Hierbei geht man auf die Wahrnehmungsfähigkeiten der Personen ein. Was nimmt jedes einzelne Teammitglied wahr? Zuletzt benötigt man noch eine Prozesskompetenz, die bereits durch einzelne Personen oder im Rahmen des Teamentwicklungsworkshops von außen hinzukommt. 
 Dadurch erreicht das Team eine Arbeitsfähigkeit, die auf die konkrete Aufgabe bezogen ist. Regeln und Vereinbarungen werden implizit und explizit aufgestellt, so entwickelt das Team eine eigene Identität und die soziale Kopmpetenz der Mitglieder. 
 
-![](KontextmodellTeamentwicklung.png)
+![](assets/KontextmodellTeamentwicklung.png)
 
 Abbildung 2: Kontextmodell zu Teamentwicklung
 

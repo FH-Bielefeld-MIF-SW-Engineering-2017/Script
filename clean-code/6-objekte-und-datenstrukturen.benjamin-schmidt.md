@@ -1,4 +1,21 @@
 #  6 Objekte und Datenstrukturen
 
+Es ist für einen Entwickler sehr wichtig, dass die Implementierung von außen geheim gehalten wird. Der Entwickler sollte niemals Variablen mit Public definieren, da jeder auf diese Variablen zugreifen könnten und diese dann manipulieren könnte. Es ist viel besser, wenn die Variablen nur mit Get- und Set-Methoden ausgeführt werden. Die Set-Methoden sollten aber nicht die einzelnen Variablen ändern, sondern sie sollten in einem Zusammenhang stehen. Zum Beispiel keine Set-Methoden für setX() oder setY(), sondern viel besser setRechteck() oder setKreis(), da man von außen nicht weiß, welche Variable jetzt verwendet wird. Diese Methoden sollten nach außen durch ein abstraktes Interface dargestellt werden, der Benutzer kann so die Methoden verwenden. Die Implementierung bleibt vor dem Benutzer geheim. Die Methodennamen sollten möglichst abstrakt sein, da man so nicht auf die Daten kommt. Wir wollen den Benutzer so wenig Details geben wie nötig. Das Ziel ist eine hohe Datenabstraktion zu erreichen, die vorigen Tipps helfen einen Entwickler dies zu erreichen. 
+
+Man muss beachten das Objekte und Datenstrukturen etwas Verschiedenes sind. Objekte verstecken die Daten und stellen Funktionen bereit, die auf diese Daten arbeiten. Datenstrukturen zeigen ihre Daten und sie stellen keine Funktionen bereit. Diese Kenntnis ist für die Programmierung sehr wichtig, da wir damit entscheiden können, ob wir prozedurale Programmierung oder objektorientierte Programmierung anwenden. Beide Programmierstile haben einige Vorteile für die Datenabstraktion. Die prozedurale Programmierung ist gut, wenn man zu der benutzten Datenstruktur neue Funktionen hinzufügen will. Die objektorientierte Programmierung ist gut, wenn man zu bestehenden Funktionen neue Klassen hinzufügen will. Man kann mit prozeduraler Programmierung Problemstellung in der objektorientierten Programmierung sehr gut lösen. Wiederum kann man mit objektorientierte Programmierung sehr gut Problemstellungen in der prozeduraler Programmierung sehr einfach lösen.
+
+Das Gesetz von Demeter besagt, dass ein Modul, welches ein Objekt verändert, nichts wissen muss wie das Objekt aufgebaut ist. Eine Methode a einer Klasse b sollte am besten nur folgende Methoden benutzen:
+*	Aus der Klasse b
+*	Ein erstelltes Objekt von der Methode a
+*	Ein übergebenes Objekt an der Methode a als Argument
+*	Ein Objekt das in einer Instanzvariable von der Klasse b gespeichert ist
+
+Die Methoden sollten keine Methoden von fremden Objekten aufrufen, nur der befreundeten Objekte. Es sollten auch lange Aufrufketten vermieden werden also zum Beispiel getKreis().getRadius().getTyp(), da diese Aufrufketten keinen schönen Stil haben. Man sollte eine Aufrufkette in mehrere Einzelschritte aufteilen. 
+
+Es ist sehr schlecht, wenn Sie hybride Strukturen aus Objekten und Datenstrukturen erstellen, da dadurch unsauberer Code erstellt wird und der Benutzer einen Einblick in die Implementierung bekommt. Und man kann in den Code sehr schwer neue Funktionen hinzufügen. Sie sollten diese möglichst vermeiden.
+
+Um Strukturen sehr gut zu verstecken, nehmen Sie ein Objekt a und übergeben diesem das Objekt b. So kennt Objekt a nichts von Objekt b kann dieses Objekt aber verarbeiten. So zum Beispiel a.createFile(b) , da Objekt a jetzt eine Datei erzeugt und dafür Objekt b bekommt. 
+
+Datentransfer-Objekte sind Klassen, welche keine Funktionen haben aber öffentliche Variablen besitzen. Die Klassen sind Datenstrukturen. Java Beans nutzt diese Datentransfer-Objekte sehr oft, um rohe Daten in Objekte zu kapseln. Es gibt noch die Active Records, diese sind auch Datentransfer-Objekte. Der Unterschied zu dem normalen Datentransfer-Objekte ist, dass diese Objekte noch zusätzliche Funktionen besitzen. Mit diesen Funktionen kann man durch die Datenstruktur navigieren. Viele Entwickler benutzen diese Datenstruktur als Objekte und fügen Funktionen mit passender Geschäftslogik mit ein. Durch diesen Schritt wird aus der Datenstruktur ein hybrider und das ist für den Entwickler sehr schlecht, in Bezug auf das Verstecken der Implementierung nach außen. Besser ist es, wenn man die Active Records als Datenstruktur nur nutzt und die Geschäftslogik in passende Objekte der Active Records einfügt, da die Daten dort versteckt sind und von außen nicht erreichbar sind. 
 
 

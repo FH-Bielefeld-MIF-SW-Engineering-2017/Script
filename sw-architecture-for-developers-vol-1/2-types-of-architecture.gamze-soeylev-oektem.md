@@ -1,4 +1,3 @@
-# 2 Types of architecture
-
-
-
+# Architekturtypen
+Wenn man verschiedene Menschen fragt, bekommt man viele verschiedene Antworten zum Softwarearchitekturtyp.
+Es ist egal, was man baut (Softwaresystem, Netzwerk oder Datenbank), man braucht für eine erfolgreiche Lösung zwei Schritte. Zuerst muss man das Problem verstehen. Dann eine Vision zu erzeugen, die man mit jedem Beteiligten des Produktes kommunizieren kann. Es geht um Struktur und Vision, wenn man über Architektur spricht.

@@ -1,4 +1,2 @@
 # 25 Technology is not an implementation detail
-
-
-
+Technologien, beispielsweise Programmiersprachen, können auch Bestandteil bei der Entwicklung von Software-Architekturen sein und sollten berücksichtigt werden. Insbesondere bei komplexen nicht-funktionalen Anforderungen können die Technologien eine große Rolle spielen und müssen bei der Architektur berücksichtigt werden. Desweiteren gibt es in vielen Entwicklerteams constraints hinsichtlich der Fähigkeiten der Entwickler.

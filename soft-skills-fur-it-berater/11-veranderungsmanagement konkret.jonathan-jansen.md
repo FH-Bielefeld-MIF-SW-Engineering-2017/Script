@@ -2,13 +2,13 @@
 
 Zwei Dinge sind mit Veränderungen immer einhergehend: Risiken die bei der Veränderung eingegangen werden müssen und Widerstand, der durch das Verändern hervorgerufen wird.
 
-Diese beiden Themen werden in diesem Kapitel behandelt. Des Weiteren wird der Aspekt des Zeitpunkts von Veränderungen betracht.
+Diese beiden Themen werden in diesem Kapitel behandelt. Des Weiteren wird der Aspekt des Zeitpunkts von Veränderungen betrachtet.
 
 ## Jede Veränderung ist ein Projekt
 
 Da Veränderungen im Kontext von Organisationen durchgeführt werden, sind diese meist mit einer gewissen Komplexität behaftet. Des Weiteren sind verschiedenste Personen an Veränderungen beteiligt - es ergibt also Sinn, Veränderungen als Projekte zu betrachten. 
 
-Häufig wird der Fehler gemacht das Hauptaugenmerk auf den Inhalt der Veränderung zu legen. Also zu betrachten, welche Änderungen notwendig sind, welche Techniken hierbei evtl. eingesetzt werden müssen und wie Mitarbeiter geschult werden müssen. Ein vernachlässigter Aspekt sind hierbei die Mitarbeiter selbst. Es ist überlegenswert einen Plan aufzustellen, wann welche Mitarbeiter über die anstehenden Veränderungen informiert werden sollen und in welchem Rahmen diese Informationsverteilung stattfinden soll. Bei größeren Veränderungen hat es sich bewährt einen Veränderungsmanger einzusetzen, der für den notwendigen Informationsfluss sorgt.
+Häufig wird der Fehler gemacht das Hauptaugenmerk auf den Inhalt der Veränderung zu legen. Also zu betrachten, welche Änderungen notwendig sind, welche Techniken hierbei evtl. eingesetzt werden müssen und wie Mitarbeiter geschult werden müssen. Ein vernachlässigter Aspekt sind hierbei die Mitarbeiter selbst. Es ist überlegenswert einen Plan aufzustellen, wann welche Mitarbeiter über die anstehenden Veränderungen informiert werden sollen und in welchem Rahmen diese Informationsverteilung stattfinden soll. Bei größeren Veränderungen hat es sich bewährt einen Veränderungsmanager einzusetzen, der für den notwendigen Informationsfluss sorgt.
 
 ## Widerstand
 
@@ -18,7 +18,7 @@ Bei jeder Veränderung trifft man auf Widerstand. Häufig wird Widerstand von F�
 
 **Befürworter** sind Personen die für jegliche Veränderungen offen sind. Diese Personengruppe hat erkannt, dass Veränderungen notwendig sind und können bei der Durchführung der Veränderungen als Multiplikatoren dienen. (Vgl. S 187)
 
-**Skeptiker** sind Personen, die (persönliche) Nachteile durch die Veränderungen befürchtet. Diesen müssen fehlende Informationen gereicht werden. Sind bestimmte Informationen nicht vorhanden, können diese gemeinsam mit den Skeptikern erarbeitet werden. Hierbei wird auch eine gemeinsame Vertrauensbasis geschaffen. Einwände der Skeptiker sollten genauer betrachtet werden. In ihnen liegt ein großes Potential die Veränderungen sinnvoll zu verbessern bzw. anzupassen. Durch die Berücksichtigung der Einwände, können aus Skeptikern sogar Beführworter werden.
+**Skeptiker** sind Personen, die (persönliche) Nachteile durch die Veränderungen befürchtet. Diesen müssen fehlende Informationen gereicht werden. Sind bestimmte Informationen nicht vorhanden, können diese gemeinsam mit den Skeptikern erarbeitet werden. Hierbei wird auch eine gemeinsame Vertrauensbasis geschaffen. Einwände der Skeptiker sollten genauer betrachtet werden. In ihnen liegt ein großes Potential die Veränderungen sinnvoll zu verbessern bzw. anzupassen. Durch die Berücksichtigung der Einwände, können aus Skeptikern sogar Befürworter werden.
 
 **Bremser** sind Personen die nicht ausreichend Informationen über die geplanten Veränderungen haben und  ebenfalls Angst vor persönlichen Risiken haben. Diese Personengruppe muss mit weiteren Informationen versorgt werden - zu klären ist hier die Frage, welche Informationen genau fehlen. Durch das Beschaffen der Informationen oder das gemeinsame Erarbeiten dieser, können weitere Verfeinerungen an den Veränderungen vorgenommen werden und evtl. sogar aus Bremsern Befürworter gemacht werden.
 
@@ -38,7 +38,7 @@ Ein System kann verschiedene Systemverhalten aufweisen:
 
 **Metastabiles Systemverhalten:** das System bleibt bei  Änderungen entweder im gleichen stabilen Zustand, oder wechselt in einen anderen, neuen stabilen Zustand.
 
-*Beispiel: Der Projektleiter wird ausgetauscht. Der neue Projektleiter hat die Möglichkeit entweder alle bestehenden Prozesse bezibehalten, oder neue einzuführen bzw. bestehende zu ändern.* (Vgl. S. 190)
+*Beispiel: Der Projektleiter wird ausgetauscht. Der neue Projektleiter hat die Möglichkeit entweder alle bestehenden Prozesse beizubehalten, oder neue einzuführen bzw. bestehende zu ändern.* (Vgl. S. 190)
 
 **Instabiles Systemverhalten:** bei Änderungen oder Störeinflüssen wird das gesamte System zerstört.
 
@@ -48,7 +48,7 @@ Ein System kann verschiedene Systemverhalten aufweisen:
 
 *Beispiel: Anpassung von Anforderungen innerhalb eines laufenden Projektes.* (Vgl. S. 190)
 
-Störungen und Änderungen der Rahmenbedingungen können also unterschiedliche Auswirkungen auf das System haben. die Wirkung verschiedener Störungen kann jedoch nicht vorrausgesagt werden.
+Störungen und Änderungen der Rahmenbedingungen können also unterschiedliche Auswirkungen auf das System haben. die Wirkung verschiedener Störungen kann jedoch nicht vorausgesagt werden.
 
 ## Erfolgsschlüssel Veränderungsfährigkeit
 
@@ -81,14 +81,14 @@ Als störend werden Veränderungen empfunden, die den Mitarbeiter betreffen - ih
 > "Nach Frederick S. Perls (1893 – 1970) wird unsere Identität von fünf Säulen getragen (...):" (S. 195)
 
 - Leiblichkeit (Gesundheit)
-- Soziales Netz und soziale Umweld (Freunde, Familie)
+- Soziales Netz und soziale Umwelt (Freunde, Familie)
 - Arbeit, Leistung, Freizeit (Beruf, Hobbys)
 - Materielle Sicherheit (Besitz, Vermögen)
 - Werte (Denkweise)
 
 (Vgl. S. 195)
 
-Die Identität wird von allen diesen Säulen gemeinsam getragen. Wird eine Säule geschwächt, so gerät das gesamte Konstrukt der Identität ins wanken. Je stärker die Auswirkungen von Veränderungen auf eine oder mehrere dieser Säulen ist, desto stärker wird auch der Widerstand der einzelnen Person gegen diese Veränderunge sein.
+Die Identität wird von allen diesen Säulen gemeinsam getragen. Wird eine Säule geschwächt, so gerät das gesamte Konstrukt der Identität ins wanken. Je stärker die Auswirkungen von Veränderungen auf eine oder mehrere dieser Säulen ist, desto stärker wird auch der Widerstand der einzelnen Person gegen diese Veränderungen sein.
 
 
 

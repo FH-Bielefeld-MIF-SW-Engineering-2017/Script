@@ -1,26 +1,30 @@
-## 2.2 Marketing yourself
+# Marketing yourself
 
-Der Unterschied zwischen einem erfolgreichen Musiker und einem Superstar ist deren jeweilige Vermarktung, denn Marketing ist ein Talent-Multiplikator.
+Zusammenfassung des zweiten Kapitels "Selbstmarketing" aus John Z. Sommez' Buch "Soft-Skills - The software developer's life manual"
+
+## Marketing-Grundlagen für Programmier-Spezialisten
+
+Der Unterschied zwischen einem erfolgreichen Musiker und einem Superstar ist ihre Vermarktung, denn Marketing ist ein Talent-Multiplikator.
 
 ### Was ist Selbstmarketing?
 
-Selbstmarketing bedeutet, sich mit Menschen zu verbinden, die etwas haben wollen, was du bei dir hast oder in dir trägst. Es bedeutet, für andere einen \(Mehr-\)Wert zu generieren. Dabei kontrolliert die Person, die sich selbst vermarktet, was sie anderen vermittelt, welche Nachricht sie sendet und welches Bild sie vermitteln möchte.
+Selbstmarketing bedeutet, sich mit Menschen zu verbinden, die etwas haben wollen, was du bei dir hast oder in dir trägst. Es bedeutet, für andere einen (Mehr-)Wert zu generieren. Dabei kontorlliert die Person, die sich selbst vermarktet, was sie anderen vermittelt, welche Nachricht sie sendet und welches Bild sie vermitteln möchte.
 
 ### Warum Selbstmarketing wichtig ist
 
-Selbstmarketing garantiert keinen Erfolg, aber es ist ein sehr wichtiges Element, das du kontrollieren kannst. Viele Software-Entwickler können ein sehr hohes Kompetenz-Level innerhalb von zehn Jahren in ihrer Karriere erreichen. Danach kann es sehr schwierig sein, diese Kompetenzen weiter auszubauen, weil der intellektuelle Input von anderen Menschen fehlt. Das individuelle Talent wird deutlich an Bedeutung verlieren, weil jeder Software-Entwickler mit allen anderen Software-Entwicklern konkurriert, die ähnliche Kompetenzen besitzen wie das einzelne Talent. Durch Selbstmarketing kannst du herausfinden, was dich auszeichnet und welches deine Kompetenzen sind.
+Selbstmarketing garantiert keinen Erfolg, aber es ist ein sehr wichtiges Element, welches du kontrollieren kannst. Viele Software-Entwickler können ein sehr hohes Kompetenz-Level innerhalb von zehn Jahren in ihrer Karriere erreichen. Danach kann es sehr schwierig sein, diese Kompetenzen weiter auszubauen, weil der intellektuelle Input von anderen Menschen fehlt. Das individuelle Talent wird deutlich an Bedeutung verlieren, weil jeder Software-Entwickler mit allen anderen Software-Entwicklern konkurriert, die ähnliche Kompetenzen besitzen wie das einzelne Talent. Durch Selbstmarketing kannst du herausfinden, was dich auszeichnet und welche deine Kompetenzen sind.
 
 ### Wie du dich selbst vermarkten kannst
 
-Alles beginnt damit, eine Markenpersönlichkeit von dir zu kreieren; etwas, was dich widerspiegelt. Treffe bewusste Entscheidungen darüber, wer du sein möchtest und wie du dieses Bild in der Welt darstellen möchtest. Außerdem solltest du eine familiäre Atmosphäre erzeugen, wenn dir jemand entgegentritt oder wenn es sich um ein Produkt handelt, welches du schon viele Male kreiert hast. Benutze viele Kanäle für das Selbstmarketing. Ein Blog kann die Basis für deinen Internetauftritt bilden, weil du dort den Informationsfluss vollständig steuern kannst. Und so bist du auch nicht von anderen Menschen und ihren Plattformen und Regeln abhängig.
+* Alles beginnt damit, eine Markenpersönlichkeit von dir zu kreieren; etwas, was dich widerspiegelt. Treffe bewusste Entscheidungen darüber, wer du sein möchtest und wie du dieses Bild in der Welt darstellen möchtest. Außerdem solltest du eine familiäre Atmosphäre erzeugen, wenn dir jemand entgegentritt oder wenn es sich um ein Produkt handelt, welches du schon viele Male kreiert hast. Benutze viele Kanäle für das Selbstmarketing. Ein Blog kann die Basis für deinen Internet-Auftritt bilden, weil du dort den Informationsfluss vollständig steuern kannst und weil du so nicht von anderen Menschen und ihren Plattformen und Regeln abhängig bist.
+Dazu gibt es eine Strategie von dem Unternehmer Pat Flynn, die "Be everywhere" genannt wird. Sie besagt, dass du überall dort sein musst, wo du dich selber vermarkten möchtest; dies hat das Ziel, dass du überall dort auch eine gute Chance hast, von deiner gewünschten Zuhörerschaft gehört zu werden. Mögliche Kanäle sind Blog-Posts, Podcasts, Videos, Artikel in Fachzeitschriften, Bücher, Code-Camps und Konferenzen. Dabei solltest du nicht vergessen, dass all dies von deiner Fähigkeit abhängt, (Mehr-)Werte für andere zu generieren.
 
-Dazu gibt es eine Strategie von dem Unternehmer Pat Flynn, die "Be everywhere" genannt wird. Sie besagt, dass du überall dort sein musst, wo du dich selber vermarkten möchtest; dies hat das Ziel, dass du überall dort auch eine gute Chance hast, von deiner gewünschten Zuhörerschaft gehört zu werden. Mögliche Kanäle sind Blog-Posts, Podcasts, Videos, Artikel in Fachzeitschriften, Bücher, Code-Camps und Konferenzen. Dabei solltest du nicht vergessen, dass all dies von deiner Fähigkeit abhängt, \(Mehr-\)Werte für andere zu generieren.
 
 ## Erschaffe eine Marke, die auf dich aufmerksam macht
 
 ### Was ist eine Marke
 
-Das Logo eines Unternehmens ist eine visuelle Erinnerung an seine Marke, aber es ist nicht die Marke selbst. Wenn du dieses Logo siehst, hast du Erwartungen an die Dienstleistung oder das Produkt. Eine Marke ist ein Versprechen, einen bestimmten \(Mehr-\)Wert zu erzeugen, in der Art, in der du es selber erwartest.
+Das Logo eines Unternehmens ist eine visuelle Erinnerung an seine Marke, aber es ist nicht die Marke selbst. Wenn du dieses Logo siehst, hast du Erwartungen an die Dienstleistung oder das Produkt. Eine Marke ist ein Versprechen, einen bestimmten (Mehr-)Wert zu erzeugen, in der Art, in der du es selber erwartest.
 
 ### Was eine Marke ausmacht
 
@@ -28,8 +32,8 @@ Du brauchst vier Dinge für eine erfolgreiche Marke: eine Nachricht, Visuelles, 
 
 ### Kreiere deine eigene Marke
 
-Entscheide zunächst, was du repräsentieren möchtest und definiere deine Nachricht dafür. Verkleinere deine Zuhörerschaft und wähle eine Nische aus \(Spezialisierung\). Der beste Weg für die Entscheidung, welche Nische du wählen sollst, erfolgt von einer rein strategischen Perspektive: Welchen Vorteil hast du von einer bestimmten, spezifischen Nische, die du nutzen kannst? Zögere nicht, deine Nische später zu verändern, wenn dies nötig ist.  
-Schritte, eine Marke zu kreieren, sind: Definiere deine Nachricht, wähle deine Nische, erschaffe dein Motto, kreiere einen Elevator-Pitch und designe die visuellen Komponenten deiner Marke. Starte mit deinem Motto \(Slogan\), welches deine Marke in einem einzigen oder in zwei Sätzen darstellt. Ein Elevator-Pitch ist eine kurze Beschreibung dessen, was du machst und des einzigartigen Wertes, welchen du erschaffst \(dies kann in der Zeit erklärt werden, die man benötigt, um mit einem Fahrtstuhl zu fahren\). Dieser Elevator-Pitch stellt sicher, dass du und deine Marke konsistent seid und dass ihr immer die gleiche Nachricht vermittelt. Visuelle Komponenten sollten dabei helfen, diese Nachricht zu übermitteln und als visuelle Erinnerung dessen dienen, was deine Marke darstellen soll.
+Entscheide zunächst, was du repräsentieren möchtest und definiere deine Nachricht dafür. Verkleinere deine Zuhörerschaft und wähle eine Nische aus (Spezialisierung). Der beste Weg für die Entscheidung, welche Nische du wählen sollst, erfolgt von einer rein strategischen Perspektive: Welchen Vorteil hast du von einer bestimmten, spezifischen Nische, die du nutzen kannst? Zögere nicht, deine Nische später zu verändern, wenn dies nötig ist.
+Schritte, eine Marke zu kreieren, sind: Definiere deine Nachricht, wähle deine Nische, erschaffe dein Motto, kreiere einen Elevator-Pitch und designe die visuellen Komponenten deiner Marke. Starte mit deinem Motto (Slogan), welches deine Marke in einem einzigen oder in zwei Sätzen darstellt. Ein Elevator-Pitch ist eine kurze Beschreibung dessen, was du machst und des einzigartigen Wertes, welchen du erschaffst (dies kann in der Zeit erklärt werden, die man benötigt, um mit einem Fahrtstuhl zu fahren). Dieser Elevator-Pitch stellt sicher, dass du und deine Marke konsistent seid und dass ihr immer die gleiche Nachricht vermittelt. Visuelle Komponenten sollten dabei helfen, diese Nachricht zu übermitteln und als visuelle Erinnerung dessen dienen, was deine Marke darstellen soll.
 
 ## Einen sehr erfolgreichen Blog kreieren
 
@@ -39,11 +43,11 @@ Ein Blog kann eine Menge an Informationen über einen Entwickler enthalten; z. B
 
 ### Kreiere einen Blog
 
-Anfangs kannst du eine kostenlose Software für deine Blog nutzen \(z. B. WordPress\). Später, oder wenn du einen Shop oder Ähnliches benötigst, ist es ratsam einen kostenpflichtigen Service zu nutzen, da so Vieles einfacher ist. Registriere deine eigene Domain, um SEO-Kriterien zu erfüllen.
+Anfangs kannst du eine kostenlose Software für deine Blog nutzen (z. B. WordPress). Später, oder wenn du einen Shop oder Ähnliches benötigst, ist es ratsam einen kostenpflichtigen Service zu nutzen, da so Vieles einfacher ist. Registriere deine eigene Domain, um SEO-Kriterien zu erfüllen.
 
 ### Schlüssel zum Erfolg
 
-Der wichtigste Aspekt auf dem Weg zum Erfolg als Blogger ist Konsistenz. Dies ist sehr wichtig, da dich so viele Menschen über Suchmaschinen finden können. Je höhere Qualität dein Inhalt hat, desto wahrscheinlicher ist es, dass Menschen zu deinem Blog zurückkehren oder dort etwas schreiben oder ihn in den sozialen Medien teilen, sodass dein Blog mit anderen Websites verlinkt wird \(wichtiger Aspekt um in Suchmaschinen gefunden zu werden\).
+Der wichtigste Aspekt auf dem Weg zum Erfolg als Blogger ist Konsistenz. Dies ist sehr wichtig, da dich so viele Menschen über Suchmaschinen finden können. Je höhere Qualität dein Inhalt hat, desto wahrscheinlicher ist es, dass Menschen zu deinem Blog zurückkehren oder dort etwas schreiben oder ihn in den sozialen Medien teilen, sodass dein Blog mit anderen Websites verlinkt wird (wichtiger Aspekt um in Suchmaschinen gefunden zu werden).
 
 ### Erhalte mehr Traffic
 
@@ -51,7 +55,7 @@ Starte damit, die Blogs anderer Leute zu kommentieren, die ähnliche Themen beha
 
 ### Ich kann dir keinen Erfolg garantieren
 
-## Dein oberstes Ziel: Generiere einen \(Mehr-\)Wert für andere
+## Dein oberstes Ziel: Generiere einen (Mehr-)Wert für andere
 
 * "If you help enough people get what they want, you will get what you want" - Zig Ziglar
 
@@ -65,7 +69,7 @@ Kostenlose Inhalte werden häufiger geteilt als solche, für die man bezahlen mu
 
 ### Der schnelle Weg zum Erfolg
 
-Wie kann dein Inhalt einen \(Mehr-\)Wert für andere generieren? Dein größter Erfolg ist es, wenn du die Probleme anderer Menschen lösen und ihnen auf diese Weise helfen kannst.
+Wie kann dein Inhalt einen (Mehr-)Wert für andere generieren? Dein größter Erfolg ist es, wenn du die Probleme anderer Menschen lösen und ihnen auf diese Weise helfen kannst.
 
 ### Biete mehr von dir an
 
@@ -75,7 +79,7 @@ Die produktivsten Menschen sind die hilfreichsten.
 
 ### Vergrößere dein Netzwerk
 
-Folge anderen Leuten oder frage andere deinem Netzwerk beizutreten. Viele Entwickler warten geradezu auf Leute, die ihnen folgen oder mit ihnen interagieren. Platziere deine Links zu deinen Social Media-Profilen in deine Online-Biographien, ans Ende deiner Blog-Beiträge oder auch in deine Email-Signaturen.
+Folge anderen Leuten oder frage ander deinem Netzwerk beizutreten. Viele Entwickler warten geradezu auf Leute, die ihnen folgen oder mit ihnen interagieren. Platziere deine Links zu deinen Social Media-Profilen in deine Online-Biographien, ans Ende deiner Blog-Beiträge oder auch in deine Email-Signaturen. 
 
 ### Nutze soziale Medien effektiv
 
@@ -124,22 +128,22 @@ Du schreibst ein Buch nicht, um Geld zu machen, sondern du schreibst ein Buch, u
 
 ### Publiziert werden
 
-Publiziert werden ist nicht einfach, besonders. Getting published isn't easy - especially for your first book as not too many publishers want to take a risk on a completely unknown author. Best way to give yourself an opportunity to get published is to have a clearly defined topic that you know there's a market for and you can demonstrate your knowledge as an expert in that area. Start with blog posts, magazine articles and so get bigger and bigger. Publishers like to publish authors who already have a fairly large audience. You should have a solid proposal or magazine abstract
+Publiziert werden ist nicht einfach, besonders wenn es dein erstes Buch ist und nicht viele Verläge das Risiko eingehen wollen einen komplet unbekannten Autor zu publizieren. Der sicherste Weg, dir selbst eine Möglichkeit publiziert zu werden zu geben, ist es ein klar definiertes Thema zu wählen, dass du kennst und bei dem du weißt, dass es einen Markt dafür gibt und du dein Wissen als Fachmann demonstrieren kannst. Starte mit Blog-Einträgen, Artikeln in Zeitschriften und werde so größer und größer. Verläge publizieren lieber Autoren, die bereits eine gewisses Publikum haben. Zudem solltest du ein Kurzportrait haben.
 
 ### Sich selber publizieren
 
-More authors are finding success by self-publishing - especially if they have an existing audience. It is easy to do and a good training before entering into a contract with a publisher that will have deadlines that you'll be required to meet. There are many services you can use to help you self-publish your book like Leanpub, Amazon Kindle Direct Publishing, Smashwords or BookBaby
+Mehr und mehr Autoren haben Erfolg damit sich selbst zu vermarkten, besonders wenn sie bereits ein Publikum haben. Es ist einfach zu machen und ein gutes Training, bevor du Verträge mit einem Verlag eingehst und Fristen einhalten musst. Es gibt viele Dienste, die du dazu nutzen kannst, dich selbst zu vermarkten wie z.B. Leanpub, Amazon Kindle Direct Publishing, Smashwords or BookBaby
 
 ## Habe keine Angst, dumm dazustehen
 
 ### Alles ist anfangs unangenehm
 
-Wenn du etwas das erstes Mal machst, womit du dich unwohl fühlst, kannst du dir nicht vorstellen, es jemals ohne Bauchschmerzen zu machen. Aber du musst lernen damit umzugehen. Letztlich muss da jeder durch, wenn er etwas neues herausfordendes macht - besonders beim Auftreten vor anderen Leuten.
+Wenn du das erste mal etwas machst, bei dem du dich unwohl fühlst, kannst du dir nicht vorstellen, wie du dich damit irgendwann wohl fühlen sollst. Aber du musst einfach lernen über dieses Denken hinwegzukommen und realisieren, dass fast jeder durch dieses unangenehme Gefühl durch muss etwas herausforderndes das erste Mal machen zu müssen. Besonders vor einer Gruppe.
 
 ### Es ist in Ordnung, wie ein Idiot zu erscheinen.
 
-Mit der Zeit geht einem alles leichter von der Hand. Und wenn während des Präsentierens etwas schief geht, darfst du dir keinen Kopf machen. Denn wenn du fertig bist, wird sich kaum jemand an deine rethorischen Patzer erinnern. Wenn du Erfolg haben willst, musst du Lernen mit Startschwierigkeiten und Misserfolgen umzugehen.
+Dinge werden mit der Zeit einfacer. Und wenn etwas schief geht während du präsentierst, solltest du dir darüber einfach keine Sorgen machen. Und nachdem es vorbei ist, ist die Wahrscheinlichkeit hoch, dass sich niemand mehr daran erinnert. Wenn du Erfolg haben willst, hast du deine Angst schluckst, rausgehst und keine Angst davor hast dich lächerlich zu machen.
 
-### Mache kleine Schritte \(oder springe ins kalte Wasser\).
+### Mache kleine Schritte (oder springe ins kalte Wasser).
 
-Direkt ins kalte Wasser zu springen ist sicherlich der effektivste Ansatz, den man aber nicht von jedem verlangen kann. Alternativ tastet man sich langsam heran. Man schreibt erste Kommentare und beteiligt sich an technischen Disskusionen. Aber auch dabei muss man sich bereits auf Kritik einstellen, denn die bleibt selten aus. Sobald man sicherer im Schreiben geworden ist, kann man eigene Blog-Einträge wie "How-Tos" verfassen oder Gastbeiträge bei Kollegen veröffentlichen. Weiter könnte es mit Interviews in anderer Podcasts gehen usw..
+Am besten ist es einfach direkt ins kalte Wasser zu springen. Aber wenn du nervös beim Vortragen, Schreiben oder etwas anderem bist, versuche das zu finden, was dich am wenigsten nervös macht. Beginne z.B. mit dem Kommentieren von Blog-Einträgen und steige in Diskussionen ein. Aber stelle dich auf Kritik ein, denn die kann es immer geben. Sobald du dich etwas sicherer fühlst, schreibe deine eigenen Blog-Einträge wie z.B. "How-Tos". Und so kannst du weitermachen mit dem Schreiben von Gastbeiträgen im jemand anderes Blog oder du lässt dich in einem Podcast interviewen. Und du könntest auch einem Club wie Toastmasters beitreten, was dir hilft in der Öffentlichkeit zu sprechen.

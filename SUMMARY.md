@@ -192,7 +192,6 @@
   * [13 Veränderungen und das Troja-Prinzip](soft-skills-fur-it-berater/13-veranderungen-und-das-troja-prinzip.sven-schirmer.md)
   * [14 Fallbeispiel](soft-skills-fur-it-berater/14-fallbeispiel.jonathan-jansen.md)
 * [Soft Skills für IT-Führungskräfte und Projektleiter](soft-skills-fur-it-fuhrungskrafte-und-projektleiter.md)
-  * [1 Soft Skills](soft-skills-fur-it-fuhrungskrafte-und-projektleiter/1-soft-skills.philipp-viertel.md)
   * [2 Kommunikation](soft-skills-fur-it-fuhrungskrafte-und-projektleiter/2-kommunikation.philipp-viertel.md)
   * [3 Komplexe Systeme](soft-skills-fur-it-fuhrungskrafte-und-projektleiter/3-komplexe-systeme.philipp-viertel.md)
   * [4 Selbstorganisation und Troja-Prinzip](soft-skills-fur-it-fuhrungskrafte-und-projektleiter/4-selbstorganisation-und-troja-prinzip.philipp-viertel.md)

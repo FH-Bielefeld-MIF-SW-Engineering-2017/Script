@@ -1,4 +1,4 @@
-# Veränderungsmanagement konkret
+# 11 Veränderungsmanagement konkret
 
 Zwei Dinge sind mit Veränderungen immer einhergehend: Risiken die bei der Veränderung eingegangen werden müssen und Widerstand, der durch das Verändern hervorgerufen wird. Diese beiden Themen werden in diesem Kapitel behandelt.
 

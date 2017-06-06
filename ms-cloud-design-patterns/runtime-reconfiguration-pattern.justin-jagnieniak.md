@@ -1,4 +1,0 @@
-# Runtime Reconfigration Pattern
-
-
-

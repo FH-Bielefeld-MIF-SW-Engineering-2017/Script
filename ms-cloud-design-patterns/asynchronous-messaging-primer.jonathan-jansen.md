@@ -20,11 +20,11 @@ Queus sind ideal für das asynchrone Arbeiten zweier oder mehrerer Dienste. Nach
 
 Beim **request/response messaging** erwartet der Absender eine Rückmeldung des Empfängers, dass die Nachricht verarbeitet wurde. Die Antwort der Empfänger wird in eine Absender-Spezifische Queue gelegt (jeder Absender hat eine eigene Queue für die Antworten). Erfolgt innerhalb einer bestimmten Zeit keine Antwort, kann ein Empfänger entsprechende Maßnahmen einleiten (z.B. erneutes Senden der Nachrichten). (Vgl. S. 168)
 
-![ResponseMessaging](../assets/Response-Messaging.png) Abbildung 1: Request/Response Messaging [[Cloud Design Patterns, S. 168]](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwjBp_bjh-rTAhWIZVAKHR05CSYQFghMMAY&url=https%3A%2F%2Fdownload.microsoft.com%2Fdownload%2FB%2FB%2F6%2FBB69622C-AB5D-4D5F-9A12-B81B952C1169%2FCloudDesignPatternsBook-PDF.pdf&usg=AFQjCNGfN9eRS1NDFxLihCC4R3k-mvGmvg&sig2=yScohHzNzZ06OrbI6Lr51Q&cad=rja "Cloud Design Patterns").
+![ResponseMessaging](/assets/Response-Messaging.PNG) Abbildung 1: Request/Response Messaging [[Cloud Design Patterns, S. 168]](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwjBp_bjh-rTAhWIZVAKHR05CSYQFghMMAY&url=https%3A%2F%2Fdownload.microsoft.com%2Fdownload%2FB%2FB%2F6%2FBB69622C-AB5D-4D5F-9A12-B81B952C1169%2FCloudDesignPatternsBook-PDF.pdf&usg=AFQjCNGfN9eRS1NDFxLihCC4R3k-mvGmvg&sig2=yScohHzNzZ06OrbI6Lr51Q&cad=rja "Cloud Design Patterns").
 
 **Broadcast messaging** wird eingesetzt wenn mehrere Empfänger die gleiche Nachricht erhalten sollen. Der Absender legt seine Nachrichten in eine Haupt-Queue, von der diese Nachrichten dann in Empfängerspezifische Queues umkopiert werden. 
 
-![Broadcast](../assets/Broadcast.png) Abbildung 2: Broadcast Messaging [[Cloud Design Patterns, S. 169]](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwjBp_bjh-rTAhWIZVAKHR05CSYQFghMMAY&url=https%3A%2F%2Fdownload.microsoft.com%2Fdownload%2FB%2FB%2F6%2FBB69622C-AB5D-4D5F-9A12-B81B952C1169%2FCloudDesignPatternsBook-PDF.pdf&usg=AFQjCNGfN9eRS1NDFxLihCC4R3k-mvGmvg&sig2=yScohHzNzZ06OrbI6Lr51Q&cad=rja "Cloud Design Patterns").
+![Broadcast](/assets/Broadcast.PNG) Abbildung 2: Broadcast Messaging [[Cloud Design Patterns, S. 169]](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwjBp_bjh-rTAhWIZVAKHR05CSYQFghMMAY&url=https%3A%2F%2Fdownload.microsoft.com%2Fdownload%2FB%2FB%2F6%2FBB69622C-AB5D-4D5F-9A12-B81B952C1169%2FCloudDesignPatternsBook-PDF.pdf&usg=AFQjCNGfN9eRS1NDFxLihCC4R3k-mvGmvg&sig2=yScohHzNzZ06OrbI6Lr51Q&cad=rja "Cloud Design Patterns").
 
 
 ### Scenarien für asynchronen Nachrichtenaustausch (Auswahl)

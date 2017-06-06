@@ -1,4 +1,0 @@
-# Even Sourcing Pattern
-
-
-

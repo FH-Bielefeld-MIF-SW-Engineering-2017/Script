@@ -1,19 +1,20 @@
 ## 2.2 Marketing yourself
 
-Der Unterschied zwischen einem erfolgreichen Musiker und einem Superstar ist ihre Vermarktung, denn Marketing ist ein Talent-Multiplikator.
+Der Unterschied zwischen einem erfolgreichen Musiker und einem Superstar ist deren jeweilige Vermarktung, denn Marketing ist ein Talent-Multiplikator.
 
 ### Was ist Selbstmarketing?
 
-Selbstmarketing bedeutet, sich mit Menschen zu verbinden, die etwas haben wollen, was du bei dir hast oder in dir trägst. Es bedeutet, für andere einen \(Mehr-\)Wert zu generieren. Dabei kontorlliert die Person, die sich selbst vermarktet, was sie anderen vermittelt, welche Nachricht sie sendet und welches Bild sie vermitteln möchte.
+Selbstmarketing bedeutet, sich mit Menschen zu verbinden, die etwas haben wollen, was du bei dir hast oder in dir trägst. Es bedeutet, für andere einen \(Mehr-\)Wert zu generieren. Dabei kontrolliert die Person, die sich selbst vermarktet, was sie anderen vermittelt, welche Nachricht sie sendet und welches Bild sie vermitteln möchte.
 
 ### Warum Selbstmarketing wichtig ist
 
-Selbstmarketing garantiert keinen Erfolg, aber es ist ein sehr wichtiges Element, welches du kontrollieren kannst. Viele Software-Entwickler können ein sehr hohes Kompetenz-Level innerhalb von zehn Jahren in ihrer Karriere erreichen. Danach kann es sehr schwierig sein, diese Kompetenzen weiter auszubauen, weil der intellektuelle Input von anderen Menschen fehlt. Das individuelle Talent wird deutlich an Bedeutung verlieren, weil jeder Software-Entwickler mit allen anderen Software-Entwicklern konkurriert, die ähnliche Kompetenzen besitzen wie das einzelne Talent. Durch Selbstmarketing kannst du herausfinden, was dich auszeichnet und welche deine Kompetenzen sind.
+Selbstmarketing garantiert keinen Erfolg, aber es ist ein sehr wichtiges Element, das du kontrollieren kannst. Viele Software-Entwickler können ein sehr hohes Kompetenz-Level innerhalb von zehn Jahren in ihrer Karriere erreichen. Danach kann es sehr schwierig sein, diese Kompetenzen weiter auszubauen, weil der intellektuelle Input von anderen Menschen fehlt. Das individuelle Talent wird deutlich an Bedeutung verlieren, weil jeder Software-Entwickler mit allen anderen Software-Entwicklern konkurriert, die ähnliche Kompetenzen besitzen wie das einzelne Talent. Durch Selbstmarketing kannst du herausfinden, was dich auszeichnet und welches deine Kompetenzen sind.
 
 ### Wie du dich selbst vermarkten kannst
 
-* Alles beginnt damit, eine Markenpersönlichkeit von dir zu kreieren; etwas, was dich widerspiegelt. Treffe bewusste Entscheidungen darüber, wer du sein möchtest und wie du dieses Bild in der Welt darstellen möchtest. Außerdem solltest du eine familiäre Atmosphäre erzeugen, wenn dir jemand entgegentritt oder wenn es sich um ein Produkt handelt, welches du schon viele Male kreiert hast. Benutze viele Kanäle für das Selbstmarketing. Ein Blog kann die Basis für deinen Internet-Auftritt bilden, weil du dort den Informationsfluss vollständig steuern kannst und weil du so nicht von anderen Menschen und ihren Plattformen und Regeln abhängig bist.
-  Dazu gibt es eine Strategie von dem Unternehmer Pat Flynn, die "Be everywhere" genannt wird. Sie besagt, dass du überall dort sein musst, wo du dich selber vermarkten möchtest; dies hat das Ziel, dass du überall dort auch eine gute Chance hast, von deiner gewünschten Zuhörerschaft gehört zu werden. Mögliche Kanäle sind Blog-Posts, Podcasts, Videos, Artikel in Fachzeitschriften, Bücher, Code-Camps und Konferenzen. Dabei solltest du nicht vergessen, dass all dies von deiner Fähigkeit abhängt, \(Mehr-\)Werte für andere zu generieren.
+Alles beginnt damit, eine Markenpersönlichkeit von dir zu kreieren; etwas, was dich widerspiegelt. Treffe bewusste Entscheidungen darüber, wer du sein möchtest und wie du dieses Bild in der Welt darstellen möchtest. Außerdem solltest du eine familiäre Atmosphäre erzeugen, wenn dir jemand entgegentritt oder wenn es sich um ein Produkt handelt, welches du schon viele Male kreiert hast. Benutze viele Kanäle für das Selbstmarketing. Ein Blog kann die Basis für deinen Internetauftritt bilden, weil du dort den Informationsfluss vollständig steuern kannst. Und so bist du auch nicht von anderen Menschen und ihren Plattformen und Regeln abhängig.
+
+Dazu gibt es eine Strategie von dem Unternehmer Pat Flynn, die "Be everywhere" genannt wird. Sie besagt, dass du überall dort sein musst, wo du dich selber vermarkten möchtest; dies hat das Ziel, dass du überall dort auch eine gute Chance hast, von deiner gewünschten Zuhörerschaft gehört zu werden. Mögliche Kanäle sind Blog-Posts, Podcasts, Videos, Artikel in Fachzeitschriften, Bücher, Code-Camps und Konferenzen. Dabei solltest du nicht vergessen, dass all dies von deiner Fähigkeit abhängt, \(Mehr-\)Werte für andere zu generieren.
 
 ## Erschaffe eine Marke, die auf dich aufmerksam macht
 
@@ -74,7 +75,7 @@ Die produktivsten Menschen sind die hilfreichsten.
 
 ### Vergrößere dein Netzwerk
 
-Folge anderen Leuten oder frage ander deinem Netzwerk beizutreten. Viele Entwickler warten geradezu auf Leute, die ihnen folgen oder mit ihnen interagieren. Platziere deine Links zu deinen Social Media-Profilen in deine Online-Biographien, ans Ende deiner Blog-Beiträge oder auch in deine Email-Signaturen.
+Folge anderen Leuten oder frage andere deinem Netzwerk beizutreten. Viele Entwickler warten geradezu auf Leute, die ihnen folgen oder mit ihnen interagieren. Platziere deine Links zu deinen Social Media-Profilen in deine Online-Biographien, ans Ende deiner Blog-Beiträge oder auch in deine Email-Signaturen.
 
 ### Nutze soziale Medien effektiv
 
@@ -133,13 +134,12 @@ More authors are finding success by self-publishing - especially if they have an
 
 ### Alles ist anfangs unangenehm
 
-When you first do something that makes you feel uncomfortable, you can's imagine how you could ever feel comfortable doing that thing. But you just have to learn to overcome this kind of thinking and realize that almost everyone goes through the same kind of uncomfortable feelings when they first do anything challenging - especially in front of a group of people
+Wenn du etwas das erstes Mal machst, womit du dich unwohl fühlst, kannst du dir nicht vorstellen, es jemals ohne Bauchschmerzen zu machen. Aber du musst lernen damit umzugehen. Letztlich muss da jeder durch, wenn er etwas neues herausfordendes macht - besonders beim Auftreten vor anderen Leuten.
 
 ### Es ist in Ordnung, wie ein Idiot zu erscheinen.
 
-Things will get easier over time. And when things go wrong while presenting you should just don't care. And after it's over, chances are no one will even remember it. If you want to succeed, you have to learn how to swallow your pride and get out there and not be afraid to make a fool of yourself
+Mit der Zeit geht einem alles leichter von der Hand. Und wenn während des Präsentierens etwas schief geht, darfst du dir keinen Kopf machen. Denn wenn du fertig bist, wird sich kaum jemand an deine rethorischen Patzer erinnern. Wenn du Erfolg haben willst, musst du Lernen mit Startschwierigkeiten und Misserfolgen umzugehen.
 
 ### Mache kleine Schritte \(oder springe ins kalte Wasser\).
 
-Just diving in is the most effective way. But if you're nervous about doing speaking, writing, or something else, try to think of the smallest thing you can do that doesn't make you quite as nervous. Start with commenting and contribute to conversations but be prepared for criticism. Once you feel a bit braver, write your own blog posts like "how-tos". From there expand further by writing a guest post for someone else's blog or you can be interviewed on a podcast. And you might even join a club like Toastmasters to help you get used to speaking in public.
-
+Direkt ins kalte Wasser zu springen ist sicherlich der effektivste Ansatz, den man aber nicht von jedem verlangen kann. Alternativ tastet man sich langsam heran. Man schreibt erste Kommentare und beteiligt sich an technischen Disskusionen. Aber auch dabei muss man sich bereits auf Kritik einstellen, denn die bleibt selten aus. Sobald man sicherer im Schreiben geworden ist, kann man eigene Blog-Einträge wie "How-Tos" verfassen oder Gastbeiträge bei Kollegen veröffentlichen. Weiter könnte es mit Interviews in anderer Podcasts gehen usw..

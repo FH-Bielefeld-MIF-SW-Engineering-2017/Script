@@ -280,7 +280,7 @@
     * [Fazit](fullstack-development/nosql/fazit.md)
     * [Quellen](fullstack-development/nosql/quellen.md)
   * [Hybride App-Entwicklung](fullstack-development/Hybride_AppEntwicklung.md)
-    * [Einführung](fullstack-development/Hybride_AppEntwicklung/Einfuhrung.md)
+    * [Einführung](fullstack-development/Hybride_AppEntwicklung/Einfuehrung.md)
     * [Unterschiede zwischen Web-Apps, Native Apps und Hybride Apps](fullstack-development/Hybride_AppEntwicklung/WebApps_NativeApps_HybrideApps.md)
       * [Web-Apps](fullstack-development/Hybride_AppEntwicklung/WebApps_NativeApps_HybrideApps/WebApps.md)
       * [Native Apps](fullstack-development/Hybride_AppEntwicklung/WebApps_NativeApps_HybrideApps/NativeApps.md)

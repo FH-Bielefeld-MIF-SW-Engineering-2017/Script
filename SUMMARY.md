@@ -279,6 +279,12 @@
     * [Objektrelationale DB](fullstack-development/nosql/objektrelationaleDB.md)
     * [Fazit](fullstack-development/nosql/fazit.md)
     * [Quellen](fullstack-development/nosql/quellen.md)
+  * [Realtime Datenbanken](fullstack-development/realtimeDB.md)
+    * [Einleitung](fullstack-development/realtimeDB/Einleitung.md)
+    * [Technische Aspekte](fullstack-development/realtimeDB/TechnischeAspekte.md)
+    * [Vor- und Nachteile](fullstack-development/realtimeDB/VorUndNachteile.md)
+    * [Einsatzmöglichkeiten](fullstack-development/realtimeDB/Einsatzmoeglichkeiten.md)
+    * [Quellen](fullstack-development/realtimeDB/Quellen.md)
 * [Cloud-Security](cloud-security.md)
 * [Software-Architektur](software-architektur.md)
 

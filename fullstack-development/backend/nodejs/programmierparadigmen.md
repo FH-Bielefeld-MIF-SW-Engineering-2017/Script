@@ -1,0 +1,3 @@
+# Programmierparadigmen
+
+Autor: Niklas Harting

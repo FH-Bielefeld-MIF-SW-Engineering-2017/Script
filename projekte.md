@@ -3,7 +3,7 @@
 Projektname: **VR**
 Projektleiter: Tim Jastrzembski
 Projektteam: Tim Jastrzembski
-Github-Repo:
+Github-Repo: https://github.com/tjastrzembski/ViReCo.git
 
 Projektname: **AR**
 Projektleiter: Andrei Günter
@@ -45,4 +45,4 @@ Github-Repo: [https://github.com/pviertel/cloudsecurity.git](https://github.com/
 Projektname: **Software-Architektur**
 Projektleiter: Christian Holzberger
 Projektteam: Christian Holzberger
-Github-Repo:
+Github-Repo: [https://github.com/cHolzberger/2017-Sw-Eng-Projekt.git](https://github.com/cHolzberger/2017-Sw-Eng-Projekt.git)

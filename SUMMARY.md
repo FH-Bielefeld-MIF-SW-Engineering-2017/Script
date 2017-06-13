@@ -262,6 +262,11 @@
 
 * [Projekte](projekte.md)
 * [VR](vr.md)
+  * [Einführung](vr/einführung.md)
+  * [Geschichte der VR](vr/geschichte-der-vr.md)
+  * [Stand der Technik](vr/stand-der-technik.md)
+  * [Einsatzgebiete](vr/einsatzgebiete.md)
+  * [Motion Sickness](vr/motion-sickness.md)
 * [AR](ar.md)
   * [Einführung](ar/einfuehrung.md)
   * [Grundlegende Technologien](ar/grundlegende_technologien.md)

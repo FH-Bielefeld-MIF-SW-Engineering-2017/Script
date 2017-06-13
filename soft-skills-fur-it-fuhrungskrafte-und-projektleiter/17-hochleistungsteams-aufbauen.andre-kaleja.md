@@ -1,4 +1,0 @@
-#  17 Hochleistungsteams aufbauen
-
-
-

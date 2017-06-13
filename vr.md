@@ -2,5 +2,5 @@
 
 Projektleiter: Tim Jastrzembski  
 Projektteam: Tim Jastrzembski  
-Github-Repo:
+Github-Repo: https://github.com/tjastrzembski/ViReCo.git
 

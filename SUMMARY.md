@@ -400,5 +400,10 @@
     * [Barrierefreiheit](fullstack-development/design/barrierefreiheit.md)
     * [Responsive Design](fullstack-development/design/responsive-design.md)
 * [Cloud-Security](cloud-security.md)
+  * [Einführung](cloud-security/Einfuehrung.md)
+  * [Einsatzgebiete](cloud-security/Einsatzgebiete.md)
+  * [Frameworks](cloud-security/Frameworks.md)
+  * [Sicherheit](cloud-security/Sicherheit.md)
+  * [Ausblick](cloud-security/Ausblick.md)
 * [Software-Architektur](software-architektur.md)
 

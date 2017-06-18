@@ -6,12 +6,12 @@
             "options": [
                 {
                     "value": "https://FH-Bielefeld-MIF-SW-Engineering-2017.github.io/Script/master/",
-                    "text": "Version 1.3.0"
+                    "text": "Komplettes Script"
+                    "selected": true
                 },
                 {
                     "value": "https://FH-Bielefeld-MIF-SW-Engineering-2017.github.io/Script/master/",
-                    "text": "Version 1.4.0",
-                    "selected": true
+                    "text": "Klausurthemen",
                 }
             ]
         }

@@ -1,16 +1,17 @@
 {
-    "plugins": [ "feathers-versions" ],
+    "plugins": [ "versions" ],
     "pluginsConfig": {
         "versions": {
-            "gitbookConfigURL": "https://raw.githubusercontent.com/feathersjs/feathers-docs/master/book.json",
+            "gitbookConfigURL": "https://raw.githubusercontent.com/rackt/history/gh-pages/book.json",
             "options": [
                 {
-                    "value": "https://docs.feathersjs.com",
-                    "text": "Latest Stable (Auk)"
+                    "value": "https://rackt.github.io/history/v1.3.0/",
+                    "text": "Version 1.3.0"
                 },
                 {
-                    "value": "https://legacy.docs.feathersjs.com",
-                    "text": "Legacy (Pre-Auk)"
+                    "value": "https://rackt.github.io/history/v1.4.0/",
+                    "text": "Version 1.4.0",
+                    "selected": true
                 }
             ]
         }

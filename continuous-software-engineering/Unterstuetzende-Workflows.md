@@ -35,7 +35,7 @@ Continuous Deployment geht noch einen Schritt weiter und automatisiert ebenfalls
 
 Jeder einzelne Commit eines Entwickler kann potentiell automatisiert in der Produktion ankommen. Voraussetzung hierfür ist der erfolgreiche Durchlauf aller bisher aufgeführten Schritte aus den Kapiteln Continuous Integration und Delivery. Zusammengefasst muss der Commit, bzw. der Mehrwert oder das Increment erfolgreich integriert worden sein und alle Tests auf allen implementierten Umgebungen bestehen. Anschließend muss nicht mehr entschieden werden, ob der Mehrwert in der Produktion verwendet werden kann. Dies geschieht mit Continuous Deployment ebenfalls automatisiert [4](../quellen.md).
 
-### TDD, BDD, ATDD
+## TDD, BDD, ATDD
 Bei dem Test-driven development (TDD) werden bestehenden Anforderungen zu Beginn in diverse Testfälle gegossen. Anschließend wird die bestehende Software angepasst, sodass die bestehenden Testfälle erfüllt werden. Durch ein solches Vorgehen soll die Implementierung von überflüssigem Quelltext reduziert werden.
 
 Im Kontext des Test-driven developments wird häufig von sehr kurzen Zyklen gesprochen. Diese bestehen aus dem Hinzufügen von Tests, der Prüfung ob die neuen Tests fehlschlagen, dem Implementieren, der erneuten Testausführung und einer abschließenden Phase der Quelltextrestrukturierung.

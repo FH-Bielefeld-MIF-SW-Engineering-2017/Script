@@ -25,9 +25,16 @@ In diesem Zusammenhang wird das deployen und testen auf den verschiedenen Umgebu
 
 In diesem Beispiel gibt es drei Umgebungen (Development, Test, Staging), welche durchlaufen werden, bevor es in die Produktiv-Umgebung geht. 
 
-In jeder Umgebung wird der Quelltext unterschiedlich getestet. Es ergibt sich der Vorteil, dass mit jeder erfolgreich durchlaufenen Umgebung die Wahrscheinlichkeit wächst, dass der Quelltext auch in der Produktiv-Umgebung lauffähig sein wird.
+In jeder Umgebung wird der Quelltext unterschiedlich getestet. Es ergibt sich der Vorteil, dass mit jeder erfolgreich durchlaufenen Umgebung die Wahrscheinlichkeit wächst, dass der Quelltext auch in der Produktiv-Umgebung lauffähig sein wird [4](../quellen.md).
 
 ## Continuous Deployment
+Continuous Deployment geht noch einen Schritt weiter und automatisiert ebenfalls die Übergabe in die Produktion.
+
+![](/assets/CDvsCD.png)
+[5](../quellen.md)
+
+Jeder einzelne Commit eines Entwickler kann potentiell automatisiert in der Produktion ankommen. Voraussetzung hierfür ist der erfolgreiche Durchlauf aller bisher aufgeführten Schritte aus den Kapiteln Continuous Integration und Delivery. Zusammengefasst muss der Commit, bzw. der Mehrwert oder das Increment erfolgreich integriert worden sein und alle Tests auf allen implementierten Umgebungen bestehen. Anschließend muss nicht mehr entschieden werden, ob der Mehrwert in der Produktion verwendet werden kann. Dies geschieht mit Continuous Deployment ebenfalls automatisiert [4](../quellen.md).
+
 ### TDD, BDD, ATDD
 Bei dem Test-driven development (TDD) werden bestehenden Anforderungen zu Beginn in diverse Testfälle gegossen. Anschließend wird die bestehende Software angepasst, sodass die bestehenden Testfälle erfüllt werden. Durch ein solches Vorgehen soll die Implementierung von überflüssigem Quelltext reduziert werden.
 

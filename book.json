@@ -1,17 +1,16 @@
 {
-    "plugins": [ "versions" ],
+    "plugins": [ "feathers-versions" ],
     "pluginsConfig": {
         "versions": {
-            "gitbookConfigURL": "https://github.com/FH-Bielefeld-MIF-SW-Engineering-2017/Script/book.json",
+            "gitbookConfigURL": "https://raw.githubusercontent.com/feathersjs/feathers-docs/master/book.json",
             "options": [
                 {
-                    "value": "https://FH-Bielefeld-MIF-SW-Engineering-2017.github.io/Script/master/",
-                    "text": "Version 1.3.0"
+                    "value": "https://docs.feathersjs.com",
+                    "text": "Latest Stable (Auk)"
                 },
                 {
-                    "value": "https://FH-Bielefeld-MIF-SW-Engineering-2017.github.io/Script/master/",
-                    "text": "Version 1.4.0",
-                    "selected": true
+                    "value": "https://legacy.docs.feathersjs.com",
+                    "text": "Legacy (Pre-Auk)"
                 }
             ]
         }

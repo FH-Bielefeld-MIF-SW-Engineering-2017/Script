@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Hilfe](hilfe.md)
+  * [Markdown Syntax](hilfe/markdown_syntax.md)
   * [PDF Anleitung](hilfe/pdf_anleitung.md)
 
 ## Klausurthemen

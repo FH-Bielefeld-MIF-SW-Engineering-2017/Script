@@ -99,7 +99,7 @@
   * [2.4.3 Promodoro Technik](zusammenfassung/2_4_3_pomodoro.md)
   * [2.4.4 Weitere Hinweise](zusammenfassung/2_4_4_weitere_hinweise.md)
   * [2.7.0 Spirit](zusammenfassung/2_7_0_Sprint.md)
-  * [2.7.1 How the mind influences the body](zusammenfassung/2_7_1_How the mind influences_the body.md)
+  * [2.7.1 How the mind influences the body](zusammenfassung/2_7_1_How the mind influences the body.md)
   * [2.7.2 Having the right mental attitude: Rebooting](zusammenfassung/2_7_2_Having the right mental attitude Rebooting.md)
   * [2.7.3 Buildling a positive self-image: Programming your brain](zusammenfassung/2_7_3_positive_self_image.md)
   * [2.7.4 Love and relationships: Computers can't hold your hand](zusammenfassung/2_7_4_love.md)

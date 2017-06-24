@@ -9,11 +9,9 @@ Um der vorangegangenen Problematik entgegenzuwirken, sollte eine Authentifizieru
 Dies vereinfacht die Entwicklung sowie die Verwaltung der Nutzerdaten. Außerdem hat der Benutzer dadurch die Möglichkeit, sich neben der Standard Authentifizierung über einen frei wählbaren IdP zu authentifizieren. Dadurch muss sich der Anwender keine neuen Anmeldeinformationen merken.
 Des Weiteren wird durch die Verwendung eines IdP die Authentifizierung von der Autorisierung entkoppelt.  
 Abbildung 1 veranschaulicht die Funktionsweise des Federated Identity Pattern, wenn eine Anwendung auf einen Dienst zugreifen muss, der eine Authentifizierung mittels eines IdP erfordert.
-<p align="center">
-  <img src="/assets/federated-identity-pattern.niklas-harting.png" alt="Authentifizierung" style="width: 350px;"/>
-   <br>
-   (Abbildung 1: Übersicht über eine Authentifizierung)
-</p>
+
+![Authentifizierung](/assets/federated-identity-pattern.niklas-harting.png)
+(Abbildung 1: Übersicht über eine Authentifizierung)
 
 ## Berücksichtigungen
 Wenn man dieses Pattern verwendet, sollte man verschiedene Aspekte beachten:

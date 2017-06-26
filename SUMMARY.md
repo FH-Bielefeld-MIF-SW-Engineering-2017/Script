@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 ## Einleitung
 
@@ -315,6 +315,15 @@
     * [LBPH](embedded-computing/gesichtserkennung/lbph.md)
     * [Fazit](embedded-computing/gesichtserkennung/fazit.md)
     * [Quellen](embedded-computing/gesichtserkennung/quellen.md)
+  * [IOT-Effizienz und IOT-Hub-Cloud (Azure)](embedded-computing/IOT-Effizienz_und_IOT-Hub-Cloud.md)
+    * [Einführung](embedded-computing/IOT-Effizienz_und_IOT-Hub-Cloud/1.Einführung.md)
+    * [Problemstellung](embedded-computing/IOT-Effizienz_und_IOT-Hub-Cloud/2.Problemstellung.md)
+    * [About Azure](embedded-computing/IOT-Effizienz_und_IOT-Hub-Cloud/3.AboutAzure.md)
+    * [Service plans](embedded-computing/IOT-Effizienz_und_IOT-Hub-Cloud/4.ServicePlans.md)
+    * [IOT-Hub virtual Machines](embedded-computing/IOT-Effizienz_und_IOT-Hub-Cloud/5.VirtualMachines.md)
+    * [Storage](embedded-computing/IOT-Effizienz_und_IOT-Hub-Cloud/6.Storage.md)
+    * [Business cases](embedded-computing/IOT-Effizienz_und_IOT-Hub-Cloud/7.BusinessCases.md)
+    * [Conclusions](embedded-computing/IOT-Effizienz_und_IOT-Hub-Cloud/8.Conclusion.md)
 * [Fullstack Development](fullstack-development.md)
   * [NoSQL](fullstack-development/nosql.md)
     * [Einführung](fullstack-development/nosql/einfuhrung.md)

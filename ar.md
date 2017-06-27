@@ -1,1 +1,1 @@
-# **Augmented Reality**## 1 Einführung## 2 Grundlegende Technologien## 3 Konzept## 4 Zusammenfassung  Projektleiter: Andrei Günter  Projektteam: Andrei Günter  Github-Repo: https://github.com/aguenter/artranslator
+# **Augmented Reality**## 1 Einführung## 2 Grundlegende Technologien## 3 Konzept## 4 Zusammenfassung  Projektleiter: Andrei Günter  Projektteam: Andrei Günter  Github-Repo: https://github.com/aguenter/artranslator

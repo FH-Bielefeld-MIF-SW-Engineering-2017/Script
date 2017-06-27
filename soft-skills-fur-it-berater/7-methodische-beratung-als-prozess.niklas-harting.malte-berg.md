@@ -3,11 +3,8 @@
 ## 7.1 Sechs Stufen zur erfolgreichen Beratung
 Zu einer erfolgreichen Beratung gehören mehrere Stufen, die folgenden Grafik visualisiert diese verschiedenen Stufen.
 
-<p align="center">
-    <img src="/assets/7-methodische-beratung-als-prozess.niklas-harting.img1.png" alt="Beratung" style="width: 200px;"/>
-    <br>
-    6 Stufen der Beratung
-</p>
+![Beratung](/assets/7-methodische-beratung-als-prozess.niklas-harting.img1.png)
+(6 Stufen der Beratung)
 
 ### Kontakt und Einstieg
 In dieser Phase kommt der erste Kontakt mit dem Kunden zustanden, man lernt sich kennen und bekommt einen ersten Eindruck über die Bedürfnisse des Kunden.  
@@ -36,11 +33,9 @@ Die Firmenstrategie ist ein wichtiger Punkt in einem Unternehmen und ein wesentl
 
 ### Wie spielen Marketing, Vertrieb und Projekt zusammen?
 Die drei Organisationseinheiten sind so verbunden, dass das Marketing den Markt adressiert um Interessenten zu finden. Der Vertrieb ermittelt dann aus den Interessenten mögliche Kunden, für welche dann durch die Beratungsprojekte Leistungen erbracht werden. Die folgende Grafik visualisiert noch einmal das Zusammenspiel der drei Organisationen.
-<p align="center">
-    <img src="/assets/7-methodische-beratung-als-prozess.niklas-harting.img2.png" alt="crm" style="width: 200px;"/>
-    <br>
-    Zusammenspiel von Marketing, Vertrieb und Beratungsprojekt
-</p>
+
+![crm](/assets/7-methodische-beratung-als-prozess.niklas-harting.img2.png)
+(Zusammenspiel von Marketing, Vertrieb und Beratungsprojekt)
 
 ### Bestandsakquise vs. Neuakquise
 Die sehr hohe Bedeutung einer gute Zusammenarbeit zwischen Marketing, Vertrieb und Beratung wird durch den Aufwand bei der Akquise von Neu- oder Bestandskunden noch wichtiger. Das Erzeuger neuer und qualifizierter Kontakte durch der Vertrieb und das Marketing ist deutlich teurer als die Akquise für Bestandskunden.
@@ -54,14 +49,12 @@ Prozesswerkzeuge helfen bei der Analysierung von Problemen. Dadurch erhält der 
 ### 7.3.1 Das Kontextmodell
 Das Kontextmodell bietet eine Grundlage um eine Struktur in ein Beratungsgespräch beim Festlegen der Auftragsanforderungen zu bringen. Durch diese Struktur wird vermieden, wichtige Details zu vergessen und es schränkt die Kommunikation nicht ein. Dabei werden sechs Bereiche behandelt:
 
-<ul>
-<li>Rahmen: Welche Risiken, Hindernisse oder Rahmenbedingungen sollten beachtet werden?</li>
-<li>Vorhandenes: Was ist bereits vorhanden und wie wurde dies erreicht?</li>
-<li>Benötigtes: Was wird noch benötigt und wie wird dies besorgt?</li>
-<li>Ziele: Welche Ziele sollen erreicht werden und welcher Nutzen soll geschaffen werden?</li>
-<li>Ergebnisse: Welches Ergebnis wird erwartet?</li>
-<li>Aktivitäten: Welche Schritte bedarf es für die Umsetzung?</li>
-</ul>
+* Rahmen: Welche Risiken, Hindernisse oder Rahmenbedingungen sollten beachtet werden?
+* Vorhandenes: Was ist bereits vorhanden und wie wurde dies erreicht?
+* Benötigtes: Was wird noch benötigt und wie wird dies besorgt?
+* Ziele: Welche Ziele sollen erreicht werden und welcher Nutzen soll geschaffen werden?
+* Ergebnisse: Welches Ergebnis wird erwartet?
+* Aktivitäten: Welche Schritte bedarf es für die Umsetzung?
 
 ### 7.3.2 Das Systemmodell in der Beratung
 Das Systemmodell ist mächtiger als das Kontextmodell. Hiermit können ganze Unternehmen bzw. Bereiche analysiert und strukturiert werden. Es werden die Angestellten betrachtet und welche Fähigkeiten und Bedürfnisse diese mitbringen. Ebenfalls werden die Arbeitsmittel der Firma betrachtet, was die Technik, Investitionsmöglichkeiten und Räumlichkeit mit einschließt. Wichtig ist ebenfalls einen Blick auf die Prozessabwicklung und Struktur der Organisation zu werfen.

@@ -7,9 +7,7 @@ Um CIO zu werden hat man zwei Möglichkeiten, zum einen kann man diesen Posten �
 Die Aufgaben eines CIOs sind vielfältig, zu seinen Hauptaufgaben gehören, einen stabilen Betrieb der IT-Landschaft zu gewährleisten und Services sowie Innovationen in der vereinbarten Zeit, zum vereinbarten Preis und in der vereinbarten Qualität zu liefern.
 
 ## 7.3 Führungsinstrumente
-<p align="center">
-  <img src="../../assets/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel7.NiklasHarting.png" alt="Fuehrungsinstrumente" style="width: 400px;"/>
-</p>
+![Fuehrungsinstrumente](/assets/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel7.NiklasHarting.png)
 
 ## 7.4 Erfolgsfaktoren
 Um als CIO Erfolg zu haben sind einige Faktoren sehr wichtig. Zum einen sollte der CIO eine sehr gute Kommunikationsfähigkeit haben, komplexe Sachverhalte verständlich erläutern, erfolgreich verhandeln und gut präsentieren können.   

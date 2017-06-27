@@ -1,0 +1,1 @@
+# Spaltenorientierte Datenbanken

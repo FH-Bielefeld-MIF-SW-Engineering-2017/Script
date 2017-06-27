@@ -8,7 +8,7 @@ Im Folgenden kommen die Priorisierungstechniken.
 Jeder Workshopteilnehmer kann den schlammigsten Aspekt (muddiest Point) oder das größte Problem auf eine Karte schreiben. Durch das Einsammeln der Karten entsteht eine Übersicht über die schwierigsten Aspekte der Aufgabenstellung. Diese besitzt eine hohe Aussagekraft und man kann in kurzer Zeit wirkungsvolle Ergebnisse erzielen. Der Nachteil liegt dabei an der mangelnden Breite der Ergebnisse und einer subjektiven Priorisierung. Es werden häufig Aspekte erwähnt, die als schwierig erscheinen, aber den Gesamtprozess kaum belasten. Für Softwareentwickler ist es dennoch sinnvoll, da es Informationen auf mögliche Barrieren enthält, die die Einführung von neuen Abläufen oder neuer Software zu einem späteren Zeitpunkt verhindern oder die Akzeptanz verringern.
 ###5.1.3 Punkte kleben
 Bei einer längeren Liste an Themen hilft das Punktekleben. Jeder Teilnehmer kriegt eine bestimmte Anzahl an Klebepunkte und darf diese frei an der Liste auf einem Flipchart zuordnen. Mit der Summe der Klebepunkte wird die Priorität gebildet. Mit Hilfe folgender Formel kann man grob die Anzahl der Klebepunkte bestimmen:
-<img src="formel.png" />
+![](/assets/formel.png)
 Bei mehreren Aspekten sollte man das Ergebnis lieber abrunden. Beim Provozieren eines stark polarisierten Ergebnisses kann es in Extremfällen sinnvoll sein nur einen Klebepunkt pro Person zu verteilen.
 Dabei ist es erlaubt die Klebepunkte beliebig zu verteilen. Man darf auch mehrere Klebepunkte einem Aspekt zuordnen. Nur das Teilen eines Klebepunktes bleibt dabei verboten.
 Taktisch entscheiden sich manche Teilnehmer erst am Ende ihre Punkte zu kleben. Um diesen Trend zu verhindern, kann die Anzahl der Punkte reduziert werden oder mit Hilfe eines Extrablattes die Wahl aller geheim gehalten werden, so dass ein Moderator am Ende die Extrazettel einsammelt und die Punkte auf den Flipchart klebt.
@@ -19,15 +19,15 @@ Bei starker vorheriger Vorprägung kann mit Hilfe eines Kollegen der Stapel sort
 Ebenfalls kann dies in Gruppenarbeit geschehen, so dass man reihum den Stapel sortiert und diskutiert bis ein gemeinsamer Konsens gefunden wurde. Sollte kein gemeinsamer Konsens gefunden werden, kann man mit Hilfe eines Prioritätskoordinatensystem arbeiten.
 ###5.1.5 Prioritätskoordinatensystem
 Bei zwei unterschiedlichen Ansichten in einer Priorität kann ein Prioritätskoordinatensytem als grafisches Verfahren helfen. Dabei erstellen zwei Parteien ihre Prioritätsliste. Anschließend wird eine der beiden Prioritätslisten auf ein vorbereitetes Koordinatensystem auf die y-Achse übertragen. Danach werden mit Hilfe der x-Achse mit der zweiten Prioritätsliste die Karten verschoben.
-<img src="Prioritätskoordinatensystem.png" />
+![](/assets/Prioritätskoordinatensystem.png)
 Die gemeinsame Priorität ergibt sich dabei aus dem resultierenden Vector. Wenn Zahlen auf den Achsen hinterlegt sind, kann man nach den Satz des Pythagoras den Vektorwert mit folgender Formel berechnen:
-<img src="formel_vector.png" />
+![](/assets/formel_vector.png)
 ##5.2 Effiziente Dikussionen
 ###5.2.1 Um den Fokus bitten
 In vielen Diskussionen geht der auf Ergebnis orientierte Fokus verloren, indem zwischen einzelnen Themen hin- und hergesprungen wird. Die klassische Lösung wäre es einen Moderator einzusetzen, um Struktur und Klarheit zu erlangen, ist aber nicht immer auf die Schnelle realisierbar. Problematisch gestalten sich häufig die große Anzahl an offenen Problemen, die abgehandelt werden müssen. Auch kurz zu betrachtende Aspekte werden länger als nötig offen gehalten.
 Um sich auf ein Ergebnis fokussieren zu können, könnte es hilfreich sein, Redebeiträge mit einer konkreten Bitte abzuschließen. Diese Bitte sollte von den Teilnehmern sofort nachgegangen werden können. Dies ist besonders dann wichtig, wenn es sich um Fragestellungen handelt, in denen es um einen Informationsgewinn geht.
 Es ist zwar etwas ungewöhnlich, aber dennoch eine gute Steuerungstechnik für Diskussionen, wenn Fokussierung notwendig ist.
-<img src="redebeitrag.png" />
+![](/assets/redebeitrag.png)
 ###5.2.2 Seriell oder Multitasking
 Aufgaben im Multitasking zu bearbeiten hängt von der Schwierigkeit der Aufgabe ab. Einfache Routineaufgaben können besser parallel abgearbeitet werden, als schwierige Aufgaben. Ebenso kommt es darauf an, wie verschieden die Aufgaben sind. Aufgaben, die in unterschiedlichen Hirnregionen ablaufen, sind leichter parallel abzuarbeiten, als Aufgaben, die dieselbe Hirnregion beanspruchen. Ebenso können unterbewusste Prozesse das Multitasking behindert.
 Dies bedeutet, dass in einem Workshop Smartphones ausgestellt sein sollten, da die Nebentätigkeit an diesen die bewusste Informationsaufnahme ausbremsen. Ebenso ist es untersucht, dass Multitasking nur dann Zeit spart, wenn es sich um Routineaufgaben handelt. Deshalb sollte man bei einem Workshop Aufgaben in Form von Multitasking vermeiden. Den Themenstapel so klein wie möglich halten und ein serielles statt ein paralleles Arbeiten ermöglichen, um die größtmöglichste Effizienz aus dem Workshop zu gewinnen.

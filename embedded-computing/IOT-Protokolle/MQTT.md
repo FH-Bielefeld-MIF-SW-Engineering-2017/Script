@@ -7,12 +7,16 @@ Das untenstehende Bild beschreibt den beschriebenen Ablauf mit einem Beispiel. E
 Die Konsumenten und Produzenten sind aber nicht fest an ihre Rollen gebunden, sondern können auch die jeweils andere Rolle übernehmen. 
 ### QoS
 Da MQTT nicht zwangsläufig über TCP übertragen werden muss, das unterliegende Protokoll also nicht ein erhalt einer Nachricht garantieren muss, definiert MQTT drei verschiedene Quality of Service (QoS) Klassen.
+
 **QoS Level 0** ist die niedrigste Qualitätsstufe. Bei dieser wird nicht garantiert, dass die Nachricht überhaupt irgendwo ankommt – „fire'n'forget“. [2](Quellen.md)
 [BILD EINFÜGEN]
+
 **QoS Level 1** garantiert, dass die Nachricht mindestens einmal beim Ziel ankommt. Der Broker muss das Erhalten der Nachricht einmal bestätigen. Bleibt die Bestätigung aus, oder kommt erst nach Ablauf eines Timeouts beim Client an, sendet er die Nachricht erneut. Deshalb kann es bei diesem Level zu mehrfach Sendungen kommen. [2](Quellen.md)
 [BILD EINFÜGEN]
+
 **QoS Level 2** garantiert, dass die Nachricht genau einmal beim Ziel ankommt. Hierzu müssen vier Nachrichten zwischen Client und Broker ausgetauscht werden. Der Broker bestätigt das erhalten der Publish-Nachricht mit einer „PUBREC“ („Publish received“) Paket. Zu diesem Zeitpunkt ist dem Client klar, dass seine Nachricht erfolgreich beim Broker angekommen ist. Das Bestätigt er wiederum mit einer „PUBREL“ („Publish release“) Paket, was der Broker wiederrum mit dem „PUBCOMP“ („Publish complete“) Paket bestätigt. [2](Quellen.md)
 [BILD EINFÜGEN]
+
 Diese QoS Klasse muss an zwei Stellen definiert werden. Zum einen muss der Sender jeder seiner Nachrichten ein QoS Level mit geben um zu definieren mit welcher Garantie die Nachricht beim Broker ankommt, zum anderen muss der Abonnent eines Topics definieren mit welcher Wahrscheinlichkeit die Nachrichten bei ihm ankommen sollen. Das gewählte QoS Level hängt von vielen Faktoren ab, die Wichtigkeit der Nachricht, die Zuverlässigkeit des Transportwegs oder die Kosten einer Nachricht können in die Entscheidung einfließen. [2](Quellen.md)
 ### Last Will
 Ein Client kann beim Broker festlegen, dass eine Bestimmte Nachricht an alle Interessierten geschickt wird, sobald der Broker merkt, dass der entsprechende Client die Verbindung verloren hat. Hiermit kann der Client indirekt allen Abonnenten mitteilen, dass er nicht mehr erreichbar ist und auch keine Nachrichten mehr Senden kann. Auch bei LastWill Nachrichten kann ein QoS festgelegt werden. [3](Quellen.md)

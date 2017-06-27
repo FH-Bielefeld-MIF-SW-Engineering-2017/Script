@@ -1,4 +1,4 @@
-﻿# Summary
+# Summary
 
 ## Einleitung
 
@@ -262,9 +262,7 @@
   * [Einführung](ar/einfuehrung.md)
   * [Grundlegende Technologien](ar/grundlegende_technologien.md)
   * [Konzept](ar/konzept.md)
-  * [Implementierung](ar/implemetierung.md)
-  * [Evaluierung](ar/Evaluierung.md)
-  * [Zusammenfassung](ar/Zusammenfassung.md)
+  * [Zusammenfassung](ar/zusammenfassung.md)
 * [Modell getriebene Systementwicklung](modell-getriebene-systementwicklung.md)
   * [Systems Engineering](modell-getriebene-systementwicklung/Systems_Engineering.md )
   * [Model Based Systems Engineering](modell-getriebene-systementwicklung/Model_Based_Systems_Engineering.md)

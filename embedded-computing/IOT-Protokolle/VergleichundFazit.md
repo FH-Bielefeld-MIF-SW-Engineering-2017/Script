@@ -3,7 +3,8 @@
 | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- |
 | Protokoll | TCP | TCP | UDP | TCP | TCP |
 | Push Nachrichten | Ja | Nein | Ja | Ja| Ja |
-| IoT Optimiert | Ja | Nein | Ja | Ja | meh |
+| Online Status \*\*\*| Ja | Nein | Nein |  Nein | Ja |
+| IoT Optimiert | Ja | Nein | Ja | Ja | mit Extension |
 | QoS | Ja | Nein | Ja | Ja | Nein |
 | Many2Many | Ja | Nein | Nein | Ja | Ja |
 | Arduino Library | Ja | Ja | Ja | Nein | Ja |
@@ -12,6 +13,7 @@
 \* Zusätzlich 64 Byte für darunterliegende Protokolle
 \** Zusätzlich 52 Byte für darunterliegende Protokolle
 
+\*\*\* Kommunikationspartner merkt, wenn Problem vorliegt (Online Status / LastWill)
 
 
 

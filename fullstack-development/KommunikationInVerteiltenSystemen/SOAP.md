@@ -1,6 +1,0 @@
-# SOAP
-
-Autor: Timo Rolfsmeier
-
-
-

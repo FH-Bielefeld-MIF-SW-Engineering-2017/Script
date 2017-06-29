@@ -49,7 +49,7 @@ gRPC ist ein öffentlich zugängliches RPC-Framework, das 2015 von Google veröf
 
 Ein zentrales Element von gRPC sind die sogenannten Protocol Buffers, welche ebenfalls von Google entwickelt wurden. Ein Protocol Buffer ist vergleichbar mit einem XML-Dokument. Hierin können Datenobjekte mitsamt ihren Attributen einheitlich dargestellt werden. Gegenüber anderen Dateiformaten bieten sie jedoch diverse Vorteile. Sie haben beispielsweise weniger Overhead als beispielsweise XML oder JSON-Dateien. Weiterhin fällt das Parsen von Protocol Buffers deutlich weniger zeitintensiv aus. Als Nachteil ist aufzuführen, dass sie in ihrer Rohform nicht von Menschen lesbar sind.
 
-Um einen Protocol Buffer zu erstellen, müssen initial Message Types und Services angelegt werden. Diese werden innerhalb einer JSON-artigen Proto-Datei zusammengefügt und bilden in ihrer Gesamtheit die spätere Schnittstelle des gRPC-Systems. EIn Message Type definiert einen Datentyp, während ein Service eine Menge spezieller Funktion beinhaltet. Innerhalb eines Message Types werden alle Datenfelder zusätzlich ihrer Datentypen aufgeführt. Es wird zwischen skalaren Datentypen, wie beispielsweise String oder Integer, und nicht-skalaren Datentypen in der Form von weiteren Message Types unterschieden. Ein Message Type kann so beispielsweise aus anderen Message Types aufgebaut sein. Jedes Datenfeld ist weiterhin mit einem numerischen und einzigartigen Tag zu erweitern, der für die interne Verarbeitung benötigt wird. Mithilfe der Schlüsselwörter required, optional und repeated kann spezifiziert werden, ob und wie oft ein Attribut angegeben werden muss bzw. darf.
+Um einen Protocol Buffer zu erstellen, müssen initial Message Types und Services angelegt werden (siehe Code-Beispiel 1). Diese werden innerhalb einer JSON-artigen Proto-Datei zusammengefügt und bilden in ihrer Gesamtheit die spätere Schnittstelle des gRPC-Systems. EIn Message Type definiert einen Datentyp, während ein Service eine Menge spezieller Funktion beinhaltet. Innerhalb eines Message Types werden alle Datenfelder zusätzlich ihrer Datentypen aufgeführt. Es wird zwischen skalaren Datentypen, wie beispielsweise String oder Integer, und nicht-skalaren Datentypen in der Form von weiteren Message Types unterschieden. Ein Message Type kann so beispielsweise aus anderen Message Types aufgebaut sein. Jedes Datenfeld ist weiterhin mit einem numerischen und einzigartigen Tag zu erweitern, der für die interne Verarbeitung benötigt wird. Mithilfe der Schlüsselwörter required, optional und repeated kann spezifiziert werden, ob und wie oft ein Attribut angegeben werden muss bzw. darf.
 
 Ein Service beschreibt hingegen abstrakt, welche Methoden das Interface anbietet bzw. welche Parameter diese erwarten und zurückliefern. Dabei kann er bereits Bezug auf die definierten Message Types nehmen.
 
@@ -80,6 +80,7 @@ message Auto {
     optional string standort = 2;
   }
 ```
+Code-Beispiel 1: Protocol Buffer
 
 Nachdem die Proto-Datei erstellt wurde, ist diese zu kompilieren. Anschließend erhält man einen nicht mehr lesbaren Protocol Buffer.
 

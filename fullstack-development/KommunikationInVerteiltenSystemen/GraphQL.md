@@ -6,7 +6,7 @@ GraphQL ist eine Abfragesprache für strukturierte Daten, welche 2012 von Facebo
 
 Dienste, die streng nach dem Architekturstil REST aufgebaut sind, können zum Flaschenhals für eine Client-Server-Interaktion werden. Dies beruht nach \(Facebook 2015\) auf drei Tatsachen.
 
-**Starrheit der Daten:** Ein RESTful Dienst legt statisch fest, welche Ressourcen bzw. Repräsentationen angefragt werden können. Er spezifiziert dazu die jeweils die URIs, auf die sich der Client beziehen muss, sowie die Operationen, die ausgeführt werden können. Folgendes Szenario verdeutlicht dabei ein mögliches Problem \(siehe Abbildung 10\). Der Client möchte beispielsweise wissen, mit welchem Wetter eine bestimmte Person morgen bei der Arbeit rechnen muss. Der Server bietet ihm dafür drei Endpunkte, mithilfe der er Personen, Arbeitgeber und Standorte abfragen kann. Um seine Ausgangsfrage zu beantworten, muss der Client nun drei verschiedene Anfragen absenden und jeweils auf die Ergebnisse warten. Dieser erhöhte Aufwand resultiert daher, dass der Server keinen Endpunkt anbietet, anhand dessen die Problemstellung innerhalb lediglich einer Anfrage bzw. Antwort gelöst werden kann. Eine REST-API zu konstruieren, die auf jede nur mögliche verschachtelte Anfrage innerhalb einer Nachricht antwortet, ist für mittlere bis große Dienste nicht machbar.
+**Starrheit der Daten:** Ein RESTful Dienst legt statisch fest, welche Ressourcen bzw. Repräsentationen angefragt werden können. Er spezifiziert dazu jeweils die URIs, auf die sich der Client beziehen muss, sowie die Operationen, die ausgeführt werden können. Folgendes Szenario verdeutlicht dabei ein mögliches Problem \(siehe Abbildung 10\). Der Client möchte beispielsweise wissen, mit welchem Wetter eine bestimmte Person morgen bei der Arbeit rechnen muss. Der Server bietet ihm dafür drei Endpunkte, mithilfe der er Personen, Arbeitgeber und Standorte abfragen kann. Um seine Ausgangsfrage zu beantworten, muss der Client nun drei verschiedene Anfragen absenden und jeweils auf die Ergebnisse warten. Dieser erhöhte Aufwand resultiert daher, dass der Server keinen Endpunkt anbietet, anhand dessen die Problemstellung innerhalb lediglich einer Anfrage bzw. Antwort gelöst werden kann. Eine REST-API zu konstruieren, die auf jede nur mögliche verschachtelte Anfrage innerhalb einer Nachricht antwortet, ist für mittlere bis große Dienste nicht machbar.
 
 ![](../../assets/kivs_REST_PROBLEM.jpg)Abbildung 10: Mehrmaliges Anfragen als Nachteil von REST
 
@@ -208,27 +208,27 @@ Code-Beispiel 9: Serverseitige Definition von Resolvers
 
 GraphQL ist lediglich eine Abfragesprache und gibt keine Implementierungs- bzw. Nutzungsrichtlinien vor. Dennoch existiert nach \(GraphQL 2017\) eine Reihe von Best Practices, die im Folgenden skizziert werden.
 
-* **HTTP:**GraphQL-Anfragen und -Antworten können theoretisch über jedes Netzwerkprotokoll übermittelt werden. Aufgrund seiner Verbreitung ist jedoch das Hypertext Transfer Protocol zu bevorzugen. Der Dienst wartet dabei typischerweise unter dem Pfad _/graphql_ auf Anfragen seitens des Clients. Queries und Mutations können weiterhin sowohl im Body eines POST-Requests als auch in der Query eines GET-Requests übergeben werden. Unabhängig davon, ob eine Query oder eine Mutation versendet wurde, antwortet der Server idealerweise mit der angefragten bzw. dem manipulierten Datenobjekt. Auch Fehlermeldungen werden im Body der Antwort übergeben.
-* **JSON:**Vom Server übermittelte Daten befinden sich zwecks Lesbarkeit stets in der JavaScript Object Notation.
+* **HTTP:** GraphQL-Anfragen und -Antworten können theoretisch über jedes Netzwerkprotokoll übermittelt werden. Aufgrund seiner Verbreitung ist jedoch das Hypertext Transfer Protocol zu bevorzugen. Der Dienst wartet dabei typischerweise unter dem Pfad _/graphql_ auf Anfragen seitens des Clients. Queries und Mutations können weiterhin sowohl im Body eines POST-Requests als auch in der Query eines GET-Requests übergeben werden. Unabhängig davon, ob eine Query oder eine Mutation versendet wurde, antwortet der Server idealerweise mit dem angefragten bzw. dem manipulierten Datenobjekt. Auch Fehlermeldungen werden im Body der Antwort übergeben.
+* **JSON:** Vom Server übermittelte Daten befinden sich zwecks Lesbarkeit stets in der JavaScript Object Notation.
 * **Keine Versionierung:** Der Client spezifiziert bei jeder Anfrage, auf welche Datenfelder er sich bezieht. Dies macht eine Versionierung des GraphQL-Dienstes überflüssig.
-* **Caching:**Im Gegensatz zu REST ist Caching bei GraphQL-Diensten nicht über die URI einer Anfrage möglich. Serverseitiges Caching kann dennoch betrieben werden, wenn jedes Objekt durch eine global eindeutige ID identifiziert wird. Häufige Datenbankzugriffe sind somit vermeidbar, was in einer Performanzsteigerung des Dienstes resultiert.
+* **Caching:** Im Gegensatz zu REST ist Caching bei GraphQL-Diensten nicht über die URI einer Anfrage möglich. Serverseitiges Caching kann dennoch betrieben werden, wenn jedes Objekt durch eine global eindeutige ID identifiziert wird. Häufige Datenbankzugriffe sind somit vermeidbar, was in einer Performanzsteigerung des Dienstes resultiert.
 
 ## Zusammenfassung
 
 Die Grundprinzipen von GraphQL werden abschließend nach \(Facebook 2015\) zusammengefasst.
 
-* **Hierarchisch:**Anfragen sowie Datenmodelle sind hierarchisch aufgebaut. Ein Kernelement wird dabei immer weiter in seine Grundbestandteile zerlegt, bis ausschließlich Skalare vorliegen. Dies unterstützt sowohl Entwickler als auch Anwender bei ihrer Arbeit.
+* **Hierarchisch:** Anfragen sowie Datenmodelle sind hierarchisch aufgebaut. Ein Kernelement wird dabei immer weiter in seine Grundbestandteile zerlegt, bis ausschließlich Skalare vorliegen. Dies unterstützt sowohl Entwickler als auch Anwender bei ihrer Arbeit.
 * **Produktbezogen**: Im Mittelpunkt von GraphQL stehen die Daten bzw. deren Benutzer. 
-* **Clientspezifische Anfragen:**Der Client bestimmt dynamisch, welche Daten er benötigt bzw. welche Daten für ihn gegenstandslos sind. Der Server richtet sich vollkommen nach dem Client.
+* **Clientspezifische Anfragen:** Der Client bestimmt dynamisch, welche Daten er benötigt bzw. welche Daten für ihn gegenstandslos sind. Der Server richtet sich vollkommen nach dem Client.
 * **Rückwärtskompatibilität**: Jede Clientversion kommuniziert mit demselben Endpunkt und beschafft sich ihre benötigten Daten.
 
-* **Beliebige Datenbeschaffung:**Der Server bestimmt für jedes einzelne Datenfeld seine eigene Beschaffungsroutine, ohne dabei von bestimmten Technologien abhängig zu sein.
+* **Beliebige Datenbeschaffung:** Der Server bestimmt für jedes einzelne Datenfeld seine eigene Beschaffungsroutine, ohne dabei von bestimmten Technologien abhängig zu sein.
 
 * **Applikationsschicht:** GraphQL ist in der Applikationsschicht angesiedelt und muss sich daher nicht um den Transport von Daten kümmern, sondern lediglich um deren Verarbeitung.
 
-* **Stark typisiert:**Queries und Mutations können vom Server effizient hinsichtlich Semantik und Syntax validiert werden.
+* **Stark typisiert:** Queries und Mutations können vom Server effizient hinsichtlich Semantik und Syntax validiert werden.
 
-* **Selbstbeschreibend:**GraphQL-Anfragen und -Datenmodelle werden in einem eigenen Format beschrieben. Hierdurch erhöht sich die Unabhängig zu anderen Systemen und Programmiersprachen.
+* **Selbstbeschreibend:** GraphQL-Anfragen und -Datenmodelle werden in einem eigenen Format beschrieben. Hierdurch erhöht sich die Unabhängig zu anderen Systemen und Programmiersprachen.
 
 
 

@@ -28,7 +28,7 @@ Wichtige Punkte bezüglich der Verwendung von RPC werden im Folgenden nach \(Sch
 
 **Fehlersemantik**: Eine RPC-Kommunikation besitzt drei verschiedene Schwachpunkte. Sowohl der Client als auch der Server sind nicht vor Ausfällen geschützt. Weiterhin kann es zu Nachrichtenverlusten innerhalb des Netzwerks kommen. Diese Ausfallrisiken sind in Tabelle 1 verschieden klassifizierten RPC-Systemen gegenübergestellt. Jedes Paar von Systemklasse und Fehlerart sind zwei Zahlen zugeordnet. Die Ausführungen beschreiben, wie oft die vom Client angeforderte Operation auf dem Server ausgeführt wurde. Das Ergebnis definiert, wie oft der Client ein Resultat vom Server tatsächlich erhalten hat.
 
-|  | Fehlerfreier Ablauf | Nachrichtenverluste | Zus. Ausfall Server | Zus. Ausfall Client |
+| Systemklasse / Fehlerart | Fehlerfreier Ablauf | Nachrichtenverluste | Zus. Ausfall Server | Zus. Ausfall Client |
 | :--- | :--- | :--- | :--- | :--- |
 | **Maybe** | Ausführung: 1; Ergebnis: 1 | Ausführung: 0/1; Ergebnis: 0/1 | Ausführung: 0/1; Ergebnis: 0/1 | Ausführung: 0/1; Ergebnis: 0/1 |
 | **At-Least-Once** | Ausführung: 1; Ergebnis: 1 | Ausführung: &gt;=1; Ergebnis: &gt;=1 | Ausführung: &gt;=0; Ergebnis: &gt;= 0 | Ausführung: &gt;=0; Ergebnis: 0 |
@@ -47,7 +47,7 @@ gRPC ist ein öffentlich zugängliches RPC-Framework, das 2015 von Google veröf
 
 ### Protocol Buffers
 
-Ein zentrales Element von gRPC sind die sogenannten Protocol Buffers, welche ebenfalls von Google entwickelt wurden. Ein Protocol Buffer ist vergleichbar mit einem XML-Dokument. Hierin können Datenobjekte mitsamt ihren Attributen einheitlich dargestellt werden. Gegenüber anderen Dateiformaten bieten sie jedoch diverse Vorteile. Sie haben beispielsweise weniger Overhead als beispielsweise XML oder JSON-Dateien. Weiterhin fällt das Parsen von Protocol Buffers deutlich weniger zeitintensiv aus. Als Nachteil ist aufzuführen, dass sie in ihrer Rohform nicht von Menschen lesbar sind.
+Ein zentrales Element von gRPC sind die sogenannten Protocol Buffers, welche ebenfalls von Google entwickelt wurden. Ein Protocol Buffer ist vergleichbar mit einem XML-Dokument. Hierin können Datenobjekte mitsamt ihren Attributen einheitlich dargestellt werden. Gegenüber anderen Dateiformaten bieten sie jedoch diverse Vorteile. Sie haben weniger Overhead als beispielsweise XML oder JSON-Dateien. Weiterhin fällt das Parsen von Protocol Buffers deutlich weniger zeitintensiv aus. Als Nachteil ist aufzuführen, dass sie in ihrer Rohform nicht von Menschen lesbar sind.
 
 Um einen Protocol Buffer zu erstellen, müssen initial Message Types und Services angelegt werden (siehe Code-Beispiel 1). Diese werden innerhalb einer JSON-artigen Proto-Datei zusammengefügt und bilden in ihrer Gesamtheit die spätere Schnittstelle des gRPC-Systems. EIn Message Type definiert einen Datentyp, während ein Service eine Menge spezieller Funktion beinhaltet. Innerhalb eines Message Types werden alle Datenfelder zusätzlich ihrer Datentypen aufgeführt. Es wird zwischen skalaren Datentypen, wie beispielsweise String oder Integer, und nicht-skalaren Datentypen in der Form von weiteren Message Types unterschieden. Ein Message Type kann so beispielsweise aus anderen Message Types aufgebaut sein. Jedes Datenfeld ist weiterhin mit einem numerischen und einzigartigen Tag zu erweitern, der für die interne Verarbeitung benötigt wird. Mithilfe der Schlüsselwörter required, optional und repeated kann spezifiziert werden, ob und wie oft ein Attribut angegeben werden muss bzw. darf.
 

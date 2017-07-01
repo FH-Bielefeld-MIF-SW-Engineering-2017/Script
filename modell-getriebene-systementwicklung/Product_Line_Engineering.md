@@ -6,7 +6,7 @@ Beim Product Line Engineering werden die Produkte aufbauend auf einer Plattform 
 
 ![](/assets/effort_ple.PNG)
 
-Im Product Line Engineering wird zwischen zwei Bereichenunterschieden:
+Im Product Line Engineering wird zwischen zwei Bereichen unterschieden:
 
 Im **Domain Engineering** werden die „Core-Assets“ herausgearbeitet und auf dieser Basis eine gemeinsame Systemarchitektur entwickelt.
 
@@ -23,7 +23,7 @@ Ziel des *Domain Engineering* ist es, bereits vorhandenes Wissen über eine Dom�
 > „Domain Engineering is the activity of collecting, organizing, and storing past experience in building systems or parts of systems in a particular domain inthe form of reusable assets (i.e., reusable work products), as well as providing an adequate means of reusing these assets (i.e., retrieval,qualifcation, dissemination, adaptation, assembly, and so on) when building newsystems.“ [CZAR00](Quellen.md)
 >
 
-Der *Domain Engineering*Ansatz ist hierbei in die drei Schritte *DomainAnalysis*, *Domain Design* und *Domain Implementation* (siehe Abbildung 10) aufgeteilt.
+Der *Domain Engineering* Ansatz ist hierbei in die drei Schritte *DomainAnalysis*, *Domain Design* und *Domain Implementation* (siehe Abbildung 10) aufgeteilt.
 
 In der **Domain Analysis** wird zu Beginn die „domain of focus“ definiert und anschließend Informationen über diese Domäne gesammelt. Aus diesen Informationen wird das Domain Model (siehe Absatz 5.3) erstellt. Als Informationsquelle dienen Domänen-Experten, Anforderungen von dedizierten Produkten der Produktlinie, sowie vorhandene (Mitbewerber-)Produkte. Das Domain Model dient Eingangsartefakt für den nachfolgenden Schritt „Domain Design“. Die Ergebnisse gehen außerdem in die Anforderungsanalyse (Requirements Analysis) der Produkte der Produktlinie mit ein. Zusätzlich wird in der Domänen-Analyse über Feature-Modeling (siehe Absatz 5.5) die notwendigen Features der Produkte und deren Abhängigkeiten dargestellt. Die Feinheiten und Methoden des Feature-Modelings werden im späteren Verlauf des Kapitels erläutert.
 
@@ -67,7 +67,7 @@ Mit der **Konjunktion** (UND-Verknüpfung) wird beschrieben, dass alle verbunden
 
 ![](/assets/konjunktion.PNG)
 
-Mit der **Disjunktion **(ODER-Verknüpfung) wird beschrieben, dass mindestens eines der verbundenen Elemente umgesetzt werden muss. Es besteht keine Abhängigkeit zwischen den Elementen. Es können also beliebige Kombinationen der Features umgesetzt werden. Die Disjunktion wird durch einen ausgefüllten Halbkreis am ausgehenden Feature-Strang markiert (siehe Abbildung 12).
+Mit der **Disjunktion** (ODER-Verknüpfung) wird beschrieben, dass mindestens eines der verbundenen Elemente umgesetzt werden muss. Es besteht keine Abhängigkeit zwischen den Elementen. Es können also beliebige Kombinationen der Features umgesetzt werden. Die Disjunktion wird durch einen ausgefüllten Halbkreis am ausgehenden Feature-Strang markiert (siehe Abbildung 12).
 
 Im Beispieldürften also beliebige Kombinationen aus den Features A, B und C umgesetzt werden. Jedoch mindestens eines von Ihnen:
 
@@ -81,7 +81,7 @@ Die **Kontravalenz** (Exklusiv-ODER-Verknüpfung) beschreibt, dass genau eines d
 
 ![](/assets/kontravalenz.PNG)
 
-Mit **Implikationen **können Abhängigkeiten zwischen Features dargestellt werden. Wird ein Feature umgesetzt, kann dies bedeuten, dass auch ein anderes Feature umgesetzt werden muss. In Abbildung 14 können Feature A oder C oder beide umgesetzt werden. Wird C umgesetzt so muss auch B umgesetzt werden. Falls A umgesetzt wird darf B ebenfalls umgesetzt werden, muss es allerdings nicht. Es existiert keine Abhängigkeit zwischen A und B.
+Mit **Implikationen** können Abhängigkeiten zwischen Features dargestellt werden. Wird ein Feature umgesetzt, kann dies bedeuten, dass auch ein anderes Feature umgesetzt werden muss. In Abbildung 14 können Feature A oder C oder beide umgesetzt werden. Wird C umgesetzt so muss auch B umgesetzt werden. Falls A umgesetzt wird darf B ebenfalls umgesetzt werden, muss es allerdings nicht. Es existiert keine Abhängigkeit zwischen A und B.
 
 <img src="..\assets\implikation_formel.PNG" alt="Drawing" style="height: 30px;"/>
 

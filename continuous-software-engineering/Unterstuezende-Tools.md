@@ -34,7 +34,19 @@ Konfigurationsmöglichkeiten bietet, während es sich bei Travis
 um eine SaaS handelt.
 
 ### Jenkins
+Jenkins ist eins der populärsten CI-Tools, vor allem im
+Java-Umfeld. Üblicherweise wird es selbst gehostet und ist
+tiefgreifend konfigurierbar.
+Es unterstützt verschiedene Build-Tools, wie
+Ant, Maven, Gradle oder MSBuild, außerdem Versionskontrollsysteme,
+wie Git, Mercurial oder SVN.
+Darüber hinaus gibt es eine Vielzahl an Plugin, über die
+es um neue Funktionaliät erweitert werden kann.
 
+Gewöhnliche Build-Jobs können zwar aus mehreren
+auszuführenden Schriten bestehen, liefern als Ergebnis allerdings
+nur das Gesamtergebnis (und evtl. einen Test-Report) zurück.
+Im Gegensatz dazu können Pipeline-Jobs 
 
 ### Travis CI
 

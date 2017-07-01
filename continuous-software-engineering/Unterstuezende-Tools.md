@@ -64,7 +64,45 @@ auf verschiedenen Slaves ausführen zu lassen, um die Geschwindigkeit
 zu steigern.
 
 ### Travis CI
+Travis CI verfolgt einen anderen Ansatz als Jenkins,
+indem es ausschließlich als Software as a Service angeboten wird
+und als Versionskontrollsystem ausschließlich Github-Repositories
+akzeptiert. Dafür ist als Ausgleich zur dieser Einschränkung
+die Integration zu Github sehr komfortabel.
+So können Build Jobs für neue Repositories mit einem Maus-Klick
+erstellt werden und die Konfiguration geschieht über eine
+YAML-Datei (siehe Listing).
 
+```
+language: java
+
+jdk: oraclejdk8
+
+services:
+ - mysql
+
+before_install:
+ - mysql -e 'CREATE DATABASE newsboard'
+ - mysql newsboard < src/main/resources/sql/create_script.sql
+ - mysql newsboard < src/main/resources/sql/example_data.sql
+
+install: mvn install -DskipTests=true -Dmaven.javadoc.skip=true
+script: mvn verify -Dspring.profiles.active=travis 
+```
+Listing: Beispielhafte Travis CI Build Definition
+
+Jede Ausführung eines Build-Jobs geschieht auf einer neu erstellten
+virtuellen Maschine um absolute Isolation sicherzustellen.
+Über die Angabe der Programmiersprache in der Konfiguration
+wird bestimmt, wie die Maschine vorkonfiguriert ist.
+Darüber hinaus können mit `services` auch Abhängigkeiten, z.B.
+Datenbanken, installiert werden und mit `before_install`
+initialisiert werden.
+Mit `install` und `script` werden die Befehle zum Kompilieren
+und Ausführen der Tests angegeben.
+
+Auf den ersten Blick ähnlich dem Konzept der Pipeline bei Jenkins
+sind die Build Stages. 
 
 ## Docker
 ### Dockhub

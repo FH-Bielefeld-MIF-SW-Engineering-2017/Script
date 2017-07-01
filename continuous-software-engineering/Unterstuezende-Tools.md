@@ -46,7 +46,22 @@ es um neue Funktionaliät erweitert werden kann.
 Gewöhnliche Build-Jobs können zwar aus mehreren
 auszuführenden Schriten bestehen, liefern als Ergebnis allerdings
 nur das Gesamtergebnis (und evtl. einen Test-Report) zurück.
-Im Gegensatz dazu können Pipeline-Jobs 
+Im Gegensatz dazu gibt es auch Pipeline-Jobs,
+bei denen ein Job explizit in mehrere Stufen (Stages) unterteilt wird
+(z.B. Compile, Unit Test, Integration Test).
+Dann wird der Status jeder einzelnen Stufe ausgegeben,
+wenn also ein Integrationstest fehlschlägt, ist das sofort
+ersichtlich (vgl. Abbildung).
+
+![Jenkins Pipeline View](https://wiki.jenkins.io/download/attachments/102662163/who-broke-it.png?version=1&modificationDate=1478695629000&api=v2)
+Abbildung: Übersicht der Build-Historie mit einzelnen Stages. Quelle:
+[Jenkins Wiki, Pipeline Stage View Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Stage+View+Plugin)
+
+In komplexen Setups, oder wenn viele Projekte zentral
+verwaltet werden, ist es möglich, einzelne Build-Jobs auf Slave-Knoten
+zu verteilen. In Pipeline-Jobs ist es sogar möglich, verschiedene Stages
+auf verschiedenen Slaves ausführen zu lassen, um die Geschwindigkeit
+zu steigern.
 
 ### Travis CI
 

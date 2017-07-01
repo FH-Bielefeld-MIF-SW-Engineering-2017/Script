@@ -75,7 +75,7 @@ sechs Kernpraktiken genauer beschrieben.
 
 ### Kernpraktiken
 
-Die sechs Kernpraktiken von Kanban lauten im einzelnen:
+Die sechs Kernpraktiken von Kanban lauten im einzelnen[7]:
 
 1. **Visualisiere den Fluss der Arbeit**  
   Auf dem Kanban Board finden sich alle Aufgaben, die noch ausstehen, gerade erledigt werden,

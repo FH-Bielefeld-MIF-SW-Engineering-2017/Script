@@ -5,4 +5,4 @@
 [4]The Product Managers’ Guide to Continuous Delivery and DevOps; http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/
 [5]What is the difference between Continuous Integration, Continuous Deployment & Continuous Delivery?; https://codeship.com/continuous-integration-essentials
 [6]The Future of Programming, Robert C. Martin; https://youtu.be/ecIWPzGEbFc
-
+[7]Kanban (Software Entwicklung); https://de.wikipedia.org/wiki/Kanban_(Softwareentwicklung)

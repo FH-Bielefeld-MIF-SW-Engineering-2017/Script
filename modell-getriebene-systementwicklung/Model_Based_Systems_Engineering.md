@@ -2,7 +2,7 @@
 
 Dieses Kapitel beschäftigt sich mit dem Model Based Systems Engineering (MBSE). Anhand von Definitionen und Erläuterungen wichtiger Fachbegriffen, die in Verbindung mit MBSE stehen, soll der Leser ein besseres Verständnis erlangen.
 
-Das Model Based Systems Engineering setzt sich aus den Begriffen „Systems Engineering“ und „Model“ zusammen. Das Modell wird im Kontext von MBSE auch als Systemmodell bezeichnet. Dieses Systemmodell ist eine Abstraktion eines komplexen Systems. Die Abstraktion hilft die Komplexität eines Systems zu reduzieren, sodass Vorgänge und Funktionen einfacher dargestellt, verstanden und gestaltet werden können. [THM17]
+Das Model Based Systems Engineering setzt sich aus den Begriffen „Systems Engineering“ und „Model“ zusammen. Das Modell wird im Kontext von MBSE auch als Systemmodell bezeichnet. Dieses Systemmodell ist eine Abstraktion eines komplexen Systems. Die Abstraktion hilft die Komplexität eines Systems zu reduzieren, sodass Vorgänge und Funktionen einfacher dargestellt, verstanden und gestaltet werden können. [THM17](Quellen.md)
 
 Das Systemmodell enthält alle relevanten Informationen eines Systems für die verschiedenen Stakeholder (z.B. Projektleiter, Entwicklungsleiter, Testingenieur) und ist die primäre Informationsquelle während der kompletten Entwicklung. Die unterschiedliche Darstellung dieser Informationen wird als Sicht (engl. View) bezeichnet und richtet sich nach den Interessen der Stakeholder. Weiterhin kann das Systemmodell wichtige Informationen für Entscheidungen liefern oder für frühe Analysen (z.B. FMEA, Risikoanalyse) genutzt werden. Ein entscheidender Vorteil, der sich durch die Verwendung eines Systemmodells ergibt, ist jedoch die Wiederverwendung von Elementen (z.B. Komponenten). Diese sind im Modell einmal hinterlegt und können in unterschiedlichen Systemarchitekturen visualisiert werden. Eine Änderung an diesem Element sorgt für eine Aktualisierung in allen Systemarchitekturen, die dieses Element verwenden.
 
@@ -10,7 +10,7 @@ Ein Systemmodell zeichnet sich durch folgende Eigenschaften aus:
 
 * Das Modell darf sich aus mehreren Repositories zusammensetzen, solange diese in sich konsistent sind und sich nach außen wie ein einzelnes Modell repräsentieren.
 * Das Modell erlaubt unterschiedliche Sichten auf die Informationen.
-* Das Modell ist maschinell auswertbar und liegt in einer abstrakten Syntax vor, die explizit MBSE-Konzepte wie Anforderungen oder Systemarchitekturen unterstützt. [THM17]
+* Das Modell ist maschinell auswertbar und liegt in einer abstrakten Syntax vor, die explizit MBSE-Konzepte wie Anforderungen oder Systemarchitekturen unterstützt. [THM17](Quellen.md)
 
 Die Abbildung 1 zeigt mögliche beteiligte Rollen in einem Systems Engineering Ansatz, die an einem gemeinsamen Systemmodell arbeiten. Die Rollenbezeichnungen und Prozesse können von Unternehmen zu Unternehmen variieren.    
 

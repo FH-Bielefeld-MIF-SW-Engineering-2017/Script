@@ -18,18 +18,18 @@ In Abbildung 10 ist die grundlegende Struktur des *ProductLine Engineerings* dar
 
 ## Domain Engineering
 
-Ziel des *Domain Engineering* ist es, bereits vorhandenes Wissen über eine Domäne zu erfassen und dieses Wissen bei der Entwicklung neuer Produkte in dieser Domäne zu nutzen [CZAR00].
+Ziel des *Domain Engineering* ist es, bereits vorhandenes Wissen über eine Domäne zu erfassen und dieses Wissen bei der Entwicklung neuer Produkte in dieser Domäne zu nutzen [CZAR00](Quellen.md).
 
-> „Domain Engineering is the activity of collecting, organizing, and storing past experience in building systems or parts of systems in a particular domain inthe form of reusable assets (i.e., reusable work products), as well as providing an adequate means of reusing these assets (i.e., retrieval,qualifcation, dissemination, adaptation, assembly, and so on) when building newsystems.“ [CZAR00]
+> „Domain Engineering is the activity of collecting, organizing, and storing past experience in building systems or parts of systems in a particular domain inthe form of reusable assets (i.e., reusable work products), as well as providing an adequate means of reusing these assets (i.e., retrieval,qualifcation, dissemination, adaptation, assembly, and so on) when building newsystems.“ [CZAR00](Quellen.md)
 >
 
 Der *Domain Engineering*Ansatz ist hierbei in die drei Schritte *DomainAnalysis*, *Domain Design* und *Domain Implementation* (siehe Abbildung 10) aufgeteilt.
 
 In der **Domain Analysis** wird zu Beginn die „domain of focus“ definiert und anschließend Informationen über diese Domäne gesammelt. Aus diesen Informationen wird das Domain Model (siehe Absatz 5.3) erstellt. Als Informationsquelle dienen Domänen-Experten, Anforderungen von dedizierten Produkten der Produktlinie, sowie vorhandene (Mitbewerber-)Produkte. Das Domain Model dient Eingangsartefakt für den nachfolgenden Schritt „Domain Design“. Die Ergebnisse gehen außerdem in die Anforderungsanalyse (Requirements Analysis) der Produkte der Produktlinie mit ein. Zusätzlich wird in der Domänen-Analyse über Feature-Modeling (siehe Absatz 5.5) die notwendigen Features der Produkte und deren Abhängigkeiten dargestellt. Die Feinheiten und Methoden des Feature-Modelings werden im späteren Verlauf des Kapitels erläutert.
 
-Im **Domain Design** wird aus dem in der Domain-Analysis erstellten Domain-Model eine generische Systemarchitektur erstellt, die sich in allen Produkten der Produktlinie vereinigen lässt. (Vgl.[5])
+Im **Domain Design** wird aus dem in der Domain-Analysis erstellten Domain-Model eine generische Systemarchitektur erstellt, die sich in allen Produkten der Produktlinie vereinigen lässt. (Vgl.[SCHR03](Quellen.md))
 
-In der **Domain Implementation** wird die generische Architektur implementiert. Diese kann in den diversen Produkten der Produktlinie Wiederverwendung finden. (Vgl. [5])
+In der **Domain Implementation** wird die generische Architektur implementiert. Diese kann in den diversen Produkten der Produktlinie Wiederverwendung finden. (Vgl. [SCHR03](Quellen.md))
 
 ## Application Engineering
 
@@ -41,9 +41,9 @@ Das Domain Model enthält alle Aspekte einer Domäne die zur Entwicklung einer P
 
 ## Vorgehensmodelle
 
-Im Produktlinienansatz wird zwischen drei unterschiedlichen Vorgehensmodellen unterschieden (Vgl. [APEL10]):
+Im Produktlinienansatz wird zwischen drei unterschiedlichen Vorgehensmodellen unterschieden (Vgl. [APEL10](Quellen.md)):
 
-Im **proaktivenVorgehensmodell** wird eine Produktlinie komplett neu entwickelt. Hierbei wird zu Beginn der komplette Domain-Engineering-Prozess durchlaufen. Dies ist mit hohem initialen Aufwand und damit Kosten verbunden. Der proaktive Ansatz ist sinnvoll, wenn die Anforderungen gut definiert und konstant sind. (Vgl.[APEL10])
+Im **proaktivenVorgehensmodell** wird eine Produktlinie komplett neu entwickelt. Hierbei wird zu Beginn der komplette Domain-Engineering-Prozess durchlaufen. Dies ist mit hohem initialen Aufwand und damit Kosten verbunden. Der proaktive Ansatz ist sinnvoll, wenn die Anforderungen gut definiert und konstant sind. (Vgl. [APEL10](Quellen.md))
 
 Das **reaktive Vorgehensmodell **lässt sich mit agilen Vorgehensmodellen in der Software-Entwicklung vergleichen. Zu Beginn erfolgt einer Implementierung einer kleinen Basis. Nachfolgend werden in kleinen Schritten die Domänen-Analyse mit anschließender weiterer Implementierung durchgeführt. Hierdurch erhält man ein zyklisches Arbeiten. Die Vorteile dieses Vorgehensmodell sind wie beim agilen Ansatz die geringen initialen Kosten, wie auch das Ausliefern schneller erster Ergebnisse. Es können allerdings auch Probleme entstehen, die zu einer teuren Umstrukturierung der Arbeitsweise im späteren Verlauf des Projektes führen. Das reaktive Vorgehensmodell ist vor allem geeignet, wenn die Anforderungen zu Beginn noch sehr unklar sind.
 
@@ -57,7 +57,7 @@ Im Folgenden wird gezeigt wie mit Feature Modeling die Features bzw. Varianten e
 
 Ein *Feature* wird immer aus Anwendersicht betrachtet: 
 
-> „A prominentor distinctive user-visible aspect, quality, or characteristic of a software system or systems“ [FODA90]
+> „A prominentor distinctive user-visible aspect, quality, or characteristic of a software system or systems“ [FODA90](Quellen.md)
 
 Zu Beginn erfolgt eine kurze Einleitung in die verwendete Notation, die abschließend in einem Beispiel angewendet wird.
 

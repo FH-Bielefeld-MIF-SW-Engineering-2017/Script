@@ -1,8 +1,8 @@
 # Metamodeling in SysML / UML
 
-Die Modellierungssprachen wie UML, SysML oder die BPMN, welche durch die Object Management Group (OMG) definiert wurden, basieren auf dem Konzept von sprachbasierten Metamodellen. Ein sprachbasiertes Meta-Modell stellt die Elemente einer Modellierungssprache und ihre Beziehungen in einem Modell dar. [WIKI17c]
+Die Modellierungssprachen wie UML, SysML oder die BPMN, welche durch die Object Management Group (OMG) definiert wurden, basieren auf dem Konzept von sprachbasierten Metamodellen. Ein sprachbasiertes Meta-Modell stellt die Elemente einer Modellierungssprache und ihre Beziehungen in einem Modell dar. [WIKI17c](Quellen.md)
 
-Den Meta-Modellen der OMG liegt die Meta Object Facility (MOF) zu Grunde. Die MOF beschreibt eine Metadaten-Architektur, dessen Kernbestandteil das Meta-Meta-Modell ist. Sie wurde mit dem Ziel definiert, eine gemeinsame Grundlage für verschiedene Meta-Modelle zu definieren. Dieser Ansatz bietet einige Vorteile, da verschiedene Meta-Modelle dadurch gleichartig persistiert und verarbeitet werden können. Die Modelltransformation ist eine Art der Verarbeitung von Modellen. [WIKI17d]
+Den Meta-Modellen der OMG liegt die Meta Object Facility (MOF) zu Grunde. Die MOF beschreibt eine Metadaten-Architektur, dessen Kernbestandteil das Meta-Meta-Modell ist. Sie wurde mit dem Ziel definiert, eine gemeinsame Grundlage für verschiedene Meta-Modelle zu definieren. Dieser Ansatz bietet einige Vorteile, da verschiedene Meta-Modelle dadurch gleichartig persistiert und verarbeitet werden können. Die Modelltransformation ist eine Art der Verarbeitung von Modellen. [WIKI17d](Quellen.md)
 
 Die Abbildung 4 zeigt beispielhaft den Zusammenhang der verschiedenen Ebenen der (Meta-)Modelle anhand der UML. 
 

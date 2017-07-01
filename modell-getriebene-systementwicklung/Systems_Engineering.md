@@ -1,10 +1,10 @@
 # Systems Engineering
 
-Das Systems Engineering (SE) ist ein interdisziplinärerAnsatz mit dem Ziel Systeme erfolgreich umzusetzen. Dabei werden alle spezialisierten Teams in ein gemeinsames Team integriert und ein strukturierter Entwicklungsprozess geformt, der die Systemkonzeptionierung bis hin zur Inbetriebnahme umfasst. SE weist der Definition der Kundenbedürfnisse und der geforderten Funktionalität von Beginn an einen hohen Stellenwert zu, umqualitativ hochwertige Produkte zu entwickeln, die im Einklang mit diesen Bedürfnissen stehen. [INC17a] 
+Das Systems Engineering (SE) ist ein interdisziplinärerAnsatz mit dem Ziel Systeme erfolgreich umzusetzen. Dabei werden alle spezialisierten Teams in ein gemeinsames Team integriert und ein strukturierter Entwicklungsprozess geformt, der die Systemkonzeptionierung bis hin zur Inbetriebnahme umfasst. SE weist der Definition der Kundenbedürfnisse und der geforderten Funktionalität von Beginn an einen hohen Stellenwert zu, umqualitativ hochwertige Produkte zu entwickeln, die im Einklang mit diesen Bedürfnissen stehen. [INC17a](Quellen.md)
 
-Systems Engineering basiert auf System Thinking. Das System Thinking ist eine spezielle Sichtweise auf die Realität. Sie schärft die Sicht auf das Ganze und wie die Teile innerhalb des Ganzes zusammenwirken. Im Systems Engineering wird System als das Ganze und die einzelnen Systemelemente als Teile betrachtet. [INC17b]
+Systems Engineering basiert auf System Thinking. Das System Thinking ist eine spezielle Sichtweise auf die Realität. Sie schärft die Sicht auf das Ganze und wie die Teile innerhalb des Ganzes zusammenwirken. Im Systems Engineering wird System als das Ganze und die einzelnen Systemelemente als Teile betrachtet. [INC17b](Quellen.md)
 
-Ein System kann als eine Kombination aus Systemelementen betrachtet werden, die zusammen Ergebnisse liefern, die sie alleine nicht erzielen könnten. Unter Ergebnissen eines Systems werden Eigenschaften, Funktionen, Charakteristiken und Verhalten verstanden, die das System aufweist. Die Elemente können dabei durch Menschen, Hardware, Software, Hilfsmittel, oder ähnliches repräsentiert werden. Alle Dinge, die benötigt werden, damit ein System Ergebnisse liefern kann. [INC17a]
+Ein System kann als eine Kombination aus Systemelementen betrachtet werden, die zusammen Ergebnisse liefern, die sie alleine nicht erzielen könnten. Unter Ergebnissen eines Systems werden Eigenschaften, Funktionen, Charakteristiken und Verhalten verstanden, die das System aufweist. Die Elemente können dabei durch Menschen, Hardware, Software, Hilfsmittel, oder ähnliches repräsentiert werden. Alle Dinge, die benötigt werden, damit ein System Ergebnisse liefern kann. [INC17a](Quellen.md)
 
 Beispielsweise kann ein Systemelement durch das Wartungspersonal repräsentiert werden. Das Wartungspersonal ist Teil eines größeren Systems und wird benötigt, damit ein Systemelement (z.B. eine Anlage) über den Lebenszyklus hinweg eine bestimmte Funktion erfüllen kann. 
 
@@ -12,7 +12,7 @@ Der Ansatz des System Thinking hilft ein besseres Verständnis von einem System 
 
 * wie das System sich in einen größeren Kontexteinzuordnen ist,
 * wie es sich verhält und 
-* wie mit dem System umzugehen ist [INC17b].
+* wie mit dem System umzugehen ist [INC17b](Quellen.md).
 
 Eine wichtige Norm im Bereich des Systems Engineering ist die ISO/IEC 15288 –„System- undSoftware-Engineering - System-Lebenszyklus-Prozesse“ und bildet den Einstiegspunkt für ein ernsthaftes Systems Engineering.
 

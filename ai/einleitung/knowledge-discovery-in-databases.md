@@ -1,4 +1,6 @@
 ## Knowledge Discovery in Databases (KDD)
+Das Volumen der jährlich generierten digitalen Datenmenge ist in den letzten Jahren massiv angewachsen. Doch nur eine geringe Menge dieser Daten wird für Analysen genutzt.<sup id="fn5_1">[[5]](#fn5)</sup>
+*Knowledge Discovery in Databases* beschreibt das generelle Vorgehen, um genau diese Daten zu nutzen, dass heißt Wissen zu generieren.
 
 ### Definition
 Der Begriff *Knowledge Discovery in Databases* wird in der Literatur unterschiedlich verwendet. Es kommt vor, dass es als Synonym zu dem Begriff *Data Mining* genutzt.<sup id="fn4_1">[[4]](#fn4)</sup> Üblicherweise beschreibt *Knowledge Discovery in Databases* aber einen Prozess in dem *Data Mining* lediglich einen Teilschritt darstellt.<sup id="fn2_1">[[2]](#fn2)</sup>
@@ -107,4 +109,4 @@ http://wirtschaftslexikon.gabler.de/Archiv/75635/knowledge-discovery-in-database
 
 <b id="fn4"></b>4. Alpaydın, E. (2014). Introduction to machine learning. Methods in Molecular Biology (Second Edi, Vol. 1107). The MIT Press.[↩](#fn4_1)
 
-
+<b id="fn5"></b>5. Gantz, John und David Reinsel (2012). IDC IVIEW: THE DIGITAL UNIVERSE IN 2020: Big Data, Bigger Digital Shadows, and Biggest Growth in the Far East. Techn. Ber. URL: http://www.emc.com/collateral/analyst-reports/idc-the-digital-universe-in-2020.pdf [↩](#fn5_1)

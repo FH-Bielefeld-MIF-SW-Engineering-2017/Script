@@ -13,15 +13,15 @@ Mit Hilfe des Kernel Tricks ist es möglich die Support Vector Machine auch auf 
 
 Der weitere Teil dieser Arbeit ist wie folgt gegliedert:
 
-* [Algorithmus im Detail](Algorithmus_im_Detail.md)
-  * [Ebenendarstellung](Algorithmus_im_Detail.md)
-  * [Bedingungen](Algorithmus_im_Detail.md)
-  * [Abstandsberechnung](Algorithmus_im_Detail.md)
-  * [Optimierungsproblem](Algorithmus_im_Detail.md)
-  * [Kernel Trick](Algorithmus_im_Detail.md)
-* [Implementierungen](Implementierungen.md)
+* [Algorithmus im Detail](support-vector-machine/algorithmus-im-detail.md)
+  * [Ebenendarstellung](support-vector-machine/algorithmus-im-detail.md)
+  * [Bedingungen](support-vector-machine/algorithmus-im-detail.md)
+  * [Abstandsberechnung](support-vector-machine/algorithmus-im-detail.md)
+  * [Optimierungsproblem](support-vector-machine/algorithmus-im-detail.md)
+  * [Kernel Trick](support-vector-machine/algorithmus-im-detail.md)
+* [Implementierungen](support-vector-machine/implementierungen.md)
 
-Im Kapitel *[Algorithmus im Detail](Algorithmus_im_Detail.md)* wird die Support Vector Machine mathematisch beschrieben und hergeleitet. Das Kapitel *[Implementierungen](Implementierungen.md)* enthält Verweise und Beispiele zu verschiedenen Implementierungen des Algorithmus.
+Im Kapitel *[Algorithmus im Detail](support-vector-machine/algorithmus-im-detail.md)* wird die Support Vector Machine mathematisch beschrieben und hergeleitet. Das Kapitel *[Implementierungen](support-vector-machine/implementierungen.md)* enthält Verweise und Beispiele zu verschiedenen Implementierungen des Algorithmus.
 
 ___
 <b id="manning2009"></b>1. Manning, C. D., Raghavan, P., & Schutze, H. (2009). An Introduction to Information Retrieval. Online, (c), 569. https://doi.org/10.1109/LPT.2009.2020494, S. 256 [↩](#manning2009a)

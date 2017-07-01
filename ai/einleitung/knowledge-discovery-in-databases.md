@@ -28,7 +28,7 @@ Nach Fayyad et al. besteht KDD aus den folgenden neun Schritten:<sup id="fn1_1">
 
 Das *Fayyad Modell des KDD Prozesses* ist in Abbildung [1](#fig:kddprocess) dargestellt. Es handelt sich im ein iteratives Modell, dass bedeutet, die Schritte können mehrfach durchlaufen werden. Nach der Evaluation der Ergebnisse müssen eventuell einige Schritte neu durchlaufen werden, um das Ergebnisse in der Evaluation zu verbessern. So kann es beispielsweise sein, dass in der Evaluation auffällt, dass bei der Vorverarbeitung nicht alle unerwünschten Daten herrausgefiltert wurden.<sup id="fn1_2">[[1]](#fn1)</sup><sup id="fn2_3">[[2]](#fn2)</sup>
 
-![KDDModell](https://raw.githubusercontent.com/YKloss/Twitter_Miner/master/img/kdd_modell.png)
+![KDDModell](../../assets/KDD-Modell.png)
 *<a name="fig:kddprocess">Abbildung 1: </a>Fayyad Modell des KDD Prozesses*<sup id="fn1_3">[[1]](#fn1)</sup>
 
 #### Die Schritte im Detail
@@ -83,9 +83,9 @@ Eine generelle Übersicht der Data Mining Methoden ist [hier](https://github.com
 
 __6. Auswahl des Data Mining Algorithmus:__
 Innerhalb dieses Projektes werden die drei folgenden Klassifikationsalgorithmen genutzt.
-* [Bayes](https://github.com/YKloss/Twitter_Miner/blob/master/Ausarbeitung/Bayes/Bayes)
-* [Support Vector Machine](https://github.com/YKloss/Twitter_Miner/blob/master/Ausarbeitung/Support_Vector_Machine/Support_Vector_Machine.md)
-* [Decision Tree](https://github.com/YKloss/Twitter_Miner/blob/master/Ausarbeitung/Decision_Tree/Decision_Tree.md)
+* [Bayes](../bayes.md)
+* [Support Vector Machine](../support-vector-machine.md)
+* [Decision Tree](../decision-tree.md)
 
 __7. Data Mining:__
 In diesem Schritt wird ein Datensatz auf mehrere Tweets mit den Algoritmen aus Schritt 6 klassifiziert.

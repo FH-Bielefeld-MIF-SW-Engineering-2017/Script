@@ -80,7 +80,7 @@ In dem Beispiel aus Abbildung [4](#fig:kerneltrick) wurden die drei neuen Dimens
 
 Ein weiterer Vorteil des Kernel Tricks ist, dass die berechnung sehr effizient ist. Die Berechnung der Hyperebene kann in einem höherdimensionalen Raum durchgeführt werden, ohne die einzelnen Datenpunkte in diesen Raum zu projezieren.<sup id="fn7_4">[[7]](#fn7)</sup> 
 
-![](../../assets//Kerneltrick.png)
+![](../../assets/Kerneltrick.png)
 
 *<a name="fig:kerneltrick">Abbildung 4: </a>Kernel Trick grafisch dargestellt: (a) Daten im zweidimensionalen Raum, (b) Daten projiziert in den dreidimensionalen Raum*<sup id="fn7_5">[[7]](#fn7)</sup>
 ___

@@ -17,7 +17,7 @@ Bekannte, aktuelle Vertreter agiler Vorgehensmodelle sind Scrum,
 Kanban und Extreme Programming (XP).
 Die ersteren Beiden sollen nachfolgend kurz erläutwert werden.
 
-##Scrum
+## Scrum
 Das zur Zeit bekannteste agile Modell ist Scrum,
 es soll hier nur in seinen Grundzügen erläutert werden.
 Er stammt zwar aus der Softwareentwicklung, ist aber prinzipiell

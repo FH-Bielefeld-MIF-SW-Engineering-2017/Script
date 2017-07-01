@@ -14,7 +14,7 @@ Im **Application Engineering **werden auf Grundlage der Ergebnisse des Domain En
 
 In Abbildung 10 ist die grundlegende Struktur des *ProductLine Engineerings* dargestellt. Die beiden Bereiche werden im Folgenden genauer erläutert.
 
-![](..\assets\PLE_Struktur.png)
+![](/assets/PLE_Struktur.png)
 
 ## Domain Engineering
 

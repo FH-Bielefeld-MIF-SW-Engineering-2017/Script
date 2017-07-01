@@ -8,3 +8,6 @@
 [7] https://www.promisejs.org besucht am 27.06.2017.  
 [8] https://www.npmjs.com/ besucht am 27.06.2017.  
 [9] A. Kukic, "Cookies vs Tokens: The Definitive Guide," https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ besucht am 30.06.2017.  
+
+# Verwendete Programme zum Erstellen der Abbildungen:
+* UMLet: [http://www.umlet.com/](http://www.umlet.com/)

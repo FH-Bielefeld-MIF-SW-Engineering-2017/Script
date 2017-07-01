@@ -45,7 +45,7 @@ Im Produktlinienansatz wird zwischen drei unterschiedlichen Vorgehensmodellen un
 
 Im **proaktivenVorgehensmodell** wird eine Produktlinie komplett neu entwickelt. Hierbei wird zu Beginn der komplette Domain-Engineering-Prozess durchlaufen. Dies ist mit hohem initialen Aufwand und damit Kosten verbunden. Der proaktive Ansatz ist sinnvoll, wenn die Anforderungen gut definiert und konstant sind. (Vgl. [APEL10](Quellen.md))
 
-Das **reaktive Vorgehensmodell **lässt sich mit agilen Vorgehensmodellen in der Software-Entwicklung vergleichen. Zu Beginn erfolgt einer Implementierung einer kleinen Basis. Nachfolgend werden in kleinen Schritten die Domänen-Analyse mit anschließender weiterer Implementierung durchgeführt. Hierdurch erhält man ein zyklisches Arbeiten. Die Vorteile dieses Vorgehensmodell sind wie beim agilen Ansatz die geringen initialen Kosten, wie auch das Ausliefern schneller erster Ergebnisse. Es können allerdings auch Probleme entstehen, die zu einer teuren Umstrukturierung der Arbeitsweise im späteren Verlauf des Projektes führen. Das reaktive Vorgehensmodell ist vor allem geeignet, wenn die Anforderungen zu Beginn noch sehr unklar sind.
+Das **reaktive Vorgehensmodell** lässt sich mit agilen Vorgehensmodellen in der Software-Entwicklung vergleichen. Zu Beginn erfolgt einer Implementierung einer kleinen Basis. Nachfolgend werden in kleinen Schritten die Domänen-Analyse mit anschließender weiterer Implementierung durchgeführt. Hierdurch erhält man ein zyklisches Arbeiten. Die Vorteile dieses Vorgehensmodell sind wie beim agilen Ansatz die geringen initialen Kosten, wie auch das Ausliefern schneller erster Ergebnisse. Es können allerdings auch Probleme entstehen, die zu einer teuren Umstrukturierung der Arbeitsweise im späteren Verlauf des Projektes führen. Das reaktive Vorgehensmodell ist vor allem geeignet, wenn die Anforderungen zu Beginn noch sehr unklar sind.
 
 Beim **extraktiven Vorgehensmodell** dient eine bereits entwickelte Produktlinie als Grundlage. Aus dieser werden Informationen extrahiert, die in die neue zu entwickelnde Produktlinie einfließen. Da eine existente und funktionsfähige Produktlinie als Basis dient, halten sich die Risiken und Kosten in Grenzen. Allerdings steigt auch der Anspruch im Domain Engineering, da Informationen aus einem System extrahiert werden, das nicht im Produktlinienansatz entwickelt wurde. 
 
@@ -63,39 +63,39 @@ Zu Beginn erfolgt eine kurze Einleitung in die verwendete Notation, die abschlie
 
 Mit der **Konjunktion** (UND-Verknüpfung) wird beschrieben, dass alle verbundenen Elemente (Features) im Produkt umgesetzt werden müssen. In Abbildung 11 müssten also alle Elemente (A, B und C) vom Produkt implementiert werden:
 
-A $\wedge$ B $\wedge$ C
+<img src="http://bit.ly/2tBBMDB" align="center" border="0" alt="A  \wedge B  \wedge C" width="83" height="15" />
 
 ![](/assets/konjunktion.PNG)
 
-Mit der **Disjunktion **(ODER-Verknüpfung) wird beschrieben, dass mindestens eines der verbundenen Elemente umgesetzt werden muss. Es besteht keine Abhängigkeit zwischen den Elementen. Es können also beliebige Kombinationen der Features umgesetzt werden. Die Disjunktion wird durch einen ausgefüllten Halbkreis am ausgehenden Feature-Strang markiert (siehe Abbildung 12).
+Mit der **Disjunktion** (ODER-Verknüpfung) wird beschrieben, dass mindestens eines der verbundenen Elemente umgesetzt werden muss. Es besteht keine Abhängigkeit zwischen den Elementen. Es können also beliebige Kombinationen der Features umgesetzt werden. Die Disjunktion wird durch einen ausgefüllten Halbkreis am ausgehenden Feature-Strang markiert (siehe Abbildung 12).
 
 Im Beispieldürften also beliebige Kombinationen aus den Features A, B und C umgesetzt werden. Jedoch mindestens eines von Ihnen:
 
-A $\vee$ B $\vee$ C
+<img src="http://bit.ly/2tBpOcX" align="center" border="0" alt="A  \vee B  \vee C" width="83" height="15" />
 
-![](/assets/disjunktion.PNG)
+![](/assets/Disjunktion.PNG)
 
 Die **Kontravalenz** (Exklusiv-ODER-Verknüpfung) beschreibt, dass genau eines der verbundenen Elemente umgesetzt werden muss. Es darf kein weiteres Element umgesetzt werden. Die Kontravalenz wird durch einen Halbkreis am ausgehenden Feature-Strang markiert (siehe Abbildung 13). In Abbildung 13 müsste also entweder Feature A, B oder C umgesetzt werden:
 
-A $\oplus$ B $\oplus$ C
+<img src="http://bit.ly/2tBLsOh" align="center" border="0" alt="A   \oplus  B  \oplus C" width="81" height="17" />
 
 ![](/assets/kontravalenz.PNG)
 
-Mit **Implikationen **können Abhängigkeiten zwischen Features dargestellt werden. Wird ein Feature umgesetzt, kann dies bedeuten, dass auch ein anderes Feature umgesetzt werden muss. In Abbildung 14 können Feature A oder C oder beide umgesetzt werden. Wird C umgesetzt so muss auch B umgesetzt werden. Falls A umgesetzt wird darf B ebenfalls umgesetzt werden, muss es allerdings nicht. Es existiert keine Abhängigkeit zwischen A und B.
+Mit **Implikationen** können Abhängigkeiten zwischen Features dargestellt werden. Wird ein Feature umgesetzt, kann dies bedeuten, dass auch ein anderes Feature umgesetzt werden muss. In Abbildung 14 können Feature A oder C oder beide umgesetzt werden. Wird C umgesetzt so muss auch B umgesetzt werden. Falls A umgesetzt wird darf B ebenfalls umgesetzt werden, muss es allerdings nicht. Es existiert keine Abhängigkeit zwischen A und B.
 
-A $\vee$ (C $\wedge$ B)
+<img src="http://bit.ly/2uaLnOu" align="center" border="0" alt="A   \vee  (B  \wedge C)" width="94" height="18" />
 
 ![](/assets/implikation.PNG)
 
 **Obligationen** und **Optionen** werden eingesetzt um darzustellen, dass Features umgesetzt werden müssen (Obligation) bzw. umgesetzt werden können (Option). Die Obligation wird dabei durch einen ausgefüllten Kreis am entsprechenden Featuredargestellt, die Option durch einen nicht ausgefüllten. In Abbildung 15müssen sowohl Feature A als auch C umgesetzt werden. Feature B kann optional umgesetzt werden:
 
-(A $\wedge$ B $\wedge$ C) $\vee$ (A $\wedge$ $\neg$B $\wedge$ C) = A $\wedge$ C
+​<img src="http://bit.ly/2tB1kRb" align="center" border="0" alt="(A \wedge B \wedge C) \vee (A \wedge \neg B \wedge C) = A \wedge C" width="289" height="18" />
 
 ![](/assets/obligation_option.PNG)
 
 Im Folgenden wird eine exemplarisches Feature-Model eines Smartphones gezeigt. Dieses Model zeigt die Features, die ein Kunde bei der Auswahl seines Gerätes direkt konfigurieren kann.
 
-![](/assets/FM_smartphone.PNG)
+![](/assets/FM_Smartphone.PNG)
 
 Durch die zuvor erläuterten Notationselemente ist zu erkennen, dass der Kunde in jedem Fall eine Auswahl der Features *Farbe*, *Speicher* und *Display-Größe* treffen muss. Des Weiteren hat er die Möglichkeit eine *Hülle* zum Gerät hinzuzufügen. Hierbei hat er die Auswahl zwischen zwei *Materialien* (*Leder* und *Stoff*) und verschiedenen *Farben* (*Grün*, *Schwarz* und *Braun*). Entscheidet sich der Kunde für die Farbe *Grün* ist er gezwungen ebenfalls das Material *Stoff* zu nehmen, da diese Farbe für das Material *Leder* nicht zur Verfügung steht.
 

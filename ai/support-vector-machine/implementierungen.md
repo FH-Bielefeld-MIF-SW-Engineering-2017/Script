@@ -44,8 +44,9 @@ In Java steht SVM über das weka-Framework zur Verfügung. Die Dokumentation des
 
 ### NodeJS
 
-[Dokumentation](https://www.npmjs.com/package/node-svm)
-, nutzt libSVM
+Für NodeJS lässt sich der Support-Vector-Machine Algorithmus über den Packet Manager *npm* installieren.
+Die Dokumentation des Paketes und das hier aufgeführte Beispiel ist unter [diesem Link](https://www.npmjs.com/package/node-svm) verfügbar.
+Die Implementierung nutzt intern ebenfalls libSVM.
 
 ```javascript
 var svm = require('node-svm');
@@ -66,5 +67,7 @@ clf.train(xor_data).done(function () {
  ```
  
  ### MatLab
- 
- [fitcsvm](https://de.mathworks.com/help/stats/fitcsvm.html)
+ MatLab ist bei vielen mathematischen Anwendungen ein beliebtes Programm. Besonders zum Visualisieren von Funktionen ist es hervorragend geeignet.
+ Eine Implementierung des SVM-Algorithmus ist ebenfalls enthalten: 
+ [fitcsvm](https://de.mathworks.com/help/stats/fitcsvm.html) .
+ Mit MatLab lassen sich nicht nur die Datenpunkte als Grafik plotten, sondern auch die Trennebenen, die der SVM-Algorithmus findet, visualisieren.

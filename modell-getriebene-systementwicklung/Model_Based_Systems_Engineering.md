@@ -20,8 +20,6 @@ Auf Basis der verfeinerten Anforderungen kann der Testingenieur seine Testfälle
 
 Die Teams haben die Aufgabe diese Komponenten mit ihren Werkzeugen weiter zu detaillieren. Damit die Teams mit ihren Werkzeugen an einer Komponente weiterarbeiten können, kann es notwendig sein, dass das SysML-Modell durch Modelltransformation in ein anderes Modell übersetzt werden muss.
 
-![](..\assets\SystemsEngineering_BeteiligteRollen.png)
-
-
+![](/assets/SystemsEngineering_BeteiligteRollen.PNG)
 
 Obwohl die vorgestellte Vorgehensweise stark an das Wasserfallmodell erinnert, handelt es sich in der Realität um einen stark iterativen Entwicklungsprozess mit vielen Feedbackzyklen. Sobald z.B. die Anforderungen in ausreichender Qualität vorliegen, können erste Entwürfe der Systemarchitektur entstehen und Lösungsideen mit Fachexperten abgestimmt werden. In den Experten-Teams kann ein agiles Vorgehen angestrebt werden.

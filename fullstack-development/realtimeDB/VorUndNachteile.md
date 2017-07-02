@@ -1,6 +1,8 @@
 # Vor- und Nachteile
 
-Autor: Tolga Aydemir
+Die Nachteile von Realtime Datenbanken gegenüber herkömmlichen Datenbanken hängt von der Implementierung und dem Optimierungsgrad der Datenbank ab. Wenn das Szenario sehr zeitkritisch ist, dann wird die Implementierung und Optimierung der Datenbank darauf hinauslaufen, dass die Vorteile (Relationen, Querys, Schemata) von klassischen RDBMS nicht zum tragen kommen werden, da die Vorteile durch Rechenkraft erkauft werden und dies kostet Zeit. Aber der Aspekt der Echtzeit-Verbreitung der Ereignisse selbst, muss _keinen_ Nachteil mitbringen, wenn das Szenario nicht die Definition "so schnell wie technisch möglich" hat. Dann kann, wie in Kapitel Technische Aspekte erläutert, jede Datenbank zu einer Realtime Datenbank erweitert werden.  
 
 
+Ein Vorteil von Realtime Datenbanken ist es, vereinfachte Schnittstellen zu haben, um an Datensätze zu gelangen, die sich stetig verändern bzw. erweitern. Anstatt, dass eine Client-Anwendung immer wieder mit einer Anfrage an eine REST-Schnittstelle arbeitet, um nach neuen Daten zu fragen und diese darzustellen, kann es in modernen Rich Client Applikationen ausreichen, wenn diese sich einmalig an einem WebSocket registrieren und die Daten ohne weitere Verarbeitung anzeigen.  
+Dies kann dann so ausgebaut werden, dass ein `three-way-data-binding` vorliegt. In modernen Rich Client Applikationen wird häufig das `two-way-data-binding` genutzt, um den Status der Applikation im Model (MVC-Pattern) aus der View heraus zu verändern. Mit dem `three-way-data-binding` ergibt sich nun die Möglichkeit, dass die Realtime Datenbank den Status der Applikation im Model verändert und dadurch auch die Darstellung im View verändert werden kann. Durch die vereinfachte Schnittstelle der Realtime Datenbank (zum Beispiel Firebase) kann das in wenigen Zeilen Code ermöglicht werden.
 

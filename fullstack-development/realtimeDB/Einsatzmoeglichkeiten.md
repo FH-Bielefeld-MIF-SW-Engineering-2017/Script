@@ -1,6 +1,4 @@
 # Einsatzmöglichkeiten
 
-Autor: Tolga Aydemir
-
-
+Die Einsatzmöglichkeiten einer Realtime Datebank ergeben sich immer aus der Anforderung der Echtzeit-Kommunikation. Ob die Kommunikation zwischen Menschen in einer Chat-Applikation abläuft oder ob vollautomatisierte Maschinen ihre Positionen oder Arbeitsschritte miteinander synchronisieren, ist dabei irrelevant. Es wird verschiedene Implementierungen und Optimierungsstufen der Datenbanken geben, um sich dem Szenario anzupassen, aber die Idee eine Nachrichtenquelle zu abonnieren, um jegliche Aktualisierungen in Echtzeit zu bekommen ist dabei die Gemeinsamkeit der Szenarien. Um explizit einige Beispiele zu nennen, die von einer Realtime Datenbank profitieren (können): Chat-Applikationen, Flottensysteme (LKW, Taxi, Schiffe, Bahn), Wetterdaten und Maschinen/Roboter, die miteinander Daten teilen müssen.
 

@@ -4,17 +4,18 @@
 | Protokoll | TCP | TCP | UDP | TCP | TCP |
 | Eigentliche Verwendung | IoT | Server Backend | IoT | Server Kommunikation | Instant Messaging |
 | Push Nachrichten | Ja | Nein | Ja | Ja| Ja |
-| Online Status \*\*\*| Ja | Nein | Nein |  Nein | Ja |
+| Online Status \*| Ja | Nein | Nein |  Nein | Ja |
 | IoT Optimiert | Ja | Nein | Ja | Nein | mit Extension |
 | QoS | Ja | Nein | Ja | Ja | Nein |
 | Many-to-Many | Ja | Nein | Nein | Ja | Ja |
 | Arduino Library | Ja | Ja | Ja | Nein | Ja |
-| Minimal Header | 2 Byte * [27](Quellen.md) | 26 Byte* [25](Quellen.md) | 4 Byte ** [27](Quellen.md) | 8 Byte* [26](Quellen.md) | 83 Byte* [24](Quellen.md) | 
+| Minimal Header | 2 Byte \*\* [27](Quellen.md) | 26 Byte \*\* [25](Quellen.md) | 4 Byte \*\*\* [27](Quellen.md) | 8 Byte \*\* [26](Quellen.md) | 83 Byte \*\* [24](Quellen.md) |
 
-\* Zusätzlich 64 Byte für darunterliegende Protokolle
-\** Zusätzlich 52 Byte für darunterliegende Protokolle
 
-\*\*\* Kommunikationspartner merkt, wenn Problem vorliegt (Online Status / LastWill)
+\* Kommunikationspartner merkt, wenn Problem vorliegt (Online Status / LastWill)
+\*\* Zusätzlich 64 Byte für darunterliegende Protokolle
+\*\*\* Zusätzlich 52 Byte für darunterliegende Protokolle
+
 
 
 

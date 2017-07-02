@@ -1,5 +1,5 @@
 ## Sicherheitsarchitektur
-![IoT-Sicherheitsarchitektur(img/IoT_security_architecture2.png)
+![IoT-Sicherheitsarchitektur](img/IoT_security_architecture2.png)
 *IoT-Sicherheitsarchitektur. Angelehnt an Fig. 3 in [3](quellen.md) und Fig. 2 in [2](quellen.md)*
 Die Sicherheitsarchitektur des Internet der Ding lässt sich, wie in der obigen Grafik abgebildet, in drei Schichten
 unterteilen: Wahrnehmungsschicht (perception layer), Netzwerkschicht (network layer) und Anwendungsschicht (application layer).
@@ -28,7 +28,7 @@ Da sich die Netzwerkschicht um das Weiterleiten von Datenpaketen kümmert und di
 übertragen werden, können viele Sicherheits- und Kommunikationsprobleme auftreten. Der Sicherheitsschwerpunkt der Netzwerkschicht
 liegt bei der Informationssicherheit. Informationen müssen sicher (zum Beispiel verschlüsselt) übertragen werden und die Datenintegrität
 muss auch sichergestellt werden.
-[2](quellen.md) [2](quellen.md)
+[2](quellen.md)
 
 ### Anwendungsschicht
 Die Anwendungsschicht erhält Informationen aus den darunterliegenden Schichten und verarbeitet diese. Die Service-Schicht

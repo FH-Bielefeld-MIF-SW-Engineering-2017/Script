@@ -13,7 +13,7 @@ senden, wenn der Server diese anfordert. So muss der Server für jede neue Verbi
 abgelaufen ist, bis die Anfrage wieder aus dem Puffer entfernt werden kann. Ist der Puffer voll, kann der Server keine neuen
 Verbindungen aufbauen und ist somit für andere Clients nicht mehr erreichbar. [5](quellen.md)
 
-![TCP-Handshake(img/TCP-Handshake.png)
+![TCP-Handshake](img/TCP-Handshake.png)
 
 Eine weitere Form von DoS-Angriffen ist der so genannte "Smurf-Angriff", bei dem von einem Angreifer sehr viele ICMP-Nachrichten mit
 Ping-Request an die Boradcast-Adresse des Netzwerks geschickt werden. Als Absenderadresse wird der Zielrechner angegeben, der angegriffen werden soll.

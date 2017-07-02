@@ -46,7 +46,7 @@ Betrachten wir den Jungen aus dem Beispielfoto oben. Auffallend hierbei ist, das
 <center><img src="../../assets/patterns.png"><br>
 *LBPH übertragen auf herkömmliche Bildmuster.[15]*</center>
 
-Betrachtet man den Jungen im Kontext zur Erkennung des Gesichts, so wird einen schnell klar, dass ein Gesicht fast immer übereinstimmende uniform Patterns aufweisen wird. Egal wie beleuchtet, dass Gesicht ist. Anhand eines Trainingssets ist es dann möglich, das Gesicht aus unterschiedlichen Perspektiven zu erkennen. Damit ist LBPH eine gute Methode zur Gesichtserkennung. [1.6]
+Betrachtet man den Jungen im Kontext zur Erkennung des Gesichts, so wird einen schnell klar, dass ein Gesicht fast immer übereinstimmende uniform Patterns aufweisen wird. Egal wie beleuchtet das Gesicht ist. Anhand eines Trainingssets ist es dann möglich, das Gesicht aus unterschiedlichen Perspektiven zu erkennen. Damit ist LBPH eine gute Methode zur Gesichtserkennung. [1.6]
 
 ## LBPH in OpenCV
 Die LBPH Funktion findet sich ebenso wie die Fisher- und Eigenfaces ebenso im OpenCV Contrib. Anzumerken ist nur, dass LBPH das sogenannte Extended Local Binary Pattern nutzt und man die Zahl der Nachbarpickel, den zu betrachtenden Radius und den zu betrachtenden Grid im Bild selbst einstellen kann. (Dies ist aber optional!) Auch kann man sich die model infos vom LBPH Recognizer dann nochmal hinterher per Funktion anzeigen lassen. Confidence gibt es dann per kNN, wie auch bei den anderen Gesichtserkennungen. [16]

@@ -21,4 +21,5 @@
 
 
 
-Grundsätzlich lassen sich alle Protokolle mittels Kryptographie so verschlüsseln, dass es Dritten nahezu unmöglich ist, die gesendeten Nachrichten mitzulesen. Aber alle vorgestellten Protokolle haben ihre Vor- und Nachteile, sodass bei der Auswahl eines Protokolls immer auf den genauen Anwendungsfall geschaut werden muss. Grade die Kombination der Protokolle kann es verteilten Systemen ermöglichen äußerst vielseitig eingesetzt zu werden. Hier fällt besonders die Kombination REST / CoAP auf, da CoAP zu diesem Anwendungsfall konstruiert wurde. Aber auch andere Protokoll Kombinationen sind denkbar.
+Grundsätzlich lassen sich alle Protokolle mittels Kryptographie so verschlüsseln, dass es Dritten nahezu unmöglich ist, die gesendeten Nachrichten mitzulesen. Aber alle vorgestellten Protokolle haben ihre Vor- und Nachteile, sodass bei der Auswahl eines Protokolls immer auf den genauen Anwendungsfall geschaut werden muss.
+Grade die Kombination der Protokolle kann es verteilten Systemen ermöglichen äußerst vielseitig eingesetzt zu werden. Hier fällt besonders die Kombination REST / CoAP auf, da CoAP zu diesem Anwendungsfall konstruiert wurde. Aber auch andere Protokoll Kombinationen sind denkbar. 

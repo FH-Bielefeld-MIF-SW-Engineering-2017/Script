@@ -24,5 +24,3 @@ $ npm uninstall <Modul>
 $ npm uninstall -g <Modul>
 ```  
 Der Parameter "-g" veranlasst npm, die Operation auf den globalen Kontext anzuwenden. Ist kein Parameter angegeben, geht npm vom lokalen Kontext aus. Wichtig ist auch, dass bei der Verwendung eines dieser Kommandos im lokalen Kontext das aktuelle Arbeitsverzeichnis dem Root-Verzeichnis der betroffenen Anwendung entsprechen muss. [8](../quellen.md)  
-
-Autor: Niklas Harting

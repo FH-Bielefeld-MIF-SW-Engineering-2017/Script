@@ -9,5 +9,3 @@ Eher ungeeignet ist das Standard Callback Pattern, wenn bei einem Funktionsaufru
 ## Promise Pattern
 Eine weitere Alternative zum Callback Pattern ist das Verwenden von Promises. Ein Promise ist das Ergebniss einer Asynchronen Operation und kann einen von drei verschiedenen Zuständen haben. Diese sind pending (der initiale Zustand), fulfilled (die ausgeführte Operation war erfolgreich) oder rejected (die ausgeführte Operation schlug fehl). [7](../quellen.md)  
 Beim Promise Pattern hat die Funktion keinen Callback Parameter, sondern es wird ein Promise Objekt zurückgeben.
-
-Autor: Niklas Harting

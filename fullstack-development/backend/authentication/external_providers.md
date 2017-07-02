@@ -6,5 +6,3 @@ External Identity Providers wie z.B. Auth0 bieten Softwareentwicklern die Mögli
 ## Funktionsweise Auth0
 ![Auth0](/assets/auth0.png)
 *Auth0 Authentication Flow*
-
-Autor: Niklas Harting

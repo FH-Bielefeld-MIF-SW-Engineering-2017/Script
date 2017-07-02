@@ -17,5 +17,3 @@ Beim einer Authentifizierung wird dann also auf dem Server eine neue Session ID 
 *Cookie-Based Authentication [9](../quellen.md)*
 
 Wenn sich der User nun ausloggt, muss auf dem Client der Cookie und auf dem Server die Session ID aus der Datenbank gelöscht werden. [9](../quellen.md)
-
-Autor: Niklas Harting

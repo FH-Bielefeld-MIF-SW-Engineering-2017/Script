@@ -5,5 +5,3 @@ Node.js Anwendungen werden in nur einem Thread ausgeführt (Code des Programmie
 *Node.js Event-Loop [5](../quellen.md)*
 
 Bedingt durch das Modell der eventgesteuerten Programmierung, ist es im Allgemeinen nicht notwendig, sich innerhalb einer Anwendung Gedanken über die Verteilung von Aufgaben in verschiedene Threads zum Zwecke der Laufzeitoptimierung zu machen. Probleme, die nebenläufige Anwendungen für den Entwickler mit sich bringen, verschwinden so gänzlich. Ebenfalls erwächst aus einer Single-Thread Lösung der Vorteil, dass die aufwendige und Ressourcen intensive Verwaltung von verschiedenen Threads und Prozessen durch das Betriebssystem reduziert werden kann. Dadurch werden eventgesteuerte Anwendungen sehr performant und können hoch skaliert werden. Diesen Vorteil hat man aber nur, wenn das Betriebssystem diese Funktion unterstützt, da der Thread Pool vom Betriebssystem verwaltet wird.
-
-Autor: Niklas Harting

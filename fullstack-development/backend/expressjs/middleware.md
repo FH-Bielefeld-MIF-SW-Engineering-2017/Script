@@ -40,5 +40,3 @@ Seit Version 4.x besteht keine Abhängigkeite zu ”Connect“ mehr. Alle Middl
 
 ## Middleware anderer Anbieter
 Durch zusätzliche Module von Drittanbietern kann die Funktionalität von Express.js erweitert werden. Dies wird hier aber nicht naher erläutert. [1](../quellen.md)
-
-Autor: Niklas Harting

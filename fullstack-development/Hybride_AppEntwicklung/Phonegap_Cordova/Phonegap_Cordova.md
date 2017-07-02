@@ -1,4 +1,4 @@
-# 2.Phonegap/Cordova
+# 2.PhoneGap/Cordova
 
 ## 2.1 Allgemein 
 PhoneGap/Cordova ist ein Framework für die Entwicklung von hybriden Applikationen, welches auf einem Smartphone/Mobile Device benutzt werden kann.

@@ -1,6 +1,6 @@
 # Systems Engineering
 
-Das Systems Engineering (SE) ist ein interdisziplinärerAnsatz mit dem Ziel Systeme erfolgreich umzusetzen. Dabei werden alle spezialisierten Teams in ein gemeinsames Team integriert und ein strukturierter Entwicklungsprozess geformt, der die Systemkonzeptionierung bis hin zur Inbetriebnahme umfasst. SE weist der Definition der Kundenbedürfnisse und der geforderten Funktionalität von Beginn an einen hohen Stellenwert zu, umqualitativ hochwertige Produkte zu entwickeln, die im Einklang mit diesen Bedürfnissen stehen. [INC17a](Quellen.md)
+Das Systems Engineering (SE) ist ein interdisziplinärer Ansatz mit dem Ziel Systeme erfolgreich umzusetzen. Dabei werden alle spezialisierten Teams in ein gemeinsames Team integriert und ein strukturierter Entwicklungsprozess geformt, der die Systemkonzeptionierung bis hin zur Inbetriebnahme umfasst. SE weist der Definition der Kundenbedürfnisse und der geforderten Funktionalität von Beginn an einen hohen Stellenwert zu, umqualitativ hochwertige Produkte zu entwickeln, die im Einklang mit diesen Bedürfnissen stehen. [INC17a](Quellen.md)
 
 Systems Engineering basiert auf System Thinking. Das System Thinking ist eine spezielle Sichtweise auf die Realität. Sie schärft die Sicht auf das Ganze und wie die Teile innerhalb des Ganzes zusammenwirken. Im Systems Engineering wird System als das Ganze und die einzelnen Systemelemente als Teile betrachtet. [INC17b](Quellen.md)
 
@@ -10,11 +10,11 @@ Beispielsweise kann ein Systemelement durch das Wartungspersonal repräsentiert 
 
 Der Ansatz des System Thinking hilft ein besseres Verständnis von einem System zu erlangen. Ein System Thinker weiß,
 
-* wie das System sich in einen größeren Kontexteinzuordnen ist,
+* wie das System sich in einen größeren Kontext einzuordnen ist,
 * wie es sich verhält und 
 * wie mit dem System umzugehen ist [INC17b](Quellen.md).
 
-Eine wichtige Norm im Bereich des Systems Engineering ist die ISO/IEC 15288 –„System- undSoftware-Engineering - System-Lebenszyklus-Prozesse“ und bildet den Einstiegspunkt für ein ernsthaftes Systems Engineering.
+Eine wichtige Norm im Bereich des Systems Engineering ist die ISO/IEC 15288 –„System- und Software-Engineering - System-Lebenszyklus-Prozesse“ und bildet den Einstiegspunkt für ein ernsthaftes Systems Engineering.
 
 Die ISO/IEC 15288 ist internationale Norm, welche die Lebenszyklusprozesse eines Systems beschreibt. Sie hat das Ziel diese Prozesse bewertbar zu machen und zu verbessern. Die Lebenszyklusprozesse lassen sich in folgende übergeordnete Kategorien unterteilen:
 

@@ -45,7 +45,7 @@
 
 [23]https://xmpp.org/uses/internet-of-things.html
 
-[24]https://xmpp.org/rfcs/rfc3921.html
+[24]https://xmpp.org/rfcs/rfc3921.html#messaging
 
 [25]https://stackoverflow.com/posts/25065027/revisions
 

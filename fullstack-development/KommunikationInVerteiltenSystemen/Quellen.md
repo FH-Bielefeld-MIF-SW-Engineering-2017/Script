@@ -14,6 +14,7 @@
 * Swagger. https://swagger.io, 2017. Aufgerufen: 22.06.2017
 * Tim Berners-Lee, Roy Thomas Fielding und Larry Masinter. RFC 3986 - Uniform Resource Identifier \(URI\): Generic Syntax. 2005.
 * Vinay Sahni. http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api, 2015. Aufgerufen: 22.06.2017
+* Fette, I. & Melnikov, A. https://tools.ietf.org/html/rfc6455
 
 
 

@@ -6,6 +6,8 @@ Beim Product Line Engineering werden die Produkte aufbauend auf einer Plattform 
 
 ![](/assets/effort_ple.PNG)
 
+Abbildung 9: Time-to-Market in Abhängigkeit der Anzahl der Produkte [KUBE15](Quellen.md)
+
 Im Product Line Engineering wird zwischen zwei Bereichen unterschieden:
 
 Im **Domain Engineering** werden die „Core-Assets“ herausgearbeitet und auf dieser Basis eine gemeinsame Systemarchitektur entwickelt.
@@ -15,6 +17,8 @@ Im **Application Engineering** werden auf Grundlage der Ergebnisse des Domain En
 In der nächsten Abbildung ist die grundlegende Struktur des *ProductLine Engineerings* dargestellt. Die beiden Bereiche werden im Folgenden genauer erläutert.
 
 ![](/assets/PLE_Struktur.PNG)
+
+Abbildung 10: Struktur des Product-Line-Engineerings
 
 ## Domain Engineering
 
@@ -67,6 +71,8 @@ Mit der **Konjunktion** (UND-Verknüpfung) wird beschrieben, dass alle verbunden
 
 ![](/assets/konjunktion.PNG)
 
+Abbildung 11: Konjunktion
+
 Mit der **Disjunktion** (ODER-Verknüpfung) wird beschrieben, dass mindestens eines der verbundenen Elemente umgesetzt werden muss. Es besteht keine Abhängigkeit zwischen den Elementen. Es können also beliebige Kombinationen der Features umgesetzt werden. Die Disjunktion wird durch einen ausgefüllten Halbkreis am ausgehenden Feature-Strang markiert.
 
 Im Beispiel dürften also beliebige Kombinationen aus den Features A, B und C umgesetzt werden. Jedoch mindestens eines von Ihnen:
@@ -75,11 +81,15 @@ Im Beispiel dürften also beliebige Kombinationen aus den Features A, B und C um
 
 ![](/assets/Disjunktion.PNG)
 
+Abbildung 12: Disjunktion
+
 Die **Kontravalenz** (Exklusiv-ODER-Verknüpfung) beschreibt, dass genau eines der verbundenen Elemente umgesetzt werden muss. Es darf kein weiteres Element umgesetzt werden. Die Kontravalenz wird durch einen Halbkreis am ausgehenden Feature-Strang markiert. Im Folgenden müsste also entweder Feature A, B oder C umgesetzt werden:
 
 <img src="..\assets\kontravalenz_formel.PNG" alt="Drawing" style="height: 30px;"/>
 
 ![](/assets/kontravalenz.PNG)
+
+Abbildung 13: Kontravalenz
 
 Mit **Implikationen** können Abhängigkeiten zwischen Features dargestellt werden. Wird ein Feature umgesetzt, kann dies bedeuten, dass auch ein anderes Feature umgesetzt werden muss. In der nachfolgenden Abbildung können Feature A oder C oder beide umgesetzt werden. Wird C umgesetzt so muss auch B umgesetzt werden. Falls A umgesetzt wird darf B ebenfalls umgesetzt werden, muss es allerdings nicht. Es existiert keine Abhängigkeit zwischen A und B.
 
@@ -87,20 +97,28 @@ Mit **Implikationen** können Abhängigkeiten zwischen Features dargestellt werd
 
 ![](/assets/implikation.PNG)
 
+Abbildung 14: Implikation
+
 **Obligationen** und **Optionen** werden eingesetzt um darzustellen, dass Features umgesetzt werden müssen (Obligation) bzw. umgesetzt werden können (Option). Die Obligation wird dabei durch einen ausgefüllten Kreis am entsprechenden Featuredargestellt, die Option durch einen nicht ausgefüllten. Im Beispiel müssen sowohl Feature A als auch C umgesetzt werden. Feature B kann optional umgesetzt werden:
 
 <img src="..\assets\obligation_option_formel.PNG" alt="Drawing" style="height: 30px;"/>
 
 ![](/assets/obligation_option.PNG)
 
+Abbildung 15: Obligation / Option
+
 Im Folgenden wird eine exemplarisches Feature-Model eines Smartphones gezeigt. Dieses Model zeigt die Features, die ein Kunde bei der Auswahl seines Gerätes direkt konfigurieren kann.
 
 ![](/assets/FM_Smartphone.PNG)
+
+Abbildung 16: Smartphone-Feature-Model
 
 Durch die zuvor erläuterten Notationselemente ist zu erkennen, dass der Kunde in jedem Fall eine Auswahl der Features *Farbe*, *Speicher* und *Display-Größe* treffen muss. Des Weiteren hat er die Möglichkeit eine *Hülle* zum Gerät hinzuzufügen. Hierbei hat er die Auswahl zwischen zwei *Materialien* (*Leder* und *Stoff*) und verschiedenen *Farben* (*Grün*, *Schwarz* und *Braun*). Entscheidet sich der Kunde für die Farbe *Grün* ist er gezwungen ebenfalls das Material *Stoff* zu nehmen, da diese Farbe für das Material *Leder* nicht zur Verfügung steht.
 
 Aus diesem relativ übersichtlichen Feature-Model lassen sich bereits 108 unterschiedliche Varianten bilden (Berechnung siehe [Anhang](Anhang.md)). Es ist also zu erkennen, dass auch eine geringe Variabilität von Features in einem Produkt zu einem schnellen Anstieg der Anzahl der Varianten führen kann.
 
 ![](/assets/anzahl_Varianten_nutzen.PNG)
+
+Abbildung 17: Produktvielfalt im Verhältnis zum Kundennutzen [ROCK09](Quellen.md)
 
 Die Varianten und die Anzahl der Features sind in einem durchschnittlichen Software-System um ein vielfaches höher, als bei dem hier dargestellten Produkt. Umso wichtiger ist es die Variabilität so gering wie möglich zu gestalten, um auch die Komplexität auf einem kontrollierbaren Level zu halten. Die Variantenbildung ist oft eine Gratwanderung zwischen Kundennutzen und Komplexität. Dieser Sachverhalt wird in der obigen Abbildung gezeigt. 

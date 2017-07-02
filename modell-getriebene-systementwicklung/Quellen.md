@@ -75,3 +75,5 @@
 ​                       	VorlesungBetriebssystemtechnik (OSE) – Domain Engineering, 2003
 
 [ROCK09]      	Dr. Georg Rock; Variantenmanagement –Forschung und industrieller Einsatz; TU Darmstadt, 2009
+
+[KUBE15]	Kuberczyk, Christoph; Product Line Engineering (PLE) - Produktlinienentwicklung; Universität Hamburg, 2015

@@ -37,7 +37,10 @@ Ein Client kann beim Broker festlegen, dass eine bestimmte Nachricht an alle Int
 ### Retained Messages
 Ein Produzent kann pro Topic eine Retained Message festlegen, diese wird beim Broker gespeichert. Wenn sich nun ein Konsument dieses Topic abonniert, bekommt er sofort diese Nachricht. Der neue Abonnent bekommt also sofort eine Nachricht, ohne erst auf eine neue Nachricht warten zu müssen. Setzt nun der Producer jede seiner Nachrichten als Retained, bekommt jeder neue Abonnent sofort die letzte Nachricht [1](Quellen.md).
 ### Sicherheit
-MQTT verfügt über einen einfachen Login Mechanismus. Ist dieser aktiviert, muss jeder Client, egal ob Producer oder Consumer einen Usernamen und ein Passwort übermitteln. Zusätzlich kann im Broker konfiguriert werden, welcher User welche Rechte auf welches Topic hat. Ohne weitere Maßnahmen wird dieser Login im Klartext übertragen.
+MQTT verfügt über einen einfachen Login Mechanismus. Ist dieser aktiviert, muss jeder Client, egal ob Producer oder Consumer einen Usernamen und ein Passwort übermitteln. Zusätzlich kann im Broker konfiguriert werden, welcher User welche Rechte auf welches Topic hat. Ohne weiteren Schutz werden die Logininformationen allerdings im Klartext übertragen.
 Um die übertragenden Daten zu schützen, können TLS und SSL genutzt werden. Diese Verfahren garantieren eine Verschlüsslung der Daten und die hinterlegten Zertifikate garantieren sowohl Broker als auch Client seine Identität. 
 Zusätzlich können die eigentlichen „Userdaten“ von MQTT, also z.B. die gemessenen Werte noch weiter verschlüsselt werden. 
 Sowohl TLS / SSL als auch allgemeine Verschlüsslung führen aber zu Overhead, sodass die übertragenden Pakete größer werden und mehr Zeit zum verarbeiten benötigt wird [7](Quellen.md) [8](Quellen.md).
+
+### IoT Verwendung
+Das Prokotoll eignet sich sehr gut für den Einsatz im IoT. Grade die äußerst einfache Verwendung und der kleine Protokoll Overhead fallen positiv auf.

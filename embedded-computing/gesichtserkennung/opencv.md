@@ -13,7 +13,7 @@ Ein Farbbild oder auch Graubild sind damit in Wirklichkeit eine 2-dimensionale M
 ## Kanten- und Blurerkennung in OpenCV##
 OpenCV ist insgesamt eine mächtige Library. Verschiedene Arten von Detektoren, Filtern und Bildableitungen erlauben es Informationen aus Bildern zu extrahieren. So ist es zum Beispiel möglich, Kanten in OpenCV zu erkennen. Eine Kante in einem Bild wird von OpenCV als starke Intensitätsveränderung von zwei Pixeln definiert. Wie man auch in folgendem Beispiel erkennen kann:[1.2]
 <center><img src="../../assets/edge.png" /><br>
-*Beispiel von Kanten in OpenCV.*[1.3]</center>
+*Beispiel von Kanten in OpenCV.*[1.3]</center><br>
 Anhand des rechten Bildes sieht man, dass OpenCV die Kanten dort zeichnet, wo es zu einer starken Intensitätsänderung zwischen Pixeln kam. Damit ergibt sich für die Maschine das, wo das menschliche Auge Konturen von Gegenständen wahrnimmt. Um ein solches Bild zu zeichnen, kann man bei OpenCV den Gaussian Filter oder den Sobel derivative Filter" einsetzen. Auch kann OpenCV die Kanten selbst erkennen, dies geschieht zum Beispiel mit den "Sobel Detector", den "Canny Edge Detector" oder den "Laplacian Operator".[1.3]
 
 Auch ist es möglich eine sogenannte "Blur" auf Deutsch "Weichzeichnung" in einem Bild zu erkennen. Dies geschieht ebenfalls mit den "Laplacian Operator". Eine Weichzeichnung ist das Gegenteil einer Kante. Eine Weichzeichnung tritt dann auf, wenn die Intensitäten zwischen Pixeln ähnlich sind und nicht stark von einander abweichen.[1.3]

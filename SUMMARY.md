@@ -381,6 +381,7 @@
 	 * [WebSocket](fullstack-development/KommunikationInVerteiltenSystemen/WebSocket.md)
 	 * [REST](fullstack-development/KommunikationInVerteiltenSystemen/REST.md)
 	 * [GraphQL](fullstack-development/KommunikationInVerteiltenSystemen/GraphQL.md)
+	 * [Fazit](fullstack-development/KommunikationInVerteiltenSystemen/Fazit.md)
 	 * [Quellen](fullstack-development/KommunikationInVerteiltenSystemen/Quellen.md)
   * [Backend Entwicklung](fullstack-development/backend.md)
     * [Einführung](fullstack-development/backend/einfuehrung.md)

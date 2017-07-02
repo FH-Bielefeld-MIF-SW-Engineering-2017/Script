@@ -6,9 +6,9 @@ Eine mögliche Form des DoS-Angriffs ist hierbei das so genannte "SYN-Flooding",
 an den Zielserver geschickt werden, ohne auf die Antworten des Servers zu reagieren. Da bei einem TCP-Verbindungsaufbau
 ein Drei-Wege-Handshake stattfindet, bei dem zuerst ein Client ein TCP-SYN-Paket an den Server schickt, welcher mit einem
 SYN-ACK-Paket antwortet und ein Bestätigungspaket (ACK-Paket) vom Client erwartet. Der Server wartet eine gewisse Zeit
-auf das Bestätigungspaket vom Client und speichert deshalb die Anfragendaten des Clients solange ab, bis entweder die
-Timout-Zeit abgelaufen ist oder der Client geantwortet hat. Da Server nur begrenzte Puffer für neue TCP-Verbindungen haben,
-können diese schnell voll werden, wenn Clients viele TCP-Verbindungsaufbauanfragen senden, aber nicht die Bestätigungsnachricht
+auf das Bestätigungspaket vom Client und speichert deshalb die Anfragedaten des Clients in einem Puffer solange ab, bis entweder die
+Timout-Zeit abgelaufen ist oder der Client geantwortet hat. Da die Puffer nur begrzent groß sind,
+können diese schnell voll laufen, wenn Clients viele TCP-Verbindungsaufbauanfragen senden, aber nicht die Bestätigungsnachricht
 senden, wenn der Server diese anfordert. So muss der Server für jede neue Verbindung warten, bis die eingestellte Timeout-Zeit
 abgelaufen ist, bis die Anfrage wieder aus dem Puffer entfernt werden kann. Ist der Puffer voll, kann der Server keine neuen
 Verbindungen aufbauen und ist somit für andere Clients nicht mehr erreichbar. [5](quellen.md)
@@ -17,7 +17,7 @@ Verbindungen aufbauen und ist somit für andere Clients nicht mehr erreichbar. [
 *TCP-Verbindungsaufbau*
 
 Eine weitere Form von DoS-Angriffen ist der so genannte "Smurf-Angriff", bei dem von einem Angreifer sehr viele ICMP-Nachrichten mit
-Ping-Request an die Boradcast-Adresse des Netzwerks geschickt werden. Als Absenderadresse wird der Zielrechner angegeben, der angegriffen werden soll.
+Ping-Request an die Broadcast-Adresse des Netzwerks geschickt werden. Als Absenderadresse wird der Zielrechner angegeben, der angegriffen werden soll.
 Alle Rechner in dem Netzwerk empfangen die Ping-Pakete und antworten mit Request-Paketen, die an den Zielrechner geschickt werden.
 Dadurch erzeugt der Anreifer, der selbst nur wenige Pakete verschickt, ein so großes Datenaufkommen, dass der Zielrechner
 überlastet werden kann. [5](quellen.md)
@@ -34,3 +34,6 @@ einer Internetanbindung ausstatten, ohne grundlegende Sicherheitsmaßnahmen zu b
 zum Beispiel keinen Updatemechanismus über den wichtige Sicherheitspatches eingespielt werden können. Auch die
 unverschlüsselte Übertragung von Daten ist ein großes Risiko. Angreifer können Logindaten einfach abgreifen und Geräte damit
 für ihre Zwecke einspannen. [4](quellen.md)
+
+Auch die Verwendung von Standardpasswörtern ist eine große Gefahr. Viele Hersteller vergeben bei der Produktion jedem Gerät
+das gleiche Passwort. Dadurch sind alle Geräte, die ein Standardpasswort verwenden, für jeden frei zugänglich. [7](quellen.md)

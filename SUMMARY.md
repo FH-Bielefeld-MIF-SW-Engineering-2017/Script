@@ -354,7 +354,7 @@
   * [Hybride App-Entwicklung](fullstack-development/Hybride_AppEntwicklung.md)
     * [Einführung](fullstack-development/Hybride_AppEntwicklung/Einfuehrung/Einfuehrung.md)
     * [Unterschiede zwischen Web-Apps, Native Apps und Hybride Apps](fullstack-development/Hybride_AppEntwicklung/WebApps_NativeApps_HybrideApps/WebApps_NativeApps_HybrideApps.md)
-    * [Phonegap/Cordova](fullstack-development/Hybride_AppEntwicklung/Phonegap_Cordova/Phonegap_Cordova.md)
+    * [PhoneGap/Cordova](fullstack-development/Hybride_AppEntwicklung/Phonegap_Cordova/Phonegap_Cordova.md)
     * [Ionic](fullstack-development/Hybride_AppEntwicklung/Ionic/Ionic.md)
     * [Fazit](fullstack-development/Hybride_AppEntwicklung/Fazit/Fazit.md)
     * [Quellen](fullstack-development/Hybride_AppEntwicklung/Quellen.md)

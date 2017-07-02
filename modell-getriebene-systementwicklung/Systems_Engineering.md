@@ -1,6 +1,6 @@
 # Systems Engineering
 
-Das Systems Engineering (SE) ist ein interdisziplinärer Ansatz mit dem Ziel Systeme erfolgreich umzusetzen. Dabei werden alle spezialisierten Teams in ein gemeinsames Team integriert und ein strukturierter Entwicklungsprozess geformt, der die Systemkonzeptionierung bis hin zur Inbetriebnahme umfasst. SE weist der Definition der Kundenbedürfnisse und der geforderten Funktionalität von Beginn an einen hohen Stellenwert zu, umqualitativ hochwertige Produkte zu entwickeln, die im Einklang mit diesen Bedürfnissen stehen. [INC17a](Quellen.md)
+Das Systems Engineering (SE) ist ein interdisziplinärer Ansatz mit dem Ziel Systeme erfolgreich umzusetzen. Dabei werden alle spezialisierten Teams in ein gemeinsames Team integriert und ein strukturierter Entwicklungsprozess geformt, der die Systemkonzeptionierung bis hin zur Inbetriebnahme umfasst. SE weist der Definition der Kundenbedürfnisse und der geforderten Funktionalität von Beginn an einen hohen Stellenwert zu, um qualitativ hochwertige Produkte zu entwickeln, die im Einklang mit diesen Bedürfnissen stehen. [INC17a](Quellen.md)
 
 Systems Engineering basiert auf System Thinking. Das System Thinking ist eine spezielle Sichtweise auf die Realität. Sie schärft die Sicht auf das Ganze und wie die Teile innerhalb des Ganzes zusammenwirken. Im Systems Engineering wird System als das Ganze und die einzelnen Systemelemente als Teile betrachtet. [INC17b](Quellen.md)
 

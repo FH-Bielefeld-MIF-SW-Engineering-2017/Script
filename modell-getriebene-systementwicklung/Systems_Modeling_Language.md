@@ -8,7 +8,7 @@ Abbildung 2: SysML und UML Teilmengen [OMG17](Quellen.md)
 
 **SysMLDiagramme**
 
-Die SysML umfasst insgesamtneun Diagramme. Das Use Case-, Sequence-, State Machine- und Package Diagramm wurden von der UML übernommen. Das Activity-, Block Definition- und Internal Block Diagramm wurden auch von der UML übernommen, enthalten jedoch Modifikationen. Das Requirement Diagramm und Paramteric Diagramm sind neu in der SysML. Abbildung 3 zeigt die Hierarchie der Diagramme.
+Die SysML umfasst insgesamt neun Diagramme. Das Use Case-, Sequence-, State Machine- und Package Diagramm wurden von der UML übernommen. Das Activity-, Block Definition- und Internal Block Diagramm wurden auch von der UML übernommen, enthalten jedoch Modifikationen. Das Requirement Diagramm und Paramteric Diagramm sind neu in der SysML. Abbildung 3 zeigt die Hierarchie der Diagramme.
 
 ![](/assets/sysml_diagramme.jpg)
 
@@ -16,7 +16,7 @@ Abbildung 3: SysML Diagrammtypen [OMG17](Quellen.md)
 
 **Requirement Diagramm**
 
-Das Requirement Diagramm wird zur Visualisierung von text-basierten Anforderungen und deren Beziehung zu anderen Modelelementen verwendet. Es können Beziehungen zwischen den Elementen hergestellt werden, um z.B. zu zeigen, dass eine Anforderung durch ein anderesElement (z.B. ein Systemelement) erfüllt wird oder das ein Testfall eine Anforderung verifiziert. Zusätzlich können Anforderungshierarchien oder Anforderungsableitungen dargestellt werden. [OMG17](Quellen.md)
+Das Requirement Diagramm wird zur Visualisierung von text-basierten Anforderungen und deren Beziehung zu anderen Modelelementen verwendet. Es können Beziehungen zwischen den Elementen hergestellt werden, um z.B. zu zeigen, dass eine Anforderung durch ein anderes Element (z.B. ein Systemelement) erfüllt wird oder das ein Testfall eine Anforderung verifiziert. Zusätzlich können Anforderungshierarchien oder Anforderungsableitungen dargestellt werden. [OMG17](Quellen.md)
 
 **Block Definition Diagramm**
 

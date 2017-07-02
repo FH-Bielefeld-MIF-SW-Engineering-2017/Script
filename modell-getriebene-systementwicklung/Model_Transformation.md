@@ -1,8 +1,8 @@
 # Model Transformation
 
-Eine zentrale Technik bei der modellbasierten Entwicklungist die Modelltransformation. Die Modelltransformation wird benötigt, um Informationen eines Datenmodells in ein anderes Datenmodell, welches eine andere Struktur besitzt, zu überführen. [OSTF17](Quellen.md) 
+Eine zentrale Technik bei der modellbasierten Entwicklung ist die Modelltransformation. Die Modelltransformation wird benötigt, um Informationen eines Datenmodells in ein anderes Datenmodell, welches eine andere Struktur besitzt, zu überführen. [OSTF17](Quellen.md) 
 
-Die Bandbreite der Anwendungsgebiete reicht von der Dokumentengenerierung über die Variantengenerierung bis hin zur die Erstellung neuer Modelle und der Codegenerierung.  Dabei ist die Vorgehensweise der Transformation immer gleich. Es werden Informationen aus dem Quellmodell abgefragt und diese nach definierten Regeln in eine andere Form gebracht. Diese Regeln werden auch als Transformationsregeln bezeichnet und werden auf der Ebene der Metamodelle definiert.
+Die Bandbreite der Anwendungsgebiete reicht von der Dokumentengenerierung über die Variantengenerierung bis hin zur Erstellung neuer Modelle und der Codegenerierung.  Dabei ist die Vorgehensweise der Transformation immer gleich. Es werden Informationen aus dem Quellmodell abgefragt und diese nach definierten Regeln in eine andere Form gebracht. Diese Regeln werden auch als Transformationsregeln bezeichnet und werden auf der Ebene der Metamodelle definiert.
 
 Bei der Modelltransformation wird zwischen Modell-zu-Modell-Transformation (M2M-Transformation) und Model-zu-Text-Transformation (M2T-Transformation) unterschieden. [WIKI17b](Quellen.md)
 

@@ -28,7 +28,7 @@ Die *Technical Management Prozesse* umfassen die Erstellung, Entwicklung und Aus
 
 **Technical Prozesse**
 
-Die *Technical Prozesse *umfassen die Definition der Anforderungen, die Umwandlung der Anforderungen in ein konkretes Produkt, die Sicherstellung der Reproduktion eines Produktes, die Benutzung des Produktes, sowie die zuverlässige Gewährleistung der Betriebsbereitschaft und die Entsorgung des Produktes. 
+Die *Technical Prozesse* umfassen die Definition der Anforderungen, die Umwandlung der Anforderungen in ein konkretes Produkt, die Sicherstellung der Reproduktion eines Produktes, die Benutzung des Produktes, sowie die zuverlässige Gewährleistung der Betriebsbereitschaft und die Entsorgung des Produktes. 
 
 **Organizational Project-Enabling Prozesse**
 

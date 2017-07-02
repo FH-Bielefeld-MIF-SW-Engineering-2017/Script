@@ -419,7 +419,7 @@
   * [Einführung](cloud-security/Einfuehrung.md)
   * [Grundlagen](cloud-security/Grundlagen.md)
   * [Einsatzgebiete](cloud-security/Einsatzgebiete.md)
-  * [Cloud Management Platforms](cloud-security/Cloud Management Platforms.md)
+  * [Cloud Management Platforms](cloud-security/Cloud-Management-Platforms.md)
   * [Sicherheit](cloud-security/Sicherheit.md)
   * [Ausblick](cloud-security/Ausblick.md)
   * [Quellen](cloud-security/Quellen.md)

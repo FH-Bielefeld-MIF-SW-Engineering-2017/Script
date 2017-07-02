@@ -10,3 +10,7 @@ Durch die Möglichkeit Server untereinander zu verbinden, können auch Gateways 
 XMPP kann durch verschiedene „Extensions“ erweitert werden, sodass es auch Implementierungen für Sprachnachrichten gibt. Diese Erweiterungen ermöglichen es aber auch XMPP im IoT Umfeld zu nutzen. Dieses hat den Vorteil, dass das Protokoll komplett quelloffen ist und durch die Server Kommunikation gut skalierbar ist [21](Quellen.md) [22](Quellen.md) [23](Quellen.md).  Gegen die Anwendung im IoT Umfeld spricht aber, dass das Protokoll durch die verwendeten XML Nachrichten sehr viel Overhead hat. Dadurch ist es grade auf Low Power Systemen schwierig zu nutzen 
 ### Sicherheit
 Auch XMPP basiert auf dem TCP Protokoll, sodass TLS/SSL verwendet werden können. Um eine Ende zu Ende Verschlüsslung zu erzielen, können auch hier die Nutzdaten wiederrum verschlüsselt werden[21](Quellen.md).  
+
+### IoT Verwendung
+Tendenziell eignet sich XMPP gut für den Einsatz im IoT. Das Protokoll verfügt über viele Features (Many-to-Many, Online Status, Server-to-Server, [...]) die im IoT Umfeld sinvoll erscheinen.
+Allerdings sind die Nachrichten durch das verwendete XML Format sehr lang,  sodass es zu einem erhelblichen Overhead kommt [24](Quellen.md). Dieses kann grade auf kleinen eingebetteten Geräten zu Problemen führen. 

@@ -14,3 +14,6 @@ REST nutzt vier Operationen des http Protokolls um einem Client Zugriff auf die 
 Einer der wichtigsten Eigenschaften des REST Protokolls ist die Zustandslosigkeit jeder Interaktion zwischen Client und Server. So speichert der Server keinerlei Zustandsinformationen zu einem Client, dieses hat zur Folge, dass bei jeder Interaktion alle nötigen Informationen zu der Anfrage übergeben werden müssen. Die Anfrage ist also in sich geschlossen. Diese Eigenschaft sorgt dafür, dass ein REST Service gut skalierbar ist, sodass Anfragen bei viel Last auf andere Server verteilt werden können [11](Quellen.md).
 ### Sicherheit
 Ein normaler REST Service ohne weitere Absicherungen kann verwendet werden, wenn keine Authentifikation durch den User nötig ist. Falls diese doch erforderlich ist, kann das REST Protokoll durch die darunterliegenden Protokolle abgesichert werden. So kann zum Beispiel durch die Verwendung von HTTPS die gesamte Kommunikation des REST Protokolls abgesichert werden [12](Quellen.md).
+
+### IoT Verwendung
+Da Protokoll kann zwar tendenziell im IoT verwendet werden, allerdings fehlen einige hilfreiche Features wie zum Beispiel das bestehen lassen einer Verbindung. 

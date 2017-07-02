@@ -41,10 +41,10 @@ Es unterstützt verschiedene Build-Tools, wie
 Ant, Maven, Gradle oder MSBuild, außerdem Versionskontrollsysteme,
 wie Git, Mercurial oder SVN.
 Darüber hinaus gibt es eine Vielzahl an Plugin, über die
-es um neue Funktionaliät erweitert werden kann.
+es um neue Funktionaliät erweitert werden kann. (vgl. [9])
 
 Gewöhnliche Build-Jobs können zwar aus mehreren
-auszuführenden Schriten bestehen, liefern als Ergebnis allerdings
+auszuführenden Schritten bestehen, liefern als Ergebnis allerdings
 nur das Gesamtergebnis (und evtl. einen Test-Report) zurück.
 Im Gegensatz dazu gibt es auch Pipeline-Jobs,
 bei denen ein Job explizit in mehrere Stufen (Stages) unterteilt wird
@@ -102,7 +102,18 @@ Mit `install` und `script` werden die Befehle zum Kompilieren
 und Ausführen der Tests angegeben.
 
 Auf den ersten Blick ähnlich dem Konzept der Pipeline bei Jenkins
-sind die Build Stages. 
+sind die Build Stages bei Travis.
+Die Verwendung ist allerdings im Gegensatz zu Jenkins Pipelines
+ausschließlich sinnvoll, um unterschiedliche zeitaufwändige
+Teststufen parallel ablaufen zu lassen. Es wird nämlich für jede
+einzelne Stage eine eigene virtuelle Maschine erstellt und die Software
+dort kompiliert. Um also z.B. Unit- und Integrationstests zu
+parallelisieren, sind sie nicht unbedingt geeignet.
+Darüber hinaus ist es nicht möglich, ohne zuhilfenahme externer Dienste,
+Daten (z.B. Test Reports) zwischen den einzelnen Stages auszutauschen.
+Eine Gesamt-Coverage unter Berücksichtigung aller Teststufen wäre
+so nicht mehr möglich. (vgl. [8])
+
 
 ## Docker
 ### Dockhub

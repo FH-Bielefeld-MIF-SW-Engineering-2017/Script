@@ -17,7 +17,7 @@ Existiert ein solcher Feature Vector kann vom Programm berechnet werden, welche 
 *Anwendung von Haar Features als Beispiel.[3-4]*
 </center>
 
-Als Beispiel in der Abbildung oben sieht man, dass ein Haar Feature im Gesicht erkannt wurde. Im ersten Feature (Bild mitte) wurde erkannt, dass die Region der Augen öfters dunkler ist, als die Region um die Nase und den Wangen. Im Zweiten Feature wude erkannt, dass die Augen dunkler sind als die Nasenbrücke.[3]
+Als Beispiel in der Abbildung oben sieht man, dass ein Haar Feature im Gesicht erkannt wurde. Im ersten Feature (Bild mitte) wurde erkannt, dass die Region der Augen öfters dunkler ist, als die Region um die Nase und den Wangen. Im zweiten Feature wude erkannt, dass die Augen dunkler sind als die Nasenbrücke.[3]
 
 ## Haar-Cascade Umsetzung in OpenCV
-Glücklicherweise nimmt OpenCV dabei einiges an Arbeit ab. Es ist für eine Gesichtserkennung in OpenCV nicht notwendig einen eigenen Haarcascade für den Algorithmus anzulernen. OpenCV implementiert im Framework den Algorithmus und hat verschiedene Default Haar Cascades im OpenCV Ordner. Sollte man ein eigenes Objekt erkennen wollen, so ist es notwendig vom Objekt ein eigenes Haar Cascade anzulernen.[1.5] Weiterhin sieht man auch anhand der Haar Features das auch hier die Kantenerkennung, die im Kapitel OpenCV kurz erwähnt wurde, eine Rolle spielt.
+Glücklicherweise nimmt OpenCV dabei einiges an Arbeit ab. Es ist für eine Gesichtserkennung in OpenCV nicht notwendig einen eigenen Haarcascade für den Algorithmus anzulernen. OpenCV implementiert im Framework den Algorithmus und hat verschiedene Default Haar Cascades im OpenCV Ordner. Sollte man ein eigenes Objekt erkennen wollen, so ist es notwendig vom Objekt ein eigenes Haar Cascade anzulernen.[1.5] Weiterhin sieht man auch anhand der Haar Features, dass auch hier die Kantenerkennung, die im Kapitel OpenCV kurz erwähnt wurde, eine Rolle spielt.

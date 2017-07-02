@@ -50,4 +50,4 @@ Hier sieht man eine Grafik, welche die internen Abläufe zeigen. Man sieht, dass
 
 ![Abbildung 1: Der interne Ablauf einer App.](/assets/hybrid-native-web.png)
 
-Abbildung 1: Der interne Ablauf einer App. [10]
+Abbildung 1: Der interne Ablauf einer App. [8]

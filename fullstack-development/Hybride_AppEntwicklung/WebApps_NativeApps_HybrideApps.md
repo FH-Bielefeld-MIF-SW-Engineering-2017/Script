@@ -11,6 +11,39 @@ Hybride Apps kombinieren die Vorteile beider vorherigen App Varianten in einer. 
 
 Die folgende Tabelle zeigt die Unterschiede für die einzelnen App-Varianten im Vergleich zu den anderen.
 
+<table>
+    <tr>
+        <td>App-Varianten</td>
+        <td>Web-Apps</td>
+        <td>Native Apps</td>
+        <td>Hybride Apps</td>
+    </tr>
+    <tr>
+        <td>Performanz der App</td>
+        <td>Sehr gut</td>
+        <td>Sehr gut</td>
+        <td>Beim Start dauert es, da die App erst geladen werden muss</td>
+    </tr>
+    <tr>
+        <td>Plattformabhängigkeit</td>
+        <td>Nein</td>
+        <td>Ja</td>
+        <td>Ja</td>
+    </tr>
+    <tr>
+        <td>App-Store Veröffentlichung</td>
+        <td>Kann nicht im App-Store veröffentlicht werden</td>
+        <td>Kann im App-Store veröffentlicht werden</td>
+        <td>Kann im App-Store veröffentlicht werden</td>
+    </tr>
+    <tr>
+        <td>Unterstützt Gerätefunktionen</td>
+        <td>Es werden nur einige Gerätefunktionen mit der Nutzung von Web-APIs unterstützt.</td>
+        <td>Es werden alle Gerätefunktionen unterstützt.</td>
+        <td>Es werden alle Gerätefunktionen unterstützt, durch eigene und externe Plug-Ins.</td>
+    </tr>
+</table>
+
 In der Tabelle sieht man in der Spalte für hybride Apps, dass es nur Leistungseinbrüche bei der Performanz der App gibt. Das merkt man aber auch beim direkt Start einer hybriden App sehr genau.
 
 Hier sieht man eine Grafik, welche die internen Abläufe zeigen. Man sieht, dass eine Native App und eine Web-App sich darin unterscheiden, dass die Web-App in einem Browser ausgeführt wird. Der Browser wird vom Betriebssystem aufgerufen. Das ist auch der Grund, dass man keine Gerätefunktionen bei Web-Apps verwenden kann, da der Browser vom System abgekapselt ist. Wäre das nicht der Fall, dann könnte man mit einer einfachen Webseite auf alle Informationen eines PCs zugreifen und manipulieren. Das hat Sicherheitsgründe. Für einen Angreifer wäre das ein leichtes Spiel sich alle Kontakte und sonstige Informationen von einem Smartphone zu beschaffen. Bei nativen Apps ist das möglich Gerätefunktionen zu nutzen, da native Apps auf dem Betriebssystem installiert werden. Sie greifen direkt auf die System internen Prozesse und Daten zu. Eine hybride App muss beides kombinieren, dazu wird ein Browser simuliert, welches auf dem Betriebssystem installiert wird. Dieser spezifische Browser besteht aus einer Web View zum Anzeigen des HTML-Codes und einer nativen Schnittstelle. Die native Schnittstelle erlaubt native Zugriffe auf die Gerätefunktionen und stellt die native UI zur Verfügung, damit die hybride App wie eine native App aussieht.

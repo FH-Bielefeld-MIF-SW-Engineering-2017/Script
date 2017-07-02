@@ -39,9 +39,7 @@ Beim Coaching werden die Prozesse, welche im vorherigen Kapitel dargestellt wurd
 ### 9.2.4 Konsequenzen für die Führung und Beratung
 Die Betrachtung der Führung in einem Unternehmen bietet Rückschlüsse auf dessen Unternehmenskultur. Dabei ist zu untersuchen, auf welcher Stufe der Theorie U gerade gehandelt wird und wie diese Befehle bei den Mitarbeitern ankommen. Wird das Theorie U Modell auf die Führung angewandt, so lassen sich drei Stufen ableiten.
 
-<p align="center">
- <img src="../assets/dreiStufenDerFührung.png" style="width: 400px;"/>
-</p>
+![](/assets/dreiStufenDerFührung.png)
 
 Das Management gibt eine eindeutige Zielstellung und kontrolliert das Erreichen dieser Ziele. Im Vordergrund steht stets die Produktenwicklung. Dies ist ein veraltetes Führungssystem, da es zu statisch an die Rahmenbedingungen herangeht.
 

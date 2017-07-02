@@ -3,6 +3,3 @@
 Projektleiter:  
 Projektteam: Jonathan Jansen, Oliver Nagel  
 Github-Repo:
-
-
-

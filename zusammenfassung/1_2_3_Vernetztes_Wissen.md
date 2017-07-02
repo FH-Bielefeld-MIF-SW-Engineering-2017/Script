@@ -50,12 +50,10 @@ nach außen weitergegeben werden. Dieser Prozess wird in der folgenden Abbildung
 dargestellt und wird als Crowdstorm \(Brainstorming der Crowd -&gt; Zusammensetzung  
 von Brainstorming und Crowdsourcing\) bezeichnet.
 
-![](images/Innovation.png)
+![](/assets/Innovation.png)
 
 Je mehr sich die Unternehmen in diesem Prozess der Crowd öffnen, desto  
 innovativer werden schlussendlich die Produkte, da die internen Mitarbeiter sich  
 ansonsten in einer Art Blase befinden und sich vor externen Anreizen  
 verschließen.
-
-
 

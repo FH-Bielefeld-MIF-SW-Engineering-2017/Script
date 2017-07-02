@@ -6,9 +6,8 @@ Im Fokus eines Unternehmens sollten zu allererst die Prozesse liegen. Sind die G
 Ein weiterer wichtiger Punkt für den Einsatz, ist die Flexibilität. Hierbei sollte darauf geachtet werden, dass Informationen immer zum richtigen Zeitpunkt versendet werden. Werden zu früh Informationen versandt, kann es unnötige Prozesse hervorrufen, die aufgrund von Änderungen nicht nötig waren.
 ## 4.3 Wie arbeiten schlanke IT-Organisationen?
 Schlanke Organisationen verwenden Echtzeit-Prinzipien für ihre Services. Dabei wird schnellstmöglich auf Fehler reagiert, unter ständiger Verbesserung Services von hoher Qualität angeboten und die Antwort- und Verarbeitungszeiten möglichst gering gehalten. Ebenfalls wird darauf geachtet Verschwendungen zu finden wie beispielsweise nicht benötigte Geschäftsprozesse und diese zu eliminieren.
-<p align="center">
- <img src="../../assets/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel4.MalteBerg.png" style="width: 400px;"/>
-</p>
+
+![](/assets/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel4.MalteBerg.png)
 
 Anhand der Abbildung können Verfahren zu kontinuierlichen Entwicklung, besseren Wertschöpfung und erhöhter Kundenzufriedenheit eingesehen werden.
 

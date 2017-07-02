@@ -278,7 +278,6 @@
 * [AI](ai.md)
   * [Decision Tree](ai/decision-tree.md)
     * [Grundlagen](ai/decision-tree/Grundlagen.md)
-    * [CART: Classification And Regression Trees](ai/decision-tree/cart-classification-and-regression-trees.md)
     * [Implementierung](ai/decision-tree/implementierung.md)
   * [Bayes](ai/bayes.md)
     * [Einleitung](ai/bayes/einleitung.md)

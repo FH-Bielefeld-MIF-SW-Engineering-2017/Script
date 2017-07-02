@@ -6,7 +6,9 @@ Den Meta-Modellen der OMG liegt die Meta Object Facility (MOF) zu Grunde. Die MO
 
 Die nachfolgende Abbildung zeigt beispielhaft den Zusammenhang der verschiedenen Ebenen der (Meta-)Modelle anhand der UML. 
 
-![](/assets/hierarchie_der_metamodelle.png)
+![](/assets/hierarchie_der_metamodelle.png) 
+
+Ebenen der Meta-Modelle [WIKI17f](Quellen.md)
 
 **Profil-Mechanismus**
 
@@ -16,17 +18,25 @@ Für jeden Stereotypen können Stereotypeigenschaften definiert werden, in denen
 
 Die folgende Abbildung erweitert die Metaklasse *Actor* um den Stereotypen *externalSystem*. Diese Erweiterung kann genutzt werden, um bei einem Use-Case-Diagramm die Akteurestärker zu differenzieren.
 
-![](/assets/UseCases.png)
+![](/assets/UseCases.png) 
+
+Erweiterung der Meta-Klasse Akteur
 
 In der nachfolgenden Abbildung wird die konkrete Anwendung eines *externalSystems* in einem Use-Case-Diagramm gezeigt. Das Diagramm zeigt Use-Cases für ein Smart Home System. In dem Use-Case „Jalousien mit Smartphone steuern“ ist der Akteur „Bewohner“ und das *externalSystem* „Jalousie“ beteiligt.
 
-![](/assets/Shadowing_Use_Cases.png)
+![](/assets/Shadowing_Use_Cases.png) 
+
+Konkrete Anwendung der Aktuer-Erweiterung
 
 Ein Stereotyp kann von anderen Stereotypen mit Hilfe einer „Generalisierung“ spezialisiert werden. In der folgenden Abbildung ist der Stereotyp „Requirement“ von der Metaklasse *Class* erweitert worden. Der Stereotyp besitzt zusätzliche Eigenschaften wie z.B. *Id* und *Text*. Von „Requirement“ wurde ein spezialisierter Stereotyp „ExtendedRequirement“ erzeugt, der alle Eigenschaften von „Requirement“ besitzt und zusätzlich die Attribute *obligation* und *priority* enthält. Für die bessere Differenzierung von Anforderungen wurden von „ExtendedRequirement“ die drei Anforderungstypen „Business Requirement“, „System Requirement“ und „Design Requirement“ abgeleitet.
 
-![](/assets/Requirements.png)
+![](/assets/Requirements.png) 
+
+Erweiterung einer Anforderung
 
 Die folgende Abbildung zeigt die Visualisierung des Stereotypen „Business Requirement“ in einem Requirement Diagramm der SysML.
 
-![](/assets/SH_Requirements.png)
+![](/assets/SH_Requirements.png) 
+
+Anwendung des Stereotypens "Business Requirement"
 

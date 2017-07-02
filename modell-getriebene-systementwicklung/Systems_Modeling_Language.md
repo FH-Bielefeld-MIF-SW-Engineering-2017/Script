@@ -4,7 +4,7 @@ Die Systems Modeling Language (SysML) ist eine allgemeine grafische Modellierung
 
 ![](/assets/schnittmenge_uml_sysml.jpg)
 
-<center>SysML und UML Teilmengen [OMG17](Quellen.md)</center>
+SysML und UML Teilmengen [OMG17](Quellen.md)
 
 **SysMLDiagramme**
 
@@ -12,7 +12,7 @@ Die SysML umfasst insgesamtneun Diagramme. Das Use Case-, Sequence-, State Machi
 
 ![](/assets/sysml_diagramme.jpg)
 
-<center>SysML Diagrammtypen [OMG17](Quellen.md)</center>
+SysML Diagrammtypen [OMG17](Quellen.md)
 
 **Requirement Diagramm**
 

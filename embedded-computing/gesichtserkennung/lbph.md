@@ -18,7 +18,7 @@ Anschließend werden in einer beliebigen Reihenfolge im Uhrzeigersinn die Nachba
 Die zweite Variante ist ähnlich wie die Erste. Mit dem Unterschied, dass hier statt den direkten Nachbarn die einen weiter außen liegenden Nachbarn verwendet werden (siehe Mitte der folgenden Abbildung). Dann hat man 8 statt 16 Nachbarn und daraus ergibt sich der Name LBP 16,2.[1.6]
 <br><center><img src="../../assets/lbpvariants.png">
 <br>*Illustrierung von LBP Varianten[1.6]*</center><br>
-Die zweite Variante verbaucht natürlich doppelt soviel Rechenzeit für jedes Pixel, wie die erste. Man kann dies auch verkürzen indem man nur jedes 2. Nachbarpixel verwendet. Dies wäre dann im Namen LBP 8,2. Auffallend beim Namen ist, dass die erste Zahl der Anzahl der Nachbarpixel und die zweite Zahl die Zahl des Nachbarrings entspricht.[1.6]
+Die zweite Variante verbaucht natürlich doppelt soviel Rechenzeit für jedes Pixel, wie die Erste. Man kann dies auch verkürzen indem man nur jedes 2. Nachbarpixel verwendet. Dies wäre dann im Namen LBP 8,2. Auffallend beim Namen ist, dass die erste Zahl der Anzahl der Nachbarpixel und die zweite Zahl die Zahl des Nachbarrings entspricht.[1.6]
 
 Weiterhin gibt es noch eine Variante von LBP, die wichtig für die Erstellung von LBP Histograms ist (und damit auch wichtig für die Gesichtserkennung). Es ist bewiesen worden, dass nur bestimmte uniform Pattern (auf deutsch bekannte Muster) für LBP Histograms sind.[1.6]
 

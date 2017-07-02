@@ -298,6 +298,7 @@
     * [Fazit](embedded-computing/IOT-Protokolle/Fazit.md)
   * [IoT-Sicherheit](embedded-computing/IoT-Sicherheit.md)
     * [Einleitung](embedded-computing/IoT-Sicherheit/Einleitung.md)
+    * [IoT-Sicherheitsarchitektur](embedded-computing/IoT-Sicherheit/IoT-Sicherheitsarchitektur.md)
     * [Vorfälle](embedded-computing/IoT-Sicherheit/Vorfälle.md)
     * [Probleme](embedded-computing/IoT-Sicherheit/Probleme.md)
     * [Mögliche Lösungsansätze](embedded-computing/IoT-Sicherheit/Lösungsansätze.md)

@@ -14,3 +14,6 @@ Bei REST wird durch das TCP Protokoll jede Nachricht zu nahezu 100% zugestellt. 
 
 ### Sicherheit
 Da CoAP nicht auf TCP basiert, sind SSL und TLS nicht einfach zu nutzen. Um trotzdem eine Verschlüsselung zu bieten nutzt CoAP „Datagram Transport Layer Security“ (DTLS) [15](Quellen.md). Dieses basiert weitestgehend auf TLS und bietet den Clients eine RSA oder AES Verschlüsslung [16](Quellen.md).      
+
+### IoT Verwendung
+Das Proktokoll eignet sich sehr gut für den Einsatz im IoT. Besonders die gute Kombination mit REST fallen positiv auf.

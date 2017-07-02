@@ -2,11 +2,12 @@
 |  | MQTT | REST | CoAP | AMQP | XMPP |
 | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- |
 | Protokoll | TCP | TCP | UDP | TCP | TCP |
+| Eigentliche Verwendung | IoT | Server Backend | IoT | Server Kommunikation | Instant Messaging |
 | Push Nachrichten | Ja | Nein | Ja | Ja| Ja |
 | Online Status \*\*\*| Ja | Nein | Nein |  Nein | Ja |
-| IoT Optimiert | Ja | Nein | Ja | Ja | mit Extension |
+| IoT Optimiert | Ja | Nein | Ja | Nein | mit Extension |
 | QoS | Ja | Nein | Ja | Ja | Nein |
-| Many2Many | Ja | Nein | Nein | Ja | Ja |
+| Many-to-Many | Ja | Nein | Nein | Ja | Ja |
 | Arduino Library | Ja | Ja | Ja | Nein | Ja |
 | Minimal Header | 2 Byte * [27](Quellen.md) | 26 Byte* [25](Quellen.md) | 4 Byte ** [27](Quellen.md) | 8 Byte* [26](Quellen.md) | 83 Byte* [24](Quellen.md) | 
 

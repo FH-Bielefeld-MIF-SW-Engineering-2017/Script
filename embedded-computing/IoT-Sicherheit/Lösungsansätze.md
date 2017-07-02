@@ -18,18 +18,19 @@ durchgeführt werden sollte, ist das Ändern der Passwörter. Viele Hersteller v
 Standardpasswörter. Auch das WLAN-Passwort sollte geändert werden. Als WLAN-Verschlüsselungsverfahren sollte WPA2 gewählt
 werden. [7](quellen.md)
 
-Schon vor dem Kauf eines neuen Gerätes, kann der Benutzer im Internet nach Sicherheitsvorfällen bei dem bestimmten Geräte suchen.
-Geräte, die in der Vergangenheit in Bezug auf die Sicherheit schlecht aufgefallen sind, sollte dann nicht gekauft werden.
+Schon vor dem Kauf eines neuen Gerätes, kann der Benutzer im Internet nach Sicherheitsvorfällen bei dem bestimmten Gerät suchen.
+Geräte, die in der Vergangenheit in Bezug auf die Sicherheit schlecht aufgefallen sind, sollten dann nicht gekauft werden.
 Außerdem sollte man sich vor dem Kauf eines neuen Gerätes beim Hersteller erkundigen, ob er Updates für dieses Gerät zur
 Verfügung stellt.
 Nach dem Kauf eines Gerätes sollte in regelmäßigen Abständen überprüpft werden, ob neue Updates verfügbar sind und diese
 einspielen. [8](quellen.md)
 
-Eine weitere Maßnahme ist die Trennung von IoT-Geräte vom restlichen Netzwerk. Eine Firewall sollte alle nicht
+Eine weitere Maßnahme ist die Trennung von IoT-Geräten vom restlichen Netzwerk. Eine Firewall sollte alle nicht
 benötigten Ports dieses Netzwerkes blockieren. Auch das Deaktivieren von UPnP (Universal Plug and Play), mit dem Router
 und andere netzwerkfähige Geräte konfiguriert werden können, sollte durchgeführt werden, um zu verhindern, dass Malware
 mihilfe von UPnP Einstellungen ändern kann. [8](quellen.md)
 
-Router und andere IoT-Geräte sollte regelmäßig neugestartet werden, damit Malware, die meist nur im Arbeitsspeicher der Geräte
+Router und andere IoT-Geräte sollten regelmäßig neugestartet werden, damit Malware, die meist nur im Arbeitsspeicher der Geräte
 liegt, entfernt wird. Außerdem sollte auch der physische Zugriff auf IoT-Geräte für unbefugte Personen verhindert werden.
-So können zum Beispiel viele Router mit einer Reset-Taste zurückgesetzt werden. [8](quellen.md)
+So können zum Beispiel viele Router mit einer Reset-Taste zurückgesetzt werden, womit meist auch die Sicherheitseinstellungen wieder
+dem Auslieferungszustand entsprechen. [8](quellen.md)

@@ -15,7 +15,7 @@ Anschließend werden in einer beliebigen Reihenfolge im Uhrzeigersinn die Nachba
 <img src="../../assets/imglbp.png"><br>
 *LBP Anwendung als Beispiel - oben sieht man das Original, unten nach Anwendung von LBP[1.6]*</center>
 
-Die zweite Variante ist ähnlich wie die Erste. Nur das man statt die direkten Nachbarn die äußeren Nachbarn verwendet (siehe Mitte der folgenden Abbildung). Dann hat man 8 statt 16 Nachbarn und daraus ergibt sich der Name LBP 16,2.[1.6]
+Die zweite Variante ist ähnlich wie die Erste, nur dass man statt den direkten Nachbarn die ein weiter außen liegenden  Nachbarn verwendet (siehe Mitte der folgenden Abbildung). Dann hat man 8 statt 16 Nachbarn und daraus ergibt sich der Name LBP 16,2.[1.6]
 <br><center><img src="../../assets/lbpvariants.png">
 <br>*Illustrierung von LBP Varianten[1.6]*</center><br>
 Die zweite Variante verbaucht natürlich doppelt soviel Rechenzeit für jedes Pixel, wie die erste. Man kann dies auch verkürzen indem man nur jedes 2. Nachbarpixel verwendet. Dies wäre dann im Namen LBP 8,2. Auffallend beim Namen ist, dass die erste Zahl der Anzahl der Nachbarpixel und die zweite Zahl die Zahl des Nachbarrings entspricht.[1.6]

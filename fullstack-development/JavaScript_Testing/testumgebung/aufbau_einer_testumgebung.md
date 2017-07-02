@@ -1,6 +1,7 @@
 # 3 Aufbau einer Testumgebung
 Das folgende Diagramm soll bei dem Verständnis helfen, wie eine Testumgebung aufgebaut ist und die einzelnen Frameworks und Libraries miteinander interagieren.
 ![Interaktion zwischen Testframeworks und Libraries](/assets/Testumgebung.png)
+
 Auf die einzelnen Punkte des Diagramms wird im späteren Verlauf eingegangen. Die in Klammern aufgeführten Frameworks und Libraries geben ein Beispiel zu dem Oberpunkt an. Es gibt wesentlich mehr Möglichkeiten diese Struktur mit anderen Technologien aufzubauen.
 ## 3.1 Test Runner
 Test Runner erfüllen das Ziel die entwickelten Tests automatisiert auszuführen und eine gut formatierte und ausdrucksstarke Ausgabe der Testergebnisse anzuzeigen. [10](../Quellen.md)

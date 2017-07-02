@@ -28,9 +28,8 @@ Im Fokus eines Unternehmens sollten zu allererst die Prozesse liegen. Sind die G
 Ein weiterer wichtiger Punkt für den Einsatz, ist die Flexibilität. Hierbei sollte darauf geachtet werden, dass Informationen immer zum richtigen Zeitpunkt versendet werden. Werden zu früh Informationen versandt, kann es unnötige Prozesse hervorrufen, die aufgrund von Änderungen nicht nötig waren.
 #### 3.1.5.3 Wie arbeiten schlanke IT-Organisationen?
 Schlanke Organisationen verwenden Echtzeit-Prinzipien für ihre Services. Dabei wird schnellstmöglich auf Fehler reagiert, unter ständiger Verbesserung Services von hoher Qualität angeboten und die Antwort- und Verarbeitungszeiten möglichst gering gehalten. Ebenfalls wird darauf geachtet Verschwendungen zu finden wie beispielsweise nicht benötigte Geschäftsprozesse und diese zu eliminieren.
-<p align="center">
-<img src="../images/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel4.MalteBerg.png" style="width: 400px;"/>
-</p>
+
+![](/assets/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel4.MalteBerg.png)
 
 Anhand der Abbildung können Verfahren zu kontinuierlichen Entwicklung, besseren Wertschöpfung und erhöhter Kundenzufriedenheit eingesehen werden.
 
@@ -165,9 +164,7 @@ Um CIO zu werden hat man zwei Möglichkeiten, zum einen kann man diesen Posten �
 #### 3.1.9.2 Aufgaben
 Die Aufgaben eines CIOs sind vielfältig, zu seinen Hauptaufgaben gehören, einen stabilen Betrieb der IT-Landschaft zu gewährleisten und Services sowie Innovationen in der vereinbarten Zeit, zum vereinbarten Preis und in der vereinbarten Qualität zu liefern.
 #### 3.1.9.3 Führungsinstrumente
-<p align="center">
-<img src="../images/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel7.NiklasHarting.png" alt="Fuehrungsinstrumente" style="width: 400px;"/>
-</p>
+![](/assets/ErfolgsfaktorenFuerEineDigitaleZukunft.Kapitel7.NiklasHarting.png)
 #### 3.1.9.4 Erfolgsfaktoren
 Um als CIO Erfolg zu haben sind einige Faktoren sehr wichtig. Zum einen sollte der CIO eine sehr gute Kommunikationsfähigkeit haben, komplexe Sachverhalte verständlich erläutern, erfolgreich verhandeln und gut präsentieren können.   
 Doch der CIO alleine garantiert keinen Erfolg für die IT-Organisation, denn dazu gehört ebenso ein leistungsstarkes Team, welches selbstständig und eigenverantwortlich Arbeit und den wichtigen Situation vom CIO unterstützt und gefördert wird.

@@ -44,3 +44,6 @@ Nicht nützlich bei folgenden Anwendungen:
 * Wenn das Design der Applikation die Implemtierung des Patterns schwierig macht; das Valet Key Pattern sollte bei der initialen Architektur berücksichtigt werden.
 * Wenn die Anzahl der Up- und Downloads genau überwacht werden muss und der Datenspeicher über keinen Mitteilungsmechanismus verfügt.
 * Wenn die Größe der Uploads begrenzt werden muss. Alternativ kann nach dem Upload die Dateigröße kontrolliert werden oder zyklisch während des Uploads.
+
+
+

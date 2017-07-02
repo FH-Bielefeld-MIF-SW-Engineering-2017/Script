@@ -12,6 +12,7 @@ Bedenken hinsichtlich fehlender Motivation der einzelnen Marktteilnehmer in der 
 5. Autonomie. Menschen, die frei in ihren Gefühlen, Bedürfnissen und Gedanken sind.
 
 6. Identität. Es ist nicht wichtig besser zu sein als andere, sondern anders.
+
 7. Kompetenz. Kompetenzen lassen sich genauso in kooperativen Strukturen entwickeln, wie auch in Konkurrenzstrukturen.
 8. Beitrag. Jeder Mensch will und kann seinen Beitrag leisten.
 9. Gemeinschaft. Jeder Mensch sehnt sich nach einer Gemeinschaft und erfährt dort Geborgenheit, Sicherheit, Wertschätzung und Anerkennung.

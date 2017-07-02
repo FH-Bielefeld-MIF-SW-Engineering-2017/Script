@@ -1,0 +1,3 @@
+# Grundlagen 
+
+Autor: Niklas Harting

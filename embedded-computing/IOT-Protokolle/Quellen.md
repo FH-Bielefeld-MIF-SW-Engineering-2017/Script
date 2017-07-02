@@ -53,5 +53,6 @@
 
 [27]https://www.quora.com/What-are-the-pros-and-cons-of-MQTT-versus-CoAP-as-IoT-protocols-for-resource-constrained-devices
 
+[28]https://lists.oasis-open.org/archives/amqp/201202/msg00086/StormMQ_WhitePaper_-_A_Comparison_of_AMQP_and_MQTT.pdf
 
 Alle Quellen wurden am 27.06.2017 besucht. 

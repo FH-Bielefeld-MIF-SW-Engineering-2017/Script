@@ -73,7 +73,7 @@ Im Beispieldürften also beliebige Kombinationen aus den Features A, B und C umg
 
 <img src="..\assets\disjunktion_formel.PNG" alt="Drawing" style="height: 30px;"/>
 
-![](/assets/disjunktion.PNG)
+![](/assets/Disjunktion.PNG)
 
 Die **Kontravalenz** (Exklusiv-ODER-Verknüpfung) beschreibt, dass genau eines der verbundenen Elemente umgesetzt werden muss. Es darf kein weiteres Element umgesetzt werden. Die Kontravalenz wird durch einen Halbkreis am ausgehenden Feature-Strang markiert (siehe Abbildung 13). In Abbildung 13 müsste also entweder Feature A, B oder C umgesetzt werden:
 
@@ -95,11 +95,11 @@ Mit **Implikationen** können Abhängigkeiten zwischen Features dargestellt werd
 
 Im Folgenden wird eine exemplarisches Feature-Model eines Smartphones gezeigt. Dieses Model zeigt die Features, die ein Kunde bei der Auswahl seines Gerätes direkt konfigurieren kann.
 
-![](/assets/FM_smartphone.PNG)
+![](/assets/FM_Smartphone.PNG)
 
 Durch die zuvor erläuterten Notationselemente ist zu erkennen, dass der Kunde in jedem Fall eine Auswahl der Features *Farbe*, *Speicher* und *Display-Größe* treffen muss. Des Weiteren hat er die Möglichkeit eine *Hülle* zum Gerät hinzuzufügen. Hierbei hat er die Auswahl zwischen zwei *Materialien* (*Leder* und *Stoff*) und verschiedenen *Farben* (*Grün*, *Schwarz* und *Braun*). Entscheidet sich der Kunde für die Farbe *Grün* ist er gezwungen ebenfalls das Material *Stoff* zu nehmen, da diese Farbe für das Material *Leder* nicht zur Verfügung steht.
 
-Aus diesem relativ übersichtlichen Feature-Model lassen sich bereits 108 unterschiedliche Varianten bilden (Berechnung siehe Anhang). Es ist also zu erkennen, dass auch eine geringe Variabilität von Features in einem Produkt zu einem schnellen Anstieg der Anzahl der Varianten führen kann.
+Aus diesem relativ übersichtlichen Feature-Model lassen sich bereits 108 unterschiedliche Varianten bilden (Berechnung siehe [Anhang](Anhang.md)). Es ist also zu erkennen, dass auch eine geringe Variabilität von Features in einem Produkt zu einem schnellen Anstieg der Anzahl der Varianten führen kann.
 
 ![](/assets/anzahl_Varianten_nutzen.PNG)
 

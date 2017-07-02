@@ -7,28 +7,28 @@ Siehe: [5] (Die Rechnung ist ein wenig verkürzt aus Wikipedia kopiert und steht
 Hinweis: Die Rechnung erfolgt mit Hilfe der Matrix des Bildes (wie auch im Kapitel OpenCV beschrieben). Man darf sich dabei ein Bild als Matrix vorstellen. Auch das Differenz- und Durchschnittsbild sind Matrizen.
 
 * Schritt 1: In jenem Verfahren werden eine Trainingsmenge an Bildern von Gesichter in lexikographischer Reihenfolge eingelesen und in Vektoren einer Länge k gespeichert.
-<br><center><img height=21px width=137px src="../assets/einlesen.svg" /></center>
+<br><center><img height=21px width=137px src="../../assets/einlesen.svg" /></center>
 * Schritt 2: Aus der Trainingsmenge wird schließlich ein Durchschnittsgesicht gebildet.
-<br><center><img height=66px width=135px src="../assets/durchschnittsgesicht.svg"></center>
+<br><center><img height=66px width=135px src="../../assets/durchschnittsgesicht.svg"></center>
 * Schritt 3: Anschließend wird von jedem Bild aus dem Trainingsset ein Differenzbild zum Durchschnittsgesicht gebildet.
-<br><center><img height=21px width=102px src="../assets/differenzgesicht.svg"></center>
+<br><center><img height=21px width=102px src="../../assets/differenzgesicht.svg"></center>
 * Schritt 4: Sind die Differenzbilder vollständig berechnet, kann man eine Kovarianzmatrix erstellen.
-<br><center><img height=61px width=217px src="../assets/kovarianzmatrix.svg"></center>
+<br><center><img height=61px width=217px src="../../assets/kovarianzmatrix.svg"></center>
 * Schritt 5: Allerdings ist bei einer Kovarianzmatrix der Nachteil vorhanden, dass für einen modernen Computer schon das Rechnen von einer Anzahl von 300 100x100 Pixel großen Bildern rechenaufwendig ist. Um dies zu verhindern sollten die Eigenvektoren statt in einer Kovarianzmatrix in einer neuen Marix berechnet werden.
-<br><center><img height=22px width=157px src="../assets/neue_matrix.svg"></center>
+<br><center><img height=22px width=157px src="../../assets/neue_matrix.svg"></center>
 Das dies möglich ist, wird bewiesen durch:
  * Schritt 5.1: Sei die Eigenwertzerlegung von der Kovarianzmatrix gegeben durch:
-<br><center><img height=25 width=172 src="../assets/eigenwertzerlegungC.svg"></center>
+<br><center><img height=25 width=172 src="../../assets/eigenwertzerlegungC.svg"></center>
  * Schritt 5.2: Da die Kovarianzmatrix eine zu große Matrix ist, wird in diesem Schritt die Eigenwertzerlegung für L betrachtet.
-<br><center><img height=25 width=176 src="../assets/eigenwertzerlegungL.svg"></center>
+<br><center><img height=25 width=176 src="../../assets/eigenwertzerlegungL.svg"></center>
  * Schritt 5.3: Bei linksseitiger Multiplikation mit A ergibt sich:
-<br><center><img height=25 width=148 src="../assets/linksseitigMulti.svg"></center>
- * Schritt 5.4: Sei nun <center><img height=25 width=148 src="../assets/beweis.svg"><br></center>
+<br><center><img height=25 width=148 src="../../assets/linksseitigMulti.svg"></center>
+ * Schritt 5.4: Sei nun <center><img height=25 width=148 src="../../assets/beweis.svg"><br></center>
 so ergibt sich aus der Eigenwertzerlegung von L dieselbe wie von C. Damit ist es bewiesen. Die erhaltenen Vektoren von v sind die Eigenvektoren, wobei nur die mit den höchsten Eigenwert von Interesse sind. Die u's müssen noch normalisiert werden.
 * Schritt 6: Schlussendlich können die ausgerechneten Eigengesichter dann in einem Gesichtsraum projiziert werden, so dass man den daraus erhaltenen Vektor für die Gesichtswiedererkennung nutzen kann.
-<br><center><img height=29px width=274px src="../assets/projizieren.svg"></center>
+<br><center><img height=29px width=274px src="../../assets/projizieren.svg"></center>
 * Schritt 7: Der aus Schritt 6 erhaltene Vektor lässt sich für die Gesichtswiedererkennung nutzen:
-<br><center><img height=26px width=159px src="../assets/gesichtswiedererkennung.svg"></center>
+<br><center><img height=26px width=159px src="../../assets/gesichtswiedererkennung.svg"></center>
 
 ## Eigenfaces in OpenCV
 Natürlich ist es nicht notwendig in OpenCV die komplette Berechnung selbst einzuprogrammieren. Dies wäre entsprechend viel Arbeit, ließe sich aber durch die Mat Klasse bewerkstelligen. Die Berechnung der Eigenfaces ist in OpenCV in einem Zusatzmodul namens Contrib vorhanden. Dieses muss zusätzlich zur OpenCV Library kompiliert oder kann auch in den Binaries zusätzlich installiert werden. Die Darstellung der Funktionsweise dient zum Verständnis, wie das Ganze eigentlich funktioniert.

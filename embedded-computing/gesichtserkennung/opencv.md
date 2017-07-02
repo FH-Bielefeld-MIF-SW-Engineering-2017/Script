@@ -7,12 +7,12 @@ Den Kernpunkt von OpenCV bildet eine Klasse namens Mat. Das was wir als Bilder s
 
 Ein Farbbild oder auch Graubild sind damit in Wirklichkeit eine 2-dimensionale Matrix in einer Aneinanderreihung von Informationen bzw. Pixeln. Die Klasse Mat sorgt für eine effiziente Speicherverwaltung und besteht aus einem Value und einem Header. Der Value ist die Matrix, die das Bild repräsentiert. Der Header enthält Informationen über die Matrix, wie zum Beispiel die Größe und die Anzahl der Pixel, sowie einen Pointer, der den Speicherbereich im Speicher addressiert. Farbbilder werden in 3 Channels in der Klasse unterteilt. Jeweils ein Channel für eine der drei Elementarfarben. Sollte nur ein Channel vorhanden sein, so ist das Bild schwarz/weiß. Aus der Klasse Mat kann ein Objekt abgeleitet werden. Dieses Objekt repräsentiert dann ein Bild.[1.1]
 
-<center><img src="../assets/Matrix.png" /><br>
+<center><img src="../../assets/Matrix.png" /><br>
 *Veranschaulichung einer Matrix zu einem Bild.[1.1]*</center>
 
 ## Kanten- und Blurerkennung in OpenCV##
 OpenCV ist insgesamt eine mächtige Library. Verschiedene Arten von Detektoren, Filtern und Bildableitungen erlauben es Informationen aus Bildern zu extrahieren. So ist es zum Beispiel möglich, Kanten in OpenCV zu erkennen. Eine Kante in einem Bild wird von OpenCV als starke Intensitätsveränderung von zwei Pixeln definiert. Wie man auch in folgendem Beispiel erkennen kann:[1.2]
-<center><img src="../assets/edge.png" /><br>
+<center><img src="../../assets/edge.png" /><br>
 *Beispiel von Kanten in OpenCV.*[1.3]</center>
 Anhand des rechten Bildes sieht man, dass OpenCV die Kanten dort zeichnet, wo es zu einer starken Intensitätsänderung zwischen Pixeln kam. Damit ergibt sich für die Maschine das, wo das menschliche Auge Konturen von Gegenständen wahrnimmt. Um ein solches Bild zu zeichnen, kann man bei OpenCV den Gaussian Filter oder den Sobel derivative Filter" einsetzen. Auch kann OpenCV die Kanten selbst erkennen, dies geschieht zum Beispiel mit den "Sobel Detector", den "Canny Edge Detector" oder den "Laplacian Operator".[1.3]
 

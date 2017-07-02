@@ -45,8 +45,7 @@ Einige bekannte Algorithmen:
 Die Korrelationsanalyse untersucht die Korrelation (Abhängigkeit) zwischen den Attributen über alle Daten. Die Stärke wird durch den Korrelationskoeffizienten ausgedrückt. 
 Das Ergebnis der Korrelationsanalyse ist meistens eine Korrelationsmatrix, welche alle Korrelationskoeffizienten der Attribute zueinander enthält.
 
-TODO:
-[BILD]
+![Alternativer Text](Titanic-correlation.PNG)
 
 Diese Korrelationsmatrix wurde mithilfe von Rapidminer erstellt und zeigt die Koeffizienten des "Titanic-Datensatzes". 
 Der Datensatz ist zu finden unter <https://www.kaggle.com/c/titanic/data>.

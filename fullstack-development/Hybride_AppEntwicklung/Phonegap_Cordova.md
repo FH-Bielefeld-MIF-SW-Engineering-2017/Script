@@ -11,3 +11,7 @@ PhoneGap/Cordova besteht ausfolgenden zwei Teilen: der Cordova.js und Nativen En
 In Abbildufng 2 kann man die Architektur von PhoneGap/Cordova sehen. In der Abbildung wird die Schnittstelle zwischen der App und dem mobilen Betriebssystem gezeigt. Die Plug-Ins kommunizieren mit dem mobilen Betriebssystem über eine eigene API und auch die WebView kommuniziert mit der API vom mobilen Betriebssystem. Die Plug-Ins kommunizieren mit der WebView, da die Plug-Ins in Javascript geschrieben sind. Der Entwickler benutzt die JavaScript-Funktionen, um die Sensoren und Service vom mobilen Betriebssystem zu verwenden.
 
 Der HTML5-Code und das Cordova.js werden in der WebView geladen. Danach werden die PhoneGap/Cordova Plug-Ins für die passende Native Engine geladen. Aus der WebView heraus wird der Browser geladen und die App wird dort angezeigt. Der Browser interpretiert den HTML5-Code und zeigt ihn an. PhoneGap/Cordova unterdrückt die Bedienelemente vom Browser, sodass der Nutzer nicht merkt, dass die App im Browser läuft. Der Browser fängt den PhoneGap/Cordova -Aufruf der eigenen JavaScript-Datei ab und ruft den passenden nativen Aufruf der jeweiligen Plattform auf über die Plug-Ins, die dann mit dem System des Mobile Device interagieren. Das Ergebnis kommt per JavaScript Callback an die Anwendung zurück und kann dann dargestellt oder verarbeitet werden mit dem Browser.  [5] [6] [7]
+
+![Abbildung 2: Allgemeine Architektur von PhoneGap/Cordova.](/assets/phonegap-cordova-architektur.jpg)
+
+Abbildung 2: Allgemeine Architektur von PhoneGap/Cordova. [11]

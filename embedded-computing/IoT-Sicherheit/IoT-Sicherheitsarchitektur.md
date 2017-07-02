@@ -1,18 +1,13 @@
 ## Sicherheitsarchitektur
 ![IoT-Sicherheitsarchitektur](img/IoT_security_architecture2.png)
 *IoT-Sicherheitsarchitektur. Angelehnt an Fig. 3 in [3](quellen.md) und Fig. 2 in [2](quellen.md)*
-Die Sicherheitsarchitektur des Internet der Ding lässt sich, wie in der obigen Grafik abgebildet, in drei Schichten
-unterteilen: Wahrnehmungsschicht (perception layer), Netzwerkschicht (network layer) und Anwendungsschicht (application layer).
-Jede Schicht besteht aus ein oder mehreren Sicherheitsschichten, die jeweils Details zu Informationssicherheit, physischer
-Sicherheit und Management-Sicherheit enthalten. Die Informationssicherheit beschreibt, wie Daten gesichert sind, während
+
+Die Sicherheitsarchitektur des Internet der Dinge lässt sich, wie in der obigen Grafik abgebildet, in drei Schichten
+unterteilen: Wahrnehmungsschicht (Sensing Layer), Netzwerkschicht (Network Layer) und Anwendungsschicht (Application Layer).
+Jede Schicht hat jeweils bestimmte Anforderungen an die Informationssicherheit, physische
+Sicherheit und Management-Sicherheit. Die Informationssicherheit beschreibt, wie die Daten selbst  gesichert sind, während
 die physische Sicherheit den Schutz der Hardware beschreibt. Unter Management-Sicherheit versteht man den Zugriffsschutz
-von Daten und Geräten.
-So gehören Geräte und Sensoren, die mit der direkten Aufnahme von Informationen aus der Umwelt beschäftigt sind, in
-die Wahrnehmungsschicht. Die Daten aus der Wahrnehmungsschicht werden dann an die Netzwerkschicht weitergeben, die den
-Transport der Daten von der Wahrnehmungsschicht zur Anwendungsschicht sicherstellen soll.
-Die Anwendungsschicht ist in zwei weitere Schichten unterteilt: Die Service-Schicht (service layer), welche die Business Logik
-sowie Datenbanken enthält, und die Interface-Schicht (interface layer), welche verschiedenen Schnittstellen zur Verfügung
-stellt: Zum Beispiel Benutzeroberflächen (application frontend) oder APIs. [2](quellen.md)
+von Daten und Geräten. [2](quellen.md)
 
 ### Wahrnehmungsschicht
 In der Wahrnehmungsschicht befindet sich Geräte, die Daten von Sensoren zusammentragen, diese verarbeiten und anschließend
@@ -31,8 +26,12 @@ muss auch sichergestellt werden.
 [2](quellen.md)
 
 ### Anwendungsschicht
-Die Anwendungsschicht erhält Informationen aus den darunterliegenden Schichten und verarbeitet diese. Die Service-Schicht
-ist dabei für die Verarbeitung und Speicherung der Informationen zuständig wohingegen die darüber liegende Interface-Schicht
+Die Anwendungsschicht erhält Informationen aus den darunterliegenden Schichten und verarbeitet diese.
+Sie ist in zwei weitere Schichten unterteilt: Die Service-Schicht (Service Layer), welche die Business Logik
+sowie Datenbanken enthält, und die Interface-Schicht (Interface Layer), welche verschiedenen Schnittstellen zur Verfügung
+stellt: Zum Beispiel Benutzeroberflächen (application frontend) oder APIs.
+
+Die Service-Schicht ist dabei für die Verarbeitung und Speicherung der Informationen zuständig wohingegen die darüber liegende Interface-Schicht
 nur Schnittstellen für Benutzer und andere Dienste/Programme anbietet. Der Sicherheitsschwerpunkt bei der Service-Schicht liegt
 bei der Informationssicherheit (sichere Speicherung von Daten) wobei bei der Interface-Schicht der Sicherheitsschwerpunkt bei
 der Management-Sicherheit liegt. Die Interface-Schicht hat dafür zu sorgen, dass unberechtigte Personen und Dienste sowie Programme

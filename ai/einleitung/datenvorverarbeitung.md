@@ -1,4 +1,4 @@
-## Datenvorbereitung
+## Datenvorverarbeitung
 
 In den meisten Fällen (abhängig von der Datenquelle) sind rohe Textdaten nicht gut formatiert, nicht standardisiert und nicht strukturiert.
 Mithilfe  von diversen Techniken aus dem Bereich des _text-preprocessing_ sollen die Daten in definierte Sequenzen aus linguistischen Komponenten umgewandelt werden,

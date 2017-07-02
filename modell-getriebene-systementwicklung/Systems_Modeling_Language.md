@@ -4,7 +4,7 @@ Die Systems Modeling Language (SysML) ist eine allgemeine grafische Modellierung
 
 ![](/assets/schnittmenge_uml_sysml.jpg)
 
-**SysMLDiagramme **
+**SysMLDiagramme**
 
 Die SysML umfasst insgesamtneun Diagramme. Das Use Case-, Sequence-, State Machine- und Package Diagramm wurden von der UML übernommen. Das Activity-, Block Definition- und Internal Block Diagramm wurden auch von der UML übernommen, enthalten jedoch Modifikationen. Das Requirement Diagramm und Paramteric Diagramm sind neu in der SysML. Die nachfolgende Abbildung zeigt die Hierarchie der Diagramme.
 

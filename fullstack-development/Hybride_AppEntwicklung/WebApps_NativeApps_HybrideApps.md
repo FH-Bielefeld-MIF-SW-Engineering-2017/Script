@@ -1,12 +1,12 @@
-# 1. Unterschiede zwischen Web-Apps, Native Apps und Hybride Apps
+# 2. Unterschiede zwischen Web-Apps, Native Apps und Hybride Apps
 
-## 1.1 Web-Apps
+## 2.1 Web-Apps
 Web-Apps werden mit JavaScript, HTML und CSS entwickelt. Web-Apps laufen im Browser, da Web-Apps Mobile/Responsive Seiten sind. Sie passen sich jeder Größe genau an und sind plattformunabhängig, da jedes Smartphone einen eigenen Browser mit sich bringt. Sie können aber nicht im App Store veröffentlich werden und unterstützen keine nativen Gerätefunktionen wie z.B. die Benutzung der Kamera oder das Auslesen der Kontakte. [1]
 
-## 1.2	Native Apps
+## 2.2	Native Apps
 Native Apps werden mit plattformabhängigen Programmiersprachen wie Java für Android, Objective-C für IOS usw. entwickelt. Dadurch können die Apps im App Store der jeweiligen Plattform angeboten und heruntergeladen werden. Native Apps unterstützen die nativen Gerätefunktionen z.B. die Benutzung der Kamera im Vergleich zu Web-Apps. Sie sind aber nicht plattformunabhängig wie Web-Apps, da Sie für jede Plattform (Android, IOS usw.) neu entwickelt werden. Denn jede Plattform hat ihre eigene Programmiersprache. Die Wartung ist hoch, denn jede einzelne App muss getestet und gewartet werden und Updates müssen einzeln angepasst werden. Es gibt viele verschiedene Geräte z.B. Smartphones und Tablets für die auch einzelnen Apps realisiert werden. [2]
 
-## 1.3 Hybride Apps
+## 2.3 Hybride Apps
 Hybride Apps kombinieren die Vorteile beider vorherigen App Varianten in einer. Hybride Apps werden genau wie Web-Apps mit JavaScript, HTML und CSS entwickelt. Sie können aber im App Store veröffentlicht und heruntergeladen werden wie Native Apps. Sie laufen in einem spezifischen Browser der jeweiligen Plattform, unterstützen aber auch native Gerätefunktionen der gewählten Plattform. Sie haben nicht so eine gute Performanz wie Native Apps, bei Spielen kann es daher zu Leistungseinbrüchen kommen, da empfiehlt sich lieber native Apps zu entwickeln. Ein großer Vorteil von hybriden Apps ist, wenn sie einmal entwickelt und getestet wurden, können Sie für jede Plattform erstellt werden. Man spart sich die Zeit mehrere Apps für jedes System einzeln zu entwickeln. Dadurch ist die App leichter zu warten und auch Updates können besser eingespielt werden, da sie auf einer App basieren. [3]
 
 Die folgende Tabelle zeigt die Unterschiede für die einzelnen App-Varianten im Vergleich zu den anderen.

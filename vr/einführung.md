@@ -20,7 +20,7 @@ In der heutigen Zeit wird ferner die sogenannte Immersion (engl.: immersive - ei
 Wie der Name vermuten lässt, sind Head-Mounted Displays (**HMD**) Projektionseinheiten, welche auf dem Kopf getragen werden. Sie fallen je nach Einsatzgebiet in verschiedenen Größen aus (z.B. Brillenform oder Helmform) und haben verschiedene Darstellungsweisen. Dementsprechend können **HMDs** sowohl für Augmented Reality (siehe **AR**) als auch für **VR** genutzt werden.
 **HMDs** nutzen speziell für **VR** die Eigenschaften des stereoskopischen Sehens: Indem sie auf zwei Microdisplays, welche sich nah an den Augen befinden, das gleiche Bild, jedoch mit geringfügig unterschiedlichen Blickwinkeln projizieren, entsteht eine Tiefenwahrnehmung der abgebildeten Szene, welche die Szene realistischer erscheinen lässt.
 
-###Funktionsweise
+### Funktionsweise
 
 ![](/assets/VR-HMD_Projection_Concept.jpg) 
 

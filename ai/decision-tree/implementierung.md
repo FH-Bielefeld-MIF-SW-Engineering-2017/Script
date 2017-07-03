@@ -26,7 +26,7 @@ print(result)
 ## Decision Tree für Sentimentanalyse
 Im Bezug auf das Projekt wird für die Variable x (_samples x features_ Matrix) der Output des Kapitels _Datenvorverarbeitung_ vorgestellten Verfahrens verwendet. Variable y (Klassenbezeichnungen) sind die Klassifizierungen der Trainingsdaten.
 > from sklearn import tree  
-vectorizer = _<siehe Kapitel Datenvorbereitung!>  
+vectorizer = _<Der vectorizer ist der Output der Datenvorverarbeitung>_  
 df = pd.read_csv("training_data.csv", usecols=["ItemID", "Sentiment", "SentimentSource", "SentimentText"])  
 y = df.Sentiment  
 x = vectorizer.fit_transform(df.SentimentText)  

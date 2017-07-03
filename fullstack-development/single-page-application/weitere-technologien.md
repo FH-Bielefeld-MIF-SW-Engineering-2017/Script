@@ -1,6 +1,0 @@
-# Weitere technologische Ansätze
-
-\[...\]
-
-
-

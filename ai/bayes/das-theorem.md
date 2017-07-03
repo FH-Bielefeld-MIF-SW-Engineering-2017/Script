@@ -27,3 +27,6 @@ K das Ereignis bzw. die Klasse der Instanz beschreibt.
 
 Hierbei ist davon auszugehen, dass alle Attribute unabhängig voneinander sind, sodass wir die Attribute einfach aufteilen können.
 Deswegen wird dieser Bayes Klassifikator auch als naiv oder simpel bezeichnet. 
+
+___	
+Author: Sven Schirmer

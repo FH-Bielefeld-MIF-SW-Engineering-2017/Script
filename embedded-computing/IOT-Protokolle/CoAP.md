@@ -10,7 +10,7 @@ Server stellen an einem bestimmten Pfad („/.well-known/core“) eine Liste der
 ### Confirmable und Non-Confirmable Nachrichten
 Bei REST wird durch das TCP Protokoll jede Nachricht zu nahezu 100% zugestellt. Hierzu werden die Nachrichten durch ein „ACK“ von Empfänger bestätigt. Obwohl CoAP auf UDP setzt, eine solche Funktion also nicht im darunterliegenden Protokoll verfügbar ist, können wichtige Nachrichten als solche gekennzeichnet werden, sodass eine Empfangsbestätigung vom Empfänger gesendet werden muss. Allerdings lässt sich dieses Feature für jede Nachricht getrennt definieren, sodass es auch, für „unwichtige“ Daten den Nachrichtentyp „Non-Confirmable“ gibt – „fire'n'forget“ [9](Quellen.md).  
 
-![alt text](../../assets/coap.png "CoAP Confirmable und Non-Confirmable")
+![alt text](/assets/coap.png/ "CoAP Confirmable und Non-Confirmable")
 
 ### Sicherheit
 Da CoAP nicht auf TCP basiert, sind SSL und TLS nicht einfach zu nutzen. Um trotzdem eine Verschlüsselung zu bieten nutzt CoAP „Datagram Transport Layer Security“ (DTLS) [15](Quellen.md). Dieses basiert weitestgehend auf TLS und bietet den Clients eine RSA oder AES Verschlüsslung [16](Quellen.md).      

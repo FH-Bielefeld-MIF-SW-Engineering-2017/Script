@@ -304,6 +304,7 @@
     * [Einleitung](embedded-computing/IoT-Sicherheit/Einleitung.md)
     * [IoT-Sicherheitsarchitektur](embedded-computing/IoT-Sicherheit/IoT-Sicherheitsarchitektur.md)
     * [Vorfälle](embedded-computing/IoT-Sicherheit/Vorfälle.md)
+    * [Distributed Denial of Service (DDoS)](embedded-computing/IoT-Sicherheit/DDoS.md)
     * [Probleme](embedded-computing/IoT-Sicherheit/Probleme.md)
     * [Mögliche Lösungsansätze](embedded-computing/IoT-Sicherheit/Lösungsansätze.md)
   * [SmartHome](embedded-computing/smarthome.md)

@@ -23,9 +23,7 @@ Das dies möglich ist, wird bewiesen durch:
 ![](/assets/eigenwertzerlegungL.png)
  * Schritt 5.3: Bei linksseitiger Multiplikation mit A ergibt sich:  
 ![](/assets/linksseitigMulti.png)
- * Schritt 5.4: Sei nun:  
- ![](/assets/beweis.png)  
-So ergibt sich aus der Eigenwertzerlegung von L dieselbe wie von C. Damit ist es bewiesen. Die erhaltenen Vektoren von v sind die Eigenvektoren, wobei nur die mit den höchsten Eigenwert von Interesse sind. Die u's müssen noch normalisiert werden.
+ * Schritt 5.4: Sei nun ![](/assets/beweis.png), So ergibt sich aus der Eigenwertzerlegung von L dieselbe wie von C. Damit ist es bewiesen. Die erhaltenen Vektoren von v sind die Eigenvektoren, wobei nur die mit den höchsten Eigenwert von Interesse sind. Die u's müssen noch normalisiert werden.
 * Schritt 6: Schlussendlich können die ausgerechneten Eigengesichter dann in einem Gesichtsraum projiziert werden, so dass man den daraus erhaltenen Vektor für die Gesichtswiedererkennung nutzen kann.  
 ![](/assets/projizieren.png)
 * Schritt 7: Der aus Schritt 6 erhaltene Vektor lässt sich für die Gesichtswiedererkennung nutzen:  

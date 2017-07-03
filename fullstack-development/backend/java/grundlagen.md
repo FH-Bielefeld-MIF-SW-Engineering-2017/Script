@@ -1,3 +1,0 @@
-# Grundlagen 
-
-Autor: Malte Berg

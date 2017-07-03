@@ -19,7 +19,8 @@ Das Konzept der virtuellen Maschine ist die geläufige Technologie, um virtuelle
 
 Auf dem Hardwaresystem wird das Gastgeber- bzw. Hauptbetriebssystem ausgeführt, das direkten Zugriff auf die Hardware hat. Im Hauptbetriebssystem wird eine virtualisierende Software als Benutzerprogramm ausgeführt, die man als Virtual Machine Monitor (VMM) oder Hypervisor bezeichnet. Bei einem solchen Hypervisor handelt es sich um einen Typ-2-Hypervisor bzw. Hosted Hypervisor, da er auf dem Hauptbetriebssystem aufsetzt und über dessen Gerätetreiber auf die Hardware-Ressourcen zugreift; das Gegenstück ist der Typ-1-Hypervisor bzw. Native Hypervisor, der als Metabetriebssystem mit eigenen Gerätetreibern direkt auf der Hardware aufsetzt und diese virtuell dupliziert, um sie mehreren Gastbetriebssystemen zur Verfügung zu stellen (vgl. Abbildung). [11](quellen.md)
 
-![Location of type 1 and type 2 hypervisors](../assets/location-of-type-1-and-type-2-hyperisors.png "Abbildung: Unterschied zwischen einem Typ-1- und einem Typ-2-Hypervisor [11]")
+![Location of type 1 and type 2 hypervisors](/assets/location-of-type-1-and-type-2-hyperisors.png "Abbildung: Unterschied zwischen einem Typ-1- und einem Typ-2-Hypervisor [11](quellen.md)")
+Abbildung: Unterschied zwischen einem Typ-1- und einem Typ-2-Hypervisor [11](quellen.md)
 
 Gebräuchlich ist die Virtualisierung mittels Typ-2-Hypervisor (im Folgenden Hypervisor), da dieser betriebssystemspezifisch ist und dadurch eine Virtualisierung auf verschiedensten Hardware-Systemen möglich ist, sofern das Hauptbetriebssystem über die Gerätetreiber verfügt (was bei etablierten Betriebssystemen gegeben ist).
 
@@ -32,7 +33,8 @@ Eine andere Art der Virtualisierung ist die sogenannte Virtualisierung auf Betri
 
 Bei dieser Virtualisierungsart werden mehrere Instanzen des User Space erzeugt, die man Container nennt. Die Trennung ergibt sich durch die Verwendung einzigartiger Namespaces für jeden Container. Innerhalb eines Containers wird eine Applikation zusammen mit allen benötigten Bibliotheken und Binaries ausgeführt. Durch die verschiedenen Namespaces sind die Container voneinander unabhängig und isoliert, wordurch es wiederum für die jeweilig eingebetten Applikationen den Schein eines eigenen Systems macht. Verwaltet werden die Container im Hauptbetriebssystem durch ein Container-Subsystem. Gemeinsame Systemgrundlage der Container ist der Kernel des Hauptbetriebssystems. Das bringt die Einschränkung mit sich, das bei Containerisierung kein anderes Betriebssystem als das des Hosts simuliert werden kann. Unter Linux können jedoch verschiedene Distributionen in Containern auf einem Hardwaresystem ausgeführt werden, sofern diese auf der gleichen Kernelversion beruhen.
 
-![Virtualization vs. Containers](../assets/virtualization-vs-containers.png "Abbildung: Architektonischer Unterschied zwischen Virtalisierung und Containerisierung [13](quellen.md)")
+![Virtualization vs. Containers](/assets/virtualization-vs-containers.png "Abbildung: Architektonischer Unterschied zwischen Virtalisierung und Containerisierung [13](quellen.md)")
+Abbildung: Architektonischer Unterschied zwischen Virtalisierung und Containerisierung [13](quellen.md)
 
 Anders als bei einer virtuellen Maschine wird neben dem Hauptbetriebssystem kein weiteres Betriebssystem ausgeführt, weshalb es keinen Hypervisor braucht (vgl. Abbildung). Die verschiedenen Größen der einzelenen Komponeten in der Abbildung verdeutlichen den ungleich großen Ressourcenbedarf zwischen Virtualisierung- und Container-Frameworks. [13](quellen.md)
 
@@ -52,10 +54,12 @@ Das erste Werkzeug, mit dem eine Art Containerisierung möglich war, ist das Lin
 
 Docker setzte sich im Laufe der letzten Jahre sowohl im Open Source als auch im industriellen bzw. kommerziellen Umfeld durch und ist mittlerweile der defacto-Standard (vgl. Abbildung) [19](quellen.md).
 
-![Docker Pulls Chart](../assets/docker-pulls-chart.png "Abbildung: Veranschaulichung des Wachstums des Docker-Ökosystems anhand der steigenden Anzahl an Pulls auf DockHub [19](quellen.md)")
+![Docker Pulls Chart](/assets/docker-pulls-chart.png "Abbildung: Veranschaulichung des Wachstums des Docker-Ökosystems anhand der steigenden Anzahl an Pulls auf DockHub [19](quellen.md)")
+Abbildung: Veranschaulichung des Wachstums des Docker-Ökosystems anhand der steigenden Anzahl an Pulls auf DockHub [19](quellen.md)
 
 Das Docker-Framework besitzt mit der Docker-Engine sein eigenes Container-Subsystem zur Ausführung von Containern. Die Implementierug basiert auf der Container-Runtime containerd [20](quellen.md). Die Stärke des Docker-Frameworks liegt in der Verfügbarkeit von etlichen standardisierten Images aller gebräuchlich Systemkoponenten (JRE, .NET, Apache Server, SQL Datenbank u.v.m.), die dynamisch konfiguriert und miteinander verknüpft werden können. Bereitgestellt werden alle Images über die Online-Plattform DockHub, von der die lokale Docker-Applikation bei Bedarf auch automatisch benötigte Images bezieht, um einen Container zusammenzubauen. Neue standardisierte Images können von jedermann implementiert und über DockHub angeboten werden. Die Konfiguration eines Containers erfolgt entweder aus der Konsole heraus über den parametrisierten Startbefehl oder mit einem Konfigurationsskript in YAML über das separate Werkzeug Docker-Compose (vgl. Abbildung). Letzteres macht die Verwendung im Kontext von CI-Servern sehr attraktiv.
 
-![Docker Workflow](../assets/docker-workflow.jpg "Erzeugung eines konfigurierten Containers mit Docker-Compose [21](quellen.md)")
+![Docker Workflow](/assets/docker-workflow.jpg "Erzeugung eines konfigurierten Containers mit Docker-Compose [21](quellen.md)")
+Abbildung: Erzeugung eines konfigurierten Containers mit Docker-Compose [21](quellen.md)
 
 ## Jenkins

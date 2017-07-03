@@ -318,6 +318,7 @@
     * [Verschiedene Aspekte des Smart Home](embedded-computing/smarthome/verschiedene-aspekte-des-smart-home.md)
     * [Technische Umsetzung](embedded-computing/smarthome/technische-umsetzung.md)
     * [Fazit](embedded-computing/smarthome/fazit.md)
+    * [Bibliografie](embedded-computing/smarthome/bibliografie.md)
   * [Gesichtserkennung mit OpenCV](embedded-computing/gesichtserkennung.md)
     * [Einführung](embedded-computing/gesichtserkennung/einfuhrung.md)
     * [Was ist OpenCV?](embedded-computing/gesichtserkennung/opencv.md)

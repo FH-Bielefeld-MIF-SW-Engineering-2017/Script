@@ -42,7 +42,7 @@ Unter das Wort Sicherheitsproblem fallen viele Probleme:
 
 * Schwachstellen (Defekte oder Schwächen eines Systems)
 * Bedrohungen (Ausnutzen von Schwachstellen)
-* Lücken
+* Lücken (Defekte oder Schwächen eines Systems)
 * Angriffe (Ausnutzen einer Bedrohung)
 * Risiken (Wahrscheinlichkeit eine Schwachstelle auszunutzen)
 

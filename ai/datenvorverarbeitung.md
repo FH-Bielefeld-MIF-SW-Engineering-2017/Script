@@ -52,3 +52,6 @@ print(normalized_text)
 ___
 
 <b id="fn1"></b>1. Sarkar, D.: Text Analytics with Python. Apress (Herausgeber) (2016) [↩](#fn1_1)[↩](#fn1_2)
+
+___
+Author: Yannick Kloss

@@ -30,6 +30,5 @@
 
 16. Angular. Angular - Router. [https://angular.io/guide/router](https://angular.io/guide/router), 2017f. Aufgerufen: 02.07.2017 20:00
 
-17. 
 
 

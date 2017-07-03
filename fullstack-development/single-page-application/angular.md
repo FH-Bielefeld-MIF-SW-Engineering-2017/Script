@@ -14,7 +14,7 @@ _Abbildung 1: Angular Architektur \(Angular 2017a\)_
 
 #### Module
 
-Die Module werden als Angular Module oder NgModule bezeichnet. Jede Applikation besteht aus mindestens einem Modul, dem sogenannten root module, in der Regel **AppModule **genannt.
+Die Module werden als Angular Module oder NgModule bezeichnet. Jede Applikation besteht aus mindestens einem Modul, dem sogenannten root module, in der Regel **AppModule** genannt.
 
 ```
 import { NgModule }      from '@angular/core';
@@ -29,16 +29,16 @@ import { BrowserModule } from '@angular/platform-browser';
 export class AppModule { }
 ```
 
-_Code-Ausschnitt 1: AppModule _
+_Code-Ausschnitt 1: AppModule_
 
 In diesem Modul werden alle anderen notwendigen Module geladen, dazu gehören die Module bzw.Bibliotheken die Angular selber stellt, weitere Software die z.B. über NPM hinzugefügt wurde, sowie die eigens geschriebenen Komponenten und Services der Applikation \(siehe Code-Ausschnitt 1: AppModule\).
 
 * **@NgModule** ist ein Decorator, der alle Module der Applikation als ein MetaData-Objekt zusammenfasst.
-* **Imports **listet alle Module, deren exportierte Klassen und Funktionalitäten in den Komponenten gebraucht werden \(z.B. das RoutingModule, dessen Funktionen zum navigieren zwischen Komponenten nötig ist\)
-* **Providers **listet die Service Module, die initial instanziiert werden und in allen anderen Modulen aufgerufen werden können
-* **Declarations **listet die View-Klassen der Applikation, die vom User geschriebenen Komponenten, Direktiven und Pipes.
-* **Exports **listet Deklarationen, die in den Templates anderer Module aufgerufen werden können
-* **bootstrap **definiert die root Komponente, der Ausgangspunkt der Applikation und somit die erste geladene Sicht, über die auf die weiteren Komponenten zugegriffen werden kann.
+* **Imports** listet alle Module, deren exportierte Klassen und Funktionalitäten in den Komponenten gebraucht werden \(z.B. das RoutingModule, dessen Funktionen zum navigieren zwischen Komponenten nötig ist\)
+* **Providers** listet die Service Module, die initial instanziiert werden und in allen anderen Modulen aufgerufen werden können
+* **Declarations** listet die View-Klassen der Applikation, die vom User geschriebenen Komponenten, Direktiven und Pipes.
+* **Exports** listet Deklarationen, die in den Templates anderer Module aufgerufen werden können
+* **bootstrap** definiert die root Komponente, der Ausgangspunkt der Applikation und somit die erste geladene Sicht, über die auf die weiteren Komponenten zugegriffen werden kann.
 
 Beim Starten wird die SPA über das root module gebaut und aufgerufen, welches die SPA anschließend dem Browser präsentiert. Dies geschieht nach gegebenen Konventionen in einer übergeordneten Datei, wie der "main.ts" \(siehe Code-Ausschnitt 2: main.ts Beispiel\).
 
@@ -88,7 +88,7 @@ In einem Konstruktor werden Services für den lokalen Zugriff innerhalb der Komp
 ![](/assets/template-metadata-component.png)  
 _Abbildung 2: MetaData-Verknüpfung zwischen Template und Komponente \(Angular 2017a\)_
 
-Dem **@Component** Decorator können verschiedene Attribute mitgegeben werden, unter anderem ein Verweis auf eine HTML und eine CSS Datei. Der **selector **ist der HTML-Tag, über den die Komponenten innerhalb einer anderen Komponente aufgerufen werden könnte. Erst diese Angaben machen aus der Klasse SearchComponent eine Komponente im Angular Kontext.
+Dem **@Component** Decorator können verschiedene Attribute mitgegeben werden, unter anderem ein Verweis auf eine HTML und eine CSS Datei. Der **selector** ist der HTML-Tag, über den die Komponenten innerhalb einer anderen Komponente aufgerufen werden könnte. Erst diese Angaben machen aus der Klasse SearchComponent eine Komponente im Angular Kontext.
 
 #### Input und Output Attribute
 
@@ -145,7 +145,7 @@ Das Template kann entweder in einer separaten Datei definiert werden oder direkt
 
 _Code-Ausschnitt 6: Auszug aus HTML Template mit data-binding_
 
-**result-app** ist in diesem Fall der selector einer anderen Komponente, die in einer Schleife mehrfach aufgerufen und in der View generiert wird \(siehe Code-Ausschnitt 6: Auszug aus HTML Template mit data-binding\). Das in Klammern stehende **\[result\] ** ist wiederum eine Input-Variable innerhalb der result-Komponente.
+**result-app** ist in diesem Fall der selector einer anderen Komponente, die in einer Schleife mehrfach aufgerufen und in der View generiert wird \(siehe Code-Ausschnitt 6: Auszug aus HTML Template mit data-binding\). Das in Klammern stehende **\[result\]** ist wiederum eine Input-Variable innerhalb der result-Komponente.
 
 Result-App ist in diesem Fall eine Kind-Komponenten von der SearchComponent und wird innerhalb des Template der Eltern-Komponenten aufgerufen. Dieses Verhalten ist hierarchisch organisiert \(siehe Abbildung 4: Hierachie der Komponenten\)
 
@@ -187,7 +187,7 @@ _Code-Ausschnitt 9: \*ngSwitch Beispielcode_
 
 Diese Direktiven funktionieren als klassische HTML-Attribute, die Variablen aus der Komponente mit den Attributen verknüpfen und so das Verhalten des HTML-Elements beeinflussen. Neben ngModel \(welches im folgenden Kapitel genauer beschrieben wird\) wird auf 2 relevante Direktiven eingegangen. _\(Angular 2017b\)_
 
-**ngClass **fügt ein komplettes Set an potenziellen Klassen hinzu, indem eine Liste aus Schlüssel-Wert Paaren bestimmt welche Klassen aktuell aktiv sein sollten für das jeweilige Element.
+**ngClass** fügt ein komplettes Set an potenziellen Klassen hinzu, indem eine Liste aus Schlüssel-Wert Paaren bestimmt welche Klassen aktuell aktiv sein sollten für das jeweilige Element.
 
 ```
 <div [ngClass]="currentClasses">This div is initially saveable, unchanged, and special</div>
@@ -195,7 +195,7 @@ Diese Direktiven funktionieren als klassische HTML-Attribute, die Variablen aus 
 
 _Code-Ausschnitt 10: ngClass Beispielcode_
 
-**ngStyle **funktioniert nach der gleichen Methode, verschiedene Styles können wiederum durch weitere Variablen beeinflusst werden, die beim Setzen der Schlüssel-Wert Paare abgerufen werden.
+**ngStyle** funktioniert nach der gleichen Methode, verschiedene Styles können wiederum durch weitere Variablen beeinflusst werden, die beim Setzen der Schlüssel-Wert Paare abgerufen werden.
 
 ```
 <div [ngStyle]="currentStyles"> </div>
@@ -289,7 +289,7 @@ Aufgerufen wird eine Methode, die das PipeTransform-Interface implementiert, wel
 
 **Pure** Pipes werden lediglich aufgerufen, wenn sich der triviale Inputparameter ändert \(String, Boolean, Integer etc\) oder ein komplett neues Objekt oder Array eingespeist wird. Die Pipe wird jedoch nicht getriggert, sollte ein Attribut eines Objektes geändert oder einem Array ein Element hinzugefügt werden.
 
-**Impure **Pipes hingegen reagieren auf jede Veränderung, weswegen sie grade bei komplexeren Aufgaben und größeren Inputs die Performance negativ beeinflussen können.
+**Impure** Pipes hingegen reagieren auf jede Veränderung, weswegen sie grade bei komplexeren Aufgaben und größeren Inputs die Performance negativ beeinflussen können.
 
 ### Services
 
@@ -417,11 +417,11 @@ export class RoutingModule { }
 
 _Code-Ausschnitt 19: Ausgelagertes Routing Modul_
 
-* Jede **Route **stellt dabei einen Endpunkt dar, zu dem navigiert werden kann und zu dem eine entsprechende URL innerhalb der SPA existiert. Routen können verschachtelt werden, sodass manche Views nur über andere erreichbar sind. 
-* Durch **redirectTo **können z.B. bei keiner oder Falscheingabe einer Route, ein allgemeiner Fallback-Startpunkt für den Nutzer festgelegt werden. Dazu ist zusätzlich das **pathMatch **Attribut notwendig.
-* Mit Hilfe von **canActivate **können zusätzlich Services eingesponnen werden, die über eine bestimmte Methode zurückgeben, ob der Nutzer zu einer bestimmten Route navigieren darf.
-* Über einen Doppelpunkt werden die **Parameter **definiert, die eine Route bzw. die Komponente dahinter erwartet.
-* Es ist auch möglich **Wildcards **über Pfadangaben wie "\*\*" zu erteilen oder andere Formen eines RegEx Statements zu verwenden.
+* Jede **Route** stellt dabei einen Endpunkt dar, zu dem navigiert werden kann und zu dem eine entsprechende URL innerhalb der SPA existiert. Routen können verschachtelt werden, sodass manche Views nur über andere erreichbar sind. 
+* Durch **redirectTo** können z.B. bei keiner oder Falscheingabe einer Route, ein allgemeiner Fallback-Startpunkt für den Nutzer festgelegt werden. Dazu ist zusätzlich das **pathMatch **Attribut notwendig.
+* Mit Hilfe von **canActivate** können zusätzlich Services eingesponnen werden, die über eine bestimmte Methode zurückgeben, ob der Nutzer zu einer bestimmten Route navigieren darf.
+* Über einen Doppelpunkt werden die **Parameter* *definiert, die eine Route bzw. die Komponente dahinter erwartet.
+* Es ist auch möglich **Wildcards** über Pfadangaben wie "\*\*" zu erteilen oder andere Formen eines RegEx Statements zu verwenden.
 
 #### Router Outlet
 
@@ -449,7 +449,7 @@ _Code-Ausschnitt 21: Navigation mit Router_
 
 #### Status
 
-Der Status des Routers kann über das Attribut **RouterState **aus jeder Komponente heraus abgerufen werden. Nach jeder erfolgreichen Navigation baut der Router dabei einen Baum aus **ActivatedRoute **Objekten auf, der den aktuellen Status des Routers darstellt. Die Activatedroute Objekte bieten dem Nutzer Methoden zum traversieren über den Baum.
+Der Status des Routers kann über das Attribut **RouterState** aus jeder Komponente heraus abgerufen werden. Nach jeder erfolgreichen Navigation baut der Router dabei einen Baum aus **ActivatedRoute** Objekten auf, der den aktuellen Status des Routers darstellt. Die Activatedroute Objekte bieten dem Nutzer Methoden zum traversieren über den Baum.
 
 #### Parameter Subscription
 

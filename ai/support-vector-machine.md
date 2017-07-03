@@ -32,3 +32,5 @@ ___
 
 <b id="Lu2016"></b>4. Lu, Y. (2016). Food Image Recognition by Using Convolutional Neural Networks (CNNs). Retrieved from http://arxiv.org/abs/1612.00983 [↩](#Lu2016a)
 
+___
+Author: Daniel Beneker

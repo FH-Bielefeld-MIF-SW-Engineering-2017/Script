@@ -15,6 +15,6 @@ Das WebSocket-Protokoll kann diese Nachteile durch die Nutzung einer einzigen TC
 Nach einem sog. _handshake_ der Teilnehmer (Client- und Host-Anwendung) kann der bidirektionale Nachrichtenaustausch beginnen.
 
 
-![](../../assets/longpolling_websocket.png)Abbildung A: Veranschaulichung Long Polling und WebSocket Kommunikation
+![](/assets/longpolling_websocket.png)Abbildung A: Veranschaulichung Long Polling und WebSocket Kommunikation
 
 

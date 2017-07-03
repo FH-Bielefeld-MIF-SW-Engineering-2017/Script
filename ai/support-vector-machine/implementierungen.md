@@ -1,10 +1,10 @@
 # Implementierungen
 
-Der Algorithmus Support-Vector-Machine ist in vielen verschiedenen Sprachen verfügbar. Viele greifen intern auf die Bibliothek [libSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) zurück und müssen dadruch nur ein Interface bereit stellen.
+Der Algorithmus Support-Vector-Machine ist in vielen verschiedenen Sprachen verfügbar. Viele greifen intern auf die Bibliothek [libSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) zurück und müssen dadurch nur ein Interface bereit stellen.
 
 ### PHP
 In php steht ein Interface zu [libSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) zur Verfügung.
-Es exestiert eine [Dokumentation](http://php.net/manual/de/book.svm.php), die die Installation und Nutzung erklärt.
+Es existiert eine [Dokumentation](http://php.net/manual/de/book.svm.php), die die Installation und Nutzung erklärt.
 Dort wurde auch folgendes Beispiel entnommen:
 
 ```php
@@ -25,7 +25,7 @@ $model->save('model.svm');
 ```
 
 ### Python (sklearn)
-Das bekannte Machine-Learning-Framework sklearn nutzt ebenfalls [libSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/).
+Das bekannte Machine-Learning-Framework *sklearn* nutzt ebenfalls [libSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/).
 Das folgende Beispiel, sowie andere Varianten des SVM-Algorithmus sind zu finden unter der [sklearn SVM Dokumentation](http://scikit-learn.org/stable/modules/svm.html).
 
 ```python
@@ -39,7 +39,7 @@ clf.predict([[2., 2.]])
 
 ### Java (weka)
 
-In Java steht SVM über das weka-Framework zur Verfügung. Die Dokumentation des Algorithmus, der intern ebenfalls [libSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) nutzt, ist [hier](https://weka.wikispaces.com/LibSVM#Reference%20(Weka)) zu finden.
+In Java steht SVM über das *weka*-Framework zur Verfügung. Die Dokumentation des Algorithmus, der intern ebenfalls [libSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) nutzt, ist [hier](https://weka.wikispaces.com/LibSVM#Reference%20(Weka)) zu finden.
 
 
 ### NodeJS

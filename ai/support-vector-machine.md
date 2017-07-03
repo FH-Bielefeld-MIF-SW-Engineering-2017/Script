@@ -8,7 +8,7 @@ Gegeben sei also eine Menge an Daten ![](https://latex.codecogs.com/gif.latex?\m
 Die Anfänge der Support Vector Machine liegen bereits einige Jahre zurück.
 Bereits im Jahr 1963 stellten Vladimir N. Vapnik und Alexey Ya. Chervonenkis den SVM-Algorithmus vor.<sup id="svdwikia">[[2]](#svdwiki)</sup>
 Die nächste größere Erfindung war der sogenannte *Kernel Trick*. Dieser wurde 1992 von Boser et. al. vorgestellt. <sup id="boser1992a">[[3]](#boser1992)</sup>
-Mit Hilfe des Kernel Tricks ist es möglich die Support Vector Machine auch auf nicht linear separierbare Daten anzuwenden. In den folgenden Jahren kamen nur noch wenige gerine Verbesserungen und Varianten veröffentlicht. Auch heutzutage wird dieser Algorithmus noch oft genutzt und dient ihn vielen wissenschaftlichen Arbeiten als Vergleich zu modernen Ansätzen.<sup id="Lu2016a">[[4]](#Lu2016)</sup>
+Mit Hilfe des Kernel Tricks ist es möglich die Support Vector Machine auch auf nicht linear separierbare Daten anzuwenden. In den folgenden Jahren wurden nur noch wenige geringe Verbesserungen und Varianten veröffentlicht. Auch heutzutage wird dieser Algorithmus noch oft genutzt und dient ihn vielen wissenschaftlichen Arbeiten als Vergleich zu modernen Ansätzen.<sup id="Lu2016a">[[4]](#Lu2016)</sup>
 
 
 Der weitere Teil dieser Arbeit ist wie folgt gegliedert:

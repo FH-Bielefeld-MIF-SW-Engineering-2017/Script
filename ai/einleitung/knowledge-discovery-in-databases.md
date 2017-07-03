@@ -8,13 +8,13 @@ Der Begriff *Knowledge Discovery in Databases* wird in der Literatur unterschied
 Das *Gabler Wirtschaftslexikon* definiert KDD wie folgt:
 >Knowledge-Discovery-in-Databases (KDD)-Prozess; umfassender Datenanalyseprozess, in dessen Kern Verfahren des Data Mining zur Anwendung kommen. Der-Knowledge-Discovery-in-Databases (KDD)-Prozess umfasst folgende Phasen:[...] <sup id="fn3_1">[[3]](#fn3)</sup>
 
-Hung (2009) beschreibt KDD als einen
+Hung (2009) beschreibt KDD als einen:
 > [...] nichttrivialer mehrstufiger Prozess der Wissensfindung aus vorhandenen Informationen. KDD-Prozess umfasst alle Schritte, von woher die Daten abgeholt werden, über Vorverarbeitung und eigentliche Verarbeitung zur Informationsgewinnung (Data-Mining-Schritt), bis hin wie die Endinformation interpretiert und dargestellt wird. <sup id="fn2_2">[[2]](#fn2)</sup>
 
 
 
 ### KKD-Prozess
-Fayyad et al. beschrieben 1996 erstmals die einzelnen Schritte, die bei der *Knowledge Discovery in Databases* genutzt werden. Dazu entwickelten sie ein Model, welches heuzutage oft unter den Begriffen "KDD Prozess" oder "Schritte des KDD" zu finden sind.
+Fayyad et al. beschrieben 1996 erstmals die einzelnen Schritte, die bei der *Knowledge Discovery in Databases* genutzt werden. Dazu entwickelten sie ein Model, welches heutzutage oft unter den Begriffen "KDD Prozess" oder "Schritte des KDD" zu finden sind.
 
 Nach Fayyad et al. besteht KDD aus den folgenden neun Schritten:<sup id="fn1_1">[[1]](#fn1)
 
@@ -28,7 +28,7 @@ Nach Fayyad et al. besteht KDD aus den folgenden neun Schritten:<sup id="fn1_1">
 8. Interpretation der Ergebnisse
 9. Anwendung des gefundenen Wissens
 
-Das *Fayyad Modell des KDD Prozesses* ist in Abbildung [1](#fig:kddprocess) dargestellt. Es handelt sich im ein iteratives Modell, dass bedeutet, die Schritte können mehrfach durchlaufen werden. Nach der Evaluation der Ergebnisse müssen eventuell einige Schritte neu durchlaufen werden, um das Ergebnisse in der Evaluation zu verbessern. So kann es beispielsweise sein, dass in der Evaluation auffällt, dass bei der Vorverarbeitung nicht alle unerwünschten Daten herrausgefiltert wurden.<sup id="fn1_2">[[1]](#fn1)</sup><sup id="fn2_3">[[2]](#fn2)</sup>
+Das *Fayyad Modell des KDD Prozesses* ist in Abbildung [1](#fig:kddprocess) dargestellt. Es handelt sich im ein iteratives Modell, dass bedeutet, die Schritte können mehrfach durchlaufen werden. Nach der Evaluation der Ergebnisse müssen eventuell einige Schritte neu durchlaufen werden, um das Ergebnisse in der Evaluation zu verbessern. So kann es beispielsweise sein, dass in der Evaluation auffällt, dass bei der Vorverarbeitung nicht alle unerwünschten Daten herausgefiltert wurden.<sup id="fn1_2">[[1]](#fn1)</sup><sup id="fn2_3">[[2]](#fn2)</sup>
 
 ![KDDModell](../../assets/KDD-Modell.png)
 *<a name="fig:kddprocess">Abbildung 1: </a>Fayyad Modell des KDD Prozesses*<sup id="fn1_3">[[1]](#fn1)</sup>
@@ -41,23 +41,23 @@ __2. Auswahl der Daten:__
 Im zweiten Schritt wird ein Datensatz ausgewählt. Das Ziel aus Schritt eins sollte dabei beachtet werden, denn das erreichen des Zieles hängt von der Qualität des Datensatzes ab.<sup id="fn1_b">[[1]](#fn1)</sup>
 
 __3. Datenvorverarbeitung:__
-Im dritten Schritt werden die Daten vorverarbeitet. Unnerwünscht informationen, die die Ergebnisse des Data Minings negativ beeinflussen würden, sollten herrausgefiltert werden. In diesem Schritt sollte auch entschieden werden, wie mit fehlenden/unvolständigen Datenfeldern umgegangen wird.<sup id="fn1_c">[[1]](#fn1)</sup>
+Im dritten Schritt werden die Daten vorverarbeitet. Unerwünschte Informationen, die die Ergebnisse des Data Minings negativ beeinflussen würden, sollten herausgefiltert werden. In diesem Schritt sollte auch entschieden werden, wie mit fehlenden/unvollständigen Datenfeldern umgegangen wird.<sup id="fn1_c">[[1]](#fn1)</sup>
 
 __4. Datenreduktion und Kodierung:__
-Im vierten Schritt werden die Daten in eine andere Form gebacht, damit Data Mining Algorithmen sie verstehen und verarbeiten können. Dieses Verfahren wird oft auch "Kodierung", "Datenprojektion" oder "Datentransformation" genannt. Bei der Datentranformation wird i.d.R. auch eine Datenreduktion durchgeführt, bei der Daten mit geringer Aussagekraft entfernt werden. <sup id="fn1_d">[[1]](#fn1)</sup>
+Im vierten Schritt werden die Daten in eine andere Form überführt, damit Data Mining Algorithmen sie verstehen und verarbeiten können. Dieses Verfahren wird oft auch "Kodierung", "Datenprojektion" oder "Datentransformation" genannt. Bei der Datentranformation wird i.d.R. auch eine Datenreduktion durchgeführt, bei der Daten mit geringer Aussagekraft entfernt werden. <sup id="fn1_d">[[1]](#fn1)</sup>
 
 __5. Auswahl der Data Mining Methode:__
 Im fünften Schritt wird mit Hilfe des Ziels aus Schritt 1 eine bestimmte Data Mining Methode ausgewählt.
-Bekannte Methoden sind beispielweise die Klassifikation oder die Clusteranalyse.<sup id="fn1_e">[[1]](#fn1)</sup>
+Bekannte Methoden sind beispielsweise die Klassifikation oder die Clusteranalyse.<sup id="fn1_e">[[1]](#fn1)</sup>
 
 __6. Auswahl des Data Mining Algorithmus:__
 Im sechsten Schritt wird innerhalb der zuvor gewählten Data Mining Methode ein Algorithmus ausgewählt. Zudem wird entschieden mit welchen Parametern dieser Algorithmus am besten aufgerufen wird.<sup id="fn1_f">[[1]](#fn1)</sup>
 
 __7. Data Mining:__
-Der siebte Schritt ist das eigendliche Data Mining.<sup id="fn1_g">[[1]](#fn1)</sup>
+Der siebte Schritt ist das eigentliche Data Mining.<sup id="fn1_g">[[1]](#fn1)</sup>
 
 __8. Interpretation der Ergebnisse:__
-Im achten Schritt werden die Ergebnisse des Data Mindings interpretiert. Dies kann auch eine Visualizierung umfassen.<sup id="fn1_h">[[1]](#fn1)</sup>
+Im achten Schritt werden die Ergebnisse des Data Minings interpretiert. Dies kann auch eine Visualisierung umfassen.<sup id="fn1_h">[[1]](#fn1)</sup>
 
 __9. Anwendung des gefundenen Wissens:__
 Im neunten Schritt werden die Ergebnisse angewendet. Das bedeutet beispielsweise das Wissen in ein anderes System weiter zu geben, oder auch einfach eine Dokumentation der Ergebnisse anzufertigen.
@@ -70,18 +70,18 @@ __1. Problemabgrenzung:__
 Die Problemabgrenzung und Definition des Ziels wurde u.a. im Pflichtenheft festgelegt. Ziel ist die Stimmungsanalsyse von Tweets (=Sentiment Analysis).
 
 __2. Auswahl der Daten:__
-Die Datenbasis dieses Projektes bilden Tweets. Zu einem bestimmten Hastag werden über eine Schnittstelle Tweets geladen.
+Die Datenbasis dieses Projektes bilden Tweets. Zu einem bestimmten Hashtag werden über eine Schnittstelle Tweets geladen.
 
 __3. Datenvorverarbeitung:__
-Tweets können viele unerwünschte Informationen enthalten wie beispielweise Links, die in diesem Schritt entfernt werden. Weiteres zum Thema Datenvorverarbeitung ist [hier](https://github.com/YKloss/Twitter_Miner/blob/master/Ausarbeitung/Einleitung/Datenvorverarbeitung.md) zu finden.
+Tweets können viele unerwünschte Informationen enthalten wie beispielsweise Links, die in diesem Schritt entfernt werden. Weiteres zum Thema Datenvorverarbeitung ist [hier](datenvorverarbeitung.md) zu finden.
 
 __4. Datenreduktion und Kodierung:__
-Um die Tweets als Eingabe für unsere Data-Mining-Algorithmen zu nutzen wurden sie in entsprechende Zahlenrepräsentationen umgewandelt. Innerhalb dieses Projektes wurden dafür sogenannte *tf-idf Vektoren* genutzt. Dieses Thema wird ebenfalls in [diesem Kapitel](https://github.com/YKloss/Twitter_Miner/blob/master/Ausarbeitung/Einleitung/Datenvorverarbeitung.md) beschrieben.
+Um die Tweets als Eingabe für unsere Data-Mining-Algorithmen zu nutzen wurden sie in entsprechende Zahlenrepräsentationen umgewandelt. Innerhalb dieses Projektes wurden dafür sogenannte *tf-idf Vektoren* genutzt. Dieses Thema wird ebenfalls in [diesem Kapitel](datenvorverarbeitung.md) beschrieben.
 
 __5. Auswahl der Data Mining Methode:__
 Das Ziel aus Schritt 1 (Sentimentanalyse) lässt sich mit der Data Mining Methode "Klassifikation" erreichen. Kassifikationsalgorithmen können bestimmen, ob ein Merkmal zu einer bestimmten Klasse gehört oder nicht. Das heißt bei der Sentimentanalyse gibt der Klassifikationsalgorithmus aus, ob es sich um einen positiven Tweet oder einen negativen Tweet handelt.
 
-Eine generelle Übersicht der Data Mining Methoden ist [hier](https://github.com/YKloss/Twitter_Miner/blob/master/Ausarbeitung/Einleitung/Uebersicht_Data_Mining_Algorithmen.md) aufgelistet.
+Eine generelle Übersicht der Data Mining Methoden ist [hier](datamining_algorithmen.md) aufgelistet.
 
 __6. Auswahl des Data Mining Algorithmus:__
 Innerhalb dieses Projektes werden die drei folgenden Klassifikationsalgorithmen genutzt.
@@ -90,10 +90,10 @@ Innerhalb dieses Projektes werden die drei folgenden Klassifikationsalgorithmen 
 * [Decision Tree](../decision-tree.md)
 
 __7. Data Mining:__
-In diesem Schritt wird ein Datensatz auf mehrere Tweets mit den Algoritmen aus Schritt 6 klassifiziert.
+In diesem Schritt wird ein Datensatz auf mehrere Tweets mit den Algorithmen aus Schritt 6 klassifiziert.
 
 __8. Interpretation der Ergebnisse:__
-Die Ausgabe der Algorithmen wird in diesem Schritt interpretiert. Ist die Ausgabe beispielweise [0,1], so ist der entsprechende Tweet positiv, ist die Ausgabe [1,0], so ist er negativ.
+Die Ausgabe der Algorithmen wird in diesem Schritt interpretiert. Ist die Ausgabe beispielsweise [0,1], so ist der entsprechende Tweet positiv, ist die Ausgabe [1,0], so ist er negativ.
 
 __9. Anwendung des gefundenen Wissens:__
 Die Anwendung des gefundenen Wissens erfolgt in einer Präsentation durch eine Weboberfläche.

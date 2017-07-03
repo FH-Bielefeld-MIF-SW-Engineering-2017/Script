@@ -27,7 +27,7 @@ Sei ![](https://latex.codecogs.com/gif.latex?y_i) ist die zugehörige Klasse zum
 
 <a name="eq:constraint3">Formel 3: </a> ![](https://latex.codecogs.com/gif.latex?y_i(\vec{w}\cdot\vec{x_i}&space;&plus;&space;b)&space;\geq&space;1\;\text{f\"ur}&space;1\leq&space;i&space;\leq&space;n)
 
-In Abbildung [2](#fig:svm1) makieren die gestrichelten Linien zwei mögliche Hyperebenen, sodass die Bedingung aus Formel [3](#eq:constraint3) erfüllt ist.<sup id="fn4_1">[[4]](#fn4)</sup>
+In Abbildung [2](#fig:svm1) markieren die gestrichelten Linien zwei mögliche Hyperebenen, sodass die Bedingung aus Formel [3](#eq:constraint3) erfüllt ist.<sup id="fn4_1">[[4]](#fn4)</sup>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Svm_max_sep_hyperplane_with_margin.png/445px-Svm_max_sep_hyperplane_with_margin.png)
 
@@ -68,17 +68,17 @@ Genutzt wurde dazu die Implementierung des *Pegasos*<sup id="fn5_1">[[5]](#fn5)<
 
 
 #### Kernel Trick
-Die Support Vector Machine, wie sie bisher besprochen wurde, kann nur Daten in zwei Klassen trennen, wenn sie linear separierbar sind. Das wird erreicht, indem eine Hyperebene konstruiert wird. Linear separierbar bedeudet, dass es sich immer um eine gerade Ebene handeln muss. 
-Im zweidimensionalen Raum ist eine Hyperebene eine Gerade. Abbildung [4](#fig:kerneltrick) stellt das Problem gut dar. Links ist eine Menge von Datenpunkten im zweidimensionalen Raum dargestellt, die zu zwei verschiedenen Klassen gehören. Diese Daten lassen sich beispielweise mit einem Kreis in zwei Klassen trennen. Eine Support Vector Machine könnte diese Daten nicht klassifizieren, da sich die Daten nicht mit einer Gerade trennen lassen.<sup id="fn7_1">[[7]](#fn7)</sup> 
+Die Support Vector Machine, wie sie bisher besprochen wurde, kann nur Daten in zwei Klassen trennen, wenn sie linear separierbar sind. Das wird erreicht, indem eine Hyperebene konstruiert wird. Linear separierbar bedeutet, dass es sich immer um eine gerade Ebene handeln muss. 
+Im zweidimensionalen Raum ist eine Hyperebene eine Gerade. Abbildung [4](#fig:kerneltrick) stellt das Problem gut dar. Links ist eine Menge von Datenpunkten im zweidimensionalen Raum dargestellt, die zu zwei verschiedenen Klassen gehören. Diese Daten lassen sich beispielsweise mit einem Kreis in zwei Klassen trennen. Eine Support Vector Machine könnte diese Daten nicht klassifizieren, da sich die Daten nicht mit einer Gerade trennen lassen.<sup id="fn7_1">[[7]](#fn7)</sup> 
 
-Doch mit dem sogenannten Kernel Trick ist dies trotzdem möglich. Die Idee dabei ist, dem Merkmalsraum eine weitere Dimension hinzuzufügen. Auf dem linken Bild befinden sich die Datenpunkte im zweidimensionalen Raum. Das rechte Bild zeigt die gleichen Datenpunkte im dreidimensionalen Raum. Gut zu erkennen ist, dass sich die Daten nach der transformation linear separieren lassen. Dadruch lässt sich auch die Support Vector Machine auf dieses Problem anwenden.<sup id="fn7_2">[[7]](#fn7)</sup> 
+Doch mit dem sogenannten Kernel Trick ist dies trotzdem möglich. Die Idee dabei ist, dem Merkmalsraum eine weitere Dimension hinzuzufügen. Auf dem linken Bild befinden sich die Datenpunkte im zweidimensionalen Raum. Das rechte Bild zeigt die gleichen Datenpunkte im dreidimensionalen Raum. Gut zu erkennen ist, dass sich die Daten nach der transformation linear separieren lassen. Dadurch lässt sich auch die Support Vector Machine auf dieses Problem anwenden.<sup id="fn7_2">[[7]](#fn7)</sup> 
 
-Die Datenpunkte lassen sich auf verschiedene Weisen in eine höhere Dimension projezieren.
+Die Datenpunkte lassen sich auf verschiedene Weisen in eine höhere Dimension projizieren.
 In dem Beispiel aus Abbildung [4](#fig:kerneltrick) wurden die drei neuen Dimensionen wie folgt berechnet:<sup id="fn7_3">[[7]](#fn7)</sup> 
 
 <a name="eq:kernel">Formel 8: </a>![](https://latex.codecogs.com/gif.latex?f_1=x^2_1,f_2=x^2,f_3=\sqrt{2}x_1x_2)
 
-Ein weiterer Vorteil des Kernel Tricks ist, dass die berechnung sehr effizient ist. Die Berechnung der Hyperebene kann in einem höherdimensionalen Raum durchgeführt werden, ohne die einzelnen Datenpunkte in diesen Raum zu projezieren.<sup id="fn7_4">[[7]](#fn7)</sup> 
+Ein weiterer Vorteil des Kernel Tricks ist, dass die Berechnung sehr effizient ist. Die Berechnung der Hyperebene kann in einem höherdimensionalen Raum durchgeführt werden, ohne die einzelnen Datenpunkte in diesen Raum zu projizieren.<sup id="fn7_4">[[7]](#fn7)</sup> 
 
 ![](../../assets/Kerneltrick.png)
 

@@ -1,6 +1,0 @@
-# Verben
-
-Autor: Timo Rolfsmeier
-
-
-

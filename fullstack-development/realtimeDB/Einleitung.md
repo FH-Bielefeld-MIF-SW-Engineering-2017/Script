@@ -1,6 +1,4 @@
 # Einleitung
 
-Autor: Tolga Aydemir
-
-
+Realtime Datenbanken sind mehr als nur Datenspeicher mit einem Datenbank Management System (wie zum Beispiel mongoDB or MySQL). Realtime Datenbanken haben nicht nur den Aspekt der Verarbeitung der Ereignisse (insert, update, delete) in Echtzeit inne, sondern auch die Kommunikation (Verbreitung) eben dieser Ereignisse in Echtzeit zu allen angemeldeten Client-Anwendungen. Das heißt, Realtime Datenbanken sind eine Erweiterung herkömmlicher Datenbanken um die Echtzeit-Verbreitung der eintretenden Ereignisse. Alle (herkömmlichen) Datenbanken können die Ereignisse _sofort_ verarbeiten und eine darauffolgende Abfrage würde den neuen Stand der Datenbank wiedergeben. Allerdings ist es für einige Szenarien, wie Börsenkurse oder Chats, durchaus von Bedeutung, dass jede Aktualisierung allen Teilnehmern in Echtzeit zur Verfügung gestellt wird, ohne, dass eine Client-Anwendung erst eine Anfrage an die Datenbank starten muss. Weitere Optimierungen der Datenbank hinsichtlich dem Verzicht auf unnötige Schemata, Regeln, Verarbeitung der Daten oder die Nutzung von JSON-Dokumenten können die Verarbeitungsgeschwindigkeit der Datenbank bzw. auch der Client-Anwendung weiter steigern - aber das trifft auch auf Datenbanken ohne die Echtzeit-Verbreitung der Ereignisse zu.
 

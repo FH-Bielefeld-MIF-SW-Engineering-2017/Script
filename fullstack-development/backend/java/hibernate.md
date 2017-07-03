@@ -1,3 +1,0 @@
-# Hibernate 
-
-Autor: Malte Berg

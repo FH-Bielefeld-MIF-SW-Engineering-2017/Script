@@ -1,1 +1,0 @@
-Continuous Software Engineering

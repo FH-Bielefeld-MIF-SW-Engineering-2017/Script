@@ -110,3 +110,6 @@ http://wirtschaftslexikon.gabler.de/Archiv/75635/knowledge-discovery-in-database
 <b id="fn4"></b>4. Alpaydın, E. (2014). Introduction to machine learning. Methods in Molecular Biology (Second Edi, Vol. 1107). The MIT Press.[↩](#fn4_1)
 
 <b id="fn5"></b>5. Gantz, John und David Reinsel (2012). IDC IVIEW: THE DIGITAL UNIVERSE IN 2020: Big Data, Bigger Digital Shadows, and Biggest Growth in the Far East. Techn. Ber. URL: http://www.emc.com/collateral/analyst-reports/idc-the-digital-universe-in-2020.pdf [↩](#fn5_1)
+
+___
+Author: Daniel Beneker

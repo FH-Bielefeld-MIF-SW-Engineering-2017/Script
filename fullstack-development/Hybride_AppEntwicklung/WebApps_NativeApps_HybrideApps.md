@@ -11,38 +11,12 @@ Hybride Apps kombinieren die Vorteile beider vorherigen App Varianten in einer. 
 
 Die folgende Tabelle zeigt die Unterschiede für die einzelnen App-Varianten im Vergleich zu den anderen.
 
-<table>
-    <tr>
-        <td>App-Varianten</td>
-        <td>Web-Apps</td>
-        <td>Native Apps</td>
-        <td>Hybride Apps</td>
-    </tr>
-    <tr>
-        <td>Performanz der App</td>
-        <td>Sehr gut</td>
-        <td>Sehr gut</td>
-        <td>Beim Start dauert es, da die App erst geladen werden muss</td>
-    </tr>
-    <tr>
-        <td>Plattformabhängigkeit</td>
-        <td>Nein</td>
-        <td>Ja</td>
-        <td>Ja</td>
-    </tr>
-    <tr>
-        <td>App-Store Veröffentlichung</td>
-        <td>Kann nicht im App-Store veröffentlicht werden</td>
-        <td>Kann im App-Store veröffentlicht werden</td>
-        <td>Kann im App-Store veröffentlicht werden</td>
-    </tr>
-    <tr>
-        <td>Unterstützt Gerätefunktionen</td>
-        <td>Es werden nur einige Gerätefunktionen mit der Nutzung von Web-APIs unterstützt.</td>
-        <td>Es werden alle Gerätefunktionen unterstützt.</td>
-        <td>Es werden alle Gerätefunktionen unterstützt, durch eigene und externe Plug-Ins.</td>
-    </tr>
-</table>
+| App-Varianten | Web-Apps | Native Apps | Hybride Apps |
+| ------ | ------ | ------ | ------ |
+| Performanz der App | Sehr gut | Sehr gut | Beim Start dauert es, da die App erst geladen werden muss. |
+| Plattformabhängigkeit | Nein | Ja | Ja |
+| App-Store Veröffentlichung | Kann nicht im App-Store veröffentlicht werden. | Kann im App-Store veröffentlicht werden. | Kann im App-Store veröffentlicht werden. |
+| Unterstützt Gerätefunktionen | Es werden nur einige Gerätefunktionen mit der Nutzung von Web-APIs unterstützt. | Es werden alle Gerätefunktionen unterstützt. | Es werden alle Gerätefunktionen unterstützt, durch eigene und externe Plug-Ins. |
 
 In der Tabelle sieht man in der Spalte für hybride Apps, dass es nur Leistungseinbrüche bei der Performanz der App gibt. Das merkt man aber auch beim direkt Start einer hybriden App sehr genau.
 

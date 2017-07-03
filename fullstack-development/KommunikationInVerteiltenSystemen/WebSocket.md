@@ -14,3 +14,7 @@ Die Nutzung des pollings bzw. long pollings erlaubt zwar eine Art der bidirektio
 Das WebSocket-Protokoll kann diese Nachteile durch die Nutzung einer einzigen TCP-Verbindung umgehen und bricht dennoch nicht mit der HTTP-Infrastruktur, sodass auch die WebSocket-Kommunikation über die Ports 80 und 443 oder aber über HTTP-Proxy Verbindungen erfolgen kann.  
 Nach einem sog. _handshake_ der Teilnehmer (Client- und Host-Anwendung) kann der bidirektionale Nachrichtenaustausch beginnen.
 
+
+![](/assets/longpolling_websocket.png)Abbildung A: Veranschaulichung Long Polling und WebSocket Kommunikation
+
+

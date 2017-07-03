@@ -31,7 +31,7 @@ In den Quelldaten werden Ähnlichkeiten und Muster zwischen den Tupeln gesucht u
 
 Eine Beispielvisualisierung mit den Attributen *debt* und *income*.
 
-![Alternativer Text](../../assets/Titanic-correlation.PNG)
+![](https://www.analyticsvidhya.com/wp-content/uploads/2013/11/Clust1.gif)
 
 Entnommen aus <https://www.analyticsvidhya.com/wp-content/uploads/2013/11/Clust1.gif>.
 
@@ -45,7 +45,7 @@ Einige bekannte Algorithmen:
 Die Korrelationsanalyse untersucht die Korrelation (Abhängigkeit) zwischen den Attributen über alle Daten. Die Stärke wird durch den Korrelationskoeffizienten ausgedrückt. 
 Das Ergebnis der Korrelationsanalyse ist meistens eine Korrelationsmatrix, welche alle Korrelationskoeffizienten der Attribute zueinander enthält.
 
-![Alternativer Text](Titanic-correlation.PNG)
+![](/assets/Titanic-correlation.PNG)
 
 Diese Korrelationsmatrix wurde mithilfe von Rapidminer erstellt und zeigt die Koeffizienten des "Titanic-Datensatzes". 
 Der Datensatz ist zu finden unter <https://www.kaggle.com/c/titanic/data>.

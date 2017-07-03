@@ -1,6 +1,0 @@
-# Vergleich
-
-Autor: Timo Rolfsmeier
-
-
-

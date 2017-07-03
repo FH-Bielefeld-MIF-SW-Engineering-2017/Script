@@ -1,5 +1,53 @@
 # Unterstützende Workflows
 ## DevOps
+Wichtig für das Verständnis ist, dass DevOps kein Framework, Tool oder Technologie ist.
+Bei DevOps geht es um die Kultur eines Unternehmens und um das Vorgehen, wie die Menschen in einem Unternehmen arbeiten.
+Unterstützende Faktoren sind definierte Prozesse und angepasste Tools um durch automatisierte Abläufe eine erhöhte Effektivität zu erreichen.
+
+Durch die Anpassungen und Veränderungen in den Bereichen Kultur, Prozesse und Technologie soll die Kommunikation, sowie die Zusammenarbeit der Entwicklung (development) und "IT operations" verbessert werden [20](../quellen.md).
+
+![](/assets/DevOps.png)
+
+Dies hat Auswirkungen auf die Effektivität des "application life cycles".
+Durch diese Auswirkungen sind die Vorteile, welche durch den Einsatz von DevOps erzielt werden können, sehr vielseitig.
+
+![](/assets/Benefits.png)
+
+Die Kultur DevOps kann als innovatives Bündel gesehen werden um "Dev" und "Ops" Teams effektiv zu integrieren.
+Dies beinhaltet Themen wie continuous build integration, continuous testing, continuous delivery, continuous improvement, etc., mit dem Ziel die Auslieferung von Software zu beschleunigen.
+
+Die Schwierigkeit liegt darin, dass DevOps häufig nicht verstanden wird.
+Hier geht es nicht um einzelne Bereiche, wie bereits aufgezählt bspw. continuous integration.
+Es geht um die Kultur! Und eine Kultur zu wandeln, dauert sehr lange.
+Ein Beispiel soll das Missverständnis rund um DevOps verdeutlichen. Hier geht es um fünf blinde Männer und einen Elephanten.
+Jeder der Männer berührt einen spezifischen Teil des Elefanten und jeder nimmt an das dies der Elephant sei [20](../quellen.md).
+
+Selbstverständlich bezieht sich der Kulturwandel nicht nur auf das "development" und "operations" Team. An diesem Wandeln müssen sich alle Teams (testing team, cloud team, etc.) anschließen.
+
+Für ein tieferes Verständnis werden wir im Folgenden auf zwei Fragestellungen eingehen:
+1) Warum DevOps?
+2) Wie kann eine DevOps Kultur entstehen?
+
+### Warum DevOps?
+Veränderung ist eine essentieller Bestandteil des Lebens und auch von Organisationen.
+Schaut man lediglich auf bestehende Methodiken, Kulturen und Praktiken wird man zukünftige "best practices" nie erreichen.
+Vorallem in der sich schnell ändernden IT-Welt hat die Veränderung eine enorme Bedeutung.
+
+Progress is impossible without change, and those who cannot change their minds cannot change anything. [20](../quellen.md)
+
+Jede Änderung muss abgewogen werden nach dem Nutzen und den durch die Änderung entstehenden Schwierigkeiten.
+
+
+### Wie kann eine DevOps Kultur entstehen?
+Häufig führen Probleme und Ineffizienz zu Veränderungen. Hierdurch hat sich aus einem Wasserfallmodell die Agile Methodik entwickelt.
+Eine Kultur zu verändern geht nicht über Nacht und benötigt sehr viel Zeit. Hieraus resultiert, dass DevOps als Kultur schrittweise eingeführt und akzeptiert werden muss.
+Jeder Schritt ist unabhängig von einander zu implementieren und sollte keine Abhängigkeiten zu anderen Schritten haben [20](../quellen.md).
+
+![](/assets/DevOps_Stages.png)
+
+Bspw. kann "Continuous Testing" ohne jede andere DevOps Praktik implementiert werden. Hierdurch entsteht bereits ein Mehrwert,
+welcher dazu beiträgt Akzeptanz zu schaffen und die Kultur der Menschen zu verändern [20](../quellen.md).
+
 ## Continuous Integration
 Traditionell wird bei der Softwareentwicklung die Integration am Ende eines Projektes stattfinden. Je nach Projektgröße und Komplexität liegt die Dauer der Integrationsphase im Bereich Wochen oder Monate.
 

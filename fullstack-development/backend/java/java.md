@@ -1,3 +1,0 @@
-# Java
-
-Autor: Malte Berg

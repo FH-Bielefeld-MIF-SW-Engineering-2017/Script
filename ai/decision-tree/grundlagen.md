@@ -54,13 +54,11 @@ ___
 
 <b id="fn1"></b>1. Aggarwal, C.: Data Mining: The textbook. Springer (Herausgeber) (2015)
 
-___
-Author: Yannick Kloss
-
 <b id="fn2"></b>2. Cleve, J., Lämmel, U.: Data Mining. Walter de Gruyter GmbH (Herausgeber) (2016) 
 
 <b id="fn3"></b>3. Witten, I., Frank, E., Hall, M.: Data Mining. Morgan Kaufmann (Herausgeber) (2011) 
 
-
+___
+Author: Yannick Kloss
 
 

@@ -106,6 +106,16 @@ Das nachfolgende Diagramm stellt die möglichen Angriffe exemplarisch dar. Wiede
 
 Abbildung 2: Verschiedene Angriffsszenarien. Quelle: https://docs.openstack.org/security-guide/introduction/security-boundaries-and-threats.html
 
+* DDoS: Bei einem DDoS (Distributed Denial of Service) Angriff wird der Server mit einer extrem hohen Anzahl von Anfragen (z.B. HTTP Requests oder Pings) überflutet um bestimmte Dienste des Servers damit zu überlasten und die Aufgabe ihrer Funktionalität zu verursachen. Dies geschieht oft von mehreren Maschinen aus oder von einem Bot-Netz. Bei einem DoS Angriff geschieht dies nur von einer Maschine oder z.B. werden Bugs von Systemkomponenten ausgenutzt um Ressourcen des Systems auszulasten bis diese unbrauchbar geworden sind oder das System sogar abstürzt.
+* Hypervisor Breakout: Bei diesem Angriff gelingt es dem Angreifer aus der virtualisierten Maschine herauszukommen und auf das Host-System zuzugreifen um so Schaden zu verursachen.
+* Pishing: Bei einem Pishing-Angriff wird versucht über gefälsche E-Mails, Webseiten oder andere Medien einen Nutzer reinzulegen um seine Identität zu stehlen. Spear-Pishing stellt dabei eine ausgedachtere Variante dar, indem die Angreifer die Identität einer vertrauenswürdigen Organisation übernehmen (z.B. Bank, Kunde, Dienstleister).
+* Supply Chain Attack: Bei diesem Angriff wird versucht, auf weniger gesicherte Elemente in der Topologie Angriffe durchzuführen, die unterstützende und erweiternde Funktionen auf das Gesamtsystem haben. Dadurch verliert das System oft wichtige Ressourcen die einen funktionierenden Betrieb unmöglich machen.
+* Automated exploitation tools: Mit diesen Werkzeugen werden automatisiert nach Schwachstellen in der Software gesucht um diese dann böswillig auszunutzen.
+* Service brute force: Bei einem solchen Angriff werden z.B. bei einer Passwort und Nutzername Eingabe einfach alle möglichen Kombinationsmöglichkeiten durchgetestet.
+* Complex 0-day development: Zero-Day Angriffe sind besonders gefährlich, da hier Schwachstellen ausgenutzt werden die bekannt wurden, bevor der Anbieter ein entsprechendes Patch oder Fix veröffentlichen konnte.
+
+Prinizpiell sind alle diese Angriffe auf die Modelle einer Cloud (IaaS, PaaS, ...) anwendbar. Jedoch sind die Auswirkungen unterschiedlich. Als Beispiel, wenn man sich illegal Zugang zu einer IaaS Cloud verschafft hat, kann Schadcode einfacher hochgeladen und ausgeführt werden als auf einer SaaS Cloud. Dieser Fall muss aber natürlich entsprechend berücksichtigt werden.
+
 ## CloudStack
 
 CloudStack ist ein open-source Cloud Projekt vom Typ IaaS. Es ist in Java geschrieben und wird von der Apache Software Foundation betrieben. Ein Vorteil von CloudStack ist die Unabhängigkeit von einer bestimmten Plattform. Als Webinterface wird eine AJAX-basierte GUI verwendet. Ähnlich wie OpenStack, ist es auch hier möglich KVM als Hypervisor zu nutzen, falls das System auf einer geeigneten Linux Distribution läuft, wie Ubuntu. Andernfalls gibt es auch die Möglichkeit Windows Server 2012 R2 zu verwenden, Xen und noch einige andere.

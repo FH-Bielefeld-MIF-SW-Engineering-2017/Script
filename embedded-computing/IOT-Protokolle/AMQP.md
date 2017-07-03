@@ -2,7 +2,7 @@
 ### Protokollübersicht
 Das Advanced Message Queuing Protocol (AMQP) wurde 2010 als binäres Netzwerkprotokoll auf Anwendungsebene entwickelt [17](Quellen.md). Es deckt alle Funktionen des „Java Message Services“ (JMS) ab und erweitert diese. Außerdem ist es, anders als JMS Programmiersprachen unabhängig [18](Quellen.md). Ähnlich wie MQTT und JMS nutzt das Protokoll einen Message Broker (Server) welcher die Nachrichten der Producer an die Consumer weiterleitet. Um die Nachrichten zu transportieren, wird das TCP Protokoll verwendet. Ein Broker verwaltet intern mehrere Exchanges, welche die Nachrichten der Producer annehmen und mithilfe von definierten Regeln (routes) an eine oder mehrere Message Queues übergeben. Von hieraus können die Nachrichten entweder direkt an den Consumer übergeben werden, oder solange zwischen gespeichert werden, bis der Consumer sie abruft. Das untenstehende Bild zeigt den groben Ablauf der Kommunikation [19](Quellen.md).
 
-![alt text](../../assets/amqp.png "qmap Ablauf")
+![alt text](/assets/amqp.png "qmap Ablauf")
 
 
 ### Exchanges und Routing

@@ -9,7 +9,7 @@ Um eine Datenbank zu einer Realtime Datenbank zu erweitern bedarf, es mindestens
 - Publish/Subscribe Server
 
 
-![](/assets/realtime_extension.png)
+![](/assets/realtime_extension.png)  
 Abbildung: Veranschaulichung Erweiterung einer beliebigen Datenbank um eine Echtzeit-Komponente
 
 

@@ -8,7 +8,7 @@ Dienste, die streng nach dem Architekturstil REST aufgebaut sind, können zum Fl
 
 **Starrheit der Daten:** Ein RESTful Dienst legt statisch fest, welche Ressourcen bzw. Repräsentationen angefragt werden können. Er spezifiziert dazu jeweils die URIs, auf die sich der Client beziehen muss, sowie die Operationen, die ausgeführt werden können. Folgendes Szenario verdeutlicht dabei ein mögliches Problem \(siehe Abbildung 10\). Der Client möchte beispielsweise wissen, mit welchem Wetter eine bestimmte Person morgen bei der Arbeit rechnen muss. Der Server bietet ihm dafür drei Endpunkte, mithilfe der er Personen, Arbeitgeber und Standorte abfragen kann. Um seine Ausgangsfrage zu beantworten, muss der Client nun drei verschiedene Anfragen absenden und jeweils auf die Ergebnisse warten. Dieser erhöhte Aufwand resultiert daher, dass der Server keinen Endpunkt anbietet, anhand dessen die Problemstellung innerhalb lediglich einer Anfrage bzw. Antwort gelöst werden kann. Eine REST-API zu konstruieren, die auf jede nur mögliche verschachtelte Anfrage innerhalb einer Nachricht antwortet, ist für mittlere bis große Dienste nicht machbar.
 
-![](../../assets/kivs_REST_PROBLEM.jpg)Abbildung 10: Mehrmaliges Anfragen als Nachteil von REST
+![](/assets/kivs_REST_PROBLEM.jpg)Abbildung 10: Mehrmaliges Anfragen als Nachteil von REST
 
 **Fehlende** **Versionierung**: Die Server-Komponenten eines RESTful Dienstes entwickeln sich kontinuierlich weiter. Insbesondere die Ressourcen bzw. Repräsentationen unterliegen dabei häufig Veränderungen in Form von neuen Datenfeldern. In der Regel greifen jedoch heterogene Clients auf den Dienst zu, welche sich im Hinblick auf ihre Bedürfnisse voneinander unterscheiden. Manche von diesen Benutzern benötigen beispielsweise die hinzugefügten Datenfelder als Antwort auf ihre Anfrage, während die Datenfelder für ältere Clients keine Bedeutung haben könnten und nur zusätzlicher Ballast sind. Dadurch bedingt, dass der Server lediglich einen Endpunkt für jede Ressource anbietet, erhalten alle Clients dieselbe Version der Repräsentation. Auf individuelle Ansprüche wird somit keine Rücksicht genommen.
 
@@ -18,7 +18,7 @@ Dienste, die streng nach dem Architekturstil REST aufgebaut sind, können zum Fl
 
 Ein GraphQL-Server wird von jedem Client und unabhängig von den angefragten Daten über denselben Endpunkt erreicht \(siehe Abb. 11\). Weiterhin unterscheidet der Server nicht zwischen den Aufrufoperationen. Geschieht die Client-Server-Kommunikation über HTTP, führt der Client beispielsweise nur POST-Anfragen an eine bestimmte URI durch. Die Semantik der Anfrage ist dabei ausschließlich innerhalb des Bodies definiert.
 
-![](../../assets/kivs_GRAPHQL_sized.jpg)
+![](/assets/kivs_GRAPHQL_sized.jpg)
 
 Abbildung 11: Schaubild GraphQL
 

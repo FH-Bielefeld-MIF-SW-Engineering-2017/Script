@@ -1,0 +1,7 @@
+# Node.js Event-Loop
+Node.js Anwendungen werden in nur einem Thread ausgeführt (Code des Programmierers). Alle anderen Operationen laufen parallel und sollte also eine Operation diesen ”Anwendungs“- Thread blockieren, wird diese in einen separaten Thread aus einem Pool ausgelagert. Sobald ein Event auftritt (also z.B. Daten wurden aus einer Datei in einen RAM-Puffer geschrieben), wird dieses in die Event Queue eingereiht. Der Event-Loop iteriert nun über alle Einträge in der Event-Queue und ruft die passende Callback-Funktion zu diesem Event auf. [5](../quellen.md) [6](../quellen.md)  
+
+![Event-Loop](/assets/nodejs-event-loop.png)
+*Node.js Event-Loop [5](../quellen.md)*
+
+Bedingt durch das Modell der eventgesteuerten Programmierung, ist es im Allgemeinen nicht notwendig, sich innerhalb einer Anwendung Gedanken über die Verteilung von Aufgaben in verschiedene Threads zum Zwecke der Laufzeitoptimierung zu machen. Probleme, die nebenläufige Anwendungen für den Entwickler mit sich bringen, verschwinden so gänzlich. Ebenfalls erwächst aus einer Single-Thread Lösung der Vorteil, dass die aufwendige und Ressourcen intensive Verwaltung von verschiedenen Threads und Prozessen durch das Betriebssystem reduziert werden kann. Dadurch werden eventgesteuerte Anwendungen sehr performant und können hoch skaliert werden. Diesen Vorteil hat man aber nur, wenn das Betriebssystem diese Funktion unterstützt, da der Thread Pool vom Betriebssystem verwaltet wird.

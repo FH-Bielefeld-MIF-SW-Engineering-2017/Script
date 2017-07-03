@@ -1,3 +1,3 @@
-# Grundlagen 
+# Authentication
 
 Autor: Niklas Harting

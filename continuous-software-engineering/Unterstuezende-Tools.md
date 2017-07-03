@@ -63,7 +63,6 @@ Das Docker-Framework besitzt mit der Docker-Engine sein eigenes Container-Subsys
 ![Docker Workflow](/assets/docker-workflow.jpg "Erzeugung eines konfigurierten Containers mit Docker-Compose [21](quellen.md)")
 Abbildung: Erzeugung eines konfigurierten Containers mit Docker-Compose [21](quellen.md)
 
-## Virtualisierung vs. Containerisierung
 ## Build Server
 *von Lukas Taake*
 

@@ -1,5 +1,0 @@
-# 1 Einführung
-Aufgrund der zunehmenden Komplexität von Software steigt die Notwendigkeit von Tests. Werden während der Entwicklung oder Wartung Veränderungen an dem Source Code vorgenommen, kann dies andere Funktionen unbrauchbar machen und Fehlfunktionen hervorrufen. Mithilfe von ausdruckstarken Unit Tests können solche Fehler schnell diagnostiziert und behoben werden, was unter anderem sehr viel Zeit und Geld spart.  [5](../Quellen.md) [18](../Quellen.md)
-
-Das automatisierte Testen hilft ebenfalls dabei, dass der Kunde ein qualitativ hochwertiges Produkt erhält, welches die Zufriedenheit steigert und zukünftige Wartungsaufwendungen einschränkt. [18](../Quellen.md)
-Tests können ebenfalls als Entwicklungsmethodik verwendet werden. Das Test Driven Development (TDD) befasst sich mit dem Schreiben von Tests und der darauffolgenden Implementierung. Häufig werden Tests erst nach dem Implementierungsprozess geschrieben, wodurch unter Umständen unzureichend viele Tests entwickelt werden. [1](../Quellen.md)

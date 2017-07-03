@@ -71,3 +71,6 @@ clf.train(xor_data).done(function () {
  Eine Implementierung des SVM-Algorithmus ist ebenfalls enthalten: 
  [fitcsvm](https://de.mathworks.com/help/stats/fitcsvm.html) .
  Mit MatLab lassen sich nicht nur die Datenpunkte als Grafik plotten, sondern auch die Trennebenen, die der SVM-Algorithmus findet, visualisieren.
+ 
+ ___
+Author: Daniel Beneker

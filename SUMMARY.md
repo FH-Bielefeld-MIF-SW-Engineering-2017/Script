@@ -279,7 +279,7 @@
   * [Unterstützende Tools](continuous-software-engineering/Unterstuezende-Tools.md)
   * [Quellen](continuous-software-engineering/Quellen.md)
 * [AI](ai.md)
-  * [Übersicht Data Mining Algorithmen](ai/datamining_algorithmen.md.md)
+  * [Übersicht Data Mining Algorithmen](ai/datamining_algorithmen.md)
   * [Knowledge Discovery in Databases](ai/knowledge-discovery-in-databases.md)
   * [Datenvorverarbeitung](ai/datenvorverarbeitung.md)
   * [Decision Tree](ai/decision-tree.md)

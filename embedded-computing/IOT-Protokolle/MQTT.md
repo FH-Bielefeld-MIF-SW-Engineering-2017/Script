@@ -4,7 +4,7 @@ Das Message Queue Telemetry Transport Protokoll (MQTT) ist ein schlankes und lei
 Zur Kommunikation zwischen zwei Clients ist ein Broker (Server) nötig. Beide Clients melden sich beim Broker an und teilen diesem mit, welche „Topics“ sie abonnieren möchten. Ein Topic wird mit einer Zeichenkette beschrieben und definiert den Kommunikationskanal. Der Broker sorgt dafür, dass die von Client A auf einem Topic gesendeten Daten, an alle Abonnenten dieses Topics zugestellt werden. Hierbei ist besonders zu beachten, dass auch viele Konsumenten und Produzenten das gleiche Topic verwenden können. MQTT eignet sich deshalb besonders als „Many-to-Many“ Kommunikationsprotokoll [6](Quellen.md).  Meistens wird zum Nachrichtenaustausch MQTT über TCP übertragen. Dies ist aber nicht vorgeschrieben, sodass auch andere Protokolle genutzt werden können [4](Quellen.md). 
 Das untenstehende Bild beschreibt den beschriebenen Ablauf mit einem Beispiel. Ein Temperaturfühler misst die Temperatur und sendet diesen Wert über ein Topic (z.B. „/temperatur“) an den Broker. Der Broker verteilt die Nachricht an alle Clients, die das Topic abonniert haben.
 
-![alt text](../../assets/mqtt1.png "MQTT Ablauf")
+![alt text](/assets/mqtt1.png/ "MQTT Ablauf")
 
 
 Die Konsumenten und Produzenten sind aber nicht fest an ihre Rollen gebunden, sondern können auch die jeweils andere Rolle übernehmen. 
@@ -13,14 +13,14 @@ Da MQTT nicht zwangsläufig über TCP übertragen werden muss, das unterliegende
 
 **QoS Level 0** ist die niedrigste Qualitätsstufe. Bei dieser wird nicht garantiert, dass die Nachricht überhaupt irgendwo ankommt – „fire'n'forget“ [2](Quellen.md).
 
-![alt text](../../assets/mqttQos0.png "QoS Level 0")
+![alt text](/assets/mqttQos0.png/ "QoS Level 0")
 
 
 
 **QoS Level 1** garantiert, dass die Nachricht mindestens einmal beim Ziel ankommt. Der Broker muss das Erhalten der Nachricht einmal bestätigen. Bleibt die Bestätigung aus, oder kommt erst nach Ablauf eines Timeouts beim Client an, sendet er die Nachricht erneut. Deshalb kann es bei diesem Level zu mehrfach Sendungen kommen [2](Quellen.md).
 ankommt – „fire'n'forget“ [2](Quellen.md).
 
-![alt text](../../assets/mqttQos1.png "QoS Level 1")
+![alt text](/assets/mqttQos1.png/ "QoS Level 1")
 
 
 
@@ -28,7 +28,7 @@ ankommt – „fire'n'forget“ [2](Quellen.md).
 **QoS Level 2** garantiert, dass die Nachricht genau einmal beim Ziel ankommt. Hierzu müssen vier Nachrichten zwischen Client und Broker ausgetauscht werden. Der Broker bestätigt das erhalten der Publish-Nachricht mit einer „PUBREC“ („Publish received“) Paket. Zu diesem Zeitpunkt ist dem Client klar, dass seine Nachricht erfolgreich beim Broker angekommen ist. Das bestätigt er wiederum mit einer „PUBREL“ („Publish release“) Paket, was der Broker wiederrum mit dem „PUBCOMP“ („Publish complete“) Paket bestätigt [2](Quellen.md).
 ankommt – „fire'n'forget“ [2](Quellen.md).
 
-![alt text](../../assets/mqttQos2.png "QoS Level 2")
+![alt text](/assets/mqttQos2.png/ "QoS Level 2")
 
 
 Diese QoS Klasse muss an zwei Stellen definiert werden. Zum einen muss der Sender jeder seiner Nachrichten ein QoS Level mit geben um zu definieren mit welcher Garantie die Nachricht beim Broker ankommt, zum anderen muss der Abonnent eines Topics definieren mit welcher Wahrscheinlichkeit die Nachrichten bei ihm ankommen sollen. Das gewählte QoS Level hängt von vielen Faktoren ab, die Wichtigkeit der Nachricht, die Zuverlässigkeit des Transportwegs oder die Kosten einer Nachricht können in die Entscheidung einfließen [2](Quellen.md).

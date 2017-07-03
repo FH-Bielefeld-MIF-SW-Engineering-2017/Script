@@ -9,6 +9,9 @@ In diesen Jahren stieg auch die Rechenleistungskraft kommerzieller Computer, sod
 Auch das Verständnis bzgl. **VR** hat sich weiterentwickelt. So werden in Reki Kawaharas *Sword Art: Online* zukünftig mögliche **HMDs* und eine dazugehörige **VR** präsentiert, die jedoch Gefahren wie geistige Schäden oder auch Tod bergen kann. Das bekannteste Beispiel jedoch ist die *Matrix*-Trilogie der Wachowski-Geschwister, welche auch philosophische Fragen zu den schon genannten Problemen aufwirft (z.B.: Sind wir auch in einer Matrix gefangen?).     
 
 Quellen:
+
 http://www.tomshardware.de/fotoreportage/291-virtuelle-realitat-vr-vr-brille-virtual-reality-hmd.html#s14
+
 http://www.vrnerds.de/die-geschichte-der-virtuellen-realitaet/
+
 https://de.wikipedia.org/wiki/Neuromancer-Trilogie

@@ -34,8 +34,13 @@ Wie die Abbildung zeigt, erfolgt bei dieser Projektionsweise in 4 Schritten:
 
 
 Quellen:
+
 http://www.giga.de/konsolen/oculus-rift/specials/virtual-reality-was-ist-das-definition-brillen-games-technologie/
+
 http://www.ard.de/home/ard/Was_ist_Virtual_Reality/3364362/index.html
+
 http://www.itwissen.info/lex-images/prinzip-der-hmd-projektion.png
+
 https://de.wikipedia.org/wiki/Stereoskopisches_Sehen
+
 http://www.itwissen.info/Datenhelm-head-mounted-display-HMD.html

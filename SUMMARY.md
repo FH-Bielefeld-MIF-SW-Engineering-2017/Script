@@ -282,7 +282,6 @@
     * [Implementierung](ai/decision-tree/implementierung.md)
   * [Bayes](ai/bayes.md)
     * [Einleitung](ai/bayes/einleitung.md)
-    * [Geschichte](ai/bayes/geschichte.md)
     * [Mathematische Grundlagen](ai/bayes/mathematische-grundlagen.md)
     * [Das Theorem](ai/bayes/das-theorem.md)
     * [Rechenbeispiel](ai/bayes/rechenbeispiel.md)

@@ -4,7 +4,7 @@ Graphen Datenbanken eignen sich dafür, Objekte und ihre komplexen Beziehungen u
 ## Funktionsweise
 Die meisten Graphen Datenbanken speichern ihre Daten in einem Property-Graphen. Dies ist ein Graph, der zusätzlich zu Knoten und Kanten (Beziehungen) auch beliebige Eigenschaften zu diesen Elementen speichern kann. Knoten und Beziehungen können somit durch Attribute weiter spezifiziert werden. Die nachfolgende Abbildung stellt grafisch dar, wie eine Graphen Datenbank aufgebaut ist [13].   
 
-![Graph Datenbank Modell](../../assets/nosql/graph_database_schema.png)  [13]  
+![Graph Datenbank Modell](/assets/nosql/graph_database_schema.png)  [13]  
 
 Eine weitere wichtige Eigenschaft ist, dass es zwischen zwei Knoten auch mehrere Kanten geben kann. So lassen sich auch mehrere komplexe Verbindungen zwischen beliebigen Objekten, bzw. Knoten darstellen.  
 Die Funktionsweise von Graphen Datenbanken basiert dabei auf den mathematischen Eigenschaften der Graphentheorie.

@@ -17,11 +17,11 @@ Dies ist zwar nur ein sehr vereinfachtes Beispiel, da die tatsächliche Art der 
 ## Funktionsweise
 Die tatsächliche Art der Speicherung der Daten unterscheidet sich teilweise bei den verschiedenen Anbietern. Im Allgemeinen gibt es jedoch Spalten, die einen Namen besitzen, Daten halten und einen Zeitstempel haben. Die Struktur einer Spalte ist in folgender Abbildung dargestellt [99].
 
-![Struktur einer Spalte](../../assets/nosql/spalten_struktur.png)  [99]  
+![Struktur einer Spalte](/assets/nosql/spalten_struktur.png)  [99]  
 
 Spalten die ähnliche oder verwandte Inhalte speichern können in einer Column Family zusammengefasst werden. Beispielsweise könnten alle Spalten, die eine Person beschreiben, Teil einer Column Family werden, was in folgender Abbildung abgebildet ist [99].
 
-![Column Family Beispiel](../../assets/nosql/column_family.png)  [99]  
+![Column Family Beispiel](/assets/nosql/column_family.png)  [99]  
 
 Eine solche Column Family hat dabei keine logische Struktur und kann sogar aus Millionen Spalten bestehen.
 

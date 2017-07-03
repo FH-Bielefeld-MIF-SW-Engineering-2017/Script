@@ -32,7 +32,7 @@ Es ist ersichtlich, dass die Einhaltung des ACID Prinzips vor allem die Konsiste
 
 Optimal wäre es, wenn alle drei Aspekte, Konsistenz, Verfügbarkeit und Ausfalltoleranz gleichzeitig im vollen Umfang erreicht werden könnten. Es hat sich jedoch gezeigt, dass dies innerhalb von verteilten Datenbanksystemen nicht möglich ist und sich immer nur zwei der drei Aspekte umsetzen lassen. Dieses Theorem wird dabei als CAP-Theorem bezeichnet. In der folgenden Abbildung ist das CAP-Theorem und die Tatsache, dass immer nur zwei Aspekte umgesetzt werden können, als Dreieck dargestellt.
 
-![CAP-Theorem](../../assets/nosql/cap_theorem.png)  
+![CAP-Theorem](/assets/nosql/cap_theorem.png)  
 (Eigenerstellung, vgl. [23]) 
 
 Je nachdem welche zwei der drei Anforderungen an die Datenbank gestellt werden, werden diese Systeme als CA (Konsistenz und Verfügbarkeit), CP (Konsistenz und Ausfalltoleranz) oder AP (Verfügbarkeit und Ausfalltoleranz) Systeme bezeichnet. Da traditionelle relationale Datenbanksysteme wie bereits erwähnt meist die Konsistenz als oberstes Ziel haben, lassen sie sich als CA/CP Systeme bezeichnen. Viele NoSQL Datenbanksystem haben jedoch einen viel stärkeren Fokus auf die Verfügbarkeit oder Ausfalltoleranz, die Konsistenz spielt dabei keine so große Rolle. Für diese Systeme ist es ausreichend, wenn die Konsistenz der Daten nach einer Änderung erst im Laufe der Zeit wiederhergestellt ist.
@@ -52,7 +52,7 @@ Von einer vertikalen Skalierung spricht man, wenn das vorhandene System durch be
 * Horizontale Skalierung (Scale-out)  
 Von horizontaler Skalierung ist die Rede, wenn das vorhandene System durch Hinzufügen neuer Ressourcen Einheiten (Rechner/Server) erweitert wird. 
 
-![Skalierung](../../assets/nosql/skalierung.png)  
+![Skalierung](/assets/nosql/skalierung.png)  
 (Eigenerstellung, vgl. [6])
 
 In der Abbildung ist das Prinzip der vertikalen und horizontalen Skalierung anhand des Beispiels eines Datenbanksystems dargestellt. Zu Beginn existiert ein Server, bei der vertikalen Skalierung wird dieser durch bessere Komponenten aufgerüstet, bei der horizontalen Skalierung werden weitere Server hinzugefügt.  
@@ -66,7 +66,7 @@ Das Zusammenfassen mehrerer einzelnen Rechner/Server zu einem System wird im All
 ### Replikation (vgl. [1 Kap. 6.2],[2 Kap. 2],[13 Kap. 3],[14 Kap. 3.11],[44-47,50-52])
 Als Replikation wird das Speichern gleicher Datenbestände auf mehrere Knoten im System bezeichnet. Auch hier kann es je nach Datenbankmanagementsystem unterschiedliche Anwendungen dieses Prinzips geben. Alle Knoten des Systems können beispielsweise dieselben Daten besitzen und jede Änderung untereinander aktualisieren. Auch ist es möglich, dass es einen Master gibt, der für alle Schreibzugriffe zuständig ist und seine Datenbestände an die Slaves weitergibt. Leseanfragen können dabei über die Slaves abgearbeitet werden. Eine weitere Möglichkeit ist, dass nicht jeder Knoten dieselben Daten hält, sondern jeder hält immer nur einen bestimmten Teil der Daten, sodass am Ende ein bestimmter Datensatz zwar des Öfteren im Gesamtsystem vorkommt, aber nicht auf jedem einzelnen Knoten. Häufig wird dabei mit einer Replikationsrate von drei oder fünf gearbeitet, soll heißen ein bestimmter Datensatz ist auf drei, bzw. fünf verschiedenen Knoten im Clustersystem vorhanden. In der folgenden Abbildung ist ein kleines Beispiel mit einer Replikationsrate von drei dargestellt.
 
-![Replikation](../../assets/nosql/replikation.png)  
+![Replikation](/assets/nosql/replikation.png)  
 (Eigenerstellung, vgl. [45])
 
 Vorteile der Replikation bestehen in der verbesserten Ausfallsicherheit und kürzeren Antwortzeiten. Fällt ein Knoten aus kann dennoch auf die betroffenen Datensätze zugegriffen werden, da diese auch von anderen Knoten gespeichert werden. Durch die Verteilung der Daten an verschiedene Orte kann eine bessere Lastverteilung stattfinden und dementsprechend die Antwortzeiten verringert werden. Probleme bestehen jedoch immer bei der Konsistenzbewahrung. Änderungen auf einem Knoten müssen auf alle anderen betroffenen Knoten übertragen werden.  
@@ -74,7 +74,7 @@ Vorteile der Replikation bestehen in der verbesserten Ausfallsicherheit und kür
 ### Sharding (vgl. [1 Kap. 6.2],[14 Kap. 5.8],[44-47,53-55])
 Beim Sharding werden Datenbestände möglichst gleichmäßig aufgeteilt und auf verschiedene Knoten im Cluster verteilt. Ein Stück eines solchen geteilten Datenbestands wird dabei als Shard (Bruchstück/Splitter) bezeichnet. Ein einfaches Beispiel dafür ist in der folgenden Abbildung dargestellt. Es werden die Namen anhand der alphabetischen Reihenfolge sortiert und auf drei Knoten aufgeteilt. 
 
-![Sharding](../../assets/nosql/sharding.png)  
+![Sharding](/assets/nosql/sharding.png)  
 (Eigenerstellung, vgl. [45])
 
 Durch Sharding ist es möglich auch sehr große und umfangreiche Datenmengen zu verwalten. Datenmengen, die die Kapazität eines Servers übersteigen würden, können auf mehrere aufgeteilt werden. Dadurch kann auch die Last verteilt werden und sich somit die Antwortzeiten verbessern. Der große Nachteil ist jedoch, dass beim Ausfall eines Shards auch nicht mehr auf die von ihm verwalteten Daten zugegriffen werden kann. Dementsprechend wird Sharding sehr häufig mit Replikation zusammen verwendet. Gleiche Shards werden dabei wieder auf verschiedene Knoten verteilt, sodass beim Ausfall eines Knoten auf das Shard auf einem anderen Knoten zurückgegriffen werden kann. Sehr viele NoSQL Datenbanksysteme bieten automatische Mechanismen an, die die Verwendung von Sharding und Replikation stark vereinfachen. Datensätze werden bei Bedarf automatisch umverteilt, beispielsweise wenn ein neuer Knoten hinzugefügt wird oder die Datensätze nicht mehr gleichmäßig aufgeteilt sind.
@@ -83,29 +83,29 @@ Durch Sharding ist es möglich auch sehr große und umfangreiche Datenmengen zu 
 Die verwendete Methode, um Datensätze in verteilten Datenbanksystemen auf mehrere Knoten aufzuteilen, bzw. zu speichern, ist dabei das Hashing. Beim Hashing wird durch eine Funktion ein Wert aus einem großen Wertebereich auf einen Wert aus einem kleineren Wertebereich abgebildet. Dabei wird meist eine möglichst gleichmäßige Verteilung angestrebt.  
 Eine einfache Hashfunktion, die für die Verteilung von Daten auf mehrere Datenbankknoten verwendet werden kann, ist dabei die Modulo Funktion H(x)= x mod n. Der Wert x ist dabei der Datensatz der auf einen der verfügbaren Knoten verteilt werden soll, bzw. ein entsprechender Schlüsselwert der den Datensatz identifiziert. Der Wert n ist die Anzahl der verfügbaren Knoten. Durch diese einfache Hashfunktion können alle Datensätze auf die zur Verfügung stehenden Knoten aufgeteilt werden. Problematisch ist es jedoch wenn ein Serverknoten ausfällt oder ein neuer hinzugefügt werden soll. Es muss für jeden Datensatz neu berechnet werden, auf welchen Knoten im Cluster er gespeichert werden soll und häufig müssen sehr viele Datensätze auf einen anderen Knoten als vorher verschoben werden. Dies wird in den folgenden Abbildungen deutlich. Die erste zeigt die Verteilung bei drei Serverknoten, die zweite die Verteilung wenn ein Knoten ausfällt oder dazukommt.
 
-![Modulo Hashing Anfang](../../assets/nosql/modulo_hash_before.png) 
-![Modulo Hashing Ende](../../assets/nosql/modulo_hash_after.png)  
+![Modulo Hashing Anfang](/assets/nosql/modulo_hash_before.png) 
+![Modulo Hashing Ende](/assets/nosql/modulo_hash_after.png)  
 (Eigenerstellungen, vgl. [2 Kap. 2.3])
 
 Der erste Datensatz wird bei drei Knoten auf dem zweiten gespeichert. Fällt der dritte aus muss der Datensatz auf den ersten verschoben werden, kommt ein vierter dazu muss er auf den dritten kopiert werden. Dies zeigt deutlich den Aufwand der Neuverteilung bei Änderungen der verfügbaren Serverknoten.  
 Um dieses Problem zu umgehen wird das Consistent Hashing verwendet. Dabei wird ein fester Adressbereich definiert, der von einer Hashfunktion abgedeckt ist. Jeder Serverknoten wird dann mithilfe der Hashfunktion in diesem Adressbereich platziert. Jeder Datensatz wird nun über die Hashfunktion in genau den Knoten gespeichert, der dem Hashwert am nächsten ist. Bildlich lässt sich dies am besten als Ring darstellen. Die Knoten werden auf dem Ring platziert und halten alle Datensätze die beispielsweise entgegengesetzt des Uhrzeigersinns vor ihnen liegen. Dieses Verfahren ist in der folgenden Abbildung dargestellt.
 
-![Consistent Hashing Anfang ](../../assets/nosql/consistent_hashing_beginn.png)  
+![Consistent Hashing Anfang ](/assets/nosql/consistent_hashing_beginn.png)  
 (Eigenerstellung, vgl. [2 Kap. 2.3])
 
 Fällt nun ein Serverknoten aus, so müssen nur die Datensätze verschoben werden, die bisher von ihm gehalten wurden. Diese werden dann vom nächsten Knoten im Uhrzeigersinn gehalten. Alle anderen Datensätze müssen nicht neuverteilt werden und können weiterhin auf den bisherigen Knoten bleiben.
 
-![Consistent Hashing Ausfall](../../assets/nosql/consistent_hashing_ausfall.png)  
+![Consistent Hashing Ausfall](/assets/nosql/consistent_hashing_ausfall.png)  
 (Eigenerstellung, vgl. [2 Kap. 2.3])
 
 Genauso verhält es sich, wenn ein neuer Knoten hinzugefügt wird. Der neue bekommt dann alle Datensätze, die entgegengesetzt des Uhrzeigersinns vor ihm liegen.
 
-![Consistent Hashing Hinzufuegen](../../assets/nosql/consistent_hashing_hinzufuegen.png)  
+![Consistent Hashing Hinzufuegen](/assets/nosql/consistent_hashing_hinzufuegen.png)  
 (Eigenerstellung, vgl. [2 Kap. 2.3])
 
 Des Weiteren ist es möglich, virtuelle Serverknoten einzufügen um eine bessere Lastverteilung zu erreichen. Gibt es beispielsweise einen Knoten, der leistungsstärker ist als die anderen, oder mehr Speicherplatz besitzt, so wird für ihn ein virtueller Serverknoten auf dem Ring platziert werden. Jeder Datensatz, der nun diesem virtuellen Serverknoten zugeordnet ist, wird auf dem Knoten gespeichert, zu dem der virtuelle gehört. In der folgenden Abbildung besitzt beispielsweise Server drei mehr Speicherplatz als die anderen. Dementsprechend wird ein virtueller Knoten für ihn auf dem Ring platziert, sodass nun mehr Datensätze auf dem dritten Server gespeichert werden.
 
-![Consistent Hashing Lastverteilung](../../assets/nosql/consistent_hashing_lastverteilung.png)  
+![Consistent Hashing Lastverteilung](/assets/nosql/consistent_hashing_lastverteilung.png)  
 (Eigenerstellung, vgl. [2 Kap. 2.3])
 
 Consistent Hashing wird von vielen NoSQL Datenbanksystemen verwendet. Im Zusammenspiel mit verschiedenen Formen der Replikation und Sharding lassen sich dadurch robuste Datenbankservercluster aufbauen, die durch einfaches hinzufügen oder entfernen von Knoten sich leicht an ändernde Begebenheiten anpassen lassen.
@@ -114,7 +114,7 @@ Consistent Hashing wird von vielen NoSQL Datenbanksystemen verwendet. Im Zusamme
 Durch den Bereich Big-Data wird es immer wichtiger, sehr große verteilte Datenmengen verarbeiten zu können. Da dies auch in angemessener Zeit erfolgen soll, ist es von Vorteil wenn die Datenverarbeitung parallel ausgeführt wird. Um dies umzusetzen wurde von Google das Map-Reduce Framework entwickelt.  
 Die Funktionsweise von Map-Reduce lässt sich in verschiedene Phasen untergliedern und ist in der folgenden Abbildung dargestellt.
 
-![Map-Reduce](../../assets/nosql/mapreduce.png)  
+![Map-Reduce](/assets/nosql/mapreduce.png)  
 (Eigenerstellung, vgl. [2 S. 17])
 
 * Im ersten Schritt werden die Daten auf die verschiedenen Knoten im Netz verteilt, die auch die Map-Funktionen ausführen.

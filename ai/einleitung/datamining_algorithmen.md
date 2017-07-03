@@ -31,7 +31,7 @@ In den Quelldaten werden Ähnlichkeiten und Muster zwischen den Tupeln gesucht u
 
 Eine Beispielvisualisierung mit den Attributen *debt* und *income*.
 
-![Alternativer Text](https://www.analyticsvidhya.com/wp-content/uploads/2013/11/Clust1.gif)
+![Alternativer Text](../../assets/Titanic-correlation.PNG)
 
 Entnommen aus <https://www.analyticsvidhya.com/wp-content/uploads/2013/11/Clust1.gif>.
 

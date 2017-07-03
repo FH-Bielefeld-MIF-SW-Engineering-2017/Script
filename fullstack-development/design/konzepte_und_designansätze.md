@@ -32,10 +32,10 @@ Skeumorphismus besonders bei Zielgruppen angebracht, welche sich nicht schnell
 an neue Technologien anpassen. In der Regel sind dies ältere Personen, welche
 technisch nicht sonderlich bewandt sind.
 
-Ein weiterer sinnvoller Anwendungsfall ist, wenn die Anwendung der Nutzung des
-realen Gegenstands ähnelt. Ein DJ-Pult kann digital ähnlich dargestellt werden
-wie ein reales. Außerdem können die Schalter, Regler und Scheiben intuitiv
-genutzt werden, wie in der folgenden Abbildung dargestellt.
+Ein weiterer sinnvoller Anwendungsfall ist gegeben, wenn die Anwendung der
+Nutzung des realen Gegenstands ähnelt. Ein DJ-Pult kann digital ähnlich
+dargestellt werden wie ein reales. Außerdem können die Schalter, Regler und
+Scheiben intuitiv genutzt werden, wie in der folgenden Abbildung dargestellt.
 
 Oft bekommen Anwendungen einen Hintergrund aus der realen Welt, ohne dass dieser
 einen Zusammenhang zu der Anwendung darstellt. Beispielsweise könnte eine
@@ -88,22 +88,22 @@ Material Design
 
  
 
-Im Jahr 2014 hat Google Material Design vorgestellt. Auf den ersten Blick ähnelt
-es stark dem Flat Design aufgrund seiner einfachen Darstellung. Allerdings wird
-beim Material Design die Dreidimensionalität durch eine z-Koordinate ergänzt.
-Jede Komponente hat die gleiche Dicke von 1dp (Pixel in Abhängigkeit zur
-Bildschirmgröße). Es ist möglich, Komponenten übereinander darzustellen, wodurch
-diese einen Schatten auf die unterliegende Ebene werfen. Desweiteren können die
-Komponenten durch dp Angaben skaliert und verschoben werden, was für eine
-bessere Darstellung auf verschiedenen Bildschirmgrößen sorgt. Der Inhalt von
-Komponenten kann ebenfalls frei auf diesen Verschoben und skaliert werden. Die
-Form der Komponenten kann sich während der Laufzeit ändern was für neue
-Möglichkeiten des Designs sorgt. Google entwickelt das Material Design stetig
-weiter und stellt bereits viele Komponenten zur Verfügung, welche sich einfach
-in eigene Projekte einbauen und verändern lassen. Besonders hervorzuheben sind
-die vielseitigen Animationen, welche im Material Design eingesetzt werden können
-und somit, abgesehen von den im Flat Design besprochenen, besonders das siebte
-Gesetz der Einfachheit ansprechen. (vgl. [5])
+Im Jahr 2014 hat Google das Material Design vorgestellt. Auf den ersten Blick
+ähnelt es stark dem Flat Design aufgrund seiner einfachen Darstellung.
+Allerdings wird beim Material Design die Dreidimensionalität durch eine
+z-Koordinate ergänzt. Jede Komponente hat die gleiche Dicke von 1dp (Pixel in
+Abhängigkeit zur Bildschirmgröße). Es ist möglich, Komponenten übereinander
+darzustellen, wodurch diese einen Schatten auf die unterliegende Ebene werfen.
+Desweiteren können die Komponenten durch dp Angaben skaliert und verschoben
+werden, was für eine bessere Darstellung auf verschiedenen Bildschirmgrößen
+sorgt. Der Inhalt von Komponenten kann ebenfalls frei auf diesen Verschoben und
+skaliert werden. Die Form der Komponenten kann sich während der Laufzeit ändern
+was für neue Möglichkeiten des Designs sorgt. Google entwickelt das Material
+Design stetig weiter und stellt bereits viele Komponenten zur Verfügung, welche
+sich einfach in eigene Projekte einbauen und verändern lassen. Besonders
+hervorzuheben sind die vielseitigen Animationen, welche im Material Design
+eingesetzt werden können und somit, abgesehen von den im Flat Design
+besprochenen, besonders das siebte Gesetz der Einfachheit ansprechen. (vgl. [5])
 
  
 
@@ -117,7 +117,7 @@ Allerdings sollte der Designer bei der Wahl des Konzepts die Zielgruppe
 beachten. Für Personen, welche sich nicht schnell an neue Technologien gewöhnen,
 beziehungsweise diese verweigern, ist der Skeumorphismus eine gute Wahl, da in
 diesem bekannte Dinge der realen Welt eingesetzt werden. Auch wenn die Anwendung
-lediglich einen realen Gegenstand immitieren soll, ist es sinnvol,l den
+lediglich einen realen Gegenstand immitieren soll, ist es sinnvoll, den
 Skeumorphismus anzuwenden, da der Nutzer bereits mit dem Umgang oder dem
 Aussehen des Gegenstands vertraut ist.
 
@@ -145,9 +145,9 @@ gestellt. So ist eine Webanwendung beispielsweise auf einem Desktop-PC, einem
 Tablet, einem Smartphne oder ähnlichem ansteuerbar. Hierbei ergibt sich das
 Problem, das Komponenten der Anwendung entweder mit der Displaygröße skalieren
 oder austauschbar sein müssen. Für diese Problemstellung gibt es mehrere
-Ansätze, wovon einige im Folgenden beschrieben werden sollen (vgl. [6]). Diese
-arbeiten mit Media Queries, welche die verschiedenen Viewportgrößen des Displays
-an die Anwendung weiterreichen.
+Ansätze, wovon einige im Folgenden beschrieben werden sollen. Diese arbeiten mit
+Media Queries, welche die verschiedenen Viewportgrößen des Displays an die
+Anwendung weitergeben. (vgl. [6])
 
  
 
@@ -158,7 +158,8 @@ Bildschirmgrößen verwendet werden sollen. Meist wird ein Layout für ungefähr
 Zoll und größer, 13 Zoll und größer und kleiner als 13 Zoll erstellt. Die
 Layouts werden in CSS mit dem Zusatz der Bildschirmgrößen formuliert und
 entsprechend der Viewportgröße des Endgeräts angezeigt. Das Adaptive Design ist
-also an die Endgeräte ausgerichtet von welchen die Anwendung genutzt wird.
+also an die Endgeräte ausgerichtet, von welchen die Anwendung genutzt wird.
+(vgl. [6])
 
  
 
@@ -168,8 +169,10 @@ Beim Responsive Design werden die Komponenten so gestaltet, dass sie sich
 dynamisch der vorhandenen Bildschirmgröße anpassen. Auch hier gibt es einige
 Layoutvorgaben, welche bei bestimmten Viewportgrößen angewendet werden. Diese
 beziehen sich allerdings meist auf eine Umstrukturierung des Layouts. Hierdurch
-können Elemente versteckt, anders angeordnet oder sichtbar gemacht werden. Eine
-Navigationsleiste am linken Bildschirmrand wird bei großen Bildschirmen
+können Elemente versteckt, anders angeordnet oder sichtbar gemacht werden. (vgl.
+[6])
+
+Eine Navigationsleiste am linken Bildschirmrand wird bei großen Bildschirmen
 beispielsweise meist mit einem Icon und einem beschreibenden Namen pro Element
 versehen. Auf mittelgroßen Bildschirmen wird dann nur noch das entsprechende
 Icon angezeigt. Auf einem Smartphone verbirgt sich die Navigationsleiste dann
@@ -184,15 +187,15 @@ Das Adaptive Design lässt sich schneller umsetzen, da es nur für eine bestimmt
 Anzahl an Bildschirmgrößen getestet werden muss. Außerdem ähneln die Resultate
 meist stärker den Mockups als beim Responsive Design, da hauptsächlich die Größe
 der Elemente angepasst wird. Beim Responsive Design können verschiedene
-Viewportgrößen zu verschiedenen Layouts führen, was den Nutzer verwirren kann,
-allerdings ist beim Responsive Design eine gute Darstellung für alle
+Viewportgrößen zu unterschiedlichen Layouts führen, was den Nutzer verwirren
+kann, allerdings ist beim Responsive Design eine gute Darstellung für alle
 Viewportgrößen bis zu einem gewissen Maximum gegeben. Wenn jemand bei einer
 adaptiv gestalteten Anwendung auf einem 17 Zoll Monitor eine Anwendung startet,
 welche für 13 und 19 Zoll optimiert wurde, so gibt es viele Leerräume, welche
 aufgrund der statischen Darstellung entstehen. Somit kann man sagen, dass der
-Entwicklungsaufwand eines adaptiven Designs zwar deutlich schneller abläuft,
-jedoch das Resultat eines Responsive Designs meist besser aussieht und
-zukunftssicherer ist was neue Bildschirmgrößen anbelangt.
+Entwicklungsaufwand eines adaptiven Designs zwar deutlich geringer ist, jedoch
+das Resultat eines Responsive Designs meist besser aussieht und zukunftssicherer
+ist, was neue Bildschirmgrößen anbelangt. (vgl. [6])
 
  
 

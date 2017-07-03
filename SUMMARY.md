@@ -276,6 +276,7 @@
   * [Unterstützende Tools](continuous-software-engineering/Unterstuezende-Tools.md)
   * [Quellen](continuous-software-engineering/Quellen.md)
 * [AI](ai.md)
+  * [Übersicht Data Mining Algorithmen](ai/datamining_algorithmen.md.md)
   * [Decision Tree](ai/decision-tree.md)
     * [Grundlagen](ai/decision-tree/Grundlagen.md)
     * [CART: Classification And Regression Trees](ai/decision-tree/cart-classification-and-regression-trees.md)

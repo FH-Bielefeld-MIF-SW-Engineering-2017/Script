@@ -5,14 +5,14 @@ Dieses Theorem ist als Klassifikator anwendbar und bestimmt die Zugehörigkeit e
 
 So können wir den folgenden Term 
 
-![Alternativer Text](https://www.zahlen-kern.de/editor/equations/edo5.png)
+![](https://www.zahlen-kern.de/editor/equations/edo5.png)
 <!--- Latex Code:
 P(A|B) = \frac{ P(B|A) * P(A) }{ P(B) }
 -->
 
 ummünzen, um die Wahrscheinlichkeit für eine Klassenzugehörigkeit zu errechnen.
 
-![Alternativer Text](https://www.zahlen-kern.de/editor/equations/ednt.png)
+![](https://www.zahlen-kern.de/editor/equations/ednt.png)
 <!--- Latex Code:
 P(K|I) = \frac{ P( I _{ 1 }|K) * P( I _{ 2 }|K) * ... * P( I _{ n }|K) *  P(K)}{ P(I) }
 -->

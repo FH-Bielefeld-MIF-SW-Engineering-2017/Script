@@ -116,8 +116,6 @@ viel zu überlegen, nutzen. Wird die Komponente jetzt verändert oder
 ausgetauscht, muss der Nutzer sich den Ablauf neu aneignen. Dies sollte, wenn
 möglich, umgangen werden. (vgl. [1] S.73-80)
 
-###  
-
  
 
 ## Zielgruppe erkennen

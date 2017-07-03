@@ -15,7 +15,7 @@ Durch große Risiken wie Datenverluste, Datenenthüllungen und die dadurch entst
 
 Um schneller auf diesem Gebiet voranzukommen, sollten sich Studien und Untersuchungen nicht mehr nur noch auf vereinzelte Probleme beziehen. Es muss die komplette Breite der Cloud Sicherheitsprobleme betrachtet und analysiert werden, um das Vertrauen in Clouds stärken zu können. [10 Kap 5 S. 37]
 
- ![](assets/Herausforderungen.png)
+ ![](/assets/Herausforderungen.png)
  
 Abbildung 1: Herausforderungen und Probleme von Clouds und ihre Relevanz entsprechend der International Data Corporation (IDC) und zugehörige Ergebnisse der Cloud User Survey [10 Fig. 1 Kap 1.2 S. 6]
 
@@ -66,11 +66,11 @@ Die European Network and Information Security Agency (ENISA) ist verantwortlich 
 
 Die Cloud Security Alliance (CSA) veröffentlichte das Dokument „Top Threats to Cloud Computing“.(19) Es beschreibt Top Bedrohungen, echte Beispiele und Abhilfemaßnahmen. Die folgende Tabelle zeigt die Bedrohungen und die betroffenen Service Modelle. [10 Kap 4.1 S. 15]
 
- ![](assets/TopBedrohungen.png)
+ ![](/assets/TopBedrohungen.png)
  
 Tabelle 1: Top Bedrohungen des Cloud Computing beschrieben von der CSA [10 Table 1 Kap 4.1 S. 15]
 
- ![](assets/Hauptcharakteristiken.png)
+ ![](/assets/Hauptcharakteristiken.png)
  
 Tabelle 2: Zusammenfassung der Hauptcharakteristiken von Cloud Entwicklungsmodellen, Zuständigkeit (Organisation O, Third-Party (TP) or both (B)), Management (O, TP or B), Standort (Off-site, On-site or B), Kosten (Low, Medium, High) und Sicherheit (Low, Medium, High), VPC steht für Virtual Private Cloud [10 Table 2 Kap 4.1 S. 16]
 
@@ -88,7 +88,7 @@ Das Messen, Überwachen und Analysieren ändert sich, sobald die Umgebung und Di
 
 Laut der CSA kann Cloud Computing in die folgenden sieben Ebenen eingeteilt werden: Facility(F), Network(N), Hardware(H), OS(O), Middleware(M), Application(A) und User(U). Die folgende Abbildung veranschaulicht diese Ebenen: [11 Kap 22.2.1 S. 567]
 
- ![](assets/CloudEbenen.png)
+ ![](/assets/CloudEbenen.png)
  
 Abbildung 2: Cloud Ebenen, Implementierungsmodelle, Anbieter- vs. Kundenkontrolle [11 Fig 22.1 Kap 22.2.1 S. 568]
 

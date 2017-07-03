@@ -350,7 +350,6 @@
   * [Single Page Application](fullstack-development/single-page-application.md)
     * [Einführung](fullstack-development/single-page-application/einfuehrung.md)
     * [Entwurfsmuster](fullstack-development/single-page-application/entwurfsmuster.md)
-    * [Angular](fullstack-development/single-page-application/angular.md)
     * [Quellen](fullstack-development/single-page-application/quellen.md)
   * [Hybride App-Entwicklung](fullstack-development/Hybride_AppEntwicklung.md)
     * [Einführung](fullstack-development/Hybride_AppEntwicklung/Einfuehrung.md)

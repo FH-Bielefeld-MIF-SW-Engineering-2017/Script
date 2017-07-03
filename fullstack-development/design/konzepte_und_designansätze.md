@@ -1,5 +1,4 @@
-Konzepte und Designansätze
-==========================
+# Konzepte und Designansätze
 
  
 
@@ -12,8 +11,7 @@ Kopf. Nachdem die Zielgruppen analysiert wurden kann diese Vorstellung jetzt
 
  
 
-Skeumorphismus
---------------
+## Skeumorphismus
 
  
 
@@ -44,14 +42,13 @@ edleres Aussehen zu vermitteln. (vgl [3])
 
  
 
-![](../../assets/Mischpult.png)
+![](/assets/Mischpult.png)
 
 Mischpult im Skeumorphismus Design ([4])
 
  
 
-Flat Design
------------
+## Flat Design
 
  
 
@@ -83,8 +80,7 @@ Wert auf die Farbgestaltung sowie die Positionierung gelegt werden kann. (vgl.
 
  
 
-Material Design
----------------
+## Material Design
 
  
 
@@ -107,8 +103,7 @@ besprochenen, besonders das siebte Gesetz der Einfachheit ansprechen. (vgl. [5])
 
  
 
-Skeumorphismus vs Flat Design vs Material Design
-------------------------------------------------
+## Skeumorphismus vs Flat Design vs Material Design
 
  
 
@@ -135,8 +130,7 @@ sie gegen das dritte Gesetz der Einfachheit, die Zeit, sprechen.
 
  
 
-Dynamische Bildschirmgrößen
----------------------------
+## Dynamische Bildschirmgrößen
 
  
 
@@ -199,8 +193,7 @@ ist, was neue Bildschirmgrößen anbelangt. (vgl. [6])
 
  
 
-Pagination vs Infinite Scrolling
---------------------------------
+## Pagination vs Infinite Scrolling
 
  
 

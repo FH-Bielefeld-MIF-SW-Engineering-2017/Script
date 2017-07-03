@@ -1,5 +1,4 @@
-Grundlagen
-==========
+# Grundlagen
 
  
 
@@ -11,8 +10,7 @@ die Anforderungen der Anwendung nicht notwendig sind.
 
  
 
-10 Gesetze der Einfachheit
---------------------------
+## 10 Gesetze der Einfachheit
 
  
 
@@ -122,8 +120,7 @@ möglich, umgangen werden. (vgl. [1] S.73-80)
 
  
 
-Zielgruppe erkennen
--------------------
+## Zielgruppe erkennen
 
  
 
@@ -146,8 +143,7 @@ Anteil der Nutzer betroffen wäre.
 
  
 
-Barrierefreiheit
-----------------
+## Barrierefreiheit
 
  
 

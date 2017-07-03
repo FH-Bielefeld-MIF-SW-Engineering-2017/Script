@@ -1,6 +1,4 @@
-CSS-Technologien und Erweiterungen
-==================================
-
+# CSS-Technologien und Erweiterungen
  
 
 Mit Cascading Stylesheets kann unter anderem das Aussehen von HTML-Elementen
@@ -11,8 +9,7 @@ werden.
 
  
 
-CSS Grid
---------
+## CSS Grid
 
  
 
@@ -35,8 +32,7 @@ verwendet werden, da das Grid hierbei komplett umgestaltet werden kann. (vgl.
 
  
 
-Flexbox
--------
+## Flexbox
 
  
 
@@ -56,8 +52,7 @@ Containergröße anpasst. (vgl. [9])
 
  
 
-Erweiterungen
--------------
+## Erweiterungen
 
  
 

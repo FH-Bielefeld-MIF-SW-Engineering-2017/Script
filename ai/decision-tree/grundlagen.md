@@ -35,7 +35,7 @@ Ein Split-Kriterium sind Bedingungen über ein oder mehrere Input Variablen eine
 1. _Fehlerrate:_ Wenn _p_ die Menge der einzelnen Instanzen (also einzelne Datenreihen in einem Datensatz) eines Datensatzes ist, welche zum dominierenden Wert der Zielvariable gehören, dann ist die Fehlerrate 1 - _p_. Die gesamte Fehlerrate einer Partitionierung bzw. Split eines Trainings Datensatzes mit einem Split-Kriterium errechnet sich mit dem gewichteten Durchschnitt der einzelnen Fehlerraten der einzelnen Partitionen. Das Gewicht einer Fehlerrate ist der Anteil der einzelnen Instanzen zum gesamten Datensatz. Es wird das Split-Kriterium mit der geringsten Fehlerrate gewählt. <sup id="fn1_7">[[1]](#fn1)
 
 
-2. _Gini Index:_ Der Gini Index _G(S)_ von einer Datenmenge _S_ berechnet sich mit der nachfolgenden Gleichung mit der Verteilung der Werte der Zielvariablen _p1 ... pk_ des  Trainings Datensatzes. Der gesamte Gini Index für eine Partitionieren bzw. Split errechnet sich mit dem gewichteten Durchschnitt der einzelnen Gini Index Werte. Das Split-Kriterium mit dem geringsten Gini-Index wird gewählt. In Kapitel X wird der Gini Index in einem Anwendungsbeispiel verwendet. <sup id="fn1_8">[[1]](#fn1)
+2. _Gini Index:_ Der Gini Index _G(S)_ von einer Datenmenge _S_ berechnet sich mit der nachfolgenden Gleichung mit der Verteilung der Werte der Zielvariablen _p1 ... pk_ des  Trainings Datensatzes. Der gesamte Gini Index für eine Partitionieren bzw. Split errechnet sich mit dem gewichteten Durchschnitt der einzelnen Gini Index Werte. Das Split-Kriterium mit dem geringsten Gini-Index wird gewählt. <sup id="fn1_8">[[1]](#fn1)
 
 <div style="text-align:center"><img src ="https://www.zahlen-kern.de/editor/equations/e1u6.png" /></div>
 

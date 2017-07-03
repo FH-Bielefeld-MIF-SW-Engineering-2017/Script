@@ -1,4 +1,8 @@
 # Einsatzgebiete
+ 
+ ![](/assets/VR-Hyper_Reality.jpg) 
+
+\(Quelle: https://cdnwebqastorage.azureedge.net/dimensions/gb-reservations.jpg \)"\)
 
 Kommerziell gesehen tritt **VR** meist in Form von Spielen auf. Im privaten Haushalt können diese durch Einsatz von **HMDs** immersiv verstärkt werden. Alternativ kann man in bestimmten Regionen **VR**-Spielhallen besuchen. 
 

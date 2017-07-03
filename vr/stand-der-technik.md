@@ -6,10 +6,6 @@ Hardwaretechnisch gibt es heutzutage mehrere Geräte, mit der man ein immersives
 
 Bzgl. Interaktion gibt es auch Zahlreiche Möglichkeiten. Neben dem normalen Gamepad (z.B. Xbox360-Controller) liefern die meisten **HMD**-Hersteller interaktive Controller mit (**Oculus**, **HTC**). **HTC** arbeitet aktuell an Knuckles-Controller, welche die Interaktion durch die Hand vereinfachen und verbessern soll. Alternativ kann man die Sets mit experimentellen Interaktionsmöglichkeiten erweitern. So haben Forscher an der UC San Diego vor kurzem einen **VR**-Handschuh entwickelt, welcher virtuellen Tastsinn wiedergeben soll. Wem dies aber zu unrealistisch ist, kann sich ein ähnliches System wie *Anvio VR* bauen: Dieses System wirbt damit, dem Nutzer komplette Bewegungsfreiheit zu geben. Zusätzlich wird durch die *Multiplayer*-Möglichkeit und durch das Ganzkörper-Tracking ein *“unglaublicher Level an Immersion erreicht“*. Die Entwickler, *The Void*, sprechen sogar nicht mehr von **VR**, sondern von **Hyper Reality**. Ausgelegt ist das System für **VR**-Spielhallen.
  
- ![](/assets/VR-Hyper_Reality.jpg) 
-
-\(Quelle: https://cdnwebqastorage.azureedge.net/dimensions/gb-reservations.jpg \)"\)
-
 Quellen:
 
 https://www.golem.de/news/steamvr-valve-zeigt-knuckles-controller-1706-128553.html

@@ -1,6 +1,0 @@
-# URIs
-
-Autor: Timo Rolfsmeier
-
-
-

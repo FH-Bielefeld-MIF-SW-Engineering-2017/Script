@@ -43,6 +43,12 @@ sämtliche relevanten Inhalte eingelesen und HTML-Tags ausgelassen.
 5. Entfernung von Stoppwörtern: Das bereits erwähnte NLTK beinhaltet eine Liste von Stoppwörtern der Englischen Sprache. Sämtliche Tokens, welche aus einem dieser Stoppwörter bestehen, werden entfernt.
 6. Stammformreduktion: Für dieses Projekt wird eine Stammformreduktion anstatt Lemmatisierung verwendet. Der Grund ist, dass die Grundformen von Wörtern die emotionalen Ausdrücke abschwächen könnten. In der Sentiment Analyse ist dies jedoch von Bedeutung.
 
+Der folgende Code-Abschnitt zeigt die Ausgabe der Datenvorverarbeitung eines beispielhaften Texts:
+
+> normalized_text = preprocess_text(["RT This is a <b>text!</b> Is that great? @-User -> :) $199, that's good. You can't win. I'm hoping you're in a good mood :P !!!"])  
+print(normalized_text)  
+-> ['text great user -> :) 199 good cannot win hope good mood :p']
+
 ___
 
 <b id="fn1"></b>1. Sarkar, D.: Text Analytics with Python. Apress (Herausgeber) (2016) [↩](#fn1_1)[↩](#fn1_2)

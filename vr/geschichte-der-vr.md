@@ -8,7 +8,7 @@ Das erste echte **HMD** erfand Ivan Sutherland um 1968: *The Sword of Damocles*.
 In diesen Jahren stieg auch die Rechenleistungskraft kommerzieller Computer, sodass sie imstande waren, auch komplexere 3D-Welten anzuzeigen. Mit der Einführung von *OpenGL* (ab 1992) und *DirectX* (ab 1995) wurden auch fortan Programmierschnittstellen zur Entwicklung von 3D-Anwendungen gepflegt, auf welche auch später Szenegraphen und Spiel-Engines wie die *Unreal Engine* aufbauen, welche nun die Entwicklung von **VR**-Umgebungen massiv vereinfachen.  Aber auch in Sachen Interaktion hat sich in diesen Jahren viel getan: Die innovative Idee der *Wii* von **Nintendo** im Jahre 2006, das Spiel durch eigene Bewegung zu steuern, hat viele Entwickler inspiriert, ähnliche Konzepte auszuarbeiten (z.B.*Playstation Move*, *Xbox Kinect*).
 Auch das Verständnis bzgl. **VR** hat sich weiterentwickelt. So werden in Reki Kawaharas *Sword Art: Online* zukünftig mögliche **HMDs* und eine dazugehörige **VR** präsentiert, die jedoch Gefahren wie geistige Schäden oder auch Tod bergen kann. Das bekannteste Beispiel jedoch ist die *Matrix*-Trilogie der Wachowski-Geschwister, welche auch philosophische Fragen zu den schon genannten Problemen aufwirft (z.B.: Sind wir auch in einer Matrix gefangen?).     
 
-
+Quellen:
 http://www.tomshardware.de/fotoreportage/291-virtuelle-realitat-vr-vr-brille-virtual-reality-hmd.html#s14
 http://www.vrnerds.de/die-geschichte-der-virtuellen-realitaet/
 https://de.wikipedia.org/wiki/Neuromancer-Trilogie

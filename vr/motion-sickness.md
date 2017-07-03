@@ -13,5 +13,6 @@ Dies kann unter anderem durch eine schlechte Implementierung der Bewegung oder d
 7. Pausen einlegen.
 8. Bei Auftreten von Symptomen pausieren, bis Symptome verschwunden.
 
+Quellen:
 https://vr-world.com/was-tun-bei-motion-sickness-in-vr/
 

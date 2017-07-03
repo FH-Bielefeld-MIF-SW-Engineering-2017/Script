@@ -4,3 +4,6 @@ In der Praxis ist dies oft der Fall und der Naive Bayes Klassifikator liefert ei
 Im Speziellen ist Naive Bayes hervorragend für die Textklassifizierung einsetzbar, welches die Praxis wiederspiegelt. (vgl. Felden 2006, S. 27)
 Die Email-Spam Erkennung wird in der Regel durch Bayes Algorithmen gelöst. (vgl. Metsis)
 Ferner kann der Algorithmus angepasst, erweitert, sowie optimiert werden, sodass die Fehlerrate bei der Textklassifizierung weiter gesenkt werden kann. (vgl. Rennie)
+
+___	
+Author: Sven Schirmer

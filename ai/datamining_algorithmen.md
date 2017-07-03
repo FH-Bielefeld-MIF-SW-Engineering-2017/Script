@@ -60,3 +60,6 @@ Die Regressionsanalyse lässt sich am ehesten mit der Klassifizierung vergleiche
 * Thomas A. Runkler: Data Mining - Modelle und Algorithmen intelligenter Datenanalyse; 2. Auflage; Springer; 2015
 * Tan, Steinbach, Kumar: Data Mining - Classification: Basic Concepts, Decision Trees, and Model Evaluation; 2004; <https://www-users.cs.umn.edu/~kumar/dmbook/dmslides/chap4_basic_classification.pdf> Aufgerufen am 01.07.2017.
 * Pawet Cichosz: Data Mining Algorithms - Explained Using R; Wiley; 2015; <http://pdf.th7.cn/down/files/1502/Data%20Mining%20Algorithms.pdf> Aufgerufen am 01.07.2017.
+
+___
+Author: Sven Schirmer

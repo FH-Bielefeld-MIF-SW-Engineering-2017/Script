@@ -58,6 +58,7 @@ ___
 
 <b id="fn3"></b>3. Witten, I., Frank, E., Hall, M.: Data Mining. Morgan Kaufmann (Herausgeber) (2011) 
 
-
+___
+Author: Yannick Kloss
 
 

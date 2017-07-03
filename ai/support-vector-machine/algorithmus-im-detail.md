@@ -98,3 +98,6 @@ ___
 <b id="fn6"></b>6. http://scikit-learn.org/stable/modules/sgd.html [↩](#fn6_1)
 
 <b id="fn7"></b>7. Russell, S., & Norvig, P. (2009). Artificial Intelligence: A Modern Approach. Prentice Hall (Third edit). Pearson. [↩](#fn7_1)[↩](#fn7_2)[↩](#fn7_3)[↩](#fn7_4)[↩](#fn7_5)
+
+___
+Author: Daniel Beneker

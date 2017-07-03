@@ -1,5 +1,5 @@
 # LBPH
-Die Kurzform von LBPH steht für Local Binary Pattern Histograms und kann auch für die Gesichtserkennung eingesetzt werden. Die Local Binary Pattern (LBP) sind Teil des Textur Spektrum Modells von 1990 und wurden 1994 erstmals beschrieben.[12] LBPH wird ebenfalls zur Gesichtserkennung eingesetzt, im Sinne das das Gesicht klassifiziert werden kann.
+Die Kurzform von LBPH steht für Local Binary Pattern Histograms und kann auch für die Gesichtserkennung eingesetzt werden. Die Local Binary Pattern (LBP) sind Teil des Textur Spektrum Modells von 1990 und wurden 1994 erstmals beschrieben.[12] LBPH wird ebenfalls zur Gesichtserkennung eingesetzt, in dem Sinn, dass das Gesicht klassifiziert werden kann.
 
 ## Funktionsweise von LBP
 Geht man wieder bei einem Bild von einer Matrix aus (s. Kapitel OpenCV), so lässt sich eine Tabelle, wie in folgender Abbildung aufbauen:
@@ -36,7 +36,7 @@ Ein uniform Pattern darf allerdings nur maximal 2 Bittransitionen haben. Damit w
 *Beispiel für ein uniform Pattern.[13]*</center><br>
 Damit ist gezeigt, dass es bei einem 8 Bit Binärcode es insgesamt 58 uniform Patterns gibt. Diese werden auch "uniform pattern LBP histogram" genannt.[1.6]
 
-Uniform Patterns führen zu einer stärkeren Effizient und kompakteren Repräsentierung des LBPH. Nun muss noch betrachtet werden, was LBPH überhaupt über das Bild erzählt. [1.6]
+Uniform Patterns führen zu einer stärkeren Effizienz und kompakteren Repräsentierung des LBPH. Nun muss noch betrachtet werden, was LBPH überhaupt über das Bild erzählt. [1.6]
 
 <center><img src="../../assets/lbp.jpg"><br>
 *Beispiel eines verschieden beleuchteten Jungen in LBP.[14]*</center>

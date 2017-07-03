@@ -1,11 +1,11 @@
-# 2.PhoneGap/Cordova
+# 3. PhoneGap/Cordova
 
-## 2.1 Allgemein 
+## 3.1 Allgemein 
 PhoneGap/Cordova ist ein Framework für die Entwicklung von hybriden Applikationen, welches auf einem Smartphone/Mobile Device benutzt werden kann.
 
 PhoneGap/Cordova wurde von der Firma Nitobi Software entwickelt. Diese Firma wurde am 04. Oktober 2011 von Adobe Systems aufgekauft. Seit dem gehört PhoneGap/Cordova Adobe Systems und Adobe Systems entwickeln PhoneGap/Cordova auch weiter. PhoneGap baut auf Apache Cordova auf. Ursprünglich war Apache Cordova PhoneGap wurde aber aus markenrechtlichen Gründen umbenannt in Apache Callback und später dann in Apache Cordova. PhoneGap/Cordova unterstützt folgende Betriebssysteme: IOS, Android, WebOS, Symbian OS, Blackberry, Windows Phone, Windows 8. Die Hybriden Apps die man mit PhoneGap/Cordova entwickelt benutzen JavaScript, HTML und CSS als Entwicklungssprachen. Dabei wird die Programmlogik mit JavaScript realisiert, das Layout mit HTML und das Design mit CSS. PhoneGap/Cordova ist lizenziert unter der Apache Lizenz 2.0. [4] 
 
-## 2.2 Architektur
+## 3.2 Architektur
 
 PhoneGap/Cordova besteht ausfolgenden zwei Teilen: der Cordova.js und Nativen Engine. Die Cordova.js stellt eine API für plattformabhängige Zugriffe auf die nativen Gerätefunktionen des jeweiligen Systems bereit. Die Native Engine verarbeitet die nativen Befehle und ermöglicht die Abfrage von Sensoren. Für jedes System existiert eine eigene Native Engine, damit der native Code für jedes System separat verarbeitet werden kann. Es existieren viele verschiedene Plug-Ins, sie stellen native Gerätefunktionen für die verschiedenen Plattformen bereit z.B. Kamerasteuerung. Es existieren externe Plug-Ins für Gerätefunktionen, die noch nicht vollständig unterstützt werden. Diese Plug-Ins wurden von der Community entwickelt und werden auch von ihnen weiterentwickelt. Für jedes Plug-In muss eine JavaScript Datei existieren und eine Klasse für den nativen Code für jede unterstützte Plattform, damit die Gerätefunktion native genutzt werden kann, da das Plug-In über JavaScript angesprochen wird und mit den nativen Plug-In der passenden Plattform kommuniziert. Die HTML, CSS und JS Dateien werden in die WebView geladen. Und die WebView ladet die PhoneGap/Cordova Plug-Ins, danach wird der native Code auf dem jeweiligen System ausgeführt. [5] [9]
 

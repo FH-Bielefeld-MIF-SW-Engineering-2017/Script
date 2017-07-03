@@ -3,17 +3,17 @@ Paul Viola und Michael Jones entwickelten in ihren Paper "Rapid Object Detection
 
 ## Das Prinzip
 Benötigt werden eine große Menge an positiven und negativen normalisierten Graustufenbildern. Je mehr unterschiedliche Bilder man hat, desto größer ist auch die Genauigkeit der Erkennungsrate. Das Ziel ist es eine Cascade Function herauszuarbeiten, die ein ähnliches oder identisches Objekt auf einem beliebigen Bild erkennen kann. Folgender Flowchart erklärt das Grundprinzip:
-<center><img src="../../assets/object-detection-flowchart.png" /><br>
+<center><img src="/assets/object-detection-flowchart.png" /><br>
 *Vorgehensweise für Objekterkennung in OpenCV.[1.4]*
 </center>
 
 Im gezeigten Flowchart kann man erkennen, dass man am Anfang ein Set von Bildern hat. Anschließend wird eine Methode namens "Feature Extraction" angewendet. Die Feature Extraction sorgt dafür, dass aus den Bildern mit Hilfe von verschiedenen Haar Featuren (siehe Abbildung) ein Feature Vector extrahiert wird. Dabei werden die Haar Features in verschiedenen Skalierungen auf die Graustufenbilder angewandt. Ein Feature Vector (auf deutsch Merkmalsvektor) ist ein Vektor von Featuren, die ein bestimmtes Muster wiedergeben, das vom Programm als gemeinsames Muster bei einer Mehrheit von Bildern aus dem Bildset erkannt wurde.[1.4, 3]
-<center><img src="../../assets/haar_features.jpg" /><br>
+<center><img src="/assets/haar_features.jpg" /><br>
 *Verschiedene Haar Features.[3]*
 </center>
 
 Existiert ein solcher Feature Vector kann vom Programm berechnet werden, welche Bilder aus dem Bilderset als positive oder negative Bilder zu klassifizieren sind. Dies erfolgt durch Prüfung der gesammelten Features im Feature Vector. Da man an Rechenzeit sparen möchte, werden nicht alle Features für jedes einzelne Bild durchgegangen, sondern man prüft die Features nacheinander. Sollte ein Feature als negativ erscheinen, wird das Bild als negativ bewertet und es wird zum nächsten Bild im Bildset übergegangen. Hier sieht man, dass das Klassifizieren den Klassifizierungsalgorithmus (Classification algorithm) entspricht und dass die positiven und negativen Bilder die Klassennamen (Class label) sind. Diese könnten beispielsweise "Gesicht" und "KeinGesicht" sein.[3]
-<center><img src="../../assets/haar.png" /><br>
+<center><img src="/assets/haar.png" /><br>
 *Anwendung von Haar Features als Beispiel.[3-4]*
 </center>
 

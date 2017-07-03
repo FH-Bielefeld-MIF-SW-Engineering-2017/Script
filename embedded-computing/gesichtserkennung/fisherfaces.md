@@ -1,6 +1,6 @@
 # Fisherfaces
 Fisherfaces funktionieren ungefähr vergleichbar wie die Eigenfaces und ist ein Versuch den Eigenface Algorithmus mit einem Trainingsset von wenigen Bildern zu optimieren. Der Hauptunterschied zwischen den beiden ist, dass Eigenface auf die Principial Component Analyse (kurz PCA) setzt, während die Fisherfaces auf die Linear Discriminant Analyse (kurz LDA) setzen. Mit Hilfe dieser Analyse möchte man eine lineare Kombination von Featuren finden, welche zwei oder mehr Objekte von Trainingsdaten klassifizieren oder trennen. Dies bedeutet, dass während kleinere Eigenvalues empfindlich auf die Wahl der Trainingsdaten an Bildern reagieren, sind Fisherfaces dagegen toleranter. Veranschaulichen lässt sich dies durch ein Diagramm mit Hilfe von Erkennungsraten.[7,11]
-<br><center><img src="../../assets/eigenvsfisher.png"><br>
+<br><center><img src="/assets/eigenvsfisher.png"><br>
 *Vergleich der Erkennungsraten von Eigen- und Fisherfaces[8]*</center><br>
 Am Bild sieht man, dass Eigenfaces bei weniger Bildern pro Person eine niedrigere Erkennungsrate besitzen als Fisherfaces. Dennoch kann es passieren, dass bei mehr Bildern Eigenfaces eine höhere Erkennungsrate als Fisherfaces haben, auch wenn die Erkennungsrate bei Fisherfaces schwankt, während bei Eigenfaces die Erkennungsrate wie eine Parabel mit oberer Schranke nach oben geht.
 ## Fisherfaces in OpenCV

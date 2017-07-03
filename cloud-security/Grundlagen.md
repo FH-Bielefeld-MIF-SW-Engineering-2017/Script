@@ -1,7 +1,7 @@
 # Grundlagen
 Autor: Philipp Viertel
 
-Um das Verständnis der Cloud Systeme näher zu bringen, müssen einige Definitionen vorab erläutert werden. Hierzu wird auf die Definitionen des NIST (National Institute of Standards and Technology) zurückgegriffen, welche allgemein anerkannt sind.
+Um das Verständnis der Cloud Systeme näher zu bringen, müssen einige Definitionen vorab erläutert werden. Hierzu wird auf die Definitionen des NIST (National Institute of Standards and Technology) in [8] zurückgegriffen, welche allgemein anerkannt sind.
 
 Das Cloud Computing Modell stellt einen Netzwerk Zugriff auf einen geteilten Pool von konfigurierbaren Rechenressourcen zur Verfügung. Diese beinhalten z.B. Server, Speicherkapazitäten, Applikationen, Dienste, usw. Dieser Zugriff stellt dabei einige Anforderungen: Er muss ubiquitär sein, zweckmäßig und auf Abruf immer bereit stehen. Ein solches Modell muss schnell verfügbar sein und das mit wenig Interaktion seitens des Anbieters.
 

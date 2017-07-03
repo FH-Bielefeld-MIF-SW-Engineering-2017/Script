@@ -1,5 +1,5 @@
 ## Sicherheitsarchitektur
-![IoT-Sicherheitsarchitektur](../../assets/IoT_security_architecture3.png)
+![IoT-Sicherheitsarchitektur](/assets/IoT_security_architecture3.png)
 *IoT-Sicherheitsarchitektur. Angelehnt an Fig. 3 in [3](quellen.md) und Fig. 2 in [2](quellen.md)*
 
 Die Sicherheitsarchitektur des Internet der Dinge lässt sich, wie in der obigen Grafik abgebildet, in drei Schichten

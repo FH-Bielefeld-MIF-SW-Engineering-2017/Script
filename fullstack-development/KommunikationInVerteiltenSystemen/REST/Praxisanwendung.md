@@ -1,6 +1,0 @@
-# Praxisanwendung
-
-Autor: Timo Rolfsmeier
-
-
-

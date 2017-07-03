@@ -1,6 +1,0 @@
-# Constraints
-
-Autor: Timo Rolfsmeier
-
-
-

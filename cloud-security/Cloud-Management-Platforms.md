@@ -11,7 +11,7 @@ OpenStack ist ein sehr komplexes System. Es enthält eine große Anzahl von unte
 
 Die im weiteren Verlauf näher erläuterten Komponenten von OpenStack und deren gegenseitiges Zusammenspiel, lassen sich in Abbildung 1 im Zusammenhang darstellen.
 
-![](assets/osog_0001.png)Abbildung 1: Logische(r) Aufbau/Architektur von OpenStack. Quelle: https://docs.openstack.org/arch-design/design.html
+![](/assets/osog_0001.png)Abbildung 1: Logische(r) Aufbau/Architektur von OpenStack. Quelle: https://docs.openstack.org/arch-design/design.html
 
 ### Nova (Compute)
 
@@ -92,7 +92,7 @@ Public ist nicht vertrauenswürdig, da es sich dabei um Netzwerke handelt, wo de
 
 Unter einer Bridge versteht man eine Komponente, die sich in mehr als einer Domäne befindet, z.B. in einer vertrauenswürdigen und einer nicht vertrauenswürdigen Domäne. In diesem Fall muss eine Komponenten besonders vorsichtig konfiguriert werden. Oft stellen diese Komponente Schwachstellen dar und sind daher für Angriffe besonders verwundbar. Um diesen Fällen vorzubeugen, gibt es die Option, eine Bridge besonders abzusichern, das heisst, sicherer als beide Domänen in der sich die Komponente befindet. 
 
-![](assets/bridging_domains_clouduser.png)
+![](/assets/bridging_domains_clouduser.png)
 
 Abbildung 2: Beispielhaftes Szenario. Der API Endpoint in der Domäne Management überschneidet sich mit der Domäne Public. Quelle: https://docs.openstack.org/security-guide/introduction/security-boundaries-and-threats.html
 
@@ -102,7 +102,7 @@ In der Abbildung 2 ist ein solches Beispiel dargestellt. Der API Endpoint (aus d
 
 Das nachfolgende Diagramm stellt die möglichen Angriffe exemplarisch dar. Wieder sollte die Frage anstehen, welches Szenario für die Cloud am wahrscheinlichsten ist? Handelt es sich um eine private oder public Cloud, wie sensibel sind die Daten, die Ressourcen, etc.? Anhand dieser Analyse kann ermittelt werden, welches Angriffsszenario am wahrscheinlichsten ist, und welche Maßnahmen man anschließend ergreifen muss, um sich dagegen zu wehren.
 
-![](assets/high-capability.png)
+![](/assets/high-capability.png)
 
 Abbildung 2: Verschiedene Angriffsszenarien. Quelle: https://docs.openstack.org/security-guide/introduction/security-boundaries-and-threats.html
 
@@ -120,13 +120,13 @@ Um die unterschiedlichen Lösungen in Relation zueinander zu setzen, ist es mög
 
 Die Abbildung 3 stellt die Unterschiede und Spezifikationen die diese Einteilung mitsich bringt übersichtlich dar.
 
-![](assets/cloudcomparison.png)
+![](/assets/cloudcomparison.png)
 
 Abbildung 3: Gegenüberstellung der Anforderungen und Anwendungen von Cloud Lösungen. Quelle: https://opennebula.org/eucalyptus-cloudstack-openstack-and-opennebula-a-tale-of-two-cloud-models/
 
 Eine Einteilung von CloudStack, OpenNebula, Eucalyptus und OpenStack lässt sich folgendermaßen darstellen, wie in Abbildung 4 abgebildet.
 
-![](assets/CMP_Quadrant1.png)Abbildung 4: Positionierung vier unterschiedlicher Cloud Plattformen. Quelle: https://opennebula.org/eucalyptus-cloudstack-openstack-and-opennebula-a-tale-of-two-cloud-models/
+![](/assets/CMP_Quadrant1.png)Abbildung 4: Positionierung vier unterschiedlicher Cloud Plattformen. Quelle: https://opennebula.org/eucalyptus-cloudstack-openstack-and-opennebula-a-tale-of-two-cloud-models/
 
 OpenStack hat eine hohe Komplexität, jedoch ist es die am weitesten verbreiteste Cloud Lösung. Mehr als 150 Firmen wie z.B. AMD, Dell, IBM und Yahoo verwenden OpenStack und leisten auch ihren Beitrag zur Weiterentwicklung des Projekts. Dies macht OpenStack zu einem. Die erste stabile Version von CloudStack erschien 2013 und ist daher noch recht jung. Kritiker bemängeln die umständliche Installation, die einige Kenntnisse vom Anwender abverlangt. Der größte Nutzer von CloudStack, das Unternehmen DataPipe, nennt einige Gründe für ihre Wahl; zu den Wichtigsten gehören die Skalierbarkeit des Datenspeichers und die Nutzung von hochgeschwindigkeits VMs, welche damit ressourcensparender arbeiten. Auch wenn CloudStack mehr an Popularität gewinnt und in der Zukunft womöglich interessanter sein wird, ist die momentan verbreiteste und akzeptierteste Lösung OpenStack.
 

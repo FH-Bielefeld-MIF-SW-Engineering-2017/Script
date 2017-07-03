@@ -36,3 +36,6 @@ clf.fit(x, y)
 ___
 
 <b id="fn1"></b>1. Scikit-learn Homepage. http://scikit-learn.org/stable/ (2017)
+
+___
+Author: Yannick Kloss

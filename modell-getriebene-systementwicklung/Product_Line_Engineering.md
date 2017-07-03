@@ -67,7 +67,7 @@ Zu Beginn erfolgt eine kurze Einleitung in die verwendete Notation, die abschlie
 
 Mit der **Konjunktion** (UND-Verknüpfung) wird beschrieben, dass alle verbundenen Elemente (Features) im Produkt umgesetzt werden müssen. In Abbildung 11 müssten also alle Elemente (A, B und C) vom Produkt implementiert werden:
 
-<img src="..\assets\konjunktion_formel.PNG" alt="Drawing" style="height: 30px;"/>
+![](/assets/konjunktion_formel.PNG)
 
 ![](/assets/konjunktion.PNG)
 
@@ -77,7 +77,7 @@ Mit der **Disjunktion** (ODER-Verknüpfung) wird beschrieben, dass mindestens ei
 
 Im Beispiel dürften also beliebige Kombinationen aus den Features A, B und C umgesetzt werden. Jedoch mindestens eines von Ihnen:
 
-<img src="..\assets\disjunktion_formel.PNG" alt="Drawing" style="height: 30px;"/>
+![](/assets/disjunktion_formel.PNG)
 
 ![](/assets/Disjunktion.PNG)
 
@@ -85,7 +85,7 @@ Abbildung 12: Disjunktion
 
 Die **Kontravalenz** (Exklusiv-ODER-Verknüpfung) beschreibt, dass genau eines der verbundenen Elemente umgesetzt werden muss. Es darf kein weiteres Element umgesetzt werden. Die Kontravalenz wird durch einen Halbkreis am ausgehenden Feature-Strang markiert. Im Folgenden müsste also entweder Feature A, B oder C umgesetzt werden:
 
-<img src="..\assets\kontravalenz_formel.PNG" alt="Drawing" style="height: 30px;"/>
+![](/assets/kontravalenz_formel.PNG)
 
 ![](/assets/kontravalenz.PNG)
 
@@ -93,7 +93,7 @@ Abbildung 13: Kontravalenz
 
 Mit **Implikationen** können Abhängigkeiten zwischen Features dargestellt werden. Wird ein Feature umgesetzt, kann dies bedeuten, dass auch ein anderes Feature umgesetzt werden muss. In Abbildung 14 können Feature A oder C oder beide umgesetzt werden. Wird C umgesetzt so muss auch B umgesetzt werden. Falls A umgesetzt wird darf B ebenfalls umgesetzt werden, muss es allerdings nicht. Es existiert keine Abhängigkeit zwischen A und B.
 
-<img src="..\assets\implikation_formel.PNG" alt="Drawing" style="height: 30px;"/>
+![](/assets/implikation_formel.PNG)
 
 ![](/assets/implikation.PNG)
 
@@ -101,7 +101,7 @@ Abbildung 14: Implikation
 
 **Obligationen** und **Optionen** werden eingesetzt um darzustellen, dass Features umgesetzt werden müssen (Obligation) bzw. umgesetzt werden können (Option). Die Obligation wird dabei durch einen ausgefüllten Kreis am entsprechenden Featuredargestellt, die Option durch einen nicht ausgefüllten. Im Beispiel müssen sowohl Feature A als auch C umgesetzt werden. Feature B kann optional umgesetzt werden:
 
-<img src="..\assets\obligation_option_formel.PNG" alt="Drawing" style="height: 30px;"/>
+![](/assets/obligation_option_formel.PNG)
 
 ![](/assets/obligation_option.PNG)
 

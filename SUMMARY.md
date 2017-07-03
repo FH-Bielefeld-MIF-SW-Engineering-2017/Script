@@ -276,7 +276,7 @@
   * [Unterstützende Tools](continuous-software-engineering/Unterstuezende-Tools.md)
   * [Quellen](continuous-software-engineering/Quellen.md)
 * [AI](ai.md)
-  * [Datenvorverarbeitung](ai/einleitung/datenvorverarbeitung.md)
+  * [Datenvorverarbeitung](ai/datenvorverarbeitung.md)
   * [Decision Tree](ai/decision-tree.md)
     * [Grundlagen](ai/decision-tree/grundlagen.md)
     * [Implementierung](ai/decision-tree/implementierung.md)

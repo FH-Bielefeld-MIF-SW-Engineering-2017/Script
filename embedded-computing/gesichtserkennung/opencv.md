@@ -10,8 +10,8 @@ Ein Farbbild oder auch Graubild sind damit in Wirklichkeit eine 2-dimensionale M
 ![](/assets/Matrix.png)  
 *Veranschaulichung einer Matrix zu einem Bild.[1.1]*  
 
-## Kanten- und Blurerkennung in OpenCV##
-OpenCV ist insgesamt eine mächtige Library. Verschiedene Arten von Detektoren, Filtern und Bildableitungen erlauben es Informationen aus Bildern zu extrahieren. So ist es zum Beispiel möglich, Kanten in OpenCV zu erkennen. Eine Kante in einem Bild wird von OpenCV als starke Intensitätsveränderung von zwei Pixeln definiert. Wie man auch in folgendem Beispiel erkennen kann:[1.2]
+## Kanten- und Blurerkennung in OpenCV ##
+OpenCV ist insgesamt eine mächtige Library. Verschiedene Arten von Detektoren, Filtern und Bildableitungen erlauben es Informationen aus Bildern zu extrahieren. So ist es zum Beispiel möglich, Kanten in OpenCV zu erkennen. Eine Kante in einem Bild wird von OpenCV als starke Intensitätsveränderung von zwei Pixeln definiert. Wie man auch in folgendem Beispiel erkennen kann:[1.2]  
 ![](/assets/edge.png)  
 *Beispiel von Kanten in OpenCV.[1.3]*  
 

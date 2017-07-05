@@ -246,8 +246,10 @@ _Abbildung 6: Eltern-Kind-Data-Binding \(Angular 2017a\)_
 Pipes transformieren einen gegebenen Input und werden direkt im Template mit dem Pipe Operator "\|" aufgerufen. Dieser kann direkt hinter einem Value Aufruf stehen oder hinter einer strukturellen Direktive, wie einem \*ngFor. Die Pipe kann dabei beispielsweise als Filter fungieren \(siehe Code-Ausschnitt\). _\(Angular 2017d\)_
 
 ```
+{% raw %}
 <div>Value Aufruf: {{title | uppercase}}</div>
 <div>Value Aufruf: {{title | uppercase | lowercase}}</div>
+{% endraw %}
 <div *ngFor="let Offer of Offers | filterList: filterBy">
 ```
 

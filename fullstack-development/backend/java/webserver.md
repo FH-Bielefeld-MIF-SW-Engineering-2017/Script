@@ -1,3 +1,0 @@
-# Webserver 
-
-Autor: Malte Berg

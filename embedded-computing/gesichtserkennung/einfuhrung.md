@@ -1,0 +1,16 @@
+# Einführung
+Das Thema beschäftigt sich mit der Gesichtserkennung mit Hilfe des OpenCV-Frameworks. Die Gesichtserkennung ist ein Programm, das durch Computer Vision und Bildverarbeitung in der Lage ist Gesichter zu erkennen. Computer Vision beschäftigt sich mit der Analyse, der Verarbeitung und dem Verstehen von Bildern. Der Computer versucht dabei die Verarbeitung der Bilder im Gehirn des Menschen zu imitieren. Das Gehirn des Menschen kann Formen in den Bildern, die von der Iris ankommen, erkennen und sie verarbeiten. Gesichtserkennung wird heute immer interessanter. Zum Beispiel wird von Thomas de Maizière vorgeschlagen, Gesichtserkennung flächendeckend im öffentlichen Raum zur Personenüberwachung und damit zur Terrorabwehr oder auch das Auffinden von Kriminellen einzusetzen.[2]
+
+Aber auch im Bereich des Embedded Computing (welches das Thema meines Projektes ist) wird der Gesichtserkennung eine immer größer werdende Bedeutung beigemessen.
+Man will mit Hilfe der Gesichtserkennung die Stimmungen von Menschen erkennen, erkennen um welche Person es sich handelt oder auch einzelne Personenmerkmale zuordnen. Zum Beispiel die Entscheidung, ob die Person männlich oder weiblich, ein Kind oder erwachsen ist. Beliebte Anwendungsgebiete der Gesichtserkennung im Bereich des Embedded Computing finden sich in Robotern, Smartphones, Digital- und Überwachungskameras usw.
+
+Natürlich gibt es dabei auch Problematiken zu berücksichtigen.
+Durch die Gesichtserkennung ist der Weg in einen Überwachungsstaat ein leichter. Man braucht sich nur vorzustellen, dass eine jede Person durch eine Überwachungskamera und ein Programm identifiziert wird. Das heißt man könnte von der gesamten Bevölkerung für jede einzelne Person ein Überwachungsprofil erstellen. Man könnte zum Beispiel orten, wo er einkaufen war, wen er besucht hat und so weiter. Natürlich ist dies sehr nützlich für die Verbrechensbekämpfung. Verbrechen ließen sich durch Bewegungsprofile sehr schnell aufklären und es würde den Gerichten und der Kriminalpolizei einiges an Arbeit ersparen. Aber ist auch die Gefahr für den Missbrauch sehr hoch. Wer sollte die Personen, die die Kontrolle darüber haben, daran hindern dies zu missbrauchen?
+Man muss sich hierbei natürlich die ethische Frage stellen, ob man die Freiheit zugunsten der Sicherheit aufgibt. Man könnte am Ende beides verlieren.
+
+## Das Prinzip der Gesichtserkennung
+Um ein Gesicht zu erkennen, muss erst einmal eine Strategie überlegt werden, wie man das Gesicht am besten in einem Bild erkennen kann. Eine einfache Kantenerkennung, die im Kapitel OpenCV besprochen wird, reicht leider nicht aus bzw. funktioniert nicht immer zuverlässig. Man muss also eine Strategie entwickeln, mit der man zuverlässig ein Objekt (hier ein Gesicht) auf einem Bild erkennen kann und es entsprechend klassifiziert.
+
+Im folgenden Verlauf werden wir uns damit beschäftigen, wie man ein Gesicht erkennen und klassifizieren kann. Das heißt wir wollen erkennen, ob ein Gesicht auf den Foto vorhanden ist und dieses Gesicht einer uns bekannten Person aus einem Trainingsset von Personen zuordnen.
+
+Für die Erkennung eines Gesichtes auf einem Foto benutzen wir den Haar-Cascade. Für die Zuordnung des erkannten Gesichtes bedienen wir uns drei verschiedenen Algorithmen. Die Namen der Algorithmen lauten "Eigenface", "Fisherface" und "LBPH".

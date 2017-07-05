@@ -1,3 +1,0 @@
-# Testing
-
-Autor: Malte Berg

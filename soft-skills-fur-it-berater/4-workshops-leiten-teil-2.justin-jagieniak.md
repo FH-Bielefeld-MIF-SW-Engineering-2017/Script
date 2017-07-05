@@ -27,8 +27,8 @@ Um im späteren Fotoprotokoll ein Flipchart schnell zu finden, könnte man auf f
 
 Befolgt man alle genannten Regeln hat man eine Basis für erfolgreiches Arbeiten in einem Workshop.
 ###4.2.3 Visuelle Rhetorik - mit Karten strukturieren
-Durch visuelle Rhetorik lassen sich Inhalte und Aussagen mit Gefühlen verbinden und dies ist hilfreich bei der Moderation einer Gruppe oder einer Gruppenarbeit. 
-<img src="visuelle_Rhetorik.png"/>
+Durch visuelle Rhetorik lassen sich Inhalte und Aussagen mit Gefühlen verbinden und dies ist hilfreich bei der Moderation einer Gruppe oder einer Gruppenarbeit.
+![](/assets/visuelle_Rhetorik.png)
 Man setzt dabei auf folgende vier Grundelemente beim Arbeiten auf einer Metaplanwand, einem Flipchart oder Whiteboard: die Liste, die Tabelle, der Baum und das Netz.
 
 Eine Struktur lässt sich durch Figuren erschaffen, die aus den Karten gebildet werden. Um eine Betonung zu erzielen oder zu vermeiden lassen sich gleichfarbige Karten verwenden. Einzelne Aspekte lassen sich durch das Hervorheben mit einem Stift oder dem Neuschreiben auf eine andersfarbige Karte betonen. 

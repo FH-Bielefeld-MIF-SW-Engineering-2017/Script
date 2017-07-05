@@ -1,3 +1,0 @@
-# Spring 
-
-Autor: Malte Berg

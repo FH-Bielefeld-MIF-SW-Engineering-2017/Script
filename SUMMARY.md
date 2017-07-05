@@ -315,7 +315,7 @@
   * [SmartHome](embedded-computing/smarthome.md)
     * [Einführung](embedded-computing/smarthome/einführung.md)
     * [SmartHome: Definitionen](embedded-computing/smarthome/smarthome-definitionen.md)
-    * [Verschiedene Aspekte des Smart Home](embedded-computing/smarthome/verschiedene-aspekte-des-smart-home.md)
+    * [Verschiedene Aspekte des Smart Home](embedded-computing/smarthome/verschiedene-aspekte-des-smarthome.md)
     * [Technische Umsetzung](embedded-computing/smarthome/technische-umsetzung.md)
     * [Fazit](embedded-computing/smarthome/fazit.md)
     * [Bibliografie](embedded-computing/smarthome/bibliografie.md)
